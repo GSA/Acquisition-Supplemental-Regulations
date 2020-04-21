@@ -1,0 +1,259 @@
+@charset "UTF-8";
+
+body {
+    counter-reset: n-2-0 1813 n-2-1 106 n-2-2 0 n-22-0 1813 n-22-1 302 n-22-2 70 n-23-0 0 n-24-0 0 n-4-0 1832 n-4-1 409 n-4-2 0;
+    font-family: Calibri;
+}
+
+p {
+    -ms-defaultTabStop: 36pt;
+    line-height: 1;
+    margin-bottom: 0pt;
+    margin-top: 0pt;
+}
+
+p:empty {
+    height: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0pt;
+    empty-cells: hide;
+}
+
+td {
+    padding-bottom: 0pt;
+    padding-left: 5.75pt;
+    padding-right: 5.75pt;
+    padding-top: 0pt;
+    vertical-align: top;
+}
+
+.t-TableNormal {
+    margin-left: 0pt;
+}
+
+.tc-TableNormal {
+    padding-bottom: 0pt;
+    padding-left: 5.4pt;
+    padding-right: 5.4pt;
+    padding-top: 0pt;
+}
+
+.p-CommentText {
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+.p-Default {
+    color: #000000;
+    font-family: "Times New Roman";
+    font-size: 12pt;
+}
+
+.p-HtmlNormal {
+    font-family: "Times New Roman";
+    font-size: 12pt;
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+}
+
+.p-ListParagraph {
+    -ms-contextualSpacing: true;
+    font-family: Arial;
+    font-size: 12pt;
+    margin-left: 36pt;
+}
+
+.p-NFSPart {
+    -ms-outlineLvl: 0;
+    -ms-tab0-pos: 7.2pt;
+    -ms-tab0: left;
+    -ms-tab1-pos: 14.4pt;
+    -ms-tab1: left;
+    -ms-tab2-pos: 28.8pt;
+    -ms-tab2: left;
+    -ms-tab3-pos: 43.2pt;
+    -ms-tab3: left;
+    font-family: "Times New Roman";
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.p-Normal {
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+.pn-1-0 {
+    margin-left: 18pt;
+    text-indent: -18pt;
+}
+
+.n-1-0 {
+    -ms-lvlJc: left;
+    -ms-lvlText-font-family: Symbol;
+    -ms-lvlText: "";
+    -ms-numFmt: bullet;
+    -ms-start: 1;
+}
+
+.n-1-0:before {
+    content: "•";
+    float: left;
+    width: 18pt;
+}
+
+.n-1-0:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.pn-2-2 {
+    -ms-tab0-pos: 132pt;
+    -ms-tab0: num;
+    margin-left: 132pt;
+    text-indent: -132pt;
+}
+
+.n-2-2 {
+    -ms-lvlJc: left;
+    -ms-lvlText: "%1.%2.%3";
+    -ms-numFmt: decimal;
+    -ms-start: 1;
+    counter-reset: n-2-3 0;
+}
+
+.n-2-2:before {
+    content: counter(n-2-0) "." counter(n-2-1) "." counter(n-2-2);
+    counter-increment: n-2-2;
+    float: left;
+    width: 132pt;
+}
+
+.n-2-2:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.pn-22-2 {
+    margin-left: 61pt;
+    text-indent: -61pt;
+}
+
+.n-22-2 {
+    -ms-lvlJc: left;
+    -ms-lvlText: "%1.%2-%3";
+    -ms-numFmt: decimal;
+    -ms-start: 71;
+    counter-reset: n-22-3 0;
+}
+
+.n-22-2:before {
+    content: counter(n-22-0) "." counter(n-22-1) "-" counter(n-22-2);
+    counter-increment: n-22-2;
+    float: left;
+    width: 61pt;
+}
+
+.n-22-2:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.pn-23-0 {
+    margin-left: 55.5pt;
+    text-indent: -19.5pt;
+}
+
+.n-23-0 {
+    -ms-lvlJc: left;
+    -ms-lvlText: "(%1)";
+    -ms-numFmt: lowerLetter;
+    -ms-start: 1;
+    counter-reset: n-23-1 0;
+}
+
+.n-23-0:before {
+    content: "(" counter(n-23-0, lower-alpha) ")";
+    counter-increment: n-23-0;
+    float: left;
+    width: 19.5pt;
+}
+
+.n-23-0:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.pn-24-0 {
+    margin-left: 54pt;
+    text-indent: -18pt;
+}
+
+.n-24-0 {
+    -ms-lvlJc: left;
+    -ms-lvlText: "(%1)";
+    -ms-numFmt: lowerLetter;
+    -ms-start: 1;
+    counter-reset: n-24-1 0;
+}
+
+.n-24-0:before {
+    content: "(" counter(n-24-0, lower-alpha) ")";
+    counter-increment: n-24-0;
+    float: left;
+    width: 18pt;
+}
+
+.n-24-0:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.pn-4-2 {
+    -ms-tab0-pos: 60pt;
+    -ms-tab0: num;
+    margin-left: 60pt;
+    text-indent: -60pt;
+}
+
+.n-4-2 {
+    -ms-lvlJc: left;
+    -ms-lvlText: "%1.%2-%3";
+    -ms-numFmt: decimal;
+    -ms-start: 1;
+    counter-reset: n-4-3 0;
+}
+
+.n-4-2:before {
+    content: counter(n-4-0) "." counter(n-4-1) "-" counter(n-4-2);
+    counter-increment: n-4-2;
+    float: left;
+    width: 60pt;
+}
+
+.n-4-2:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+
+.c-Hyperlink {
+    color: #0000FF;
+    font-family: "Times New Roman";
+    font-size: 12pt;
+    font-weight: normal;
+    text-decoration: underline;
+}
