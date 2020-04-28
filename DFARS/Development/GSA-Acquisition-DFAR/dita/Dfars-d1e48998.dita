@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<concept id="d1e48998" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic concept/concept ">
+		<title class="- topic/title "><ph props="autonumber">252.227-7006</ph> 252.227-7002 252.227-7009 252.227-7010 THE CONTRACTOR SHALL BE PAID THE SUM OF __________ DOLLARS ($________) IN FULL COMPENSATION FOR THE RIGHTS HEREIN GRANTED AND AGREED TO BE GRANTED.  (FOR A LICENSE ON A RUNNING ROYALTY BASIS, INSERT THE CLAUSE AT 252.227-7006 IN ACCORDANCE WITH THE INSTRUCTIONS THEREIN, AND ALSO THE CLAUSE AS SPECIFIED AT 252.227-7002 AND 252.227-7009 AND 252.227-7010.)</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p class="- topic/p ">ARTICLE 6.  Covenant Against Contingent Fees.</p>
+			<p outputclass="List3" class="- topic/p ">(Insert the clause at FAR 52.203-5.)</p>
+			<p class="- topic/p ">ARTICLE 7.  Assignment of Claims.</p>
+			<p outputclass="List3" class="- topic/p ">(Insert the clause at FAR 52.232-23.)</p>
+			<p class="- topic/p ">ARTICLE 8.  Gratuities.</p>
+			<p outputclass="List3" class="- topic/p ">(Insert the clause at FAR 52.203-3.)</p>
+			<p class="- topic/p ">ARTICLE 9.  Disputes.</p>
+			<p outputclass="List3" class="- topic/p ">(Insert the clause at FAR 52.233-1.)</p>
+			<p class="- topic/p ">ARTICLE 10.  Successors and Assignees.</p>
+			<p class="- topic/p ">This Agreement shall be binding upon the Contractor, its successors** and assignees, but nothing contained in this Article shall authorize an assignment of any claim against the Government otherwise than as permitted by law.</p>
+			<p class="- topic/p ">IN WITNESS WHEREOF, the parties hereto have executed this contract.</p>
+			<p class="- topic/p ">THE UNITED STATES OF AMERICA</p>
+			<table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+				<tgroup cols="5" colsep="1" rowsep="0" outputclass="Table" class="- topic/tgroup ">
+					<colspec colnum="1" colname="1" colwidth="8*" class="- topic/colspec "/>
+					<colspec colnum="2" colname="2" colwidth="22*" class="- topic/colspec "/>
+					<colspec colnum="3" colname="3" colwidth="22*" class="- topic/colspec "/>
+					<colspec colnum="4" colname="4" colwidth="42*" class="- topic/colspec "/>
+					<colspec colnum="5" colname="5" colwidth="5*" class="- topic/colspec "/>
+					<tbody class="- topic/tbody ">
+						<row rowsep="1" class="- topic/row ">
+							<entry class="- topic/entry ">
+								<p class="- topic/p ">By</p>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry class="- topic/entry ">
+								<p class="- topic/p ">Date</p>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry class="- topic/entry ">
+								<p class="- topic/p ">(Signature and Title of Contractor </p>
+								<p class="- topic/p ">Representative)  _______________</p>
+							</entry>
+						</row>
+						<row rowsep="1" class="- topic/row ">
+							<entry class="- topic/entry ">
+								<p class="- topic/p ">By</p>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+						</row>
+						<row rowsep="0" class="- topic/row ">
+							<entry class="- topic/entry ">
+								<p class="- topic/p ">Date</p>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+							<entry class="- topic/entry ">
+								<p class="- topic/p "/>
+							</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<p class="- topic/p ">*If only a release is procured, delete this article; if an assignment is procured, use the clause at <ph outputclass="Hyperlink" class="- topic/ph ">252.227-7011</ph>.</p>
+			<p class="- topic/p ">**When the Contractor is an individual, change “successors” to “heirs”; if a partnership, modify appropriately.</p>
+			<p outputclass="Endofclause" class="- topic/p ">(End of clause) </p>
+		</conbody>
+	</concept>
+</dita>

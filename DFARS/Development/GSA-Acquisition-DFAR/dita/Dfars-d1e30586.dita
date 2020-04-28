@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e30586" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 241</ph> - ACQUISITION OF UTILITY SERVICES	</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30591.dita#d1e30591" class="- topic/xref ">Subpart 241.1--GENERAL</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30597.dita#d1e30597" class="- topic/xref ">241.101 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30637.dita#d1e30637" class="- topic/xref ">241.102 Applicability.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30657.dita#d1e30657" class="- topic/xref ">241.103 Statutory and delegated authority.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30677.dita#d1e30677" class="- topic/xref ">Subpart 241.2--ACQUIRING UTILITY SERVICES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30683.dita#d1e30683" class="- topic/xref ">241.201 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30707.dita#d1e30707" class="- topic/xref ">241.202 Procedures.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30734.dita#d1e30734" class="- topic/xref ">241.205 Separate contracts.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30745.dita#d1e30745" class="- topic/xref ">Subpart 241.5--SOLICITATION PROVISION AND CONTRACT CLAUSES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30751.dita#d1e30751" class="- topic/xref ">241.501 Solicitation provision and contract clauses.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30761.dita#d1e30761" class="- topic/xref ">241.501-70 Additional clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e30769" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 242</ph> - CONTRACT ADMINISTRATION</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30777.dita#d1e30777" class="- topic/xref ">242.002 Interagency agreements.</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30804.dita#d1e30804" class="- topic/xref ">Subpart 242.1—(removed)</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30811.dita#d1e30811" class="- topic/xref ">Subpart 242.2--contract administration SERVICES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30817.dita#d1e30817" class="- topic/xref ">242.200-70 Scope of subpart.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30826.dita#d1e30826" class="- topic/xref ">242.202 Assignment of contract administration.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30900.dita#d1e30900" class="- topic/xref ">242.3--CONTRACT ADMINISTRATION OFFICE FUNCTIONS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30906.dita#d1e30906" class="- topic/xref ">242.301 General.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30914.dita#d1e30914" class="- topic/xref ">242.302 Contract administration functions.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30987.dita#d1e30987" class="- topic/xref ">Subpart 242.4</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e30993.dita#d1e30993" class="- topic/xref ">Subpart 242.5--postaward orientation</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e30999.dita#d1e30999" class="- topic/xref ">242.503 Postaward conferences.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31004.dita#d1e31004" class="- topic/xref ">242.503-2 Postaward conference procedure.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31014.dita#d1e31014" class="- topic/xref ">Subpart 242.6--corporate administrative contracting officer</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31020.dita#d1e31020" class="- topic/xref ">242.602 Assignment and location.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31028.dita#d1e31028" class="- topic/xref ">Subpart 242.7--indirect cost rates</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31034.dita#d1e31034" class="- topic/xref ">242.705 Final indirect cost rates.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31045.dita#d1e31045" class="- topic/xref ">242.705-1 Contracting officer determination procedure.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31057.dita#d1e31057" class="- topic/xref ">242.705-2 Auditor determination procedure.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31069.dita#d1e31069" class="- topic/xref ">242.770 Reserved.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31074.dita#d1e31074" class="- topic/xref ">242.771 Independent research and development and bid and proposal costs.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31079.dita#d1e31079" class="- topic/xref ">242.771-1 Scope.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31087.dita#d1e31087" class="- topic/xref ">242.771-2 Policy.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31095.dita#d1e31095" class="- topic/xref ">242.771-3 Responsibilities.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31105.dita#d1e31105" class="- topic/xref ">(2) Determine whether IR&amp;D/B&amp;P projects performed by major contractors (see 231.205-18(a)) are of potential interest to DoD; and</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31121.dita#d1e31121" class="- topic/xref ">Subpart 242.8--disallowance of costs</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31127.dita#d1e31127" class="- topic/xref ">242.803 Disallowing costs after incurrence.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31162.dita#d1e31162" class="- topic/xref ">Subpart 242.11 --PRODUCTION SURVEILLANCE AND REPORTING</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31170.dita#d1e31170" class="- topic/xref ">242.1104 Surveillance requirements.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31192.dita#d1e31192" class="- topic/xref ">242.1105 Assignment of criticality designator.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31206.dita#d1e31206" class="- topic/xref ">242.1106 Reporting requirements.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31218.dita#d1e31218" class="- topic/xref ">242.1107 Contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31246.dita#d1e31246" class="- topic/xref ">Subpart 242.12 --novation and change-of-name agreements</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31254.dita#d1e31254" class="- topic/xref ">242.1203 Processing agreements.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31262.dita#d1e31262" class="- topic/xref ">242.1204 Agreement to recognize a successor in interest (novation agreement).</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31274.dita#d1e31274" class="- topic/xref ">Subpart 242.14 --traffic and transportation management</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31282.dita#d1e31282" class="- topic/xref ">Subpart 242.15 —CONTRACTOR PERFORMANCE INFORMATION</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31290.dita#d1e31290" class="- topic/xref ">242.1502 Policy.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31306.dita#d1e31306" class="- topic/xref ">Subpart 242.70 -- CONTRACTOR BUSINESS SYSTEMS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31314.dita#d1e31314" class="- topic/xref ">242.7000 Contractor business system deficiencies.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31412.dita#d1e31412" class="- topic/xref ">242.7001 Contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31464.dita#d1e31464" class="- topic/xref ">Subpart 242.71 --voluntary refunds</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31472.dita#d1e31472" class="- topic/xref ">242.7100 General.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31480.dita#d1e31480" class="- topic/xref ">Subpart 242.72 --contractor material management and accounting system</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31488.dita#d1e31488" class="- topic/xref ">242.7200 Scope of subpart.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31506.dita#d1e31506" class="- topic/xref ">242.7201 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31522.dita#d1e31522" class="- topic/xref ">242.7202 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31552.dita#d1e31552" class="- topic/xref ">242.7203 Review procedures.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31647.dita#d1e31647" class="- topic/xref ">242.7204 Contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31666.dita#d1e31666" class="- topic/xref ">Subpart 242.73 --contractor insurance/pension review</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31674.dita#d1e31674" class="- topic/xref ">242.7301 General.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31700.dita#d1e31700" class="- topic/xref ">242.7302 Requirements.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31731.dita#d1e31731" class="- topic/xref ">242.7303 Responsibilities.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31742.dita#d1e31742" class="- topic/xref ">Subpart 242.74 --technical representation at contractor facilities</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31750.dita#d1e31750" class="- topic/xref ">242.7400 General.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31764.dita#d1e31764" class="- topic/xref ">242.7401 Procedures.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e31772.dita#d1e31772" class="- topic/xref ">Subpart 242.75 --CONTRACTOR ACCOUNTING SYSTEMS AND RELATED CONTROLS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31780.dita#d1e31780" class="- topic/xref ">242.7501 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31798.dita#d1e31798" class="- topic/xref ">242.7502 Policy.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e31864.dita#d1e31864" class="- topic/xref ">252.242-7006 ( 2 ) Make a determination to disapprove the system in accordance with the clause at 252.242-7006 , Accounting System Administration; and</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e31930.dita#d1e31930" class="- topic/xref ">242.7503 Contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

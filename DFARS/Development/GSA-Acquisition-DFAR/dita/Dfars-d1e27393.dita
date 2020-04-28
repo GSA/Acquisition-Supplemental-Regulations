@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e27393" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 235</ph> - RESEARCH AND DEVELOPMENT CONTRACTING</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27401.dita#d1e27401" class="- topic/xref ">235.001 Definitions.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27409.dita#d1e27409" class="- topic/xref ">235.006 Contracting methods and contract type.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27484.dita#d1e27484" class="- topic/xref ">235.006-70 Manufacturing Technology Program.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27494.dita#d1e27494" class="- topic/xref ">235.006-71 Competition.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27511.dita#d1e27511" class="- topic/xref ">235.008 Evaluation for award.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27522.dita#d1e27522" class="- topic/xref ">235.010 Scientific and technical reports.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27533.dita#d1e27533" class="- topic/xref ">235.015-70 Special use allowances for research facilities acquired by educational institutions.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27634.dita#d1e27634" class="- topic/xref ">235.016 Broad agency announcement.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27653.dita#d1e27653" class="- topic/xref ">235.017 Federally Funded Research and Development Centers.</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e27665.dita#d1e27665" class="- topic/xref ">235.017-1 Sponsoring agreements.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27674.dita#d1e27674" class="- topic/xref ">235.070 Indemnification against unusually hazardous risks.</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e27679.dita#d1e27679" class="- topic/xref ">235.070-1 Indemnification under research and development contracts.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e27699.dita#d1e27699" class="- topic/xref ">235.070-2 Indemnification under contracts involving both research and development and other work.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e27707.dita#d1e27707" class="- topic/xref ">235.070-3 Contract clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27728.dita#d1e27728" class="- topic/xref ">235.071 Export-controlled items.</xref>
+					</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27739.dita#d1e27739" class="- topic/xref ">235.072 Additional contract clauses.</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e27775.dita#d1e27775" class="- topic/xref ">Subpart 235.70</xref>
+					</p>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

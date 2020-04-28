@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<concept id="d1e13043" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic concept/concept ">
+		<title class="- topic/title ">217.7104 CONTRACT CLAUSES.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p outputclass="List1" class="- topic/p ">(a)  Use the following clauses in solicitations for, and in, master agreements for repair and alteration of vessels:</p>
+			<p outputclass="List2" class="- topic/p ">(1)  252.217-7003, Changes.</p>
+			<p outputclass="List2" class="- topic/p ">(2)  252.217-7004, Job Orders and Compensation.</p>
+			<p outputclass="List2" class="- topic/p ">(3)  252.217-7005, Inspection and Manner of Doing Work.</p>
+			<p outputclass="List2" class="- topic/p ">(4)  252.217-7006, Title.</p>
+			<p outputclass="List2" class="- topic/p ">(5)  252.217-7007, Payments.</p>
+			<p outputclass="List2" class="- topic/p ">(6)  252.217-7008, Bonds.</p>
+			<p outputclass="List2" class="- topic/p ">(7)  252.217-7009, Default.</p>
+			<p outputclass="List2" class="- topic/p ">(8)  252.217-7010, Performance.</p>
+			<p outputclass="List2" class="- topic/p ">(9)  252.217-7011, Access to Vessel.</p>
+			<p outputclass="List2" class="- topic/p ">(10)  252.217-7012, Liability and Insurance.</p>
+			<p outputclass="List2" class="- topic/p ">(11)  252.217-7013, Guarantees.</p>
+			<p outputclass="List2" class="- topic/p ">(12)  252.217-7014, Discharge of Liens.</p>
+			<p outputclass="List2" class="- topic/p ">(13)  252.217-7015, Safety and Health.</p>
+			<p outputclass="List2" class="- topic/p ">(14)  252.217-7016, Plant Protection, as applicable.</p>
+			<p outputclass="List1" class="- topic/p ">(b)(1)  Incorporate in solicitations for, and in, job orders, the clauses in the master agreement, and any other clauses on subjects not covered by the master agreement, but applicable to the job order to be awarded.</p>
+			<p outputclass="List2" class="- topic/p ">(2)  Use the clause at 252.217-7016, Plant Protection, in job orders where performance is to occur at the contractor's facility.</p>
+		</conbody>
+	</concept>
+</dita>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e3126" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 207</ph> - ACQUISITION PLANNING</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e3131.dita#d1e3131" class="- topic/xref ">Subpart 207.1 --acquisition plans</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3139.dita#d1e3139" class="- topic/xref ">207.102 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3150.dita#d1e3150" class="- topic/xref ">207.103 Agency-head responsibilities.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3179.dita#d1e3179" class="- topic/xref ">207.104 General procedures.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3190.dita#d1e3190" class="- topic/xref ">207.105 Contents of written acquisition plans.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3201.dita#d1e3201" class="- topic/xref ">207.106 Additional requirements for major systems.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3319.dita#d1e3319" class="- topic/xref ">207.170 Reserved.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3324.dita#d1e3324" class="- topic/xref ">207.171 Component breakout.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e3329.dita#d1e3329" class="- topic/xref ">207.171-1 Scope.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e3343.dita#d1e3343" class="- topic/xref ">207.171-2 Definition.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e3351.dita#d1e3351" class="- topic/xref ">207.171-3 Policy.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e3373.dita#d1e3373" class="- topic/xref ">207.171-4 Procedures.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3384.dita#d1e3384" class="- topic/xref ">207.172 Human research.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e3402.dita#d1e3402" class="- topic/xref ">Subpart 207.3 —CONTRACTOR VERSUS GOVERNMENT PERFORMANCE</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3410.dita#d1e3410" class="- topic/xref ">207.302 Policy.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e3421.dita#d1e3421" class="- topic/xref ">Subpart 207.4 --equipment lease or purchase</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3429.dita#d1e3429" class="- topic/xref ">207.401 Acquisition considerations.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3437.dita#d1e3437" class="- topic/xref ">207.470 Statutory requirements.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3469.dita#d1e3469" class="- topic/xref ">207.471 Funding requirements.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e3481.dita#d1e3481" class="- topic/xref ">Subpart 207.5 —INHERENTLY GOVERNMENTAL FUNCTIONS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3489.dita#d1e3489" class="- topic/xref ">207.500 Scope of subpart.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3497.dita#d1e3497" class="- topic/xref ">207.503 Policy.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e3528.dita#d1e3528" class="- topic/xref ">Subpart 207.70 --BUY-TO-BUDGET – ADDITIONAL QUANTITIES OF END ITEMS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3536.dita#d1e3536" class="- topic/xref ">207.7001 Definition.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3544.dita#d1e3544" class="- topic/xref ">207.7002 Authority to acquire additional quantities of end items.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e3560.dita#d1e3560" class="- topic/xref ">207.7003 Limitation.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

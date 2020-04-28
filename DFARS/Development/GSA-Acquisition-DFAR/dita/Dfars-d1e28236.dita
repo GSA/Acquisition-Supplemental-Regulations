@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e28236" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 237</ph> - SERVICE CONTRACTING</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e28241.dita#d1e28241" class="- topic/xref ">Subpart 237.1--SERVICE CONTRACTS--GENERAL</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28247.dita#d1e28247" class="- topic/xref ">237.101 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28263.dita#d1e28263" class="- topic/xref ">237.102 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28295.dita#d1e28295" class="- topic/xref ">237.102-70 Prohibition on contracting for firefighting or security-guard functions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28355.dita#d1e28355" class="- topic/xref ">237.102-71 Limitation on service contracts for military flight simulators.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28392.dita#d1e28392" class="- topic/xref ">237.102-72 Contracts for management services.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28408.dita#d1e28408" class="- topic/xref ">237.102-73 Prohibition on contracts for services of senior mentors.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28419.dita#d1e28419" class="- topic/xref ">237.102-74 Taxonomy for the acquisition of services, and supplies and equipment.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28428.dita#d1e28428" class="- topic/xref ">237.102-75 Defense Acquisition Guidebook.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28439.dita#d1e28439" class="- topic/xref ">237.102-76 Review criteria for the acquisition of services.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28449.dita#d1e28449" class="- topic/xref ">237.102-77 Acquisition requirements roadmap tool.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28458.dita#d1e28458" class="- topic/xref ">237.102-78 Market research report guide for improving the tradecraft in services acquisition.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28467.dita#d1e28467" class="- topic/xref ">237.102-79 Private sector notification requirements in support of in-sourcing actions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28476.dita#d1e28476" class="- topic/xref ">237.104 Personal services contracts.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28642.dita#d1e28642" class="- topic/xref ">237.106 Funding and term of service contracts.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28656.dita#d1e28656" class="- topic/xref ">237.109 Services of quasi-military armed forces.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28667.dita#d1e28667" class="- topic/xref ">237.170 Approval of contracts and task orders for services.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28672.dita#d1e28672" class="- topic/xref ">237.170-1 Scope.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28688.dita#d1e28688" class="- topic/xref ">237.170-2 Approval requirements.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28707.dita#d1e28707" class="- topic/xref ">237.171 Training for contractor personnel interacting with detainees.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28712.dita#d1e28712" class="- topic/xref ">237.171-1 Scope.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28720.dita#d1e28720" class="- topic/xref ">237.171-2 Definition.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28731.dita#d1e28731" class="- topic/xref ">237.171-3 Policy.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28748.dita#d1e28748" class="- topic/xref ">237.171-4 Contract clause.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28766.dita#d1e28766" class="- topic/xref ">237.172 Service contracts surveillance.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28782.dita#d1e28782" class="- topic/xref ">237.173 Prohibition on interrogation of detainees by contractor personnel.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28787.dita#d1e28787" class="- topic/xref ">237.173-1 Scope.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28795.dita#d1e28795" class="- topic/xref ">237.173-2 Definitions. As used in this subpart–</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28805.dita#d1e28805" class="- topic/xref ">237.173-3 Policy.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28828.dita#d1e28828" class="- topic/xref ">237.173-4 Waiver.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e28839.dita#d1e28839" class="- topic/xref ">237.173-5 Contract clause.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28850.dita#d1e28850" class="- topic/xref ">237.174 Disclosure of information to litigation support contractors.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28862.dita#d1e28862" class="- topic/xref ">237.175 Training that uses live vertebrate animals.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e28876.dita#d1e28876" class="- topic/xref ">Subpart 237.2--ADVISORY AND ASSISTANCE SERVICES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28882.dita#d1e28882" class="- topic/xref ">237.270 Acquisition of audit services.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e28932.dita#d1e28932" class="- topic/xref ">Subpart 237.5--MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28938.dita#d1e28938" class="- topic/xref ">237.503 Agency-head responsibilities.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e28949.dita#d1e28949" class="- topic/xref ">Subpart 237.6</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e28955.dita#d1e28955" class="- topic/xref ">Subpart 237.70 --mortuary services</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28963.dita#d1e28963" class="- topic/xref ">237.7000 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28975.dita#d1e28975" class="- topic/xref ">237.7001 Method of acquisition.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e28991.dita#d1e28991" class="- topic/xref ">237.7002 Area of performance and distribution of contracts.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29006.dita#d1e29006" class="- topic/xref ">237.7003 Solicitation provisions and contract clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29059.dita#d1e29059" class="- topic/xref ">Subpart 237.71 --laundry and dry cleaning services</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29067.dita#d1e29067" class="- topic/xref ">237.7100 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29079.dita#d1e29079" class="- topic/xref ">237.7101 Solicitation provisions and contract clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29135.dita#d1e29135" class="- topic/xref ">Subpart 237.72 --EDUcATIONAL SERVICE AGREEMENTS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29143.dita#d1e29143" class="- topic/xref ">237.7200 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29157.dita#d1e29157" class="- topic/xref ">237.7201 Educational service agreement.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29171.dita#d1e29171" class="- topic/xref ">237.7202 Limitations.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29179.dita#d1e29179" class="- topic/xref ">237.7203 Duration.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29191.dita#d1e29191" class="- topic/xref ">237.7204 Format and clauses for educational service agreements.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29531.dita#d1e29531" class="- topic/xref ">Subpart 237.73 --services of students at research and development laboratories</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29539.dita#d1e29539" class="- topic/xref ">237.7300 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29547.dita#d1e29547" class="- topic/xref ">237.7301 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29569.dita#d1e29569" class="- topic/xref ">237.7302 General.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29577.dita#d1e29577" class="- topic/xref ">237.7303 Contract clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29585.dita#d1e29585" class="- topic/xref ">Subpart 237.74 --SERVICES AT INSTALLATIONS BEING CLOSED</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29593.dita#d1e29593" class="- topic/xref ">237.7400 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29601.dita#d1e29601" class="- topic/xref ">237.7401 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29618.dita#d1e29618" class="- topic/xref ">237.7402 Contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29629.dita#d1e29629" class="- topic/xref ">Subpart 237.75 —acquisition and management of industrial resources</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29637.dita#d1e29637" class="- topic/xref ">237.7501 Definition.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29645.dita#d1e29645" class="- topic/xref ">237.7502 Policy.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29660.dita#d1e29660" class="- topic/xref ">Subpart 237.76 —CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29668.dita#d1e29668" class="- topic/xref ">237.7600 Scope.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29676.dita#d1e29676" class="- topic/xref ">237.7601 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29684.dita#d1e29684" class="- topic/xref ">237.7602 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29696.dita#d1e29696" class="- topic/xref ">237.7603 Solicitation provision and contract clause.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e29704.dita#d1e29704" class="- topic/xref ">Subpart 237.77 — COMPETITION FOR RELIGIOUS-RELATED SERVICES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29712.dita#d1e29712" class="- topic/xref ">237.7700 Scope of subpart.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29720.dita#d1e29720" class="- topic/xref ">237.7701 Definition. As used in this subpart—</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e29732.dita#d1e29732" class="- topic/xref ">237.7702 Policy.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<topic id="d1e32447" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+		<title class="- topic/title "><ph props="autonumber">PART 245</ph> - GOVERNMENT PROPERTY</title>
+		<body class="- topic/body ">
+			<ul otherprops="TOC" class="- topic/ul ">
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32452.dita#d1e32452" class="- topic/xref ">Subpart 245.1--general</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32458.dita#d1e32458" class="- topic/xref ">245.101 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32469.dita#d1e32469" class="- topic/xref ">245.102 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32574.dita#d1e32574" class="- topic/xref ">245.103 General.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32579.dita#d1e32579" class="- topic/xref ">245.103-70 Furnishing Government property to contractors.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32588.dita#d1e32588" class="- topic/xref ">245.103-71 Transferring Government property accountability.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32597.dita#d1e32597" class="- topic/xref ">245.103-72 Government-furnished property attachments to solicitations and awards.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32606.dita#d1e32606" class="- topic/xref ">245.103-73 Government property under sustainment contracts.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32615.dita#d1e32615" class="- topic/xref ">245.103-74 Contracting office responsibilities.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32624.dita#d1e32624" class="- topic/xref ">245.104 Responsibility and liability for Government property.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32633.dita#d1e32633" class="- topic/xref ">245.105 Contractor’s property management system compliance.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32744.dita#d1e32744" class="- topic/xref ">245.107 Contract clauses.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32779.dita#d1e32779" class="- topic/xref ">Subpart 245.2-- SOLICITATION AND EVALUATION PROCEDURES</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32785.dita#d1e32785" class="- topic/xref ">245.201 Solicitation.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32790.dita#d1e32790" class="- topic/xref ">245.201-70 Definitions.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32799.dita#d1e32799" class="- topic/xref ">245.201-71 Security classification.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32808.dita#d1e32808" class="- topic/xref ">Subpart 245.3—AUTHORIZING THE use and rental of government property</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32814.dita#d1e32814" class="- topic/xref ">245.302 Contracts with foreign governments or international organizations.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32862.dita#d1e32862" class="- topic/xref ">Subpart 245.4—TITLE TO GOVERNMENT PROPERTY</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32868.dita#d1e32868" class="- topic/xref ">245.402 Title to contractor-acquired property.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32873.dita#d1e32873" class="- topic/xref ">245.402-70 Policy.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32882.dita#d1e32882" class="- topic/xref ">245.402-71 Delivery of contractor-acquired property.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32891.dita#d1e32891" class="- topic/xref ">Subpart 245.5—SUPPORT GOVERNMENT PROPERTY ADMINISTRATION</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32897.dita#d1e32897" class="- topic/xref ">245.570 Storage at the Government's expense.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e32905.dita#d1e32905" class="- topic/xref ">Subpart 245.6--reporting, reUTILIZATION, and disposal</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32911.dita#d1e32911" class="- topic/xref ">245.602 Reutilization of Government property.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e32916.dita#d1e32916" class="- topic/xref ">245.602-1 Inventory disposal schedules.</xref>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e32956.dita#d1e32956" class="- topic/xref ">245.602-3 Screening.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32964.dita#d1e32964" class="- topic/xref ">245.602-70 Plant clearance procedures.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e32973.dita#d1e32973" class="- topic/xref ">245.604 Disposal of surplus property.</xref>
+							</p>
+							<ul otherprops="TOC" class="- topic/ul ">
+								<li class="- topic/li ">
+									<p class="- topic/p ">
+										<xref outputclass="fm:TOC" href="Dfars-d1e32978.dita#d1e32978" class="- topic/xref ">245.604-3 Sale of surplus property.</xref>
+									</p>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e33051.dita#d1e33051" class="- topic/xref ">Subpart 245.70 --PLANT CLEARANCE FORMS</xref>
+					</p>
+					<ul otherprops="TOC" class="- topic/ul ">
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33059.dita#d1e33059" class="- topic/xref ">245.7001 Forms.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33067.dita#d1e33067" class="- topic/xref ">245.7001-1 Standard Form 97, Certificate of Release of a Motor Vehicle (Agency Record Copy).</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33075.dita#d1e33075" class="- topic/xref ">245.7001-2 DD Form 1149, Requisition and Invoice Shipping Document.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33083.dita#d1e33083" class="- topic/xref ">245.7001-3 DD Form 1348-1, DoD Single Line Item Release/Receipt Document.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33091.dita#d1e33091" class="- topic/xref ">245.7001-4 DD Form 1640, Request for Plant Clearance.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33099.dita#d1e33099" class="- topic/xref ">245.7001-5 DD Form 1641, Disposal Determination/Approval.</xref>
+							</p>
+						</li>
+						<li class="- topic/li ">
+							<p class="- topic/p ">
+								<xref outputclass="fm:TOC" href="Dfars-d1e33115.dita#d1e33115" class="- topic/xref ">245.7001-6 DLA Form 1822, End Use Certificate.</xref>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e33123.dita#d1e33123" class="- topic/xref ">Subpart 245.71 --plant clearance forms</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e33131.dita#d1e33131" class="- topic/xref ">Subpart 245.72 --special instructions</xref>
+					</p>
+				</li>
+				<li props="Subpart" class="- topic/li ">
+					<p class="- topic/p ">
+						<xref outputclass="fm:TOC" href="Dfars-d1e33139.dita#d1e33139" class="- topic/xref ">Subpart 245.73 --SALE OF SURPLUS CONTRACTOR INVENTORY</xref>
+					</p>
+				</li>
+			</ul>
+		</body>
+	</topic>
+</dita>

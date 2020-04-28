@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+	<concept id="d1e19006" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic concept/concept ">
+		<title class="- topic/title ">225.1103 OTHER PROVISIONS AND CLAUSES.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p outputclass="List2" class="- topic/p ">(1)  Unless the contracting officer knows that the prospective contractor is not a domestic concern, use the clause at 252.225-7005, Identification of Expenditures in the United States, in solicitations and contracts that—</p>
+			<p outputclass="List3" class="- topic/p ">(i)  Exceed the simplified acquisition threshold; and</p>
+			<p outputclass="List3" class="- topic/p ">(ii)  Are for the acquisition of—</p>
+			<p outputclass="List4" class="- topic/p ">(A)  Supplies for use outside the United States;</p>
+			<p outputclass="List4" class="- topic/p ">(B)  Construction to be performed outside the United States; or</p>
+			<p outputclass="List4" class="- topic/p ">(C)  Services to be performed primarily outside the United States.</p>
+			<p outputclass="List2" class="- topic/p ">(2)  Use the clause at 252.225-7041, Correspondence in English, in solicitations and contracts when contract performance will be wholly or in part in a foreign country.</p>
+			<p outputclass="List2" class="- topic/p ">(3)  Use the provision at 252.225-7042, Authorization to Perform, in solicitations when contract performance will be wholly or in part in a foreign country.  If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7042 in the solicitation.</p>
+			<p outputclass="List2" class="- topic/p ">(4)  Unless an exception in 225.770-3 applies, use the clause at 252.225-7007, </p>
+			<p class="- topic/p ">Prohibition on Acquisition of Certain Items from Communist Chinese Military </p>
+			<p class="- topic/p ">Companies, in solicitations and contracts involving the delivery of items covered by the </p>
+			<p class="- topic/p ">United States Munitions List or the 600 series of the Commerce Control List.</p>
+		</conbody>
+	</concept>
+</dita>
