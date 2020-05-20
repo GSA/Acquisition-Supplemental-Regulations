@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="d1e781" outputclass="Section">
+      <title class="- topic/title ">
+         <ph props="autonumber">3001.704</ph> Content.</title>
+      <conbody>
+         <p outputclass="P">The following format shall be used for all determinations and findings (D&amp;Fs), unless otherwise specified in the FAR or the HSAR. The contracting officer is responsible for preparing D&amp;Fs, and requirements and technical personnel are responsible for the accuracy and adequacy of the supporting factual information, which shall be furnished to the contracting officer.
+</p>
+         <p outputclass="P">Insert specific information indicated in brackets.
+</p>
+         <note>
+                                 <p outputclass="HD2">Determination and Findings
+</p>
+                                 <p outputclass="P">Under [<i>insert citation for appropriate statutory and/or regulatory basis for D&amp;F</i>], the Department of Homeland Security, [<i>insert contracting activity</i>], is granted authority to [<i>insert nature and/or description of the action being approved</i>].
+</p>
+                                 <p outputclass="HD2">Findings
+</p>
+                                 <p outputclass="P">[<i>Findings that detail the particular circumstances, facts, or reasoning essential to support the determination.</i>]
+</p>
+                                 <p outputclass="HD2">Determination
+</p>
+                                 <p outputclass="P">[<i>A determination, based on the findings, that the proposed action is justified under the applicable statute or regulation.</i>] [<i>Expiration date of the D&amp;F, if required.</i>]
+</p>
+                                 <p outputclass="FP">[<i>Signature of authorized official</i>]
+</p>
+                                 <p outputclass="FP">Name and Title
+</p>
+                                 <p outputclass="FP">[month, day, and year]
+</p>
+                                 <p outputclass="FP">Date</p>
+                              </note>
+      </conbody>
+   </concept>
+</dita>

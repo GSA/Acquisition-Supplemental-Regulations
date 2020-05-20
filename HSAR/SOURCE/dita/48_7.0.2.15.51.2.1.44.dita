@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="d1e7629" outputclass="Section">
+      <title class="- topic/title ">
+         <ph props="autonumber">3052.231-70</ph> Precontract costs.</title>
+      <conbody>
+         <p outputclass="P">As prescribed in (HSAR) 48 CFR 3031.205-32, insert the following clause:
+</p>
+         <note>
+                                 <p outputclass="HD1">Precontract Costs (DEC 2003)
+</p>
+                                 <p outputclass="P">The Contractor shall be entitled to reimbursement for pre-contract costs incurred on or after ___ in an amount not to exceed $___ that, if incurred after this contract had been entered into, would have been reimbursable under this contract.</p>
+                              </note>
+         <p outputclass="HD3">(End of clause) 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
