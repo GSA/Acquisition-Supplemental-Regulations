@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="i1122737" outputclass="4">
+               <title outputclass="Heading4">5206.303-92 Bridge Contract Reporting.</title>
+               <conbody>
+                  <p outputclass="Normal">Data on bridge contract use shall
+be reported by HCAs to DASN(P). Reports shall be submitted within
+30 days of the end of each quarter in the format prescribed by Annex
+5. The required Excel file for reporting can be found at the ASN(RDA)
+website. Negative reports are required. Reports shall be submitted
+by email at https://psctool.us with the subject “NMCARS 5206.303-92
+- Bridge Contract Report by [Command Name]”.</p>
+               </conbody>
+            </concept></dita>

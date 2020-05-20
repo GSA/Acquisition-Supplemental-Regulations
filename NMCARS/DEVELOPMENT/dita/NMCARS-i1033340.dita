@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="i1033340" outputclass="3">
+            <title outputclass="Heading3">5237.102 Policy.</title>
+            <conbody>
+               <p outputclass="Normal">The consideration of using SeaPort
+to satisfy the requirements for the functional areas shown in Annex
+22 is mandatory with the following exceptions:</p>
+               <p outputclass="Normal">1) Actions approved pursuant to authorities
+at FAR 6.302-1 through -7.</p>
+               <p outputclass="Normal">2) Actions with values below the Simplified
+Acquisition Threshold.</p>
+               <p outputclass="Normal">3) Actions set aside for 8(a) participants.</p>
+               <p outputclass="Normal">4) Actions for Commercial Items under
+Part 12.</p>
+               <p outputclass="Normal">5) Actions using Simplified Acquisition
+Procedures under Part 13.</p>
+               <p outputclass="List1">(a)(1) Personal Medical services contracts
+are included as an exemption from performance-based acquisition
+methods.</p>
+            </conbody>
+            
+            
+         </concept></dita>

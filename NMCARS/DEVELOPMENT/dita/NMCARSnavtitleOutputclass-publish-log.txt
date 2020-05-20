@@ -1,0 +1,160 @@
+     [echo] GSA FAR PDF transform, version 0.9.28 - 2018-10-25
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1122743.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1122743.dita Line 16:The entity "nbsp" was referenced, but not declared.
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1031600.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1031600.dita Line 9:The entity "nbsp" was referenced, but not declared.
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033008.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033008.dita Line 9:The entity "nbsp" was referenced, but not declared.
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033360.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033360.dita Line 19:The entity "nbsp" was referenced, but not declared.
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033628.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033628.dita Line 35:The content of element type "ul" is incomplete, it must match "((data|sort-as|data-about)*,li+)".
+ [gen-list] [DOTJ013E][ERROR] Failed to parse the referenced file 'file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033650.dita'.: file:/C:/Users/tomal/Desktop/NMCARS2DITA4HTML/burst-result/NMCARS-i1033650.dita Line 5:The entity "nbsp" was referenced, but not declared.
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1122743.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1122743.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1031600.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1031600.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033008.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033008.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033360.dita (The system cannot find the file specified)
+    [chunk] C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033360.dita (The system cannot find the file specified)
+[move-meta] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033628.dita (The system cannot find the file specified)
+[move-meta] [DOTX026W][WARN]: Unable to retrieve linktext from target: 'NMCARS-i1033628.dita'. Using navigation title as fallback. 
+[move-meta] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200520141022551\NMCARS-i1033650.dita (The system cannot find the file specified)
+[move-meta] [DOTX026W][WARN]: Unable to retrieve linktext from target: 'NMCARS-i1033650.dita'. Using navigation title as fallback. 
+[topic-merge] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/AppData/Local/Temp/temp20200520141022551/NMCARS-i1033628.dita' does not exist or cannot be loaded.
+[topic-merge] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/AppData/Local/Temp/temp20200520141022551/NMCARS-i1033650.dita' does not exist or cannot be loaded.
+     [xslt] + [INFO] GSA FAR PDF plugin gov.gsa.far.pdf 0.9.28
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_104" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_130" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_383" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_434" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_496" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_498" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_500" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_502" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] [PDFX005F][FATAL]: The topic reference href="#unique_504" could not be found. Please correct the reference, or set the scope or format attribute if the target is not a local DITA topic.
+     [xslt] + [WARN] generatePageSequences: Unhandled top-level topicref to "#unique_2", outputclass="Subchapter"
+      [fop] May 20, 2020 2:10:33 PM org.apache.fop.apps.FopConfParser configure
+      [fop] INFO: Default page-height set to: 11.00in
+      [fop] May 20, 2020 2:10:33 PM org.apache.fop.apps.FopConfParser configure
+      [fop] INFO: Default page-width set to: 8.50in
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #1.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #2.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #3.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #4.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #5.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #6.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #7.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #8.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #9.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #10.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #11.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #12.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #13.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #14.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #15.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #16.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #17.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #18.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #19.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #20.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #21.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #22.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #23.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #24.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #25.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #26.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #27.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #28.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #29.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #30.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #31.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #32.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #33.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #34.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #35.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #36.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #37.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #38.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #39.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #40.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #41.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #42.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #43.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #44.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #45.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #46.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #47.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #48.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #49.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #50.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #51.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #52.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #53.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #54.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #55.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #56.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #57.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #58.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #59.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #60.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #61.
+      [fop] May 20, 2020 2:10:35 PM org.apache.fop.events.LoggingEventListener processEvent
+      [fop] INFO: Rendered page #62.

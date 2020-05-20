@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1010558"
+            outputclass="3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title outputclass="Heading3" class="- topic/title ">5201.104 Applicability.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal" class="- topic/p ">The NMCARS applies to all DON
+activities in the same manner and to the same extent as specified
+in FAR 1.104 and DFARS 201.104.</p>
+      </conbody>
+   </concept>
+</dita>
