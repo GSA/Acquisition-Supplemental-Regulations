@@ -2,9 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="d1e2627">
+   <topic id="d1e2627" outputclass="Part" xtrf="48_7.0.2.9.11">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 3010</ph> - MARKET RESEARCH [RESERVED]</title>
-      <body/>
+         <ph props="autonumber">PART 3010</ph> - MARKET RESEARCH [RESERVED]</title>
    </topic>
 </dita>
