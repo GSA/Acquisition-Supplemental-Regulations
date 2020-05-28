@@ -1,9 +1,1110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1049080">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1049080"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 14 – REPORTS</title>
-      <body/>
+      <body class="- topic/body ">
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="8"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="5*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="8*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="19*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="9*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Line Item (LI)
+#</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">PERIOD-ICITY</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REPORT/NOTES</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REFERENCE</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE DATE</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE ORGANIZATION</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+DUE DATE</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">SUBMISSION
+TO</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">1</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Delegation
+of Contracting Authority</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.601-90(a)(3)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30-Jan</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">2</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Procurement
+Performance Management Assessment Program (PPMAP) Self-Assessments/Internal
+Compliance Review</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.691-2(d)(2)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30-Jan</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">3</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Contract
+Action Report, Data Verification and Validation (V&amp;V) Certification</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5204.604(3)(ii)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15-Dec</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">1-Dec</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">4</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">PPMAP
+Assessment Plan</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.691-2(d)(1)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">1
+Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">5</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Competition
+Report, including projected competition goal for current year</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5206.502(b)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Jan</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">6</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Report
+on Pilot Program for Acquisition of Military-Purpose Nondevelopmental
+Items</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5212.7102-2</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15-Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">7</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Commercial
+Item Exceptions to Cost/Pricing Data valued $19.5M or more.</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5215.403-1(c)(3)(B)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30-Nov</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">8</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Truth
+In Negotiation Act (TINA) Waivers valued $19.5M or more.</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5215.403-1(c)(4)(B)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30-Nov</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">LI #</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">PERIOD-ICITY</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REPORT/NOTES</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REFERENCE</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE DATE</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE ORGANIZATION</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+DUE DATE</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">SUBMISSION
+TO</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">9</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DOE
+WFO Order Compliance Assessment Results</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5217.502-2(S-90)(a)(3)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Dec</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15-Dec</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">10</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Nondefense
+Agency Certifications Report</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5217.703(c)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Within 30
+days of the beginning of the fiscal year</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Within
+40 days of the beginning of the fiscal year</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">11</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">COTS
+End Items Containing Specialty Metals Report for contracts valued
+at $5M or more (including task orders/ delivery orders) PER ITEM</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5225.7003-3(b)(2)(ii)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31-Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15-Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">12</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Cost
+Accounting Standards Waivers over $15M</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5230.201-5(e)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30-Nov</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15
+Nov</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">13</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Review
+of Contracts Involving Combat and Security Force Training</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">ASN
+RDA memo “Acquisition of Contractor-Provided Combat and Security
+Related Training" dated 25 Nov 2009</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">By
+Request annually</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">14</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">ECMRA
+Contractor Service Hour Labor Reporting</p>
+                        <p outputclass="Normal" class="- topic/p ">Note:
+Contractors perform reporting.</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5237.102-90</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">No
+later than October 31 for the preceding fiscal year.</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DON
+ECMRA Application</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Navy
+Component UAC/Ratification Procedures Submission</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.602-3(S-90)(e)(3)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31
+March</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">16</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Long
+Range Acquisition Forecast</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5205.404</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jun</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">20
+June</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">17</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Component
+Acquisition Regulation Supplement</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.103(S-90)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31
+Aug</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">LI #</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">PERIOD-ICITY</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REPORT/NOTES</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REFERENCE</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE DATE</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE ORGANIZATION</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+DUE DATE</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">SUBMISSION
+TO</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">18</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DOD
+Waivers of the Contractor Employee Compensation Cap</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5231.
+205-91</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">22
+Nov</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "> 31
+Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">19</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Semi-Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Consolidated
+Undefinitized Contract Actions (UCA) Management Plan Note: DASN(P)
+generates</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DFARS 217.7405(a)(1)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Apr</p>
+                        <p outputclass="Normal" class="- topic/p ">31 Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">20</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Semi-Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Consolidated
+Undefinitized Contract Actions (UCA) Management Report</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5217.7405(a)(2)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Apr</p>
+                        <p outputclass="Normal" class="- topic/p ">31 Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15
+Apr</p>
+                        <p outputclass="Normal" class="- topic/p ">15 Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">21</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Semi-Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Unpriced
+Change Order Report</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5243.204-70-7(b)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Apr;</p>
+                        <p outputclass="Normal" class="- topic/p ">31 Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15
+Apr;</p>
+                        <p outputclass="Normal" class="- topic/p ">15 Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">22</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Semi-Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Contract
+Audit Follow Up (automated system)</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5242.191(b)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31
+Mar;</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Sep</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DCMA</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Due
+to DCMA not DASN(P). DASN(P) is DON liaison to DCMA if questions
+arise.</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">CAFU system in eTools at https://psctool.us.</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">23</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Semi-Annual</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">eSRS
+Status Report Note: DASN(P) will run eSRS Status Report. Field updates/inputs
+are required to DASN(P) by Due Date</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC
+Memo Apr 16, 2009</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jun/</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Dec</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15
+Jun/15 Dec</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">DASN(P) by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">24</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Ratification
+Reporting</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.602-3(S-90)(e)(2)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31
+Jan/30 Apr/31 Jul/31 Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">DASN(P) by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">25</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Peer
+Review Forecast</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5201.170</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">31
+Mar;</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Jun;</p>
+                        <p outputclass="Normal" class="- topic/p ">30
+Sep; 31 Dec</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">25th
+of each month NMCARS is monthly. DFARS is quarterly</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us  </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">26</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Bridge
+Contract Awards</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5206.303-92</p>
+                        <p outputclass="Normal" class="- topic/p ">Annex 5</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jan,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Apr.</p>
+                        <p outputclass="Normal" class="- topic/p ">30
+Jul,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">LI #</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">PERIOD-ICITY</p>
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REPORT/NOTES</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">REFERENCE</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE DATE</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">EXTERNAL
+DUE ORGANIZATION</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+DUE DATE</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">SUBMISSION
+TO</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">27</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">  
+                        <p outputclass="Normal" class="- topic/p ">V&amp;V Data Verification</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5204.604(3)(i)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">15
+Feb; 16 May; 15 Aug; 3 Dec</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jan;</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Apr;</p>
+                        <p outputclass="Normal" class="- topic/p ">30
+Jul;</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Nov</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DASN(P)
+by email to https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">28</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Synchronized
+Predeployment &amp; Operational Tracker (SPOT) Plus CENTCOM Census</p>
+                        <p outputclass="Normal" class="- topic/p ">Note: SPOT generates an automated report for
+submission.</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">USD(ATL) Memo
+Policy on the Transition to &amp; Use of an Automated Census for Contractors
+Supporting Operations in the USCENTCOM AOR dtd Jan 19 2010</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">1
+Jan, 1 Apr, 1 Jul, 1 Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">USD(AT&amp;L)</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">29</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Quarterly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">HCA
+Determination to Award to Offeror Failing to Comply with Submission
+of Data Other Than Certified Cost or Pricing Data</p>
+                        <p outputclass="Normal" class="- topic/p ">Note: Send to DPC with copy to DASN(P)</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5215.403-3(6)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jan,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Apr,</p>
+                        <p outputclass="Normal" class="- topic/p ">30
+Jul,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Oct</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">DPC</p>
+                     </entry>
+                     <entry colname="7" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30
+Jan,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Apr,</p>
+                        <p outputclass="Normal" class="- topic/p ">30
+Jul,</p>
+                        <p outputclass="Normal" class="- topic/p ">30 Oct</p>
+                     </entry>
+                     <entry colname="8" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">DASN(P) by email https://psctool.us</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">30</p>
+                     </entry>
+                     <entry colname="2" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Monthly</p>
+                     </entry>
+                     <entry colname="3" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Contract
+Closeout Metric</p>
+                     </entry>
+                     <entry colname="4" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">NMCARS 5204.804-1(S-90)</p>
+                     </entry>
+                     <entry colname="5" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not applicable</p>
+                     </entry>
+                     <entry colname="6" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Not
+applicable</p>
+                     </entry>
+                     <entry colname="7" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">By the
+15th of each month</p>
+                     </entry>
+                     <entry colname="8" class="- topic/entry ">
+                        <p class="- topic/p ">DASN(P) by email https://psctool.us</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">NOTE: The line item numbers serve as pointers
+for administrative purposes and are subject to change as reports
+are added and deleted. This administrative change will not be identified
+in each NMCARS change issued.</p>
+         <p outputclass="Normal" class="- topic/p "/>
+      </body>
    </topic>
 </dita>

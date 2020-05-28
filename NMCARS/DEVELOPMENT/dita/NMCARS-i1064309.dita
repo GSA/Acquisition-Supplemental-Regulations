@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1064309">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1064309"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 24 – CONTRACT CLOSEOUT METRIC
 REPORT</title>
-      <body/>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">Pursuant to 5204.804-1(S-90), the
+template below shall be used in reporting monthly contract closeout
+metrics.</p>
+         <fig frame="all" class="- topic/fig ">
+            <image href="6.png"
+                   height="321.360pt"
+                   width="356.159pt"
+                   placement="inline"
+                   class="- topic/image "/>
+         </fig>
+      </body>
    </topic>
 </dita>

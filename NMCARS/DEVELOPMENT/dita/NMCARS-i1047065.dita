@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1047065">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1047065"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 8 - PEER REVIEW ROLLING FORECAST</title>
-      <body/>
+      <body id="i1047067" class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">Reporting requirements.
+DON Contracting Activities shall submit by the 25th day of every</p>
+         <p outputclass="Normal" class="- topic/p ">month, a rolling forecast of acquisitions
+requiring peer reviews by DASN(P) or DPC. Use the DON Peer Review
+Projections spreadsheet format when submitting reports. Submit reports
+by email to https://psctool.us with the subject: “DFARS 201.170
+– Quarterly Peer Review Projections.” The spreadsheet template is
+located on the ASN(RDA) Policy website</p>
+         <p outputclass="Normal" class="- topic/p ">https://psctool.us.</p>
+         <p outputclass="ListParagraph" class="- topic/p "/>
+         <p outputclass="Normal" class="- topic/p ">DON Peer Review Projections Spreadsheet</p>
+         <fig frame="all" class="- topic/fig ">
+            <image href="3.png"
+                   height="86.159pt"
+                   width="350.160pt"
+                   placement="inline"
+                   class="- topic/image "/>
+         </fig>
+         <p outputclass="Normal" class="- topic/p ">-continued columns on spreadsheet</p>
+         <fig frame="all" class="- topic/fig ">
+            <image href="4.png"
+                   height="78.719pt"
+                   width="307.680pt"
+                   placement="inline"
+                   class="- topic/image "/>
+         </fig>
+      </body>
    </topic>
 </dita>

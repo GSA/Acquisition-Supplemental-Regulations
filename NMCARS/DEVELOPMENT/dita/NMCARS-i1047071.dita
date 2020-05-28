@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1047071">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1047071"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 10 - NOTICE OF SUSPECTED VIOLATIONS
 OF THE GRATUITIES CLAUSE</title>
-      <body/>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">As required by 5203.203(a), provide
+a written notice of suspected violations to the Assistant</p>
+         <p outputclass="Normal" class="- topic/p ">General Counsel (Acquisition Integrity)
+at https://psctool.us. </p>
+         <p outputclass="Normal" class="- topic/p ">Include the following information in the
+notice:</p>
+         <p outputclass="Normal" class="- topic/p ">1.	Name and contact information of the
+person reporting</p>
+         <p outputclass="Normal" class="- topic/p ">2.	Name of Contractor(s)</p>
+         <p outputclass="Normal" class="- topic/p ">3.	Contract Number (if known) or other
+information known about the contract, including subject matter and
+place of performance  </p>
+         <p outputclass="Normal" class="- topic/p ">4.	Name and location of Government employee(s)
+involved with the suspected gratuity offered or provided </p>
+         <p outputclass="Normal" class="- topic/p ">5.	Brief summary of information or events
+known regarding the suspected gratuity offered or provided (including
+nature, amount, and/or fair market value of the suspected gratuity,
+if known)</p>
+         <p outputclass="Normal" class="- topic/p ">6.	How the information was obtained, if
+relevant</p>
+         <p outputclass="Normal" class="- topic/p "/>
+         <p outputclass="Normal" class="- topic/p "/>
+         <p outputclass="Normal" class="- topic/p "/>
+         <p outputclass="Normal" class="- topic/p "/>
+         <p outputclass="Normal" class="- topic/p "/>
+      </body>
    </topic>
 </dita>

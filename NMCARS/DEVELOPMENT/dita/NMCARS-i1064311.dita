@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1064311">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1064311"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1Right" class="- topic/title ">ANNEX 25 – LONG RANGE ACQUISITION
 FORECAST</title>
-      <body/>
+      <body class="- topic/body ">
+         <p outputclass="Normalwithline" class="- topic/p ">Pursuant to 5205.404, the
+template below shall be used in reporting the long range acquisition
+forecast.</p>
+         <fig frame="all" class="- topic/fig ">
+            <image href="7.png"
+                   height="68.639pt"
+                   width="433.200pt"
+                   placement="inline"
+                   class="- topic/image "/>
+         </fig>
+         <p outputclass="Normal" class="- topic/p "/>
+      </body>
    </topic>
 </dita>

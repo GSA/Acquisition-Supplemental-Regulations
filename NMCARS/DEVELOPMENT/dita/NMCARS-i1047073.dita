@@ -1,10 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1047073">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1047073"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 11 - Delegation of Contracting
 Authority Annual Report</title>
-      <body/>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">In accordance with NMCARS 5201.601-90(a)(3),
+Activities shall submit this annually not later than January 30th
+of each year for the previous calendar year. The electronic version
+of this template can be found at https://psctool.us.</p>
+         <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
+            <tgroup cols="7"
+                    colsep="0"
+                    rowsep="0"
+                    outputclass="Table"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="14*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="16*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="17*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="15*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="11*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Date
+of Delegation</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">HCA
+Requesting Delegation</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">HCA
+Approving Delegation</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Description
+of Authority</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Limitations
+on Authority</p>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Dollar Value</p>
+                     </entry>
+                     <entry colname="7" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p ">Expiration
+Date</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" rowsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="2" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="3" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="4" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="5" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="6" colsep="1" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                     <entry colname="7" class="- topic/entry ">
+                        <p outputclass="Normal" class="- topic/p "/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p "/>
+      </body>
    </topic>
 </dita>

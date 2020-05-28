@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="i1049070">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1049070"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title outputclass="Heading1" class="- topic/title ">ANNEX 12 - Waiver Request for Appointing
 a Non-DON Employee as a Contracting Officer</title>
-      <body/>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">In accordance with 5201.603, HCAs
+or their authorized designees shall notify DASN(P) of a planned
+issuance of a contracting officer appointment and warrant to a non-DON
+employee, except when a DON activity is designated HCA for a joint-contracting operation.
+The notification and/or waiver request must address the following
+information:</p>
+         <p outputclass="Normal" class="- topic/p ">I. Identify DON/DOD Employee to be Delegated
+Contracting Authority</p>
+         <p outputclass="Normal" class="- topic/p ">a. Name of Nominee (as it will appear
+on the SF 1402, Certificate of Contracting Officer Appointment)</p>
+         <p outputclass="Normal" class="- topic/p ">b. Grade/Series or Military Rank</p>
+         <p outputclass="Normal" class="- topic/p ">c. Position/Title</p>
+         <p outputclass="Normal" class="- topic/p ">d. Description of Duties</p>
+         <p outputclass="Normal" class="- topic/p ">e. Activity Name/DODAAC</p>
+         <p outputclass="Normal" class="- topic/p ">II. Describe How the Qualifications of
+the Nominee Meet the Requirements for the Recommended Level of Delegation</p>
+         <p outputclass="Normal" class="- topic/p ">a. Education*</p>
+         <p outputclass="Normal" class="- topic/p ">b. Specialized Experience</p>
+         <p outputclass="Normal" class="- topic/p ">c. Relevant Training*</p>
+         <p outputclass="Normal" class="- topic/p ">d. Other Qualifications (e.g. DAWIA Career
+Field Certifications, Defense Acquisition Corps Membership)*</p>
+         <p outputclass="Normal" class="- topic/p ">*Note: Submit documentation to substantiate
+credentials/education completed.</p>
+         <p outputclass="Normal" class="- topic/p ">III. Describe Extent of Contracting Authority
+to be Delegated</p>
+         <p outputclass="Normal" class="- topic/p ">a. Type of Appointment (e.g. PCO, ACO,
+Ordering Officer)</p>
+         <p outputclass="Normal" class="- topic/p ">b. Dollar Threshold (e.g. Unlimited, Limited
+to Specific Dollar Value)</p>
+         <p outputclass="Normal" class="- topic/p ">c. Type of work/products/services nominee
+will be authorized to procure or administer</p>
+         <p outputclass="Normal" class="- topic/p ">d. Limitations (e.g. Contract Type; Competitive
+or Non-Competitive Actions, etc.)</p>
+         <p outputclass="Normal" class="- topic/p ">e. Appointment Term</p>
+         <p outputclass="Normal" class="- topic/p ">IV. Provide Rationale to Support Delegation
+of Contracting Authority</p>
+         <p outputclass="Normal" class="- topic/p ">a. Explain why this delegation is necessary
+and how it results in a more efficient execution and administration
+of the HCAs contracting operations.</p>
+         <p outputclass="Normal" class="- topic/p ">b. Identify the anticipated workload to
+support the type of appointment, including the available resources
+at the Nominee’s Organization.</p>
+         <p outputclass="Normal" class="- topic/p ">c. Describe the internal controls that
+are or will be in place at the Nominee’s Organization and at the
+HCA/delegating office to ensure efficient and effective execution
+and management oversight of delegated authority.</p>
+      </body>
    </topic>
 </dita>
