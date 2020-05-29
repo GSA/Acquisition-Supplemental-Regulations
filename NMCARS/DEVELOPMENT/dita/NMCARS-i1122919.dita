@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122919" outputclass="4">
-               <title outputclass="Heading4">5222.406-1 Policy.</title>
+<dita>
+   <concept id="i1122919" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5222.406-1 Policy.</title>
                <conbody>
                   <p outputclass="List1">(a) The contracting officer shall
 respond promptly to any complaint received alleging labor standards
@@ -20,4 +22,5 @@ of wages or benefits due workers, extensive falsification of records,
 findings of willful violation, and recommendations for</p>
                   <p outputclass="Normal">debarment).</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

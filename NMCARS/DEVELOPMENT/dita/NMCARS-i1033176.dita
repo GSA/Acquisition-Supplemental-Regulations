@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033176" outputclass="4">
-               <title outputclass="Heading4">5233.204-90 General.</title>
+<dita>
+   <concept id="i1033176" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5233.204-90 General.</title>
                <conbody>
                   <p outputclass="List1">(a) Multidiscipline approach.
 Since claims by contractors often involve difficult and complex
@@ -38,4 +40,5 @@ there is no way of correlating government actions and omissions
 to historical cost elements or even to reasonable substantiated
 cost estimates.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

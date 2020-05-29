@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014793" outputclass="3">
-            <title outputclass="Heading3">5203.203 Reporting suspected violations
+<dita>
+   <concept id="i1014793" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5203.203 Reporting suspected violations
 of the Gratuities clause.</title>
             <conbody>
                <p outputclass="List1">(a) Within two working days after
@@ -68,4 +70,5 @@ a proceeding pursuant to Subpart 5203.204 concerning a suspected
 violation of the Gratuities clause involving any DON contract regardless
 of the source of the information.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

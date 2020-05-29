@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031486" outputclass="3">
-            <title outputclass="Heading3">5208.7403 Acquisition procedures.</title>
+<dita>
+   <concept id="i1031486" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5208.7403 Acquisition procedures.</title>
             <conbody>
                <p outputclass="List2">(5)(iii) The HCA is the designated
 management official. The management official shall coordinate any
 request for waiver with the DON CIO.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031812" outputclass="4">
-               <title outputclass="Heading4">5215.204-5 Part IV--Representations
+<dita>
+   <concept id="i1031812" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5215.204-5 Part IV--Representations
 and Instructions.</title>
                <conbody>
                   <p outputclass="List1">(c) When a cost realism analysis
@@ -11,4 +13,5 @@ include a notice that the proposed costs may be adjusted, for purposes
 of proposal evaluation, based upon the results of the cost realism
 analysis.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

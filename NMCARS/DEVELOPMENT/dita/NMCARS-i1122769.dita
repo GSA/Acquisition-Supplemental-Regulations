@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122769" outputclass="4">
-               <title outputclass="Heading4">5209.104-6 Federal Awardee Performance
+<dita>
+   <concept id="i1122769" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5209.104-6 Federal Awardee Performance
 and Integrity Information System.</title>
                <conbody>
                   <p outputclass="List1">(c)(2) After completing the Federal
@@ -16,4 +18,5 @@ regarding the prospective awardee to assist the HCA in making and
 supporting the decision to award. The HCA shall approve the contract
 award.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

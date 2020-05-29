@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031618" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5211.1—SELECTING AND DEVELOPING
+<dita>
+   <concept id="i1031618" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5211.1—SELECTING AND DEVELOPING
 REQUIREMENTS DOCUMENTS</title>
          
-      </concept></dita>
+      </concept>
+</dita>

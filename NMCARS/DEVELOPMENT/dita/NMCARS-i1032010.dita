@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032010" outputclass="3">
-            <title outputclass="Heading3">5217.172 Multiyear contracts for
+<dita>
+   <concept id="i1032010" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.172 Multiyear contracts for
 supplies.</title>
             <conbody>
                <p outputclass="List1">(b) HCAs are delegated the authority,
@@ -19,4 +21,5 @@ has been made and the time limit for award has been satisfied before
 executing contract award.</p>
             </conbody>
             
-         </concept></dita>
+         </concept>
+</dita>

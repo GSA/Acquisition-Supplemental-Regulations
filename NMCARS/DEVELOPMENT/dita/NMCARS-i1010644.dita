@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010644" outputclass="3">
-            <title outputclass="Heading3">5201.304 Agency control and compliance
+<dita>
+   <concept id="i1010644" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.304 Agency control and compliance
 procedures.</title>
             <conbody>
                <p outputclass="List2">(2)(ii) Submit those requests
@@ -27,4 +29,5 @@ via DASN(P) to DPC by email at https://psctool.us with the subject “NMCARS
 5201.304- Proposed Component Clause/Clause Update Package.”</p>
                <p outputclass="Normal"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

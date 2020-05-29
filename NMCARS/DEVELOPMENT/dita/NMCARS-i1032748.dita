@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032748" outputclass="3">
-            <title outputclass="Heading3">5228.307 Insurance under cost-reimbursement
+<dita>
+   <concept id="i1032748" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5228.307 Insurance under cost-reimbursement
 contracts.</title>
             
             
-         </concept></dita>
+         </concept>
+</dita>

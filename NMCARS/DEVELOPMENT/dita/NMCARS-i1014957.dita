@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014957" outputclass="3">
-            <title outputclass="Heading3">5206.202 Establishing or maintaining
+<dita>
+   <concept id="i1014957" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5206.202 Establishing or maintaining
 alternative sources.</title>
             <conbody>
                <p outputclass="List1">(b)(1) Determination and Findings
@@ -21,4 +23,5 @@ of Services – Streamlined (MOPAS-S) via DASN(P) by email at RDAJ&amp;As.fct@na
 the subject “[Activity Name] FAR 6.202 - Establishing or Maintaining
 Alternative Sources.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

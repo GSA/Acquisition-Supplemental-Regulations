@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1015003" outputclass="3">
-            <title outputclass="Heading3">5206.304 Approval of the justification.</title>
+<dita>
+   <concept id="i1015003" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5206.304 Approval of the justification.</title>
             <conbody>
                <p outputclass="List1">(a)(S-90) Notwithstanding FAR
 6.304, DFARS 206.304, the HCA is designated as the approval authority
@@ -34,4 +36,5 @@ highlighted and explained within the document.</p>
                <p outputclass="List3">(ii) Historic justification information
 shall be submitted with the proposed justification.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

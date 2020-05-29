@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122795" outputclass="4">
-               <title outputclass="Heading4">5212.7102-2 Reporting requirements.</title>
+<dita>
+   <concept id="i1122795" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5212.7102-2 Reporting requirements.</title>
                <conbody>
                   <p outputclass="List1">(a) The annual report identifying
 all contracts awarded under the Pilot Program on Acquisition of
@@ -12,4 +14,5 @@ email at https://psctool.us with the subject “[Activity Name] DFARS
 212.7102-3(a) - Pilot Program For Acquisition Of Military-Purpose
 Nondevelopmental Items.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

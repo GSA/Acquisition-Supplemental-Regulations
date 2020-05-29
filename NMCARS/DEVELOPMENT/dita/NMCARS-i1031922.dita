@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031922" outputclass="3">
-            <title outputclass="Heading3">5216.202-90 Firm-fixed-price contracts.</title>
+<dita>
+   <concept id="i1031922" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5216.202-90 Firm-fixed-price contracts.</title>
             <conbody>
                <p outputclass="Normal">Consultation with DPC is required
 prior to the use of a firm-fixed-price (FFP) contract for a sole
@@ -14,4 +16,5 @@ at https://psctool.us with the subject “[Activity Name] Consultation
 with DPC for a FFP Contract over $500M" seven days prior to requesting
 the review from DPC.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

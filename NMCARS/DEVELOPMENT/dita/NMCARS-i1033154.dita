@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033154" outputclass="3">
-            <title outputclass="Heading3">5233.203 Applicability.</title>
+<dita>
+   <concept id="i1033154" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.203 Applicability.</title>
             <conbody>
                <p outputclass="List1">(b)(2) The HCA is delegated the
 authority to make the determination that the application of the
 Act to the contract would not be in the public interest.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

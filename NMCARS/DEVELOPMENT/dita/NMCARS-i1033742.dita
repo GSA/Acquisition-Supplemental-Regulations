@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033742" outputclass="3">
-            <title outputclass="Heading3">5252.101 (DFARS 252.101) Using part
+<dita>
+   <concept id="i1033742" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5252.101 (DFARS 252.101) Using part
 52.</title>
             <conbody>
                <p outputclass="List1">(b) Numbering.</p>
@@ -34,4 +36,5 @@ number and</p>
                <p outputclass="Normal">9800-9899 MSC</p>
                <p outputclass="Normal">9900-9999 RESERVED</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

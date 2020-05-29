@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033432" outputclass="3">
-            <title outputclass="Heading3">5239.7304 Determination and notification.</title>
+<dita>
+   <concept id="i1033432" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5239.7304 Determination and notification.</title>
             <conbody>
                <p outputclass="List1">(c)(2) When the contracting activity
 participates in preparing the required notification, the notice
@@ -11,4 +13,5 @@ the subject “[Activity Name] DFARS 239.7304(c)(2)- Notice for SAE Approval
 for Exclusion and Limitation on Disclosure of IT Assessed for Supply
 Chain Risk.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

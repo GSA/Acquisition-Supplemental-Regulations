@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033200" outputclass="3">
-            <title outputclass="Heading3">5233.9001 Claims approval requirements.</title>
+<dita>
+   <concept id="i1033200" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.9001 Claims approval requirements.</title>
             <conbody>
                <p outputclass="List1">(a) All proposed claim settlements
 in excess of $25 million, and final decisions of the contracting
@@ -56,4 +58,5 @@ the claim; and</p>
 comments as to whether the contractor has reasonably satisfied all
 requests for documentary and analytical support of the claimed amount.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

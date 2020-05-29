@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032950" outputclass="3">
-            <title outputclass="Heading3">5231.109 Advance agreements.</title>
+<dita>
+   <concept id="i1032950" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5231.109 Advance agreements.</title>
             <conbody>
                <p outputclass="List1">(a) Since advance agreements often
 deal with issues that are complex and/or unprecedented and may require
@@ -15,4 +17,5 @@ together with appropriate supporting documents by email at https://psctool.us
 with the subject “[Activity Name] FAR 31.109 – Negotiated Advance
 Agreement.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

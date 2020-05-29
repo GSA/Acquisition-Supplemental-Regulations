@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122661" outputclass="4">
-               <title outputclass="Heading4">5201.603-2-90 Contracting officer
+<dita>
+   <concept id="i1122661" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.603-2-90 Contracting officer
 warrants.</title>
                <conbody id="i1010740">
                   <p outputclass="Normal">Notification
@@ -12,4 +14,5 @@ to the exception at DFARS 201.603- 2(2)(ii) to DASN(P) at https://psctool.us
 with the subject “DFARS 201.603-2(2)(ii) – Waiver of Contracting
 Officer Qualification” within five days of issuance.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

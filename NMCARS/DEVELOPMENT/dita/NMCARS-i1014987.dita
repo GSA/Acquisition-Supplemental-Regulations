@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014987" outputclass="4">
-               <title outputclass="Heading4">5206.3031 Requirements.</title>
+<dita>
+   <concept id="i1014987" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5206.3031 Requirements.</title>
                <conbody>
                   <p outputclass="List1">(a)(i) Prior to contract award.
 After a justification has been approved but prior to contract award,
@@ -77,4 +79,5 @@ negates consideration under SeaPort, see 5206.304 and</p>
 for which a bridge is being sought would have been considered for
 transition to SeaPort but for the bridge.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

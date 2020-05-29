@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122729" outputclass="4">
-               <title outputclass="Heading4">5206.3032 Content.</title>
+<dita>
+   <concept id="i1122729" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5206.3032 Content.</title>
                <conbody>
                   <p outputclass="List1"> (b)(3) The total estimated dollar
 value for each acquisition covered by the justification, identified
@@ -25,4 +27,5 @@ of Annex 5.</p>
                   <p outputclass="List1">(b) The required format for a SBIR Phase
 III justification is at Annex 13.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

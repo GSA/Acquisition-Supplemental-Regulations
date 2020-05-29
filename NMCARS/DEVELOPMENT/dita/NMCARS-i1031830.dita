@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031830" outputclass="3">
-            <title outputclass="Heading3">5215.303 Responsibilities.</title>
+<dita>
+   <concept id="i1031830" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5215.303 Responsibilities.</title>
             <conbody>
                <p outputclass="List1">(a) When it is appropriate to
 have someone other than the contracting officer act as Source Selection
@@ -37,4 +39,5 @@ to use formal source selection procedures.</p>
 acquisitions shall be as prescribed by the FAR, DFARS, or NMCARS,
 unless otherwise directed by ASN(RDA).</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

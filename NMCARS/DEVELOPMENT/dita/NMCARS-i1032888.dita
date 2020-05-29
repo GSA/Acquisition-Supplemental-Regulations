@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032888" outputclass="3">
-            <title outputclass="Heading3">5230.201 Contract requirements.</title>
+<dita>
+   <concept id="i1032888" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5230.201 Contract requirements.</title>
             
-         </concept></dita>
+         </concept>
+</dita>

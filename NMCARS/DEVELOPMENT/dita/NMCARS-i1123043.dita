@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123043" outputclass="4">
-               <title outputclass="Heading4Right">5225.7018-4 Nonavailability
+<dita>
+   <concept id="i1123043" outputclass="4">
+               <title outputclass="Heading4Right">
+         <ph props="autonumber"/> 5225.7018-4 Nonavailability
 determination.</title>
                <conbody>
                   <p outputclass="List1">(a)(3) When submitting the signed
@@ -16,4 +18,5 @@ to DASN(P) by email at https://psctool.us with the subject “[Activity
 Name] DFARS 225.7018-4 – CC: Class Nonavailability Determination
 Request.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031356" outputclass="3">
-            <title outputclass="Heading3">5207.106 Additional requirements
+<dita>
+   <concept id="i1031356" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5207.106 Additional requirements
 for major systems.</title>
             <conbody>
                <p outputclass="Normal">(S-73) If a waiver request for
@@ -12,4 +14,5 @@ with the subject “[Activity Name] DFARS 207.106--USD(AT&amp;L) Waiver Request.
 All waiver requests shall be signed by the HCA, program manager,
 CCO, and contracting officer.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

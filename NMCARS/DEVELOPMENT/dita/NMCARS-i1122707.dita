@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122707" outputclass="4">
-            <title outputclass="Heading4">5204.804-1 Closeout by the office
+<dita>
+   <concept id="i1122707" outputclass="4">
+            <title outputclass="Heading4">
+         <ph props="autonumber"/> 5204.804-1 Closeout by the office
 administering the contract.</title>
             <conbody>
                <p outputclass="List1">(a)(1) After receiving evidence
@@ -18,4 +20,5 @@ to DASN(P) by email https://psctool.us with the subject “[Activity
 Name] NMCARS 5204.804-1(S-90) – Monthly Contract Closeout Metric
 Report” by the 15th of each month.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

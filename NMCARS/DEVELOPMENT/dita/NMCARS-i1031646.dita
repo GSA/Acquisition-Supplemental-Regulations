@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031646" outputclass="3">
-            <title outputclass="Heading3">5211.6035219.202-1 Encouraging small
+<dita>
+   <concept id="i1031646" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5211.6035219.202-1 Encouraging small
 business participation in acquisitions.</title>
             <conbody>
                <p outputclass="List1">(b) In accordance with DOD Manual
@@ -35,4 +37,5 @@ DPAS Officer to provide guidance and resolve questions associated
 with DPAS. https://psctool.us</p>
                <p outputclass="Normal">https://psctool.us</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

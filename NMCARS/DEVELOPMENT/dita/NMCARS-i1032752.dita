@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032752" outputclass="4">
-               <title outputclass="Heading4">5228.307-1 Group insurance plans.</title>
+<dita>
+   <concept id="i1032752" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5228.307-1 Group insurance plans.</title>
                <conbody>
                   <p outputclass="List1">(a) Prior approval requirement.
 Group insurance plans under cost-reimbursement contracts for which
@@ -10,4 +12,5 @@ contract administration is retained by the DON shall be submitted
 for approval to the DON contracting officer responsible for contract
 administration.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

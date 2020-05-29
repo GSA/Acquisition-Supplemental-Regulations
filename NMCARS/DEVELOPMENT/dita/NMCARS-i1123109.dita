@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123109" outputclass="4">
-               <title outputclass="Heading4">5232.607-2 Deferment of collection.</title>
+<dita>
+   <concept id="i1123109" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5232.607-2 Deferment of collection.</title>
                <conbody>
                   <p outputclass="List1">(c)(2) Information should be submitted
 with all requests, whether or not an appeal is pending, or a Dispute
@@ -14,4 +16,5 @@ the liability if the appeal is successful. (c) Points of contact
 at the cognizant paying and contract administration offices. (d)
 Any small business concern representation.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

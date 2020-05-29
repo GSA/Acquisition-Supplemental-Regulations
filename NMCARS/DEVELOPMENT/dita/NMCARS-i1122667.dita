@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122667" outputclass="4">
-               <title outputclass="Heading4">5201.603-2-91 Contracting officer
+<dita>
+   <concept id="i1122667" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.603-2-91 Contracting officer
 warrant issuance to non-DOD employee.</title>
                <conbody>
                   <p outputclass="Normal">Except where a DON activity is
@@ -15,4 +17,5 @@ to a non-DON Employee” for approval, using the template in Annex
 the DOD and meets applicable requirements commensurate to the proposed
 warrant level per 10 U.S.C.§1724.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

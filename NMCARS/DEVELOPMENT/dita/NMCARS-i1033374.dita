@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033374" outputclass="3">
-            <title outputclass="Heading3">5237.204 Guidelines for determining
+<dita>
+   <concept id="i1033374" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.204 Guidelines for determining
 availability of personnel.</title>
             <conbody id="i1033378">
                <p outputclass="List3">(a) Approval by
@@ -33,4 +35,5 @@ an initial contract award are not readily available within the agency
 or other Federal agencies. The procedures in FAR Subpart 1.7 apply
 to HCA determinations made under this section.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

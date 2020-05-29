@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014965" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5206.3—OTHER THAN FULL AND
+<dita>
+   <concept id="i1014965" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5206.3—OTHER THAN FULL AND
 OPEN COMPETITION</title>
          <conbody id="i1014971">
             <p outputclass="Normal">As used in this
@@ -18,4 +20,5 @@ contract (e.g., a Congressional plus-up or Foreign Military Sale
          
          
          
-      </concept></dita>
+      </concept>
+</dita>

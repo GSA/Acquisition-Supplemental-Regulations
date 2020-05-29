@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123127" outputclass="4">
-               <title outputclass="Heading4">5237.102-71 Limitations on service
+<dita>
+   <concept id="i1123127" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5237.102-71 Limitations on service
 contracts for military flight simulators.</title>
                <conbody>
                   <p outputclass="Normal">Submit requests for waivers and
@@ -11,4 +13,5 @@ via DASN(P) by email at https://psctool.us with the subject “[Activity
 Name] DFARS 237.102-71 – Military Flight Simulator Service Contract
 Waiver Request.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

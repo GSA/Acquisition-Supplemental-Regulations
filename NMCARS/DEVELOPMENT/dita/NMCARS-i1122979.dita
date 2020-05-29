@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122979" outputclass="4">
-               <title outputclass="Heading4">5225.802-90 Procedures for acquisitions
+<dita>
+   <concept id="i1122979" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.802-90 Procedures for acquisitions
 that can be satisfied only by sources outside the United States.</title>
                <conbody>
                   <p outputclass="List1">(a) Naval activities having requirements
@@ -32,4 +34,5 @@ granted by NAVSUPSYSCOM.</p>
 of the above exceptions, prior to negotiating with an overseas supplier,
 should contact the applicable FLC for assistance and support.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

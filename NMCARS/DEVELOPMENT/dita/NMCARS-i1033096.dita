@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033096" outputclass="3">
-            <title outputclass="Heading3">5232.7003 Policy.</title>
+<dita>
+   <concept id="i1033096" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5232.7003 Policy.</title>
             <conbody>
                <p outputclass="List1">(b) Contracting officers shall
 obtain DASN(P) approval prior to providing temporary alternative
@@ -12,4 +14,5 @@ with the subject “[Activity Name] DFARS 232.7002(a)(1)(v) – Contractor
 Request for Submission of Payment Requests and Receiving Reports
 in Non-electronic Form.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

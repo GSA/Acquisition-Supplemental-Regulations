@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031666" outputclass="3">
-            <title outputclass="Heading3">5212.102 Applicability.</title>
+<dita>
+   <concept id="i1031666" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5212.102 Applicability.</title>
             <conbody>
                <p outputclass="List1">(a)(i)(C) If market research and
 analysis yields that expert and consultant services are commercial
@@ -15,4 +17,5 @@ MOPAS-S using https://psctool.us with the subject “[Activity Name] NMCARS
 the authority to make the determinations described in FAR 12.102
 (f)(1).</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

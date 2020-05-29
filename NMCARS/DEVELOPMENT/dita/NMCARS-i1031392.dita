@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031392" outputclass="3">
-            <title outputclass="Heading3">5207.204 Responsibilities of contracting
+<dita>
+   <concept id="i1031392" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5207.204 Responsibilities of contracting
 officers.</title>
             <conbody>
                <p outputclass="List1">(a) Information provided by offerors
@@ -10,4 +12,5 @@ in response to this solicitation provision shall be forwarded to
 the requiring activity for consideration.</p>
                <p outputclass="Footer"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

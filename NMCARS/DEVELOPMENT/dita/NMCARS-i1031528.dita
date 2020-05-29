@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031528" outputclass="3">
-            <title outputclass="Heading3">5209.402 Policy.</title>
+<dita>
+   <concept id="i1031528" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5209.402 Policy.</title>
             <conbody>
                <p outputclass="List1">(d) The AGC(AI) is the Department
 of the Navy’s Suspending and Debarring Official (SDO). Attorneys
@@ -10,4 +12,5 @@ in the Acquisition Integrity Office have the responsibility for
 processing and recommending suspension or debarment action to the
 SDO.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

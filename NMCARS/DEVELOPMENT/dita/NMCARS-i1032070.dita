@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032070" outputclass="4">
-               <title outputclass="Heading4">5217.7404-5 Exceptions.</title>
+<dita>
+   <concept id="i1032070" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5217.7404-5 Exceptions.</title>
                <conbody>
                   <p outputclass="List1">(b) Submit requests for waivers
 of limitations on Undefinitized Contract Actions (UCAs) to DASN(P)
@@ -10,4 +12,5 @@ by email at https://psctool.us with the subject “[Activity Name]
 DFARS 217.7404-5 - Waiver of Limitations on UCAs—[insert applicable DFARS
 cite].”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

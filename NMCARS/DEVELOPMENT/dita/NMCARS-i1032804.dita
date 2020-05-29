@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032804" outputclass="3">
-            <title outputclass="Heading3">5228.9002 Lease provisions.</title>
+<dita>
+   <concept id="i1032804" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5228.9002 Lease provisions.</title>
             <conbody>
                <p outputclass="List1">(a) Where insurance is required,
 the lease shall require the lessee to:</p>
@@ -19,4 +21,5 @@ failure of the lessee to maintain adequate insurance does not relieve
 the lessee of its responsibilities under any other terms of the
 lease.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

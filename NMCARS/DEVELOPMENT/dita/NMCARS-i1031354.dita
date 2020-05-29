@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031354" outputclass="3">
-            <title outputclass="Heading3">5207.105 Contents of written acquisition
+<dita>
+   <concept id="i1031354" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5207.105 Contents of written acquisition
 plans.</title>
             <conbody>
                <p outputclass="Normal">Notwithstanding the requirements
@@ -20,4 +22,5 @@ to write a single plan for all known program actions.</p>
 Annex 18 or Annex 20, when there is only one contract, task or delivery
 order to be covered by the plan.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

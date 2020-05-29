@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032208" outputclass="4">
-               <title outputclass="Heading4">5222.102-2 Administration.</title>
+<dita>
+   <concept id="i1032208" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5222.102-2 Administration.</title>
                <conbody>
                   <p outputclass="List1">https://psctool.us The Contracting
 Officer shall refer questions from DOL or other interested parties
@@ -17,4 +19,5 @@ confidentiality of the complainant except to DOL and directing any
 related questions to the Navy Labor Advisor in DASN(P) by email
 at https://psctool.us.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

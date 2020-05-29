@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010574" outputclass="3">
-            <title outputclass="Heading3">5201.107 Certifications.</title>
+<dita>
+   <concept id="i1010574" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.107 Certifications.</title>
             <conbody>
                <p outputclass="Normal">In accordance with 41 United
 States Code (U.S.C.) 1304, a new requirement for a certification
@@ -21,4 +23,5 @@ by email at RDAJ&amp;As.fct@navy.mil with the subject “[Activity</p>
                <p outputclass="Normal">Name] DFARS 201.107 – Request for Certification.”</p>
                <p outputclass="Normal"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

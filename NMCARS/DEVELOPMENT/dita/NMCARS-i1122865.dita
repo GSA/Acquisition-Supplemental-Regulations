@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122865" outputclass="4">
-               <title outputclass="Heading4">5217.502-2 The Economy Act.</title>
+<dita>
+   <concept id="i1122865" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5217.502-2 The Economy Act.</title>
                <conbody>
                   <p outputclass="List1">(c)(2) Except for the special
 circumstances listed in (S-90(a)) below, and the limitations specified
@@ -87,4 +89,5 @@ from the Library of Congress conducted under the authority of Section
 103 of P.L. 106-481 (2 U.S.C. 182c), FEDLINK Revolving Fund.</p>
                   <p outputclass="Normal"/>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

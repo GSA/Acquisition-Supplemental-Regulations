@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010666" outputclass="3">
-            <title outputclass="Heading3">5201.402 Policy.</title>
+<dita>
+   <concept id="i1010666" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.402 Policy.</title>
             <conbody>
                <p outputclass="List2">(2) Submit those requests for
 individual or class deviation that require approval at a level higher
 than the HCA to DASN(P) by email at https://psctool.us with the
 subject “DFARS 201.402 –Deviation Request.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

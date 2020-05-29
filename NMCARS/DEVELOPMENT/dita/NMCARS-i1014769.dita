@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014769" outputclass="4">
-               <title outputclass="Heading4">5203.101-1 General.</title>
+<dita>
+   <concept id="i1014769" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5203.101-1 General.</title>
                <conbody>
                   <p outputclass="List1">(a) DON contracting activities,
 purchasing offices and CAOs are responsible for ensuring that a</p>
@@ -18,4 +20,5 @@ from performing a single function, as a minimum, the individual
 responsible for the award of a contract or placement of an order
 should not perform the receipt, inspection and acceptance function.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

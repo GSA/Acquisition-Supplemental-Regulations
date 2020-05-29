@@ -3,27 +3,28 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="i1031740">
-      <title outputclass="Heading1" class="- topic/title ">PART 5214 SEALED BIDDING</title>
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5214 SEALED BIDDING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1031748.dita#i1031748"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031748.dita#i1031748">SUBPART 5214.4—OPENING OF BIDS AND AWARD OF CONTRACT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031762.dita#i1031762"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031762.dita#i1031762">5214.401 Receipt and safeguarding of bids.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031768.dita#i1031768"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031768.dita#i1031768">5214.407 Mistakes in bids.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1031774.dita#i1031774"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1031774.dita#i1031774">5214.4073 Other mistakes disclosed before award.</xref>
                            </p>
                         </li>
                      </ul>

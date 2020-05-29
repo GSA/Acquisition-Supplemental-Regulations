@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1015055" outputclass="3">
-            <title outputclass="Heading3">5207.103 Agency-head responsibilities.</title>
+<dita>
+   <concept id="i1015055" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5207.103 Agency-head responsibilities.</title>
             <conbody>
                <p outputclass="List1">(d)(i) An acquisition program
 is a directed, funded effort that provides a new, improved, or continuing
@@ -282,4 +284,5 @@ or &gt;$25M/FY</p>
                <p outputclass="Normal">^ = Navy Senior Services Manager</p>
                <p outputclass="Normal"># = DASN(P)</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

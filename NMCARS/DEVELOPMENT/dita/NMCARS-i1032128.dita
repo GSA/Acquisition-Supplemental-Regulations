@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032128" outputclass="4">
-               <title outputclass="Heading4">5219.7054 Reviewing the subcontracting
+<dita>
+   <concept id="i1032128" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5219.7054 Reviewing the subcontracting
 plan.</title>
                <conbody>
                   <p outputclass="List1">(d) When evaluating proposed subcontracting
@@ -24,4 +26,5 @@ officer determines that a subcontracting plan containing a zero
 goal is appropriate, the determination shall be approved at a level
 above the contracting officer and placed in the contract file.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

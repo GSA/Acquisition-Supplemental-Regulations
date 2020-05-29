@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033748" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5252.2—TEXT OF PROVISIONS
+<dita>
+   <concept id="i1033748" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5252.2—TEXT OF PROVISIONS
 AND CLAUSES</title>
          
-      </concept></dita>
+      </concept>
+</dita>

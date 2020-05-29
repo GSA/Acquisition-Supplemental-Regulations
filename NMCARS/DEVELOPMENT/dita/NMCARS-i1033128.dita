@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033128" outputclass="3">
-            <title outputclass="Heading3">5233.170 Briefing requirement for
+<dita>
+   <concept id="i1033128" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.170 Briefing requirement for
 protested acquisitions valued at $1 billion or more.</title>
             <conbody id="i1033130">
                <p outputclass="Normal">Within 5 days
@@ -11,4 +13,5 @@ DASN(P) by email at https://psctool.us with the subject “[Activity
 Name] PGI 233.170 - Protest [solicitation or contract number, as
 appropriate].”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

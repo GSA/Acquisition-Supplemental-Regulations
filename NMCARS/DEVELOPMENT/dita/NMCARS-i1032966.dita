@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032966" outputclass="4">
-               <title outputclass="Heading4">5231.205-90 Shipbuilding capability
+<dita>
+   <concept id="i1032966" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5231.205-90 Shipbuilding capability
 preservation agreements.</title>
                <conbody>
                   <p outputclass="List1">(a) Scope and authority. Where
@@ -87,4 +89,5 @@ authority. The contractor should also provide an informational copy
 of any such request to the cognizant administrative contracting
 officer.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

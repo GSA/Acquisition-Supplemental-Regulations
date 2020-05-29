@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010756" outputclass="4">
-               <title outputclass="Heading4">5201.6911 Purpose.</title>
+<dita>
+   <concept id="i1010756" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.6911 Purpose.</title>
                <conbody>
                   <p outputclass="List1">(a) The primary objective of procurement
 management oversight is to validate sound contracting practices
@@ -32,4 +34,5 @@ fraud, waste or abuse to occur; and,</p>
 as needed, to improve or maintain the quality of procurement operations
 within the contracting activity.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

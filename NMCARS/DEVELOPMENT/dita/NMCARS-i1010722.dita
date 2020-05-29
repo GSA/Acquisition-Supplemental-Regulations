@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010722" outputclass="4">
-               <title outputclass="Heading4Right">5201.602-2 Responsibilities.</title>
+<dita>
+   <concept id="i1010722" outputclass="4">
+               <title outputclass="Heading4Right">
+         <ph props="autonumber"/> 5201.602-2 Responsibilities.</title>
                <conbody>
                   <p outputclass="List1">(d)(v)(A) Notwithstanding FAR
 1.602-2(d) and DFARS PGI 201.602-2(d)(v)(A), designation of a Contracting
@@ -11,4 +13,5 @@ when surveillance functions are delegated to and performed by a Contract
 Administration Office (CAO) or the contracting officer retains surveillance
 functions and executes CORs duties.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

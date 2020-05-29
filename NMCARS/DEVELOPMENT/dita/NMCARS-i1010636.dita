@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010636" outputclass="3">
-            <title outputclass="Heading3">5201.303 Publication and codification.</title>
+<dita>
+   <concept id="i1010636" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.303 Publication and codification.</title>
             <conbody>
                <p outputclass="List1">(a)(ii) To the extent possible,
 all text in this Supplement (whether implementing or supplemental)
@@ -15,4 +17,5 @@ the addition of a number 90 and up for parts, subparts, sections,
 or subsections or S-90 and up for lower divisions.</p>
                <p outputclass="Normal"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

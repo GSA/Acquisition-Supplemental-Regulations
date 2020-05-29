@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033758" outputclass="4">
-               <title outputclass="Heading4">5252.223-9000 DON ADDITIONAL SAFETY
+<dita>
+   <concept id="i1033758" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5252.223-9000 DON ADDITIONAL SAFETY
 REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION
 AND EXPLOSIVES</title>
                <conbody>
@@ -71,4 +73,5 @@ the Contracting Officer shall make an equitable adjustment in the
 contract price.</p>
                   <p outputclass="Normal"/>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

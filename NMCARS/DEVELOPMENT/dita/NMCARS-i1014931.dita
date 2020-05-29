@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014931" outputclass="3">
-            <title outputclass="Heading3">5205.404 Release of longrange acquisition
+<dita>
+   <concept id="i1014931" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5205.404 Release of longrange acquisition
 forecasts.</title>
             <conbody>
                <p outputclass="Normalwithline">Submit an annual long-range
@@ -12,4 +14,5 @@ Name] FAR 5.404 Long Range Acquisition</p>
                <p outputclass="Normalwithline">Forecast” by 20 June annually.</p>
             </conbody>
             
-         </concept></dita>
+         </concept>
+</dita>

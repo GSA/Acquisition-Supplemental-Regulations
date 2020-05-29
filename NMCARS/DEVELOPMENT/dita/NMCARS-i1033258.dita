@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033258" outputclass="4">
-            <title outputclass="Heading4">5235.070-1 Indemnification under
+<dita>
+   <concept id="i1033258" outputclass="4">
+            <title outputclass="Heading4">
+         <ph props="autonumber"/> 5235.070-1 Indemnification under
 research and development contracts.</title>
             <conbody>
                <p outputclass="List1">(a) DASN(P) is the approval authority.</p>
@@ -11,4 +13,5 @@ approval to DASN(P) by email at https://psctool.us with the subject
 “[Activity Name] DFARS 235.070-1 – Indemnification Request under
 R&amp;D Contracts.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

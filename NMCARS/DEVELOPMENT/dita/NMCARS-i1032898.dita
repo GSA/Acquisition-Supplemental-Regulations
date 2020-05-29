@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032898" outputclass="4">
-               <title outputclass="Heading4">5230.201-5 Waiver.</title>
+<dita>
+   <concept id="i1032898" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5230.201-5 Waiver.</title>
                <conbody>
                   <p outputclass="List1">(b) and (d) Submit waiver requests
 to DASN(P) at least 60 days prior to anticipated contract award
@@ -13,4 +15,5 @@ of contract award.</p>
 than November 15 by email at https://psctool.us with the subject
 “[Activity Name] DFARS 230.201-5(e) – Granted CAS Waivers Report.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

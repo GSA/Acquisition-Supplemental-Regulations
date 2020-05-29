@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014915" outputclass="3">
-            <title outputclass="Heading3">5205.303 Announcement of contract
+<dita>
+   <concept id="i1014915" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5205.303 Announcement of contract
 awards.</title>
             <conbody>
                <p outputclass="List1">(a) Public Announcement.</p>
@@ -59,4 +61,5 @@ or delivery schedule.</p>
                <p outputclass="List1">(e) the amount of any of the obligated
 funds that would have expired at the end of the current fiscal year.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

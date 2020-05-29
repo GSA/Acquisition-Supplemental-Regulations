@@ -3,11 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <topic id="i1049070"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
-      <title outputclass="Heading1" class="- topic/title ">ANNEX 12 - Waiver Request for Appointing
+   <topic id="i1049070" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> ANNEX 12 - Waiver Request for Appointing
 a Non-DON Employee as a Contracting Officer</title>
       <body class="- topic/body ">
          <p outputclass="Normal" class="- topic/p ">In accordance with 5201.603, HCAs

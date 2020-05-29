@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031546" outputclass="3">
-            <title outputclass="Heading3">5209.405 Effect of listing.</title>
+<dita>
+   <concept id="i1031546" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5209.405 Effect of listing.</title>
             <conbody>
                <p outputclass="List1">(a) ASN(RDA) shall make the required
 determination that there is a compelling reason. Submit requests
@@ -18,4 +20,5 @@ States by email at https://psctool.us with the subject “[Activity
 Name] DFARS 209.405 – Code H Ineligible Facility Review and Approval.”</p>
             </conbody>
             
-         </concept></dita>
+         </concept>
+</dita>

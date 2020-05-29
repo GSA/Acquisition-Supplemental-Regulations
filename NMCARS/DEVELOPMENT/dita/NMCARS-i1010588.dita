@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010588" outputclass="3">
-            <title outputclass="Heading3">5201.170 Peer reviews.</title>
+<dita>
+   <concept id="i1010588" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.170 Peer reviews.</title>
             <conbody>
                <p outputclass="List1">(a)(1) If using multiple award
 procedures, one Peer Review shall apply for all resulting contracts.
@@ -72,4 +74,5 @@ with the subject “[Activity Name] NMCARS 5201.170(b)(S-91) - Peer
 Review Waiver Request.”</p>
             </conbody>
             
-         </concept></dita>
+         </concept>
+</dita>

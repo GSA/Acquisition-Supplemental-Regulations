@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032300" outputclass="3">
-            <title outputclass="Heading3">5222.9000 Department of the Navy
+<dita>
+   <concept id="i1032300" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5222.9000 Department of the Navy
 non-construction contracts containing construction work.</title>
             <conbody>
                <p outputclass="Normal">The DON created the DON Non-Construction
@@ -15,4 +17,5 @@ procedures apply to all HCAs that award and administer contracts
 The Guide is available at the ASN(RDA) website under Policy and
 Guidance.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033188" outputclass="3">
-            <title outputclass="Heading3">5233.211 Contracting officer's decision.</title>
+<dita>
+   <concept id="i1033188" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.211 Contracting officer's decision.</title>
             <conbody>
                <p outputclass="List1">(a)(1) When reviewing the facts
 pertinent to a claim, the contracting officer shall determine if
@@ -21,4 +23,5 @@ be forwarded to the Office of the General Counsel, Legal Services
 Support Group, Navy Litigation Office, Department of the Navy, Washington,
 DC 20360 at the time of transmittal to the contractor.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031602" outputclass="3">
-            <title outputclass="Heading3">5209.570 Limitations on contractors
+<dita>
+   <concept id="i1031602" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5209.570 Limitations on contractors
 acting as lead system integrators.</title>
             <conbody>
                <p outputclass="Normal">5219.202-1 Encouraging small
@@ -13,4 +15,5 @@ the SECDEF/USD(AT&amp;L) via DASN(P) by email at https://psctool.us
 with the subject “[Activity Name] DFARS 209.570-2 - D&amp;F to Use
 a Contractor to Perform Lead System Integrator Functions.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032090" outputclass="3">
-            <title outputclass="Heading3">5219.201 General policy.</title>
+<dita>
+   <concept id="i1032090" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5219.201 General policy.</title>
             <conbody>
                <p outputclass="List1">(a) DON policy is to utilize small
 business, veteran-owned small business, service-disabled veteran-owned
@@ -50,4 +52,5 @@ than the activity under review. Associate Directors of Small Business
 are responsible for providing a copy of the PPMAP review SBP segment
 report(s) to the Director, OSBP.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

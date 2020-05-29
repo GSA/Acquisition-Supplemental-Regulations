@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123051" outputclass="4">
-               <title outputclass="Heading4">5225.7301-2 Solicitation approval
+<dita>
+   <concept id="i1123051" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.7301-2 Solicitation approval
 for sole source contracts.</title>
                <conbody>
                   <p outputclass="Normal">Submit requests for coordination
@@ -11,4 +13,5 @@ with the subject “[Activity Name] DFARS 225.7301-2 Coordination
 of Solicitation for Combined US/FMS FFP Sole Source Contracts for
 a Major System &gt;$500M.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

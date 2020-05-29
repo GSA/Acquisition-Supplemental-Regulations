@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122835" outputclass="4">
-               <title outputclass="Heading4">5215.403-3 Requiring data other
+<dita>
+   <concept id="i1122835" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5215.403-3 Requiring data other
 than certified cost or pricing data.</title>
                <conbody>
                   <p outputclass="List2">(6) Submit a courtesy copy of
@@ -11,4 +13,5 @@ the subject “[Activity Name] DFARS 215.403-3 HCA Determination to
 Award to Offeror Failing to Comply with Requests for Data Other Than
 Certified Cost or Pricing Data.” Negative reports are required.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

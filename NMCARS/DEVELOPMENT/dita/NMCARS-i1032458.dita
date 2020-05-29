@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032458" outputclass="3">
-            <title outputclass="Heading3">5225.401 Exceptions.</title>
+<dita>
+   <concept id="i1032458" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5225.401 Exceptions.</title>
             <conbody>
                <p outputclass="List1">(a)(2)(A) Submit requests in the
 form of a determination and findings to USD(A&amp;S)/DPC with a
@@ -10,4 +12,5 @@ copy of the approved AS, STRAP, or MOPAS-S via DASN(P) by email
 at https://psctool.us with the subject “[Activity Name] DFARS 225.401
 -Trade Agreement Exceptions.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

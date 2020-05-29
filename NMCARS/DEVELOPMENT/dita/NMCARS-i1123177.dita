@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123177" outputclass="4">
-            <title outputclass="Heading4">5249.403 Termination of cost-reimbursement
+<dita>
+   <concept id="i1123177" outputclass="4">
+            <title outputclass="Heading4">
+         <ph props="autonumber"/> 5249.403 Termination of cost-reimbursement
 contracts for default.</title>
             <conbody>
                <p outputclass="List1">(a) Within five (5) calendar days
@@ -12,4 +14,5 @@ including changes in status of terminations, to the AGC (AI) by email
 at https://psctool.us with the subject "FAR 49.402-8 - T4D" followed
 by the contract number.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

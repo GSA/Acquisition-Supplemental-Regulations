@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033366" outputclass="3">
-            <title outputclass="Heading3">5237.192 Services Acquisition Workshops
+<dita>
+   <concept id="i1033366" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.192 Services Acquisition Workshops
 (SAWs).</title>
             <conbody>
                <p outputclass="List1">(a) Except for acquisitions identified
@@ -33,4 +35,5 @@ by USD(A&amp;S) or ASD(A).</p>
                <p outputclass="List1">(c) Participation in a SAW or approved
 waiver is required before a services strategy will be approved.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

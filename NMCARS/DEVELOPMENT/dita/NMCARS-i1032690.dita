@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032690" outputclass="3">
-            <title outputclass="Heading3Right">5225.7799 Authority to acquire
+<dita>
+   <concept id="i1032690" outputclass="3">
+            <title outputclass="Heading3Right">
+         <ph props="autonumber"/> 5225.7799 Authority to acquire
 products and services (including construction) from Afghanistan
 or from countries along a major route of supply to Afghanistan.</title>
             <conbody>
@@ -13,4 +15,5 @@ at https://psctool.us the subject “[Activity Name] DFARS 225.7799
 or services] from a [Central Asian state, Pakistan, or the South
 Caucasus].”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

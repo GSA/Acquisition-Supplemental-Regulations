@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122737" outputclass="4">
-               <title outputclass="Heading4">5206.303-92 Bridge Contract Reporting.</title>
+<dita>
+   <concept id="i1122737" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5206.303-92 Bridge Contract Reporting.</title>
                <conbody>
                   <p outputclass="Normal">Data on bridge contract use shall
 be reported by HCAs to DASN(P). Reports shall be submitted within
@@ -12,4 +14,5 @@ website. Negative reports are required. Reports shall be submitted
 by email at https://psctool.us with the subject “NMCARS 5206.303-92
 - Bridge Contract Report by [Command Name]”.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

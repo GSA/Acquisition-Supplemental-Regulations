@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031566" outputclass="4">
-               <title outputclass="Heading4">5209.4063 Procedures.</title>
+<dita>
+   <concept id="i1031566" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5209.4063 Procedures.</title>
                <conbody>
                   <p outputclass="List3">(i) Refer all matters to AGC(AI).</p>
                   <p outputclass="List3">(ii)(D) Entity Identifier reports should
@@ -37,4 +39,5 @@ or suspension, a statement explaining why no disciplinary action
 was taken against the Government employee(s), and why debarment
 or suspension is appropriate under the circumstances.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

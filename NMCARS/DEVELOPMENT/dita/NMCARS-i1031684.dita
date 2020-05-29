@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031684" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5212.3—SOLICITATION PROVISIONS
+<dita>
+   <concept id="i1031684" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5212.3—SOLICITATION PROVISIONS
 AND CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS</title>
          
-      </concept></dita>
+      </concept>
+</dita>

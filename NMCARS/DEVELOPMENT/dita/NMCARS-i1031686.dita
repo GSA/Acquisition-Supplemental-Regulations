@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031686" outputclass="3">
-            <title outputclass="Heading3">5212.302 Tailoring of provisions
+<dita>
+   <concept id="i1031686" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5212.302 Tailoring of provisions
 and clauses for the acquisition of commercial items.</title>
             <conbody>
                <p outputclass="List1">(c) Tailoring inconsistent with
@@ -16,4 +18,5 @@ Name] DFARS 212.302 - Waiver—Authority to Add Terms and Conditions
 Inconsistent with Commercial Practice. All waiver requests shall
 contain the necessary documentation justifying the proposed action.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

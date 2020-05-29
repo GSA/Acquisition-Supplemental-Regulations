@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122801" outputclass="4">
-               <title outputclass="Heading4">5213.303-2 Establishment of BPAs.</title>
+<dita>
+   <concept id="i1122801" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5213.303-2 Establishment of BPAs.</title>
                <conbody>
                   <p outputclass="List1">(b) A business case analysis (BCA)
 is required supporting the establishment or renewal of a BPA where
@@ -17,4 +19,5 @@ If the acquisition involves Information Technology, coordination
 is also required with DON Chief Information Officer (DON CIO) as
 well as OSBP prior to submission to DASN(P).</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

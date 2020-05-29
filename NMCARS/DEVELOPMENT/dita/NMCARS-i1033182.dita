@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033182" outputclass="3">
-            <title outputclass="Heading3">5233.209 Suspected fraudulent claims.</title>
+<dita>
+   <concept id="i1033182" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.209 Suspected fraudulent claims.</title>
             <conbody>
                <p outputclass="Normal">The Naval Criminal Investigative
 Service is the agency official responsible for investigating fraud.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

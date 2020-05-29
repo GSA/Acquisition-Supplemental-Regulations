@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033206" outputclass="3">
-            <title outputclass="Heading3">5233.9002 Contractor appeals to
+<dita>
+   <concept id="i1033206" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.9002 Contractor appeals to
 the Armed Services Board of Contract Appeals (ASBCA).</title>
             <conbody>
                <p outputclass="List1">(a) General. The Office of the
@@ -54,4 +56,5 @@ modification and other contract documents are required to implement
 a settlement of ASBCA or appellate court decision, they should reference
 the ASBCA proceedings by title and docket number.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

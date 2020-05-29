@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123133" outputclass="4">
-               <title outputclass="Heading4">5237.102-90 Enterprise-wide Contractor
+<dita>
+   <concept id="i1123133" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5237.102-90 Enterprise-wide Contractor
 Manpower Reporting Application (ECMRA).</title>
                <conbody>
                   <p outputclass="List1">(a) DOD contracting activities
@@ -53,4 +55,5 @@ inputs may be reported any time during the FY, all data shall be
 reported no later than October 31 of each calendar year. Contractors
 may direct questions to the help desk, linked at https://psctool.us.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

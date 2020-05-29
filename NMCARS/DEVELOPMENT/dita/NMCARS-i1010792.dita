@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010792" outputclass="3">
-            <title outputclass="Heading3">5202.101 Definitions.</title>
+<dita>
+   <concept id="i1010792" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5202.101 Definitions.</title>
             <conbody>
                <p outputclass="Normal">“Acquisition Category” or ACAT
 is a defense acquisition program designation. For the purposes of
@@ -44,4 +46,5 @@ ASN(RDA) is the NSPE.</p>
 for a potential offeror to produce a conforming proposal in response
 to a solicitation.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

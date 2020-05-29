@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032112" outputclass="3">
-            <title outputclass="Heading3">5219.505 Rejecting Small Business
+<dita>
+   <concept id="i1032112" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5219.505 Rejecting Small Business
 Administration recommendations.</title>
             <conbody>
                <p outputclass="List1">(d) The justification shall be
@@ -11,4 +13,5 @@ copies of all correspondence between the activity and the SBA related
 to the appeal, together with the rationale justifying the activity's
 non-setaside determination.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

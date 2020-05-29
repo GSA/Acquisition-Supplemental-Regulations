@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031762" outputclass="3">
-            <title outputclass="Heading3">5214.401 Receipt and safeguarding
+<dita>
+   <concept id="i1031762" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5214.401 Receipt and safeguarding
 of bids.</title>
             <conbody>
                <p outputclass="List1">(a) Contracting offices should
@@ -16,4 +18,5 @@ bids, and should be accounted for by the maintenance of local records.
 Under no circumstances are bid samples to be given away, loaned,
 diverted, or used for any purpose other than that intended.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

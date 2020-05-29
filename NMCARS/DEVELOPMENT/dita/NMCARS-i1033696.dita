@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033696" outputclass="4">
-               <title outputclass="Heading4">5250.103-5 Processing cases.</title>
+<dita>
+   <concept id="i1033696" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5250.103-5 Processing cases.</title>
                <conbody>
                   <p outputclass="List1">(b) The contracting activity responsible
 for processing a contractor's request for contractual adjustment
@@ -11,4 +13,5 @@ joint action with other Military Departments and other departments
 and agencies of the Government, until the case is submitted to the
 Navy Contract Adjustment Board for disposition.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

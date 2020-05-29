@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032202" outputclass="4">
-               <title outputclass="Heading4">5222.101-1 General.</title>
+<dita>
+   <concept id="i1032202" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5222.101-1 General.</title>
                <conbody>
                   <p outputclass="List1">(a) Contracting officer shall
 notify the Navy Labor Advisor of all major issues regarding contract
@@ -31,4 +33,5 @@ Action].”</p>
 at https://psctool.us with the subject “PGI 222.101-1 – [Labor Relations
 Contact/Seizure/Injunctive Action].”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

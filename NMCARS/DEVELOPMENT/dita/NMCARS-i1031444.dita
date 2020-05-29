@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031444" outputclass="4">
-               <title outputclass="Heading4">5208.405-6 Limiting Sources.</title>
+<dita>
+   <concept id="i1031444" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5208.405-6 Limiting Sources.</title>
                <conbody>
                   <p outputclass="Normal">No solicitation shall be issued
 earlier than three (3) business days after the HCA forwards a copy
@@ -17,4 +19,5 @@ approval.</p>
                   <p outputclass="List1">(d)(1) At a minimum, the advocate for competition
 of the activity placing the order shall approve the justification.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

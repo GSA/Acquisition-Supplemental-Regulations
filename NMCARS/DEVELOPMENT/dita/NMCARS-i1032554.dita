@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032554" outputclass="3">
-            <title outputclass="Heading3">5225.7002 Restrictions on food,
+<dita>
+   <concept id="i1032554" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5225.7002 Restrictions on food,
 clothing, fabrics, and hand or measuring tools.</title>
             
-         </concept></dita>
+         </concept>
+</dita>

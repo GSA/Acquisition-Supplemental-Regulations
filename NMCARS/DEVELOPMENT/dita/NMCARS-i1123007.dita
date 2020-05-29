@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123007" outputclass="4">
-               <title outputclass="Heading4">5225.7003-3 Exceptions.</title>
+<dita>
+   <concept id="i1123007" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.7003-3 Exceptions.</title>
                <conbody>
                   <p outputclass="List1">(b)(2)(ii) Report on all contracts
 (including task orders/delivery orders) for the acquisition of commercial
@@ -34,4 +36,5 @@ a courtesy copy to DASN(P) by email at https://psctool.us with the
 subject “[Activity Name] DFARS 225.7003-3 – CC: Determination Approval
 by USD(A&amp;S).”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033686" outputclass="4">
-               <title outputclass="Heading4">5250.102-2 Contract adjustment boards.</title>
+<dita>
+   <concept id="i1033686" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5250.102-2 Contract adjustment boards.</title>
                <conbody>
                   <p outputclass="Normal">Members and alternate members
 will be appointed by DASN(P).</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

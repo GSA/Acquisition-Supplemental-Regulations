@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010766" outputclass="4">
-               <title outputclass="Heading4">5201.691-2 Responsibilities.</title>
+<dita>
+   <concept id="i1010766" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.691-2 Responsibilities.</title>
                <conbody>
                   <p outputclass="List1">(a) DASN(P) is responsible for
 managing and overseeing the performance of the DON contracting/procurement
@@ -73,4 +75,5 @@ to DASN(P) by e-mail at https://psctool.us with the subject “[Activity
 Name] NMCARS 5201.691-2 –Revocation of [Contracting or Purchase
 Card] Authority.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

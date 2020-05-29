@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010704" outputclass="4">
-               <title outputclass="Heading4">5201.601-90 Department of the Navy
+<dita>
+   <concept id="i1010704" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.601-90 Department of the Navy
 authorities and responsibilities.</title>
                <conbody>
                   <p outputclass="List1">(a) General. DON HCAs are responsible
@@ -262,4 +264,5 @@ of the development, production, and life-cycle support of the TRIDENT
 Strategic Weapon System, and other assigned programs under the cognizance
 of the Director, SSP (DIRSSP).</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

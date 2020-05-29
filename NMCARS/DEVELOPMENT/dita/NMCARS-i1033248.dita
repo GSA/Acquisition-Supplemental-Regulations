@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033248" outputclass="4">
-            <title outputclass="Heading4">5235.015-70 Special use allowances
+<dita>
+   <concept id="i1033248" outputclass="4">
+            <title outputclass="Heading4">
+         <ph props="autonumber"/> 5235.015-70 Special use allowances
 for research facilities acquired by educational institutions.</title>
             <conbody>
                <p outputclass="List1">(b) Policy.</p>
@@ -25,4 +27,5 @@ the work. Any such increase may be made subject to the approval
 of the sponsoring contracting activity. If more than a 15% increase
 is required, the further approval of the HCA is required.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

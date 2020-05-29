@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031936" outputclass="3">
-            <title outputclass="Heading3">5216.401 General.</title>
+<dita>
+   <concept id="i1031936" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5216.401 General.</title>
             <conbody>
                <p outputclass="List1">(d)(i)(A) HCAs shall submit copies
 of approved D&amp;Fs to DASN(P) by email at https://psctool.us with
@@ -13,4 +15,5 @@ is delegable to no lower than the Deputy/Assistant Commander for
 Contracts.</p>
                <p outputclass="Normal"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

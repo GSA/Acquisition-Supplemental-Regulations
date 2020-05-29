@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033754" outputclass="3">
-            <title outputclass="Heading3">5252.200 Scope of subpart.</title>
+<dita>
+   <concept id="i1033754" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5252.200 Scope of subpart.</title>
             <conbody>
                <p outputclass="Normal">This subpart sets forth the text
 of all NMCARS provisions and clauses and for each, gives a cross-reference
 to the location in the NMCARS that prescribes its use.</p>
             </conbody>
             
-         </concept></dita>
+         </concept>
+</dita>

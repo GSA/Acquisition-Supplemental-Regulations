@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014797" outputclass="3">
-            <title outputclass="Heading3">5203.204 Treatment of violations.</title>
+<dita>
+   <concept id="i1014797" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5203.204 Treatment of violations.</title>
             <conbody>
                <p outputclass="List1">(a)(i) Authority to provide notices,
 conduct hearings, and make findings of fact and conclusions of law
@@ -32,4 +34,5 @@ delegated to DASN(P). The AGC (AI) shall make recommendations to
 DASN(P) with respect to terminating the contractor’s right to proceed
 under the contract and assessing exemplary damages.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033594" outputclass="3">
-            <title outputclass="Heading3">5246.706 Warranty terms and conditions.</title>
+<dita>
+   <concept id="i1033594" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5246.706 Warranty terms and conditions.</title>
             <conbody>
                <p outputclass="List1">(b)(2) Remedies.</p>
                <p outputclass="List3">(iv) Acceptable turnaround time(s) for
@@ -19,4 +21,5 @@ the contractor) providing the warranty, the date or time the warranty
 expires, and an indication of whether or not attempted onsite repair
 by DON personnel will void the warranty.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

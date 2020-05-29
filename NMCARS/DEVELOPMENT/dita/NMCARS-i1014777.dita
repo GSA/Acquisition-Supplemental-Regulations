@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014777" outputclass="3">
-            <title outputclass="Heading3">5203.104 Procurement integrity.</title>
+<dita>
+   <concept id="i1014777" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5203.104 Procurement integrity.</title>
             
-         </concept></dita>
+         </concept>
+</dita>

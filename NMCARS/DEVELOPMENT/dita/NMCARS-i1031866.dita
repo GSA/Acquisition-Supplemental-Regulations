@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031866" outputclass="4">
-               <title outputclass="Heading4">5215.4031 Prohibition on obtaining
+<dita>
+   <concept id="i1031866" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5215.4031 Prohibition on obtaining
 certified cost or pricing data (10 U.S.C 2306a and 41 U.S.C. Chapter
 35).</title>
                <conbody>
@@ -53,4 +55,5 @@ DASN(P) by email at https://psctool.us with the subject “[Activity
 Name] NMCARS 5215.403-1(S-90) - Pilot Program Regarding Risk-Based
 Contracting for Smaller Contract Actions Under TINA.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

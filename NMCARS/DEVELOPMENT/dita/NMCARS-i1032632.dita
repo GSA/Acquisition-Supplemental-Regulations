@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032632" outputclass="4">
-               <title outputclass="Heading4">5225.7011-2 Waiver.</title>
+<dita>
+   <concept id="i1032632" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.7011-2 Waiver.</title>
                <conbody>
                   <p outputclass="Normal">Submit the waiver to SECNAV via
 DASN(P) by email at https://psctool.us with the subject “[Activity
@@ -14,4 +16,5 @@ are not available to meet DOD requirements on a timely basis; and</p>
                   <p outputclass="List2">(2) The acquisition shall be made in order
 to acquire capability for national security purposes.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033244" outputclass="3">
-         <title outputclass="Heading3">5235.015 Contracts for research
+<dita>
+   <concept id="i1033244" outputclass="3">
+         <title outputclass="Heading3">
+         <ph props="autonumber"/> 5235.015 Contracts for research
 with educational institutions and nonprofit organizations.</title>
          
-      </concept></dita>
+      </concept>
+</dita>

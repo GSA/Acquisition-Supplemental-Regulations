@@ -3,17 +3,18 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="i1033610">
-      <title outputclass="Heading1" class="- topic/title ">PART 5248 VALUE ENGINEERING</title>
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5248 VALUE ENGINEERING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1033616.dita#i1033616"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033616.dita#i1033616">SUBPART 5248.1—POLICIES AND PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1033622.dita#i1033622"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033622.dita#i1033622">5248.103 Processing value engineering change proposals.</xref>
                      </p>
                   </li>
                </ul>

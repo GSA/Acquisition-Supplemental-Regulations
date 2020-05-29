@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033148" outputclass="3">
-            <title outputclass="Heading3">5233.201 Definitions.</title>
+<dita>
+   <concept id="i1033148" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5233.201 Definitions.</title>
             <conbody>
                <p outputclass="Normal">"Disruption", as used in this
 part, means the cost effect upon, or the increased cost of performing,
@@ -17,4 +19,5 @@ completion date, allegedly due to contractually remediable Government
 actions or inactions. Delay can be expressed in terms of time or cost
 or some combination of time and cost.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

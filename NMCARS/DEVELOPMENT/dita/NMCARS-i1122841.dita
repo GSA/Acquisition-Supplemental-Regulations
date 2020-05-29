@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122841" outputclass="4">
-               <title outputclass="Heading4">5215.406-1 Prenegotiation objectives.</title>
+<dita>
+   <concept id="i1122841" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5215.406-1 Prenegotiation objectives.</title>
                <conbody>
                   <p outputclass="List1">(b)When the Director, Defense
 Contract Audit Agency (DCAA) elevates an audit disagreement to DPC
@@ -52,4 +54,5 @@ HCA approved alternate format by email at https://psctool.us with
 the subject “[Activity Name] NMCARS 5201.690 – Alternate Business
 Clearance Memorandum Format.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

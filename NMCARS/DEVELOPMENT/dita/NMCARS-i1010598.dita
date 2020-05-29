@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010598" outputclass="3">
-            <title outputclass="Heading3">5201.190 Reports.</title>
+<dita>
+   <concept id="i1010598" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.190 Reports.</title>
             <conbody>
                <p outputclass="Normal">Annex 14 contains a consolidated
 listing of reporting requirements for DON components and field contracting
@@ -10,4 +12,5 @@ activities. Where there is a difference between the annex and a
 specific reporting requirement not found in the annex, the specific
 requirement shall take precedence.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

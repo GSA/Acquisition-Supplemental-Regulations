@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123171" outputclass="4">
-            <title outputclass="Heading4">5249.402-8 Reporting Information.</title>
+<dita>
+   <concept id="i1123171" outputclass="4">
+            <title outputclass="Heading4">
+         <ph props="autonumber"/> 5249.402-8 Reporting Information.</title>
             <conbody>
                <p outputclass="Normal">Within five (5) calendar days
 after issuing the notice of the termination for default (T4D) or
@@ -11,4 +13,5 @@ required by FAR 42.1503(h)(1)(iii), including changes in status
 of terminations, to the AGC (AI) by email at https://psctool.uswith
 the subject "FAR 49.402-8 - T4D" followed by the contract number.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -3,27 +3,28 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="i1033520">
-      <title outputclass="Heading1" class="- topic/title ">PART 5245 GOVERNMENT PROPERTY</title>
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5245 GOVERNMENT PROPERTY</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1033530.dita#i1033530"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033530.dita#i1033530">SUBPART 5245.1—GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1033532.dita#i1033532"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033532.dita#i1033532">5245.102 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1123155.dita#i1123155"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1123155.dita#i1123155">5245.103-71 Transferring Government property accountability.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1123159.dita#i1123159"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1123159.dita#i1123159">5245.103-74 Contracting office responsibilities.</xref>
                            </p>
                         </li>
                      </ul>
@@ -32,17 +33,17 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1033540.dita#i1033540"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033540.dita#i1033540">SUBPART 5245.6—REPORTING, REUTILIZATION AND DISPOSAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1033554.dita#i1033554"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033554.dita#i1033554">5245.602 Reutilization of Government property.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1123163.dita#i1123163"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1123163.dita#i1123163">5245.602-3 Screening.</xref>
                            </p>
                         </li>
                      </ul>

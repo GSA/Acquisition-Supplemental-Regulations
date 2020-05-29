@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032920" outputclass="4">
-               <title outputclass="Heading4">5230.202-2 Impracticability of submission.</title>
+<dita>
+   <concept id="i1032920" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5230.202-2 Impracticability of submission.</title>
                <conbody>
                   <p outputclass="Normal">Submit requests for impracticability
 determinations to DASN(P) at least 60 days prior to anticipated
@@ -10,4 +12,5 @@ contract award by email at https://psctool.us with the subject “[Activity
 Name] DFARS 230.202-2 – Impracticability Determination.” Include
 the estimated date of contract award.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

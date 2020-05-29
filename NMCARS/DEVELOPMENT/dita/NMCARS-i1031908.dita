@@ -3,58 +3,59 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="i1031908">
-      <title outputclass="Heading1" class="- topic/title ">PART 5216 TYPES OF CONTRACTS</title>
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5216 TYPES OF CONTRACTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1031918.dita#i1031918"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031918.dita#i1031918">SUBPART 5216.2—FIXED-PRICE CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031922.dita#i1031922"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031922.dita#i1031922">5216.202-90 Firm-fixed-price contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1031924.dita#i1031924"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031924.dita#i1031924">SUBPART 5216.3—COST-REIMBURSEMENT CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031932.dita#i1031932"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031932.dita#i1031932">5216.306 Cost-plus-fixed-fee contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1031934.dita#i1031934"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031934.dita#i1031934">SUBPART 5216.4—INCENTIVE CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031936.dita#i1031936"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031936.dita#i1031936">5216.401 General.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1031944.dita#i1031944"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031944.dita#i1031944">SUBPART 5216.5—INDEFINITE-DELIVERY CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031952.dita#i1031952"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031952.dita#i1031952">5216.504 Indefinite-quantity contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1031962.dita#i1031962"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031962.dita#i1031962">5216.505 Ordering.</xref>
                      </p>
                   </li>
                </ul>

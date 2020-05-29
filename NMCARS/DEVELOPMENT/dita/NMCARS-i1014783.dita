@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014783" outputclass="4">
-               <title outputclass="Heading4">5203.104-7 Violations or possible
+<dita>
+   <concept id="i1014783" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5203.104-7 Violations or possible
 violations.</title>
                <conbody>
                   <p outputclass="List1">(a)(1) The CCO is designated,
@@ -16,4 +18,5 @@ Possible Procurement Integrity Act Violation.” Verify receipt by the
 agency head before authorizing award of the contract or execution
 of the contract modification.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

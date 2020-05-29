@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033682" outputclass="4">
-               <title outputclass="Heading4">5250.102-1-70 Delegations.</title>
+<dita>
+   <concept id="i1033682" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5250.102-1-70 Delegations.</title>
                <conbody>
                   <p outputclass="List1">(a) Military Departments. Subject
 to the restrictions on delegations of authority in DFARS Part 250
@@ -18,4 +20,5 @@ by email at https://psctool.us with the subject “[Activity Name]
 DFARS 250.102-1-70 - Extraordinary Contractual Relief pursuant to
 [insert “Public Law 85-804” or “Executive Order 10789”].</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010718" outputclass="4">
-               <title outputclass="Heading4">5201.602-1 Authority.</title>
+<dita>
+   <concept id="i1010718" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.602-1 Authority.</title>
                <conbody>
                   <p outputclass="List1">(b) Contract documents shall be
 forwarded to the appropriate attorney or attorneys in the Office
 of General Counsel for review as to form and legality.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122969" outputclass="4">
-               <title outputclass="Heading4">5225.772-4 Exception.</title>
+<dita>
+   <concept id="i1122969" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.772-4 Exception.</title>
                <conbody>
                   <p outputclass="List1">(b) Submit exception requests
 via DASN(P) by email at https://psctool.us with the subject “[Activity
 Name] DFARS 225.772-4 – “Certain Commercial Satellite Services Exception
 Request.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

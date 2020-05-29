@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123145" outputclass="4">
-               <title outputclass="Heading4">5243.204-70 Definitization of change
+<dita>
+   <concept id="i1123145" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5243.204-70 Definitization of change
 orders.</title>
-            </concept></dita>
+            </concept>
+</dita>

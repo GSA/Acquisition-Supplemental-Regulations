@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1015029" outputclass="3">
-            <title outputclass="Heading3">5206.502 Duties and responsibilities.</title>
+<dita>
+   <concept id="i1015029" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5206.502 Duties and responsibilities.</title>
             <conbody>
                <p outputclass="List1">(b)(2) The annual competition
 report shall be submitted via DASN(P) by January 31st of each year
@@ -17,4 +19,5 @@ of application of competition in the acquisition process; and</p>
 valid complaints from the private sector are resolved in a fair
 and timely manner.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

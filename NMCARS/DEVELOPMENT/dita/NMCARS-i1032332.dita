@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032332" outputclass="4">
-               <title outputclass="Heading4">5223.370-5 Contract clauses.</title>
+<dita>
+   <concept id="i1032332" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5223.370-5 Contract clauses.</title>
                <conbody>
                   <p outputclass="List1">(a) Use the clause at 5252.223-9000,
 DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT
@@ -19,4 +21,5 @@ to the additional requirements (e.g. specify activity points of
 contact, adjust specified lead times) or add further measures which
 increase safety requirements as appropriate.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

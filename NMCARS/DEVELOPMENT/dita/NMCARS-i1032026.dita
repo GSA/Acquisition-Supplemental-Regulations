@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032026" outputclass="3">
-            <title outputclass="Heading3">5217.204 Contracts.</title>
+<dita>
+   <concept id="i1032026" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.204 Contracts.</title>
             <conbody>
                <p outputclass="List1">(e)(i) Approval for use of contract
 terms in excess of the limitations specified in FAR 17.204(e) shall
@@ -25,4 +27,5 @@ and SeaPort-e Indefinite Delivery, Indefinite Quantity Contracts,”
 for task or delivery orders issued on or before December 31, 2019
 under the Naval Sea Systems Command’s SeaPort IDIQ contracts.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

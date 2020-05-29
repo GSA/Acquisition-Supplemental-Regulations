@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033388" outputclass="3">
-            <title outputclass="Heading3">5237.503 Agency-head responsibilities.</title>
+<dita>
+   <concept id="i1033388" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.503 Agency-head responsibilities.</title>
             <conbody>
                <p outputclass="Normal">(S-90)(a) All acquisition of
 services valued in excess of the SAT shall comply with the policy
@@ -24,4 +26,5 @@ value, and performance risk of the procurement.</p>
                <p id="i1033390" outputclass="List1">(e) See FAR 7.104(a) for
 the requirements for updates and revisions.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

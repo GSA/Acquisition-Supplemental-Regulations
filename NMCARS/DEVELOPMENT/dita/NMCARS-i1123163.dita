@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1123163" outputclass="4">
-               <title outputclass="Heading4">5245.602-3 Screening.</title>
+<dita>
+   <concept id="i1123163" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5245.602-3 Screening.</title>
                <conbody>
                   <p outputclass="List1">(a) To accomplish the screening
 requirements within prescribed time periods, the following procedures
@@ -29,4 +31,5 @@ storage costs, location, planned period of storage, and source of
 funds for storage. The use of "nocosts" or no direct cost storage agreements
 is prohibited.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

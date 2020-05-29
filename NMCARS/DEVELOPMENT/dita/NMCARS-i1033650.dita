@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033650" outputclass="3">
-            <title outputclass="Heading3">5249.7001&nbsp;Congressional
+<dita>
+   <concept id="i1033650" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5249.7001Congressional
 notification on significant contract terminations.</title>
             <conbody id="i1033654">
                <p outputclass="List2">(2) When a decision
@@ -24,4 +26,5 @@ significant actions taken prior to making the termination decision.</p>
 and event (s) that may impact termination costs if the termination
 does not occur by the stated date(s).</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

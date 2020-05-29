@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032756" outputclass="4">
-               <title outputclass="Heading4">5228.307-90 Liability of subcontractors
+<dita>
+   <concept id="i1032756" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5228.307-90 Liability of subcontractors
 to third parties.</title>
                <conbody>
                   <p outputclass="List1">(a) In general, DON will not assume
@@ -12,4 +14,5 @@ contracting officers may, when in the best interest of Government,
 provide for flow down of the clause at FAR 52.228-7, Insurance--Liability
 to Third Persons, to cost-reimbursement subcontracts.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

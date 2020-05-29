@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033032" outputclass="3">
-            <title outputclass="Heading3">5232.402 General.</title>
+<dita>
+   <concept id="i1033032" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5232.402 General.</title>
             <conbody>
                <p outputclass="List1">(e) Submit requests for advance
 payments to ASN(FM&amp;C) via DASN(P) by email at https://psctool.us
 with the subject “[Activity Name] FAR 32.402 – Advance Payments
 Request.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

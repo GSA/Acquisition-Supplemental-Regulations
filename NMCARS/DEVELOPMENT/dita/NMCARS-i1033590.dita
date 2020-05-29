@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033590" outputclass="3">
-            <title outputclass="Heading3">5246.703 Criteria for use of warranties.</title>
+<dita>
+   <concept id="i1033590" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5246.703 Criteria for use of warranties.</title>
             <conbody>
                <p outputclass="Normal">Notwithstanding FAR 46.703 and
 in accordance with 10 U.S.C. 7318, effective the date of enactment
@@ -20,4 +22,5 @@ the contract to a level that the contracting officer determines
 is sufficient to protect the interests of the Government and is
 in keeping with historical levels of warranted work on similar vessels.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

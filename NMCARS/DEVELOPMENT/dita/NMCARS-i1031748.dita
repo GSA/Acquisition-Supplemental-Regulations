@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031748" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5214.4—OPENING OF BIDS AND
+<dita>
+   <concept id="i1031748" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5214.4—OPENING OF BIDS AND
 AWARD OF CONTRACT</title>
          
          
-      </concept></dita>
+      </concept>
+</dita>

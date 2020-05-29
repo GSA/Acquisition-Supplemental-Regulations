@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122957" outputclass="4">
-               <title outputclass="Heading4">5225.771-4 Waiver of prohibition.</title>
+<dita>
+   <concept id="i1122957" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.771-4 Waiver of prohibition.</title>
                <conbody>
                   <p outputclass="Normal">Submit waivers via DASN(P) by
 email at https://psctool.us with the subject “[Activity Name] DFARS
 225.771-4 – “State Sponsor of Terrorism Waiver Request.”</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

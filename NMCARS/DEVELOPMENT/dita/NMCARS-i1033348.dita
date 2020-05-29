@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033348" outputclass="3">
-            <title outputclass="Heading3">5237.103 Contracting officer responsibility.</title>
+<dita>
+   <concept id="i1033348" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.103 Contracting officer responsibility.</title>
             <conbody>
                <p outputclass="List1">(a) For acquisitions that require
 services to be delivered or performed on a DOD installation, DOD
@@ -20,4 +22,5 @@ https://psctool.us with the subject “NMCARS 5237.103(a)(3)(iii)
 – D&amp;F Negating the Requirement to Consider SeaPort”. Activities
 can expect disposition of the D&amp;F within five (5) business days.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032168" outputclass="4">
-               <title outputclass="Heading4">5219.804-1 Agency evaluation.</title>
+<dita>
+   <concept id="i1032168" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5219.804-1 Agency evaluation.</title>
                <conbody>
                   <p outputclass="List1">(f) Agency reviews, in addition
 to the factors in FAR 19.803(a), may take the form of a technical
@@ -38,4 +40,5 @@ declinations with the activity small business specialist or the
 CCO.</p>
                   <p outputclass="Normal"/>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

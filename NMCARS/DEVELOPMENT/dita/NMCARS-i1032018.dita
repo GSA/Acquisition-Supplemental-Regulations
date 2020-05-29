@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032018" outputclass="3">
-            <title outputclass="Heading3">5217.174 Multiyear contracts for
+<dita>
+   <concept id="i1032018" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.174 Multiyear contracts for
 electricity from renewable energy sources.</title>
             <conbody>
                <p outputclass="List1">(a) Only COMNAVFACENGCOM has the
 authority to award contracts pursuant to this section.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

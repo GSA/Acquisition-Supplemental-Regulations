@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032008" outputclass="3">
-            <title outputclass="Heading3">5217.171 Multiyear contracts for
+<dita>
+   <concept id="i1032008" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.171 Multiyear contracts for
 services.</title>
             <conbody>
                <p outputclass="List1">(c) HCAs are delegated the authority,
 without power of redelegation, to make the written determination
 required by DFARS 217.171(c).</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

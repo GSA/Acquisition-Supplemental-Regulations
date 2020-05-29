@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031932" outputclass="3">
-            <title outputclass="Heading3">5216.306 Cost-plus-fixed-fee contracts.</title>
+<dita>
+   <concept id="i1031932" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5216.306 Cost-plus-fixed-fee contracts.</title>
             <conbody>
                <p outputclass="List1">(c) Limitations.</p>
                <p outputclass="List3">(ii)(A) COMNAVFAC is delegated authority
@@ -14,4 +16,5 @@ requiring SECDEF approval shall be routed through NAVFACENGCOM and
 then via DASN(P) by email at https://psctool.us with the subject
 “[Activity Name] DFARS 216.306 – CPFF Contract Approval.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

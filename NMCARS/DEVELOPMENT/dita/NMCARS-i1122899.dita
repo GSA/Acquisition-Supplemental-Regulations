@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122899" outputclass="4">
-               <title outputclass="Heading4">5222.101-3 Labor Disputes.</title>
+<dita>
+   <concept id="i1122899" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5222.101-3 Labor Disputes.</title>
                <conbody>
                   <p outputclass="List2">(1) Immediately upon receipt of
 notice of an actual or potential labor dispute involving or impacting
@@ -59,4 +61,5 @@ necessary to remove government-owned material from a strike-bound
 plant or facility because the contractor is unable to deliver due
 to the strike.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

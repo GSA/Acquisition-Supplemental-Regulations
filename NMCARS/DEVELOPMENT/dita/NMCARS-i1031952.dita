@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031952" outputclass="3">
-            <title outputclass="Heading3">5216.504 Indefinite-quantity contracts.</title>
+<dita>
+   <concept id="i1031952" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5216.504 Indefinite-quantity contracts.</title>
             <conbody>
                <p outputclass="List1">(a)(4)(v) The Navy task and delivery
 order ombudsman is Ms. Cindy Shaver, Deputy Assistant Secretary
@@ -20,4 +22,5 @@ or MOPAS-S by email at https://psctool.us with the subject “[Activity
 Name] DFARS 216.504 – D&amp;F for Single Award [contract/task/delivery
 order number]”.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032146" outputclass="3">
-            <title outputclass="Heading3">5219.803 Selecting acquisitions
+<dita>
+   <concept id="i1032146" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5219.803 Selecting acquisitions
 for the 8(a) Program.</title>
             <conbody>
                <p outputclass="List2">(2)(i) Contracting officers, in
@@ -16,4 +18,5 @@ the contracting officer determines that urgent mission requirements
 preclude further consideration, declination responses to SBA should
 factually explain such determinations.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

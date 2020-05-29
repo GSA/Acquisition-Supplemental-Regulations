@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033218" outputclass="3">
-            <title outputclass="Heading3">5234.7002 Policy.</title>
+<dita>
+   <concept id="i1033218" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5234.7002 Policy.</title>
             <conbody>
                <p outputclass="List1">(a)(1)(i) Submit the required
 written determination for approval by the Secretary of Defense/Deputy
@@ -13,4 +15,5 @@ https://psctool.us with the subject “[Activity Name] DFARS 234.7002(a)(i)
 - D&amp;F: Approval to Acquire a Major Weapon System as a Commercial
 Item.”</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1122713" outputclass="4">
-               <title outputclass="Heading4">5204.7303-1 General.</title>
+<dita>
+   <concept id="i1122713" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5204.7303-1 General.</title>
                <conbody>
                   <p outputclass="List1">(b) (S-90) As provided in the
 memorandum titled, “Updated Implementation of the DIB Memo”</p>
@@ -41,4 +43,5 @@ to require correction of nonconformance rather than acceptance,
 withholding/reduction or suspension of progress payments should
 be considered if correction is not effected in a timely manner.</p>
                </conbody>
-            </concept></dita>
+            </concept>
+</dita>

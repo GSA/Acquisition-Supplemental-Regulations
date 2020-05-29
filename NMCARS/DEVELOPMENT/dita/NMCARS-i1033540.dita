@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033540" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5245.6—REPORTING, REUTILIZATION
+<dita>
+   <concept id="i1033540" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5245.6—REPORTING, REUTILIZATION
 AND DISPOSAL</title>
          
-      </concept></dita>
+      </concept>
+</dita>

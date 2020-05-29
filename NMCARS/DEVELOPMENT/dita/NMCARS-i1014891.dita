@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1014891" outputclass="3">
-            <title outputclass="Heading3">5204.7303 Procedures.</title>
+<dita>
+   <concept id="i1014891" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5204.7303 Procedures.</title>
             
-         </concept></dita>
+         </concept>
+</dita>

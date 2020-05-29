@@ -3,40 +3,41 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="i1032926">
-      <title outputclass="Heading1" class="- topic/title ">PART 5231 CONTRACT COST PRINCIPLES
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5231 CONTRACT COST PRINCIPLES
 AND PROCEDURES</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1032938.dita#i1032938"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1032938.dita#i1032938">SUBPART 5231.1—APPLICABILITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1032950.dita#i1032950"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1032950.dita#i1032950">5231.109 Advance agreements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="NMCARS-i1032956.dita#i1032956"/>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1032956.dita#i1032956">SUBPART 5231.2—CONTRACTS WITH COMMERCIAL ORGANIZATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="NMCARS-i1032962.dita#i1032962"/>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1032962.dita#i1032962">5231.205 Selected costs.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1032966.dita#i1032966"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1032966.dita#i1032966">5231.205-90 Shipbuilding capability preservation agreements.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="NMCARS-i1032970.dita#i1032970"/>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1032970.dita#i1032970">5231.205-91 Compensation for services.</xref>
                            </p>
                         </li>
                      </ul>

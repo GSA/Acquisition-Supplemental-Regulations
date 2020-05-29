@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031842" outputclass="3">
-            <title outputclass="Heading3">5215.305 Proposal evaluation.</title>
+<dita>
+   <concept id="i1031842" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5215.305 Proposal evaluation.</title>
             <conbody>
                <p outputclass="List1">(a)(1) Cost or price evaluation.
 Methods of evaluation which assign a point score to cost or price
@@ -31,4 +33,5 @@ act in a decision-making capacity. Whenever advisory contractor
 personnel are to be used, a written release shall be obtained from
 each offeror.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

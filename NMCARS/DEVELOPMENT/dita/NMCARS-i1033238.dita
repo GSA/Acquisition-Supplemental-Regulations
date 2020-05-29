@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033238" outputclass="3">
-         <title outputclass="Heading3">5235.006 Contracting methods and
+<dita>
+   <concept id="i1033238" outputclass="3">
+         <title outputclass="Heading3">
+         <ph props="autonumber"/> 5235.006 Contracting methods and
 contract type.</title>
          <conbody>
             <p outputclass="List1">(b)(ii)(B) When the milestone
@@ -16,4 +18,5 @@ by email at https://psctool.us with the subject “[Activity Name]
 DFARS 235.006 – [Prenegotiation Position/Negotiated Agreement] Approval
 Request.”</p>
          </conbody>
-      </concept></dita>
+      </concept>
+</dita>

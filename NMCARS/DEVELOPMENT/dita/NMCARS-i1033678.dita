@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033678" outputclass="3">
-            <title outputclass="Heading3">5250.102 Delegation of and limitations
+<dita>
+   <concept id="i1033678" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5250.102 Delegation of and limitations
 on exercise of authority.</title>
             
             
-         </concept></dita>
+         </concept>
+</dita>

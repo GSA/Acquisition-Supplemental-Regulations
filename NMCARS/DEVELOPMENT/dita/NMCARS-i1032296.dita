@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032296" outputclass="2">
-         <title outputclass="Heading2">SUBPART 5222.90— DEPARTMENT OF THE
+<dita>
+   <concept id="i1032296" outputclass="2">
+         <title outputclass="Heading2">
+         <ph props="autonumber"/> SUBPART 5222.90— DEPARTMENT OF THE
 NAVY NON-CONSTRUCTION CONTRACTS CONTAINING CONSTRUCTION WORK</title>
          
-      </concept></dita>
+      </concept>
+</dita>

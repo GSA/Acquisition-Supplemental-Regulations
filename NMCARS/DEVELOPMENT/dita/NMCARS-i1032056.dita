@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1032056" outputclass="3">
-            <title outputclass="Heading3">5217.770 Procedures.</title>
+<dita>
+   <concept id="i1032056" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.770 Procedures.</title>
             <conbody>
                <p outputclass="Normal">HCAs shall establish and maintain
 procedures for reviewing and approving orders placed for supplies
@@ -24,4 +26,5 @@ Officer/SES, the commanding officer of that activity.</p>
                <p outputclass="List2">(2) Direct acquisitions. The business clearance
 approval official is the decision authority for direct acquisitions.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1031600" outputclass="3">
-            <title outputclass="Heading3">5209.503 Waiver.</title>
+<dita>
+   <concept id="i1031600" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5209.503 Waiver.</title>
             <conbody>
                <p outputclass="Normal">The HCA is the agency head’s
 designee, without power of redelegation, for making the determinations
-required by FAR&nbsp;9.503.</p>
+required by FAR9.503.</p>
                <p outputclass="Normal"/>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

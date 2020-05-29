@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033466" outputclass="3">
-            <title outputclass="Heading3">5242.191 Audit resolution and disposition.</title>
+<dita>
+   <concept id="i1033466" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5242.191 Audit resolution and disposition.</title>
             <conbody>
                <p outputclass="List1">(a) Resolution of findings/recommendations
 in reportable contract audit reports, other than pre-award audits,
@@ -25,4 +27,5 @@ documentation of actions taken to achieve resolution and disposition
 shall be recorded within the CAFU DCMA eTools system monthly. DASN(P)
 PA&amp;BT is the DON liaison.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

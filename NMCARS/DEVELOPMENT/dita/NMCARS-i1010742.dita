@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1010742" outputclass="3">
-            <title outputclass="Heading3">5201.690 Requirements to be met
+<dita>
+   <concept id="i1010742" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.690 Requirements to be met
 before entering into contracts.</title>
             <conbody>
                <p outputclass="List1">(a) Contract actions must be subject
@@ -82,4 +84,5 @@ and contracts subject to TBC are those valued at &gt;$150K and with performance
 &gt; 30 days that require performance or delivery, including construction
 contracts, with the place of performance in Afghanistan.</p>
             </conbody>
-         </concept></dita>
+         </concept>
+</dita>

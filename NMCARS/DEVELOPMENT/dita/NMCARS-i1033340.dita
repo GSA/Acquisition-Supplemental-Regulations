@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="i1033340" outputclass="3">
-            <title outputclass="Heading3">5237.102 Policy.</title>
+<dita>
+   <concept id="i1033340" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.102 Policy.</title>
             <conbody>
                <p outputclass="Normal">The consideration of using SeaPort
 to satisfy the requirements for the functional areas shown in Annex
@@ -22,4 +24,5 @@ methods.</p>
             </conbody>
             
             
-         </concept></dita>
+         </concept>
+</dita>
