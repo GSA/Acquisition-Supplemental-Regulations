@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1032356" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5223.406 Solicitation provision
+and contract clauses.</title>
+            <conbody>
+               <p outputclass="List1">(d) When using the clause at FAR
+52.223-9, contracting officers shall insert the following address
+into paragraph (b) (or paragraph (c) if using Alternative (ALT I)
+of the clause:</p>
+               <p outputclass="Normal">Commanding Officer</p>
+               <p outputclass="Normal">Naval Facilities Engineering Service Center</p>
+               <p outputclass="Normal">Code 424 CA, 1100 23rd Avenue</p>
+               <p outputclass="Normal">Port Hueneme, CA 93043-4370</p>
+            </conbody>
+         </concept>
+</dita>

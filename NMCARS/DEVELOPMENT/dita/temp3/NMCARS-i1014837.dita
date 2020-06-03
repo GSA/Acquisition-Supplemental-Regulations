@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="i1014837">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5204 ADMINISTRATIVE MATTERS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1014853.dita#i1014853">SUBPART 5204.2—CONTRACT DISTRIBUTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1014863.dita#i1014863">5204.270 Electronic Document Access.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-id206390T10HT.dita#id206390T10HT">5204.270-1 Policy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1014865.dita#i1014865">SUBPART 5204.6—CONTRACT REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1014873.dita#i1014873">5204.604 Responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1014887.dita#i1014887">SUBPART 5204.8—GOVERNMENT CONTRACT FILES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-id206390T10PF.dita#id206390T10PF">5204.804 Closeout of contract files.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-id206390T10PN.dita#id206390T10PN">5204.804-1 Closeout by the office administering the contract.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1014889.dita#i1014889">SUBPART 5204.73-SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPO RTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1014891.dita#i1014891">5204.7303 Procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-id206390T107Q.dita#id206390T107Q">5204.7303-1 General.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

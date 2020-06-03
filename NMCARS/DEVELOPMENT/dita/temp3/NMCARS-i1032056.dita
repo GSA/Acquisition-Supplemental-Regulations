@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1032056" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5217.770 Procedures.</title>
+            <conbody>
+               <p outputclass="Normal">HCAs shall establish and maintain
+procedures for reviewing and approving orders placed for supplies
+and services under non-DoD contracts, whether through direct acquisition
+or assisted acquisition, when the amount of the order exceeds the
+simplified acquisition threshold.</p>
+               <p outputclass="List2">(1) Assisted acquisitions.</p>
+               <p outputclass="List3">(i) ASN(RDA) is the decision authority
+for assisted acquisitions exceeding $550,000,000.</p>
+               <p outputclass="List3">(ii) DASN(P) is the decision authority
+for assisted acquisitions exceeding $50,000,000.</p>
+               <p outputclass="List3">(iii) The HCA is the decision authority
+for assisted acquisitions at or below $50,000,000. This authority
+may be delegated; but, for requirements over $5,000,000, decision
+authority may only be delegated to an official in the Requiring Organization
+who is a Flag or General Officer; a member of the SES; or, for a
+requirement arising from a claimant activity without Flag/General
+Officer/SES, the commanding officer of that activity.</p>
+               <p outputclass="List2">(2) Direct acquisitions. The business clearance
+approval official is the decision authority for direct acquisitions.</p>
+            </conbody>
+         </concept>
+</dita>

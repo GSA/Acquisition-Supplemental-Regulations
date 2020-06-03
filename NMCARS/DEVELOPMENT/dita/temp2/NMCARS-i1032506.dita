@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1032506" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.802-71 End Use Certificates.</title>
+               <conbody>
+                  <p outputclass="Normal">ASN(RDA) may authorize the execution
+of Category I and II End Use Certificates (EUCs). Category III EUCs
+require a waiver by the USD(AT&amp;L). All requests for EUCs shall
+be forwarded via the Navy International Programs Office for review to
+determine the proper category and to recommend approval.</p>
+               </conbody>
+            </concept>
+</dita>

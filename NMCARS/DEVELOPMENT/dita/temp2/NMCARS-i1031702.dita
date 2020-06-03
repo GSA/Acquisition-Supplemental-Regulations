@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="i1031702">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/>  PART 5213 SIMPLIFIED ACQUISITION
+PROCEDURES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031710.dita#i1031710">5213.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1031716.dita#i1031716">SUBPART 5213.3—SIMPLIFIED ACQUISITION METHODS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031726.dita#i1031726">5213.303 Blanket purchase agreements (BPAs).</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-id206390T10BZ.dita#id206390T10BZ">5213.303-2 Establishment of BPAs.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1031728.dita#i1031728">5213.305 Imprest funds and third party drafts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-i1031732.dita#i1031732">5213.305-3 Conditions for use.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

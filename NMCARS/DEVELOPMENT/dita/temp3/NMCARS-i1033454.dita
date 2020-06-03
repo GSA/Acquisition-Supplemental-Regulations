@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="i1033454">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/>  PART 5242 CONTRACT ADMINISTRATION
+AND AUDIT SERVICES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033460.dita#i1033460">SUBPART 5242.1—CONTRACT AUDIT SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033466.dita#i1033466">5242.191 Audit resolution and disposition.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033480.dita#i1033480">SUBPART 5242.6—CORPORATE ADMINISTRATIVE CONTRACTING OFFICER</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033492.dita#i1033492">5242.602 Assignment and location.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

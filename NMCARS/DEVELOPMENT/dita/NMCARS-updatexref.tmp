@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll False?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+     outputclass="gsam"
+     ditaarch:DITAArchVersion="1.2"
+     domains="(topic delay-d)                          (map mapgroup-d)                           (topic indexing-d)                          (map glossref-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         "
+     class="- map/map ">
+   <title class="- topic/title ">NMCARS</title>
+   
+      
+         
+            
+               
+               
+               
+               
+                  
+               
+               
+               
+               
+                  
+               
+               
+            
+            
+               
+                  
+               
+            
+            
+               
+               
+            
+            
+               
+               
+               
+            
+            
+               
+                  
+               
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+                  
+                  
+               
+            
+         
+         
+            
+               
+            
+         
+         
+            
+               
+                  
+               
+               
+                  
+               
+            
+            
+               
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+               
+            
+            
+               
+            
+            
+               
+               
+            
+            
+               
+                  
+               
+            
+         
+         
+            
+               
+            
+            
+               
+                  
+               
+            
+         
+         
+            
+               
+            
+            
+               
+                  
+               
+               
+                  
+                  
+                  
+                  
+               
+               
+               
+            
+            
+               
+               
+            
+         
+         
+            
+               
+               
+               
+               
+                  
+                  
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+            
+            
+               
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+            
+            
+               
+               
+            
+         
+         
+            
+               
+            
+            
+               
+                  
+               
+            
+            
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+                  
+               
+            
+         
+         
+            
+            
+               
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+               
+            
+            
+               
+               
+               
+               
+               
+            
+            
+               
+                  
+                  
+               
+               
+                  
+               
+            
+            
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+               
+            
+         
+         
+            
+               
+                  
+               
+               
+               
+               
+                  
+               
+               
+            
+            
+               
+               
+            
+            
+               
+                  
+                  
+               
+            
+            
+               
+               
+            
+            
+               
+               
+                  
+               
+               
+            
+         
+         
+            
+               
+               
+            
+            
+               
+            
+            
+               
+                  
+               
+            
+            
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+               
+                  
+               
+               
+                  
+                  
+               
+            
+            
+               
+            
+            
+               
+                  
+                  
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+            
+            
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+            
+               
+               
+            
+            
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+               
+            
+            
+               
+                  
+                  
+               
+               
+                  
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+               
+                  
+               
+            
+            
+               
+                  
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+               
+               
+                  
+                  
+               
+            
+            
+               
+               
+               
+               
+            
+         
+         
+            
+               
+            
+         
+         
+            
+               
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+            
+            
+               
+                  
+                  
+               
+            
+         
+         
+            
+               
+                  
+               
+            
+            
+               
+            
+            
+               
+                  
+               
+            
+            
+               
+                  
+               
+               
+            
+            
+               
+            
+         
+         
+            
+               
+               
+               
+            
+            
+               
+               
+               
+                  
+               
+               
+               
+            
+            
+               
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+         
+         
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+               
+               
+               
+                  
+               
+               
+            
+            
+               
+            
+            
+               
+               
+               
+            
+            
+               
+            
+            
+               
+            
+         
+         
+            
+            
+               
+            
+         
+         
+            
+               
+            
+         
+         
+            
+               
+            
+            
+               
+            
+         
+         
+            
+               
+               
+                  
+                  
+               
+            
+         
+         
+            
+               
+                  
+                  
+               
+            
+            
+               
+                  
+               
+            
+         
+         
+            
+               
+               
+               
+            
+         
+         
+            
+               
+            
+         
+         
+            
+               
+               
+               
+            
+            
+               
+            
+         
+         
+            
+               
+                  
+               
+               
+                  
+                  
+               
+               
+                  
+                  
+               
+               
+                  
+               
+            
+         
+         
+            
+               
+            
+            
+               
+                  
+               
+            
+         
+         <topicref navtitle="ANNEX 1 - JUSTIFICATION AND APPROVAL"
+             base="concept"
+             href="Annex1.dita"
+             props="Annex1"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 2 - BUSINESS CLEARANCE MEMORANDUM"
+             base="concept"
+             href="Annex2.dita"
+             props="Annex2"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 3 - DOMESTIC NONAVAILABILITY&#xA;DETERMINATION"
+             base="concept"
+             href="Annex3.dita"
+             props="Annex3"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 4 – [RESERVED]"
+             base="concept"
+             href="Annex4.dita"
+             props="Annex4"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 5 - BRIDGE CONTRACT APPROVAL&#xA;AND REPORTING"
+             base="concept"
+             href="Annex5.dita"
+             props="Annex5"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 6 - CONSOLIDATED UNDEFINITIZED&#xA;CONTRACT ACTION (UCA) MANAGEMENT REPORT"
+             base="concept"
+             href="Annex6.dita"
+             props="Annex6"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 7 – SECTION 843 DETERMINATION&#xA;&amp; FINDING TEMPLATE"
+             base="concept"
+             href="Annex7.dita"
+             props="Annex7"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 8 - PEER REVIEW ROLLING FORECAST"
+             base="concept"
+             href="Annex8.dita"
+             props="Annex8"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 9 – GOVERNMENT-FURNISHED PROPERTY&#xA;PREAWARD COMPLIANCE CHECKLIST"
+             base="concept"
+             href="Annex9.dita"
+             props="Annex9"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 10 - NOTICE OF SUSPECTED VIOLATIONS&#xA;OF THE GRATUITIES CLAUSE"
+             base="concept"
+             href="Annex10.dita"
+             props="Annex10"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 11 - Delegation of Contracting&#xA;Authority Annual Report"
+             base="concept"
+             href="Annex11.dita"
+             props="Annex11"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 12 - Waiver Request for Appointing&#xA;a Non-DON Employee as a Contracting Officer"
+             base="concept"
+             href="Annex12.dita"
+             props="Annex12"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 13 – SMALL BUSINESS INNOVATION&#xA;RESEARCH (SBIR) PHASE III JUSTIFICATION &amp; APPROVAL FOR USE OF&#xA;OTHER THAN FULL AND OPEN COMPETITION"
+             base="concept"
+             href="Annex13.dita"
+             props="Annex13"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 14 – REPORTS"
+             base="concept"
+             href="Annex14.dita"
+             props="Annex14"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 15 – UAC/RATIFICATION REPORTS"
+             base="concept"
+             href="Annex15.dita"
+             props="Annex15"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 16 – STATEMENT OF WORK LANGUAGE&#xA;IMPLEMENTING “THE DIB” MEMO"
+             base="concept"
+             href="Annex16.dita"
+             props="Annex16"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 17 - PROGRAM STREAMLINED ACQUISITION&#xA;PLAN (PSTRAP)"
+             base="concept"
+             href="Annex17.dita"
+             props="Annex17"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 18 – INDIVIDUAL STREAMLINED&#xA;ACQUISITION PLAN (ISTRAP)"
+             base="concept"
+             href="Annex18.dita"
+             props="Annex18"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 19 – PROGRAM STREAMLINED ACQUISITION&#xA;PLAN WITH SERVICES (PSTRAP-M)"
+             base="concept"
+             href="Annex19.dita"
+             props="Annex19"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 20 – INDIVIDUAL STREAMLINED&#xA;ACQUISITION PLAN WITH SERVICES (ISTRAP-M)"
+             base="concept"
+             href="Annex20.dita"
+             props="Annex20"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 21 – MANAGEMENT AND OVERSIGHT&#xA;PROCESS FOR THE ACQUISITION OF SERVICES - STREAMLINED (MOPAS-S)"
+             base="concept"
+             href="Annex21.dita"
+             props="Annex21"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 22 – SEAPORT ENGINEERING AND&#xA;PROGRAM MANAGEMENT CATEGORIES"
+             base="concept"
+             href="Annex22.dita"
+             props="Annex22"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 23 – DOD WAIVERS OF THE CONTRACTOR&#xA;EMPLOYEE COMPENSATION CAP"
+             base="concept"
+             href="Annex23.dita"
+             props="Annex23"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 24 – CONTRACT CLOSEOUT METRIC&#xA;REPORT"
+             base="concept"
+             href="Annex24.dita"
+             props="Annex24"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+         <topicref navtitle="ANNEX 25 – LONG RANGE ACQUISITION&#xA;FORECAST"
+             base="concept"
+             href="Annex25.dita"
+             props="Annex25"
+             outputclass="Part"
+             otherprops="NoProp"
+             class="- map/topicref "/>
+      
+   
+</map>

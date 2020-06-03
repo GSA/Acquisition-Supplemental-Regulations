@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1015003" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5206.304 Approval of the justification.</title>
+            <conbody>
+               <p outputclass="List1">(a)(S-90) Notwithstanding FAR
+6.304, DFARS 206.304, the HCA is designated as the approval authority
+for justifications of 8(a) sole source awards exceeding $100 million.
+HCA authority may be delegated to the Deputy/Assistant Commander for
+Contracts, without power of redelegation.</p>
+               <p outputclass="List1">(a)(1) For contract actions that would
+negate the use of SeaPort, the justification shall be</p>
+               <p outputclass="Normal">approved by the advocate for competition
+for the procuring activity.</p>
+               <p outputclass="List2">(2) DON activities with contracting authority
+in excess of $700,000 may be considered "procuring activities" solely
+for the purpose of enabling their competition advocate to exercise
+this approval authority.</p>
+               <p outputclass="List2">(4) Justifications for ASN(RDA) approval
+must be submitted via DASN(P) by email at RDAJ&amp;As.fct@navy.mil
+with the subject “[Activity Name] DFARS 206.304(a)(4) – J&amp;A
+Approval – Other Than Full and Open Competition”. The signature
+page shall be submitted electronically as a .pdf file. The body
+of the justification shall be submitted electronically as both Word
+and .pdf files.</p>
+               <p outputclass="List3">(i) The applicable Acquisition Strategy
+(or STRAP or MOPAS-S if no Acquisition</p>
+               <p outputclass="Normal">Strategy exists) shall be submitted with
+the justification. The documents should be reviewed concurrent with
+preparation of the justification and updated if required. Justifications
+and planning documentation should be consistent and any unavoidable discrepancies
+highlighted and explained within the document.</p>
+               <p outputclass="List3">(ii) Historic justification information
+shall be submitted with the proposed justification.</p>
+            </conbody>
+         </concept>
+</dita>

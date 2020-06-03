@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1047069" outputclass="1">
+      <title outputclass="Heading1">ANNEX 9 – GOVERNMENT-FURNISHED PROPERTY
+PREAWARD COMPLIANCE CHECKLIST</title>
+      <conbody>
+         <p outputclass="Normal">Per SECNAVINST 5200.43, the Government-Furnished
+Property Preaward Compliance Checklist, SECNAV 5200/2, is to be
+included with the Business Clearance Memorandum (BCM).</p>
+         <fig frame="all">
+            <image href="5.png" placement="inline"/>
+         </fig>
+         <p outputclass="Normal">Form Instructions: In addition to the
+instructions at the top of the form, the following instructions
+apply.</p>
+         <p outputclass="Normal">Block 1: Contract/Solicitation #. Insert
+the contract/solicitation number.</p>
+         <p outputclass="Normal">Block 2: Mod/TO/DO. Insert the modification
+number, delivery order (DO) number or task order (TO) number as
+appropriate. If the action is a modification of a DO or TO, insert
+the DO/TO number followed by the modification number.</p>
+         <p outputclass="Normal">Block 3: Program Name. A short description
+of the program name the GFP is supporting.</p>
+         <p outputclass="Normal">Block 4: Contracting Officer Name. Insert
+the contracting officer name.</p>
+         <p outputclass="Normal">Block 5: Program Manager (PM) Name. Insert
+the PM name.</p>
+         <p outputclass="Normal">Block 6: Period of Performance (POP) Start
+Date. Insert the POP start date.</p>
+         <p outputclass="Normal">Block 7: POP End Date. Insert the POP
+End Date</p>
+         <p outputclass="Normal">Block 8-16: Indicate if the clause was
+included in the Block 1 solicitation/contract number reported, as
+required by FAR and DFARS. Use the pull-downs on the right side
+of the right-hand column to fill the entries. Only the following
+phrases are to be used; Included, Not Included, Not Applicable (N/A).
+When “Not Included” is used, provide an explanation for the contract
+file as to why the required clause was not included in the solicitation,
+contract, modification, DO or TO.</p>
+         <p outputclass="Normal">Block 17: Indicate that the OSD form containing
+the GFP requirements has been completed and validated per PGI 245.103-72.
+Only use "N/A" if no GFP is planned.</p>
+         <p outputclass="Normal">Block 18: Indicate that a written justification
+to provide GFP was provided by the requiring official and is included
+in the contract file per FAR 45.102(b) and PGI 245.103-70. Only
+use "N/A" if no GFP is planned.</p>
+         <p outputclass="Normal">Block 19a: Date of Review. Insert Date
+of Review.</p>
+         <p outputclass="Normal">Block 19b: Contracting Officer Name and
+Title. Insert the Contracting Officer name and title.</p>
+         <p outputclass="Normal">Block 19c: Contracting officer signature.
+The form includes electronic signature provisions.</p>
+      </conbody>
+   </concept>
+</dita>

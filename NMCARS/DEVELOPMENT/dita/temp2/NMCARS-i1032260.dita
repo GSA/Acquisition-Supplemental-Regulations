@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1032260" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5222.1006 Solicitation provisions
+and contract clauses.</title>
+            <conbody>
+               <p outputclass="List1">(c)(1) The <ph outputclass="Hyperlink">Desk Guide for Service Contract Price
+Adjustments</ph> contains DON guidance on processing price adjustments
+under FAR 52.222-43 and FAR 52.222-44 that result from:</p>
+               <p outputclass="List3">(i) Changes in wage determinations issued
+under the Service Contract Labor Standards statute, or</p>
+               <p outputclass="List3">(ii) Amendments changing the minimum wage
+required by the Fair Labor Standards Act.</p>
+               <p outputclass="Normal">(S-90) The DON’s Price Adjustment Calculation
+Tool (PACT) is available to automate the calculation of Service
+Contract Labor Standards price adjustments and streamline the process
+for contractors and contracting officers. PACT is available at <ph outputclass="Hyperlink">https://www.secnav.navy.mil/rda/OneSource/Pages/PACT/PACT.aspx</ph>.</p>
+            </conbody>
+         </concept>
+</dita>

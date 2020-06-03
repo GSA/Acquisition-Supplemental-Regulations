@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1033360" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5237.170-2 Approval requirements.</title>
+               <conbody>
+                  <p outputclass="List1">(a) Acquisition of services through
+a contract or task order that is not performance based. When acquisition
+of services through a contract or task order that is not performance
+based will be used, the rationale shall be documented in the contract
+file.</p>
+                  <p outputclass="List1">(b) Acquisition of services through use
+of a contract or task order issued by a non-DOD agency.</p>
+                  <p outputclass="Normal">In addition to the requirements in 5237.5,
+approval must be obtained from--</p>
+                  <p outputclass="List2">(1) The HCA for acquisitions below $5,000,000.</p>
+                  <p outputclass="List2">(2) The HCA for acquisitions at or above
+$5,000,000 but below $50,000,000. HCA</p>
+                  <p outputclass="Normal">authoritymay be delegated, without
+power of redelegation, only to the Deputy/Assistant Commander for
+Contracts, a Flag or General Officer or SES who is a member of the
+Acquisition Professional Community, or, for commands/locations without
+a local SES/Flag/General Officer, to the Commanding Officer.</p>
+                  <p outputclass="Normal">(3) The Navy SSM for actions at or exceeding
+$50,000,000.</p>
+               </conbody>
+            </concept>
+</dita>

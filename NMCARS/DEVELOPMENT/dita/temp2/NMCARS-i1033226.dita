@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="i1033226">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/>  PART 5235 RESEARCH AND DEVELOPMENT
+CONTRACTING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033238.dita#i1033238">5235.006 Contracting methods and contract type.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033244.dita#i1033244">5235.015 Contracts for research with educational institutions and nonprofit organizations.</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033248.dita#i1033248">5235.015-70 Special use allowances for research facilities acquired by educational institutions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-i1033254.dita#i1033254">5235.070 Indemnification against unusually hazardous risks.</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-i1033258.dita#i1033258">5235.070-1 Indemnification under research and development contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

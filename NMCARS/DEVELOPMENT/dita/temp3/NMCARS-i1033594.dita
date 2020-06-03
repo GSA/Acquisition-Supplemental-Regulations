@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1033594" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5246.706 Warranty terms and conditions.</title>
+            <conbody>
+               <p outputclass="List1">(b)(2) Remedies.</p>
+               <p outputclass="List3">(iv) Acceptable turnaround time(s) for
+warranty corrective actions taken by the contractor should be specified,
+and consideration should be given to using liquidated damages or
+charging the contractor for product replacement costs when specified
+turnaround times are not met.</p>
+               <p outputclass="List2">(5) Markings. Warranted items should be
+marked with the National Stock Number (NSN) or manufacturer's part
+number, a serial number or other item identifier (if the warranty
+applies to uniquely identified items), the contract number, an indication
+that a warranty applies, the manufacturer or entity (if other than
+the contractor) providing the warranty, the date or time the warranty
+expires, and an indication of whether or not attempted onsite repair
+by DON personnel will void the warranty.</p>
+            </conbody>
+         </concept>
+</dita>

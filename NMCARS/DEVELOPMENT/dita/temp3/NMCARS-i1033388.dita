@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1033388" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5237.503 Agency-head responsibilities.</title>
+            <conbody>
+               <p outputclass="Normal">(S-90)(a) All acquisition of
+services valued in excess of the SAT shall comply with the policy
+and</p>
+               <p outputclass="List1">procedures set forth in the in 5207.103(j)
+and (l) unless the services are not applicable in accordance with
+DODI 5000.74, paragraph 1.1.b.</p>
+               <p outputclass="List1">(b) Use Annex 21, MOPAS-S, for services
+when the total cost of all contracts is less than $50 million for
+all years or less than $25 million for any fiscal year.</p>
+               <p outputclass="List1">(c) For all other services acquisitions,
+when the total cost of all contracts is estimated at $50 million
+or more for all years or $25 million or more for any fiscal year,
+use a PSTRAP-M or an ISTRAP-M. See 5207.103 (j) and (l) and Table
+5207-1.</p>
+               <p outputclass="List1">(d) The level of detail expected for each
+MOPAS-S shall be commensurate with the complexity, total planned
+value, and performance risk of the procurement.</p>
+               <p id="i1033390" outputclass="List1">(e) See FAR 7.104(a) for
+the requirements for updates and revisions.</p>
+            </conbody>
+         </concept>
+</dita>

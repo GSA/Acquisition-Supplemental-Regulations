@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="i1010680" outputclass="3">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.404 Class deviations.</title>
+            <conbody>
+               <p outputclass="Normal">Deviations involving basic agreements,
+basic ordering agreements, or master agreements are considered class
+deviations.</p>
+               <p outputclass="List1">(b)(ii) DASN(P) is the approval authority
+for class deviations described at DFARS 201.404(b)(ii).</p>
+            </conbody>
+         </concept>
+</dita>

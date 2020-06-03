@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="id206390T20E6" outputclass="4">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.7003-3 Exceptions.</title>
+               <conbody>
+                  <p outputclass="List1">(b)(2)(ii) Report on all contracts
+(including task orders/delivery orders) for the acquisition of commercial
+off the shelf (COTS) end items valued at $5 million or more per
+item purchased during the preceding fiscal year. In addition to
+the requirements at PGI 225.7003-3(b)(2)(B), include the contract
+line item number (CLIN), quantity, and unit price for each excepted COTS
+end item reported. Submit the required annual report not later than
+October 15th to DASN(P) by email at RDAJ&amp;As.fct@navy.mil with
+the subject “[Activity Name] DFARS 225-7003-3 - Annual COTS End
+Items Report (Fiscal year).”</p>
+                  <p outputclass="List1">(b)(5) Using the format in Annex 3, Domestic
+Nonavailability Determination, submit required</p>
+                  <p outputclass="Normalwithline">DNADs for approval by:</p>
+                  <p outputclass="List3">(i) SECNAV via DASN(P) by email at <ph outputclass="Hyperlink">RDAJ&amp;As.fct@navy.mil</ph> with
+the subject “[Activity Name] DFARS 225.7003-3 – DNAD Approval by
+SECNAV.”</p>
+                  <p outputclass="List3">(ii) USD(A&amp;S) with a courtesy copy
+to DASN(P) by email at <ph outputclass="Hyperlink">RDAJ&amp;As.fct@navy.mil</ph> with
+the subject “[Activity Name] DFARS 225.7003-3 - DNAD Approval by
+USD(A&amp;S).”</p>
+                  <p outputclass="List1">(c)(2) Submit required commercial derivative
+military article determinations for approval by</p>
+                  <p outputclass="Normalwithline">SECNAV via DASN(P) by email at <ph outputclass="Hyperlink">RDAJ&amp;As.fct@navy.mil</ph> with
+the subject “[Activity Name] DFARS 225.7003-3 – Determination Approval
+by SECNAV.”</p>
+                  <p outputclass="List1">(d) When submitting the request for national
+security interest determination to USD(A&amp;S) for approval, provide
+a courtesy copy to DASN(P) by email at <ph outputclass="Hyperlink">RDAJ&amp;As.fct@navy.mil</ph> with
+the subject “[Activity Name] DFARS 225.7003-3 – CC: Determination
+Approval by USD(A&amp;S).”</p>
+               </conbody>
+            </concept>
+</dita>
