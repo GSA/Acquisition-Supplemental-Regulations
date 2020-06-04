@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="i1047065" outputclass="1">
+      <title>ANNEX 8 - PEER REVIEW PROGRAM</title>
+      <conbody>
+         <p outputclass="p Body c2">
+            <b>Reporting requirements.</b>DON
+Contracting Activities shall submit by the 25th day of every month,
+a rolling forecast of acquisitions requiring peer reviews by DASN(AP)
+or DPC which provides the following information:</p>
+         <p outputclass="p Body c2">Command/Buying Activity (include Location)</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Peer Review Authority (DPC,
+DASN(AP))</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Program or contract action
+(Description)</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Supply or Service</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Contract Type</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Estimated value (Inclusive
+of options)</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Competition (Yes or No)</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Anticipated Review Dates for
+the following:</p>
+         <p outputclass="List2">
+            <b>•</b>Pre-Solicitation Review</p>
+         <p outputclass="List2">
+            <b>•</b>Pre-BCM/PNM or Pre-BAFO Review</p>
+         <p outputclass="List2">
+            <b>•</b>Post-BCM/PNM or Pre-Award Review</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Required Award Date or Option
+Exercise Date</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Buying Activity POC (Name/telephone
+number/email address)</p>
+         <p outputclass="p Body c2">
+            <b>•</b>Identify ACAT/BCAT or MAIS
+level, if applicable</p>
+         <p outputclass="p Body c2">Use the DON Peer Review Projections
+spreadsheet format when submitting reports. Submit via email to <!--Original: <span @class=ph fm:Hyperlink>-->
+<ph>http://www.abilityone.gov/procurement_list/index.html</ph> with
+the subject: DFARS 201.170 Quarterly Peer Review Projections.</p>
+         <fig frame="all">
+            <image href="Annex8.PNG" placement="inline" height="162.240pt" width="454.079pt"/>
+         </fig>
+      </conbody>
+   </concept></dita>

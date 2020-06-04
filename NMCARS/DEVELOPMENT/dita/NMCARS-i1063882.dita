@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="i1063882" outputclass="1">
+      <title outputclass="Heading1">ANNEX 23 – DOD WAIVERS OF THE CONTRACTOR
+EMPLOYEE COMPENSATION CAP</title>
+      <conbody>
+         <p outputclass="Normal">In accordance with NMCARS 5231.205-91,
+prepare the report for DOD Waivers of the Contractor Employee Compensation Cap
+using the directions in this annex unless DPC provides an updated
+format or direction.</p>
+         <p outputclass="Normal">If no waivers were granted by the activity,
+submit the following statement in email text using the submission
+directions in NMCARS 5231.205-91.</p>
+         <p outputclass="Normal">“No waivers to section 702 of the Bipartisan
+Budget Act of 2013 (BBA) were granted by the agency during FY 20XX.”</p>
+         <p outputclass="Normal">If one or more waivers were granted, use
+the following table format in Microsoft Word to respond to the reporting
+requirement.</p>
+         <p outputclass="Normal">Department of the Navy Contractor Employee
+Compensation Cap Waiver Reporting Template</p>
+         <p outputclass="Normal">FY 20XX</p>
+         <table frame="all" colsep="0" rowsep="0">
+            <tgroup cols="6" colsep="0" rowsep="0" outputclass="Table">
+               <colspec colnum="1" colname="1" colwidth="13*" colsep="0"/>
+               <colspec colnum="2" colname="2" colwidth="13*" colsep="0"/>
+               <colspec colnum="3" colname="3" colwidth="26*" colsep="0"/>
+               <colspec colnum="4" colname="4" colwidth="15*" colsep="0"/>
+               <colspec colnum="5" colname="5" colwidth="16*" colsep="0"/>
+               <colspec colnum="6" colname="6" colwidth="16*" colsep="0"/>
+               <tbody>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Executive</p>
+                        <p outputclass="Normal">Agency</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Targeted</p>
+                        <p outputclass="Normal">Excepted</p>
+                        <p outputclass="Normal">Position</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Duties/Services</p>
+                        <p outputclass="Normal">Performed by</p>
+                        <p outputclass="Normal">Employees
+in</p>
+                        <p outputclass="Normal">Excepted Position</p>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Number
+of</p>
+                        <p outputclass="Normal">Employees</p>
+                        <p outputclass="Normal">In
+Excepted</p>
+                        <p outputclass="Normal">Position</p>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Amount
+of Allowable/</p>
+                        <p outputclass="Normal">Reimbursed Compensation</p>
+                        <p outputclass="Normal">Rec’d by EACH Employee in Excepted Position, listed
+by Employee</p>
+                     </entry>
+                     <entry colname="6"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Employee</p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal">Reimbursed</p>
+                        <p outputclass="Normal">Compensation Amount</p>
+                     </entry>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="6" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3"/>
+                     <entry colname="4"/>
+                     <entry colname="5"/>
+                     <entry colname="6"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="4" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="5" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="6" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1"/>
+                     <entry colname="4" colsep="1" rowsep="1"/>
+                     <entry colname="5" colsep="1" rowsep="1"/>
+                     <entry colname="6" rowsep="1"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1"/>
+                     <entry colname="4" colsep="1" rowsep="1"/>
+                     <entry colname="5" colsep="1" rowsep="1"/>
+                     <entry colname="6" rowsep="1"/>
+                  </row>
+                  <row rowsep="0">
+                     <entry colname="1" colsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="2" colsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="3" colsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="4" colsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="5" colsep="1">
+                        <p outputclass="Normal"/>
+                     </entry>
+                     <entry colname="6">
+                        <p outputclass="Normal"/>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept></dita>
