@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e3994"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1532.805-70</ph> Forms.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) EPA Form 1900-3, Assignee's Release, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e10941"
+                  href="48_6.0.1.8.37.1.1.7.dita#d1e10941">1553.232-70</xref> is required to be submitted by the assignee for cost-reimbursement contracts prior to final payment under the contract.
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) EPA Form 1900-4, Assignee's Assignment of Refunds, Rebates, Credits, and Other Amounts, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e10950"
+                  href="48_6.0.1.8.37.1.1.8.dita#d1e10950">1553.232-71</xref> must accompany the assignee's release prior to final payment under cost-reimbursement contracts. 
+</p>
+         <p outputclass="List1" class="- topic/p ">(c) EPA Form 1900-5, Contractor's Assignment of Refunds, Rebates and Credits, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e10959"
+                  href="48_6.0.1.8.37.1.1.9.dita#d1e10959">1553.232-72</xref> must be prepared by the Contractor prior to final payment under cost-reimbursement contracts and must accompany the Contractor's Release.
+</p>
+         <p outputclass="List1" class="- topic/p ">(d) EPA Form 1900-6, Contractor's Release, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e10968"
+                  href="48_6.0.1.8.37.1.1.10.dita#d1e10968">1553.232-73</xref> must be submitted by the Contractor prior to final payment under cost-reimbursement contracts.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

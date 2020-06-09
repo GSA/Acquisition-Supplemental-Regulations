@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e10959"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1553.232-72</ph> EPA Form 1900-5, Contractor's Assignment of Refunds, Rebates, and Credits.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e3994"
+                  href="48_6.0.1.5.27.4.1.2.dita#d1e3994">1532.805-70</xref>(c), the EPA Form 1900-5 must be prepared by the Contractor prior to final payment under cost-reimbursement contracts and must accompany the Contractor's release.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

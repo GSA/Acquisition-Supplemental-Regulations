@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e6865"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.215-74</ph> Advanced understanding - uncompensated time.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e2426"
+                  href="48_6.0.1.3.13.2.1.8.dita#d1e2426">1515.408</xref>(b), insert the following provision or one substantially the same as the following provision:
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Advanced Understanding - Uncompensated Time (AUG 1999)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) The estimated cost of this contract is based upon the Contractor's proposal which specified that exempt personnel identified to work at the Contractor's facilities will provide uncompensated labor hours to the contract totaling __ percent of compensated labor. (Note: the commitment for uncompensated time, and the formula elements in paragraph (b) below, apply only to exempt personnel working at the Contractor's facilities and does not include non-exempt personnel or exempt personnel working at other facilities.) Uncompensated labor hours are defined as hours of exempt personnel in excess of regular hours for a __ pay period which are actually worked and recorded in accordance with the company policy, entitled, __________.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) Recognizing that the probable cost to the Government for the labor provided under this contract is calculated assuming a proposed level of uncompensated labor hours, it is hereby agreed that in the event the proposed level of uncompensated labor hours are not provided, an adjustment, calculated in accordance with the following formula will be made to the contract amount.
+</p>
+                                 <p outputclass="P" class="- topic/p ">Formula:
+</p>
+                                 <p outputclass="P" class="- topic/p ">Adjustment equals estimated value of uncompensated time hours not provided.
+</p>
+                                 <p outputclass="P" class="- topic/p ">Target uncompensated time percent minus __ percent.
+</p>
+                                 <p outputclass="P" class="- topic/p ">Shortage of uncompensated time percent minus actual cost percent.
+</p>
+                                 <p outputclass="P" class="- topic/p ">Estimated value of uncompensated time hours not provided equals shortage of uncompensated time percent times total exempt applicable direct labor costs (including applicable indirect costs).
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) Within three weeks after the end of the contract, the Contractor shall submit a statement concerning the amount of uncompensated time hours delivered during the contract. In the event there is a shortage of uncompensated time hours provided, a calculation, utilizing the above formula will be made and this calculation will be the basis for an adjustment in the contract amount.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) In the event adjustments are made to the contract, the adjusted amounts shall not be allowable as a direct or indirect cost to this or any other Government contract.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

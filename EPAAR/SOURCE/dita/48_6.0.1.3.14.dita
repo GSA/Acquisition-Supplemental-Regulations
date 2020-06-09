@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="d1e2473"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 1516</ph> - TYPES OF CONTRACTS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="48_6.0.1.3.14.1.dita#d1e2496"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.1.dita#d1e2501"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.2.dita#d1e2516"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.3.dita#d1e2522"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.4.dita#d1e2534"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.5.dita#d1e2553"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.6.dita#d1e2587"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.7.dita#d1e2609"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.8.dita#d1e2650"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.9.dita#d1e2665"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.10.dita#d1e2680"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.1.1.11.dita#d1e2699"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="48_6.0.1.3.14.2.dita#d1e2712"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.1.dita#d1e2717"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.2.dita#d1e2723"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.3.dita#d1e2776"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.4.dita#d1e2791"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.5.dita#d1e2798"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.6.dita#d1e2819"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.7.dita#d1e2841"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.2.1.8.dita#d1e2853"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="48_6.0.1.3.14.3.dita#d1e2877"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.3.1.1.dita#d1e2882"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="48_6.0.1.3.14.4.dita#d1e2901"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.4.1.1.dita#d1e2906"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.4.1.2.dita#d1e2912"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.4.1.3.dita#d1e2934"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="48_6.0.1.3.14.4.1.4.dita#d1e3016"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

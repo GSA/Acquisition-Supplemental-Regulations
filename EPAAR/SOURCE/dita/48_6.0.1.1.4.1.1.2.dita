@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e814"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1503.104-4</ph> Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(1) The Chief of the Contracting Office (CCO) is the designated official to make the decision whether support contractors are used in proposal evaluation (as authorized at FAR 15.305(c) and restricted at FAR 37.203(d)).
+</p>
+         <p outputclass="List2" class="- topic/p ">(2) The following written certification and agreement shall be obtained from non-Government evaluator prior to the release of any proposal to that evaluator:
+</p>
+         <p outputclass="HD3" class="- topic/p ">“Certification on the Use and Disclosure of Proposals”
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="FP-1" class="- topic/p ">RFP #:
+</p>
+                                 <p outputclass="FP-1" class="- topic/p ">Offeror:
+</p>
+                                 <p outputclass="P" class="- topic/p ">1. I hereby certify that to the best of my knowledge and belief, no conflict of interest exists that may diminish my capacity to perform an impartial, technically sound, objective review of this proposal(s) or otherwise result in a biased opinion or unfair competitive advantage.
+</p>
+                                 <p outputclass="P" class="- topic/p ">2. I agree to use any proposal information only for evaluation purposes. I agree not to copy any information from the proposal(s), to use my best effort to safeguard such information physically, and not to disclose the contents of nor release any information relating to the proposal(s) to anyone outside of the evaluation team assembled for this acquisition or individuals designated by the Contracting Officer.
+</p>
+                                 <p outputclass="P" class="- topic/p ">3. I agree to return to the Government all copies of proposals, as well as any abstracts, upon completion of the evaluation.
+</p>
+                                 <p outputclass="FP-1" class="- topic/p ">Name and Organization:
+</p>
+                                 <p outputclass="FP-1" class="- topic/p ">Date of Execution:</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of certificate)
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) Information contained in proposals will be protected and disclosed to the extent permitted by law, and in accordance with FAR 3.104-4, 15.207, and Agency procedures at 40 CFR part 2.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

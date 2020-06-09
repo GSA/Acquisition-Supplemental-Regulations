@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e4112"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1535.007</ph> Solicitations.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Contracting officers shall insert the provision at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e9425"
+                  href="48_6.0.1.8.36.1.1.63.dita#d1e9425">1552.235-73</xref>, Access to Federal Insecticide, Fungicide, and Rodenticide Act Confidential Business Information, in all solicitations when the contracting officer has determined that EPA may furnish the contractor with confidential business information which EPA had obtained from third parties under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 <i class="+ topic/ph hi-d/i ">et seq.</i>).
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) Contracting officers shall insert the provision at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e9459"
+                  href="48_6.0.1.8.36.1.1.65.dita#d1e9459">1552.235-75</xref>, Access to Toxic Substances Control Act Confidential Business Information, in all solicitations when the contracting officer has determined that EPA may furnish the contractor with confidential business information which EPA had obtained from third parties under the Toxic Substances Control Act (15 U.S.C. 2601 <i class="+ topic/ph hi-d/i ">et seq.</i>).
+</p>
+         <p outputclass="List1" class="- topic/p ">(c) Contracting officers shall insert the provision at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e9775"
+                  href="48_6.0.1.8.36.1.1.71.dita#d1e9775">1552.235-81</xref>, Institutional Oversight of Life Sciences Dual Use Research of Concern-Representation, when notified in the Advance Procurement Plan (APP) or by an EPA funding/requesting office, in accordance with the Institutional Oversight of Life Sciences Dual Use Research of Concern (iDURC) EPA Order 1000.19, Policy and Procedures for Managing Dual Use Research of Concern, in solicitations that will result in a contract under which EPA funding will be used by the recipient to conduct or sponsor “life sciences research”.
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

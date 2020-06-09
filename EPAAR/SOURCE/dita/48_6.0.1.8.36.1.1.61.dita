@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e9360"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.235-71</ph> Treatment of confidential business information.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e4136"
+                  href="48_6.0.1.6.29.0.1.2.dita#d1e4136">1535.007-70</xref>(b), insert the following contract clause in all types of contracts when the Contracting Officer has determined that in the performance of a contract, EPA may furnish confidential business information to the Contractor that EPA obtained under the Clean Air Act (42 U.S.C. 7401 <i class="+ topic/ph hi-d/i ">et seq.</i>), the Federal Water Pollution Control Act (33 U.S.C. 1251, <i class="+ topic/ph hi-d/i ">et seq.</i>), the Safe Drinking Water Act (42 U.S.C. 300f <i class="+ topic/ph hi-d/i ">et seq.</i>), the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 <i class="+ topic/ph hi-d/i ">et seq.</i>), the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 <i class="+ topic/ph hi-d/i ">et seq.</i>), the Resource Conservation and Recovery Act (42 U.S.C. 6901 <i class="+ topic/ph hi-d/i ">et seq.</i>), or the Toxic Substances Control Act (15 U.S.C. 2601 <i class="+ topic/ph hi-d/i ">et seq.</i>). EPA regulations on confidentiality of business information in 40 CFR part 2 subpart B require that the Contractor agree to the clause entitled “Treatment of Confidential Business Information” before any confidential business information may be furnished to the Contractor:
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Treatment of Confidential Business Information (APR 1984)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) The Contracting Officer, after a written determination by the appropriate program office, may disclose confidential business information to the Contractor necessary to carry out the work required under this contract. The Contractor agrees to use the confidential information only under the following conditions:
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(1) The Contractor and Contractor's Employees shall: (i) use the confidential information only for the purposes of carrying out the work required by the contract; (ii) not disclose the information to anyone other than EPA employees without the prior written approval of the Assistant General Counsel for Contracts and Information Law; and (iii) return to the Contracting Officer all copies of the information, and any abstracts or excerpts therefrom, upon request by the Contracting Officer, whenever the information is no longer required by the Contractor for the performance of the work required by the contract, or upon completion of the contract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) The Contractor shall obtain a written agreement to honor the above limitations from each of the Contractor's employees who will have access to the information before the employee is allowed access.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) The Contractor agrees that these contract conditions concerning the use and disclosure of confidential information are included for the benefit of, and shall be enforceable by, both EPA and any affected business having a proprietary interest in the information.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) The Contractor shall not use any confidential information supplied by EPA or obtained during performance hereunder to compete with any business to which the confidential information relates. 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) The Contractor agrees to obtain the written consent of the Contracting Officer, after a written determination by the appropriate program office, prior to entering into any subcontract that will involve the disclosure of confidential business information by the Contractor to the subcontractor. The Contractor agrees to include this clause, including this paragraph (b), in all subcontracts awarded, pursuant to this contract, that require the furnishing of confidential business information to the subcontractor.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

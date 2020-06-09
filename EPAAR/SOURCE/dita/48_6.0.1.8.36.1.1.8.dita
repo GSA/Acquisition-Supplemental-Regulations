@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e4970"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.209-73</ph> Notification of conflicts of interest regarding personnel.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e1578"
+                  href="48_6.0.1.2.9.2.1.7.dita#d1e1578">1509.507-2</xref>(b) insert the following clause: 
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Notification of Conflicts of Interest Regarding Personnel (MAY 1994)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) In addition to the requirements of the contract clause entitled “Organizational Conflicts of Interest,” the following provisions with regard to employee personnel performing under this contract shall apply until the earlier of the following two dates: the termination date of the affected employee(s) or the expiration date of the contract. 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) The Contractor agrees to notify immediately the EPA Contracting Officer's Representative and the Contracting Officer of (1) any actual or potential personal conflict of interest with regard to any of its employees working on or having access to information regarding this contract, or (2) any such conflicts concerning subcontractor employees or consultants working on or having access to information regarding this contract, when such conflicts have been reported to the Contractor. A personal conflict of interest is defined as a relationship of an employee, subcontractor employee, or consultant with an entity that may impair the objectivity of the employee, subcontractor employee, or consultant in performing the contract work. 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) The Contractor agrees to notify each Contracting Officer's Representative and Contracting Officer prior to incurring costs for that employee's work when an employee may have a personal conflict of interest. In the event that the personal conflict of interest does not become known until after performance on the contract begins, the Contractor shall immediately notify the Contracting Officer of the personal conflict of interest. The Contractor shall continue performance of this contract until notified by the Contracting Officer of the appropriate action to be taken. 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) The Contractor agrees to insert in any subcontract or consultant agreement placed hereunder, except for subcontracts or consultant agreements for well drilling, fence erecting, plumbing, utility hookups, security guard services, or electrical services, provisions which shall conform substantially to the language of this clause, including this paragraph (d), unless otherwise authorized by the Contracting Officer.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Alternate I</i> (JAN 2015). Contracts for other than Superfund work shall include Alternate I in this clause in lieu of paragraph (d).
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) The Contractor agrees to insert in each subcontract or consultant agreement placed hereunder provisions which shall conform substantially to the language of this clause, including this paragraph (d), unless otherwise authorized by the Contracting Officer.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

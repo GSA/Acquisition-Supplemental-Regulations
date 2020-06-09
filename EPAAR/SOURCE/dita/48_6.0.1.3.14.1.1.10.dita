@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e2680"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1516.307</ph> Contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) The Contracting Officer shall insert the clause in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e7070"
+                  href="48_6.0.1.8.36.1.1.31.dita#d1e7070">1552.216-71</xref>, Date of Incurrence of Cost, in cost-reimbursement contracts when an anticipatory cost letter has been issued on the project.
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e7289"
+                  href="48_6.0.1.8.36.1.1.34.dita#d1e7289">1552.216-74</xref>, Payment of Fee, in solicitations and contracts where a cost-reimbursement term form contract is contemplated, unless the Contracting Officer determines that such a provision would be detrimental to ensuring proper contract performance.
+</p>
+         <p outputclass="List1" class="- topic/p ">(c) The Contracting Officer shall insert a clause substantially the same as 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e7347"
+                  href="48_6.0.1.8.36.1.1.36.dita#d1e7347">1552.216-76</xref>, Estimated Cost and Cost-Sharing, in solicitations and contracts where the total incurred costs are shared by the contractor on a straight percentage basis. The Contracting Officer may develop other clauses, as appropriate, following the same approach, but reflecting different cost-sharing arrangements negotiated on specific contract actions. 
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

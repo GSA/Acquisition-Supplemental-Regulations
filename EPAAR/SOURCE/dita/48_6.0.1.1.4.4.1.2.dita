@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e978"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1503.1003</ph> Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) A contractor's system of management controls should provide for:
+</p>
+         <p outputclass="List2" class="- topic/p ">(1) A written code of business ethics and conduct and an ethics training program for all employees;
+</p>
+         <p outputclass="List2" class="- topic/p ">(2) Periodic reviews of company business practices, procedures, policies and internal controls for compliance with standards of conduct and the special requirements of Government contracting;
+</p>
+         <p outputclass="List2" class="- topic/p ">(3) A mechanism, such as a hotline, by which employees may report suspected instances of improper conduct, and instructions that encourage employees to make such reports;
+</p>
+         <p outputclass="List2" class="- topic/p ">(4) Internal and/or external audits, as appropriate;
+</p>
+         <p outputclass="List2" class="- topic/p ">(5) Disciplinary action for improper conduct;
+</p>
+         <p outputclass="List2" class="- topic/p ">(6) Timely reporting to appropriate Government officials of any suspected or possible violation of law in connection with Government contracts or any other irregularities in connection with such contracts; and
+</p>
+         <p outputclass="List2" class="- topic/p ">(7) Full cooperation with any Government agencies responsible for either investigation or corrective actions.
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) Contractors who are awarded an EPA contract of $1 million or more must display EPA Office of Inspector General Hotline Posters unless the contractor has established an internal reporting mechanism and program as described in paragraph (a) of this section.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e7099"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.216-72</ph> Ordering - by designated ordering officers.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e2882"
+                  href="48_6.0.1.3.14.3.1.1.dita#d1e2882">1516.505</xref>(a), insert the subject clause, or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity type solicitations and contracts.
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD3" class="- topic/p ">ORDERING - BY DESIGNATED ORDERING OFFICERS (JUL 2014)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) The Government will order any supplies and services to be furnished under this contract by issuing task/delivery orders on Optional Form 347, or an agency prescribed form, from ___ through ___. In addition to the Contracting Officer, the following individuals are authorized ordering officers.
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) A Standard Form 30 will be the method of amending task/delivery orders.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) The Contractor shall acknowledge receipt of each order by having an authorized company officer sign either a copy of a transmittal letter or signature block on page 3 of the task/delivery order, depending upon which is provided, within __ calendar days of receipt.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) Prior to the placement of any task/delivery order, the Contractor will be provided with a proposed Performance Work Statement/Statement of Work and will be asked to respond with detailed technical and cost proposals within __ calendar days or less. The technical proposal will delineate the Contractor's interpretation for the execution of the PWS/SOW, and the pricing proposal will be the Contractor's best estimate for the hours, labor categories and all costs associated with the execution. The proposals are subject to negotiation. The Ordering Officer and the Contractor shall reach agreement on all the material terms of each order prior to the order being issued.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(e) Each task/delivery order issued will incorporate the Contractor's technical and cost proposals as negotiated with the Government, and will have a ceiling price which the contractor shall not exceed. When the Contractor has reason to believe that the labor payment and support costs for the order which will accrue in the next thirty (30) days will bring total cost to over 85 percent of the ceiling price specified in the order, the Contractor shall notify the Ordering Officer.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(f) Under no circumstances will the Contractor start work prior to the issue date of the task/delivery order unless specifically authorized to do so by the Ordering Officer. Any verbal authorization will be confirmed in writing by the Ordering Officer or Contracting Officer within __ calendar days.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         <p outputclass="P" class="- topic/p ">
+                                 <i class="+ topic/ph hi-d/i ">Alternate I</i> (JUL 2014). As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e2882"
+                  href="48_6.0.1.3.14.3.1.1.dita#d1e2882">1516.505</xref>(a), insert the subject clause, or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity contracts when formal input from the Contractor will not be obtained prior to order issuance.
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="List1" class="- topic/p ">(a) The Government will order any supplies and services to be furnished under this contract by issuing task/delivery orders on Optional Form 347, or any agency prescribed form, from __ through __. In addition to the Contracting Officer, the following individuals are authorized ordering officers:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) A Standard Form 30 will be the method of amending task/delivery orders.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) The Contractor shall acknowledge receipt of each order and shall prepare and forward to the Ordering Officer within __ calendar days the proposed staffing plan for accomplishing the assigned task within the period specified.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) If the Contractor considers the estimated labor hours or specified work completion date to be unreasonable, the Contractor shall promptly notify the Ordering Officer and Contracting Officer in writing within __ calendar days, stating why the estimated labor hours or specified completion date is considered unreasonable.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(e) Each task/delivery order will have a ceiling price, which the Contractor may not exceed. When the Contractor has reason to believe that the labor payment and support costs for the order, which will accrue in the next thirty (30) days, will bring total cost to over 85 percent of the ceiling price specified in the order, the Contractor shall notify the Ordering Officer.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(f) Paragraphs (c), (d), and (e) of this clause apply only when services are being ordered.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

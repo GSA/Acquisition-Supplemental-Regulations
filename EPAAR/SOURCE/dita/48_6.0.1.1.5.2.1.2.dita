@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e1073"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1504.804-5</ph> Detailed procedures for closing out contract files.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">In addition to those procedures set forth in FAR 4.804-5, the contracting office shall, before final payment is made under a cost reimbursement type contract, verify the allowability, allocability, and reasonableness of costs claimed. Verification of total costs incurred should be obtained from the Office of Audit through the Financial Analysis and Oversight Service Center in the form of a final audit report. Similar verification of actual costs shall be made for other contracts when cost incentives, price redeterminations, or cost-reimbursement elements are involved. Termination settlement proposals shall be submitted to the Financial Analysis and Oversight Service Center for review by the Office of Audit as prescribed by FAR 49.107. All such audits will be coordinated through the cost advisory group in the contracting office. Exceptions to these procedures are the quick close-out procedures as described in FAR 42.708 and EPA Acquisition Guide (EPAAG) subsection 4.8.1.
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

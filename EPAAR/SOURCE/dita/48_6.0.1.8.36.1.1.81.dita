@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e10325"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.242-70</ph> Indirect costs.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e4428"
+                  href="48_6.0.1.7.32.1.1.3.dita#d1e4428">1542.705-70</xref>, insert the following clause in all cost-reimbursement and non-commercial time and materials type contracts. If ceilings are not being established, enter “not applicable” in paragraph (c) of the clause.
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Indirect Costs (SEP 2017)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) In accordance with paragraph (d) of the “Allowable Cost and Payment” clause, the final indirect cost rates applicable to this contract shall be established between the Contractor and the appropriate Government representative (EPA, other Government agency, or auditor), as provided by FAR 42.703-1(a). EPA's procedures require a Contracting Officer determination of indirect cost rates for its contracts. In those cases where EPA is the cognizant agency (see FAR 42.705-1), the final rate proposal shall be submitted to the cognizant audit activity and to the following designated Contracting Officer: U.S. Environmental Protection Agency, Manager, Financial Analysis and Oversight Service Center, Mail Code 3802R, Policy, Training Oversight Division, 1200 Pennsylvania Avenue NW., Washington, DC 20460.
+</p>
+                                 <p outputclass="P" class="- topic/p ">Where EPA is not the cognizant agency, the final rate proposal shall be submitted to the above-cited address, to the cognizant audit agency, and to the designated Contracting Officer of the cognizant agency. Upon establishment of the final indirect cost rates, the Contractor shall submit an executed Certificate of Current Cost or Pricing Data (see FAR 15.406-2) applicable to the data furnished in connection with the final rates to the cognizant audit agency. The final rates shall be contained in a written understanding between the Contractor and the appropriate Government representative. Pursuant to the “Allowable Cost and Payment” clause, the allowable indirect costs under this contract shall be obtained by applying the final agreed upon rate(s) to the appropriate bases.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) Until final annual indirect cost rates are established for any period, the Government shall reimburse the contractor at billing rates established by the appropriate Government representative in accordance with FAR 42.704, subject to adjustment when the final rates are established. The established billing rates are currently as follows:
+</p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="4" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="3" colname="3" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="4" colname="4" colsep="0" class="- topic/colspec "/>
+                     <thead class="- topic/thead ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" class="- topic/entry ">Cost center
+</entry>
+                                             <entry colname="2" class="- topic/entry ">Period
+</entry>
+                                             <entry colname="3" class="- topic/entry ">Rate
+</entry>
+                                             <entry colname="4" class="- topic/entry ">Base
+</entry>
+                                          </row>
+                     </thead>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry "> </entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                             <entry colname="4" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry "> </entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                             <entry colname="4" align="right" class="- topic/entry "/>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                                 <p outputclass="P" class="- topic/p ">These billing rates may be prospectively or retroactively revised by mutual agreement, at the request of either the Government or the Contractor, to prevent substantial overpayment or underpayment.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) Notwithstanding the provisions of paragraphs (a) and (b) of this clause, ceilings are hereby established on indirect costs reimbursable under this contract. The Government shall not be obligated to pay the Contractor any additional amount on account of indirect costs in excess of the ceiling rates listed below:
+</p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="4" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="3" colname="3" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="4" colname="4" colsep="0" class="- topic/colspec "/>
+                     <thead class="- topic/thead ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" class="- topic/entry ">Cost center
+</entry>
+                                             <entry colname="2" class="- topic/entry ">Period
+</entry>
+                                             <entry colname="3" class="- topic/entry ">Rate
+</entry>
+                                             <entry colname="4" class="- topic/entry ">Base
+</entry>
+                                          </row>
+                     </thead>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry "> </entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                             <entry colname="4" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry "> </entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                             <entry colname="4" align="right" class="- topic/entry "/>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

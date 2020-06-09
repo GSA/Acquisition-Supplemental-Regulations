@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e8872"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.232-70</ph> Submission of invoices.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e4018"
+                  href="48_6.0.1.5.27.5.1.1.dita#d1e4018">1532.908</xref>, insert the following clause:
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Submission of Invoices (MAY 2019)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Electronic invoicing and the Invoice Processing Platform (IPP)</i> - (1) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this clause - 
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Contract financing payment</i> and <i class="+ topic/ph hi-d/i ">invoice payment</i> are defined in Federal Acquisition Regulation (FAR) 32.001.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Electronic form</i> means an automated system that transmits information electronically from the initiating system to all affected systems. Facsimile, email, and scanned documents are not acceptable electronic forms for submission of payment requests. However, scanned documents are acceptable when they are part of a submission of a payment request made using Invoice Processing Platform or another electronic form authorized by the Contracting Officer.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Payment request</i> means any request for contract financing payment or invoice payment submitted by the Contractor under this contract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2)(i) Except as provided in paragraph (c) of this clause, the Contractor shall submit invoices using the electronic invoicing program Invoice Processing Platform (IPP), which is a secure web-based service provided by the U.S. Treasury that more efficiently manages government invoicing.
+</p>
+                                 <p outputclass="List3" class="- topic/p ">(ii) Under this contract, the following documents are required to be submitted as an attachment to the IPP invoice: (This is a fill-in for acceptable types of required documentation, such as an SF 1034 and 1035, or an invoice/self-designed form on company letterhead that contains the required information.)
+</p>
+                                 <p outputclass="List3" class="- topic/p ">(iii) The Contractor's Government Business Point of Contact (as listed in System for Award Management (SAM)) will receive enrollment instructions via email from the IPP. The Contractor must register within 3 to 5 days of receipt of such email from IPP.
+</p>
+                                 <p outputclass="List3" class="- topic/p ">(iv) Contractor assistance with enrollment can be obtained by contacting the IPP Production Helpdesk via email at <i class="+ topic/ph hi-d/i ">IPPCustomerSupport@fiscal.treasury.gov</i> or by telephone at (866) 973-3131.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) If the Contractor is unable to comply with the requirement to use IPP for submitting invoices for payment, the Contractor shall submit a waiver request in writing to the Contracting Officer. The Contractor may submit an invoice using other than IPP only when - 
+</p>
+                                 <p outputclass="List3" class="- topic/p ">(i) The Contracting Officer administering the contract for payment has determined, in writing, that electronic submission would be unduly burdensome to the Contractor; and in such cases, the Contracting Officer shall modify the contract to include a copy of the Determination; or
+</p>
+                                 <p outputclass="List3" class="- topic/p ">(ii) When the Governmentwide commercial purchase card is used as the method of payment.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) The Contractor shall submit any non-electronic payment requests using the method or methods specified in Section G of the contract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(5) In addition to the requirements of this clause, the Contractor shall meet the requirements of the appropriate payment clauses in this contract when submitting payment requests.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(6) Invoices submitted through IPP will be either rejected, or accepted and paid, in their entirety, and will not be paid on a partial basis.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Invoice preparation.</i> The Contractor shall prepare its invoice or request for contract financing payment in accordance with FAR 32.905 on the prescribed Government forms, or the Contractor may submit self-designed forms which contain the required information. Standard Form 1034, <i class="+ topic/ph hi-d/i ">Public Voucher for Purchases and Services other than Personal,</i> is prescribed for used by contractors to show the amount claimed for reimbursement. Standard Form 1035, <i class="+ topic/ph hi-d/i ">Public Voucher for Purchases and Services other than Personal - Continuation Sheet,</i> is prescribed for use to furnish the necessary supporting detail or additional information required by the Contracting Officer.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Invoice content.</i> (1) The Contractor shall prepare a contract level invoice or request for contract financing payment in accordance with the invoice preparation instructions. If contract work is authorized by an individual task order or delivery order (TO/DO), the invoice or request for contract financing payment shall also include a summary of the current and cumulative amounts claimed by cost element for each TO/DO and for the contract total, as well as any supporting data for each TO/DO as identified in the instructions.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) The invoice or request for contract financing payment shall include current and cumulative charges by major cost element such as direct labor, overhead, travel, equipment, and other direct costs. For current costs, each major cost element shall include the appropriate supporting schedule identified in the invoice preparation instructions. Cumulative charges represent the net sum of current charges by cost element for the contract period.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Subcontractor charges.</i> (1) The charges for subcontracts shall be further detailed in a supporting schedule showing the major cost elements for each subcontract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) On a case-by-case basis, when needed to verify the reasonableness of subcontractor costs, the Contracting Officer may require that the contractor obtain from the subcontractor cost information in the detail set forth in paragraph (c)(2) of this section. This information should be obtained through a means which maintains subcontractor confidentiality (for example, via sealed envelopes), if the subcontractor expresses Confidential Business Information (CBI) concerns.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Period of performance indication.</i> Invoices or requests for contract financing payment must clearly indicate the period of performance for which payment is requested. Separate invoices or requests for contract financing payment are required for charges applicable to the base contract and each option period.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(f) <i class="+ topic/ph hi-d/i ">Invoice submittal.</i> (1) Notwithstanding the provisions of the clause of this contract at FAR 52.216-7, <i class="+ topic/ph hi-d/i ">Allowable Cost and Payment,</i> invoices or requests for contract financing payment shall be submitted once per month unless there has been a demonstrated need and Contracting Officer approval for more frequent billings. When submitted on a monthly basis, the period covered by invoices or requests for contractor financing payments shall be the same as the period for monthly progress reports required under this contract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) If the Contracting Officer allows submissions more frequently than monthly, one submittal each month shall have the same ending period of performance as the monthly progress report.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) Where cumulative amounts on the monthly progress report differ from the aggregate amounts claimed in the invoice(s) or request(s) for contract financing payments covering the same period, the contractor shall provide a reconciliation of the difference as part of the payment request.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">EPA Invoice Preparation Instructions - SF 1034.</i> The information which a contractor is required to submit in its Standard Form 1034 is set forth as follows:
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(1) U.S. Department, Bureau, or establishment and location - Insert the names and address of the servicing finance office, unless the contract specifically provides otherwise.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) Date Voucher Prepared - Insert date on which the public voucher is prepared and submitted.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) Contract/Delivery Order Number and Date - Insert the number and date of the contract and task order or delivery order, if applicable, under which reimbursement is claimed.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) Requisition Number and Date - Leave blank.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(5) Voucher Number - Insert the appropriate serial number of the voucher. A separate series of consecutive numbers, beginning with Number 1, shall be used by the contractor for each new contract. For an adjustment invoice, write “[<i class="+ topic/ph hi-d/i ">invoice number</i>] #Adj” at the voucher number. For a final invoice, put invoice number F. For a completion invoice, put invoice number #C.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(6) Schedule Number; Paid By; Date Invoice Received - Leave blank.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(7) Discount Terms - Enter terms of discount, if applicable.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(8) Payee's Account Number - This space may be used by the contractor to record the account or job number(s) assigned to the contract or may be left blank.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(9) Payee's Name and Address - Show the name of the contractor exactly as it appears in the contract and its correct address, except when an assignment has been made by the contractor, or the right to receive payment has been restricted, as in the case of an advance account. When the right to receive payment is restricted, the type of information to be shown in this space shall be furnished by the Contracting Officer.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(10) Shipped From; To; Weight Government B/L Number - Insert for supply contracts.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(11) Date of Delivery or Service - Show the month, day and year, beginning and ending dates of incurrence of costs claimed for reimbursement. Adjustments to costs for prior periods should identify the period applicable to their incurrence, <i class="+ topic/ph hi-d/i ">e.g.,</i> revised provisional or final indirect cost rates, award fee, etc.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(12) Articles or Services - Insert the following: “For detail, see Standard Form 1035 total amount claimed transferred from Page _of Standard Form 1035.” Insert “COST REIMBURSABLE - PROVISIONAL PAYMENT” or “INDEFINITE QUANTITY/INDEFINITE DELIVERY - PROVISIONAL PAYMENT” on the Interim public vouchers. Insert “COST REIMBURSABLE - COMPLETION VOUCHER” or “INDEFINITE QUANTITY/INDEFINITE DELIVERY - COMPLETION VOUCHER” on the Completion public voucher. Insert “COST REIMBURSABLE - FINAL VOUCHER” or “INDEFINITE QUANTITY/INDEFINITE DELIVERY - FINAL VOUCHER” on the final public voucher. Insert the following certification, signed by an authorized official, on the face of the Standard Form 1034:
+</p>
+                                 <p outputclass="P" class="- topic/p ">“I certify that all payments requested are for appropriate purposes and in accordance with the agreements set forth in the contract.”
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "/>
+                                 <p outputclass="FP-1" class="- topic/p ">(Name of Official)
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "/>
+                                 <p outputclass="FP-1" class="- topic/p ">(Title)
+</p>
+                                 <p outputclass="P" class="- topic/p ">(13) Quantity; Unit Price - Insert for supply contracts.
+</p>
+                                 <p outputclass="P" class="- topic/p ">(14) Amount - Insert the amount claimed for the period indicated in paragraph (g)(11) of this clause.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(h) <i class="+ topic/ph hi-d/i ">EPA Invoice Preparation Instructions - SF 1035.</i> The information which a contractor is required to submit in its Standard Form 1035 is set forth as follows:
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(1) U.S. Department, Bureau, or Establishment - Insert the name and address of the servicing finance office.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) Voucher Number - Insert the voucher number as shown on the Standard Form 1034.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) Schedule Number - Leave blank.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) Sheet Number - Insert the sheet number if more than one sheet is used in numerical sequence. Use as many sheets as necessary to show the information required.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(5) Number and Date of Order - Insert payee's name and address as in the Standard Form 1034.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(6) Articles or Services - Insert the contract number as in the Standard Form 1034.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(7) Amount - Insert the latest estimated cost, fee (fixed, base, or award, as applicable), total contract value, and amount and type of fee payable (as applicable).
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(8) A summary of claimed current and cumulative costs and fee by major cost element - Include the rate(s) at which indirect costs are claimed and indicate the base of each by identifying the line of costs to which each is applied. The rates invoiced should be as specified in the contract or by a rate agreement negotiated by EPA's Cost and Rate Negotiation Team.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(9) Fee - The fee shall be determined in accordance with instructions appearing in the contract.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Note to paragraph (h)</i> - Amounts claimed on vouchers must be based on records maintained by the contractor to show by major cost element the amounts claimed for reimbursement for each applicable contract. The records must be maintained based on the contractor's fiscal year and should include reconciliations of any differences between the costs incurred and amounts claimed for reimbursement. A memorandum record reconciling the total indirect cost(s) claimed should also be maintained.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(i) <i class="+ topic/ph hi-d/i ">Supporting Schedules for Cost Reimbursement Contracts.</i> The following backup information is required as an attachment to the invoice as shown by category of cost:
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(1) Direct Labor - Identify the number of hours (by contractor labor category and total) and the total loaded direct labor hours billed for the period in the invoice.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) Indirect Cost Rates - Identify by cost center, the indirect cost rate, the period, and the cost base to which it is applied.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) Subcontracts - Identify the major cost elements for each subcontract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) Other Direct Costs - When the cost for an individual cost (<i class="+ topic/ph hi-d/i ">e.g.,</i> photocopying, material and supplies, telephone usage) exceeds $1,000 per the invoice period, provide a detailed explanation for that cost category.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(5) Contractor Acquired Equipment (if authorized by the contract) - Identify by item the quantities, unit prices, and total dollars billed.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(6) Contractor Acquired Software (if authorized by the contract) - Identify by item the quantities, unit prices, and total dollars billed.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(7) Travel - When travel costs exceed $2,000 per invoice period, identify by trip, the number of travelers, the duration of travel, the point of origin, destination, purpose of trip, transportation by unit price, per diem rates on daily basis and total dollars billed. Detailed reporting is not required for local travel. The manner of breakdown, <i class="+ topic/ph hi-d/i ">e.g.,</i> task order/delivery order basis with/without separate program management, contract period will be specified in the contract instructions.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Note to paragraph (i)</i> - Any costs requiring advance consent by the Contracting Officer will be considered improper and will be disallowed, if claimed prior to receipt of Contracting Officer consent. Include the total cost claimed for the current and cumulative-to-date periods. After the total amount claimed, provide summary dollar amounts disallowed on the contract as of the date of the invoice. Also include an explanation of the changes in cumulative costs disallowed by addressing each adjustment in terms of: Voucher number, date, dollar amount, source, and reason for the adjustment. Disallowed costs should be identified in unallowable accounts in the contractor's accounting system.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(j) <i class="+ topic/ph hi-d/i ">Supporting Schedules for Time and Materials Contracts.</i> The following backup information is required as an attachment to the invoice as shown by category of cost:
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(1) Direct Labor - Identify the number of hours (by contractor labor category and total) and the total direct labor hours billed for the period of the invoice.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) Subcontracts - Identify the major cost elements for each subcontract.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(3) Other Direct Costs - When the cost for an individual cost (<i class="+ topic/ph hi-d/i ">e.g.,</i> photocopying, material and supplies, telephone usage) exceeds $1,000 per the invoice period, provide a detailed explanation for that cost category.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(4) Indirect Cost Rates - Identify by cost center, the indirect cost rate, the period, and the cost base to which it is applied.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(5) Contractor Acquired Equipment - Identify by item the quantities, unit prices, and total dollars billed.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(6) Contractor Acquired Software - Identify by item the quantities, unit prices, and total dollars billed.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(7) Travel - When travel costs exceed $2,000 per invoice period, identify by trip, the number of travelers, the duration of travel, the point of origin, destination, purpose of trip, transportation by unit price, per diem rates on daily basis and total dollars billed. Detailed reporting is not required for local travel. The manner of breakdown, <i class="+ topic/ph hi-d/i ">e.g.,</i> task order/delivery order basis with/without separate program management, contract period will be specified in the contract instructions.
+</p>
+                                 <p outputclass="P" class="- topic/p ">
+                                    <i class="+ topic/ph hi-d/i ">Note to paragraph (j)</i> - Any costs requiring advance consent by the Contracting Officer will be considered improper and will be disallowed, if claimed prior to receipt of Contracting Officer consent. Include the total cost claimed for the current and cumulative-to-date periods. After the total amount claimed, provide summary dollar amounts disallowed on the contract as of the date of the invoice. Also include an explanation of the changes in cumulative costs disallowed by addressing each adjustment in terms of: Voucher number, date, dollar amount, source, and reason for the adjustment. Disallowed costs should be identified in unallowable accounts in the contractor's accounting system.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(k) <i class="+ topic/ph hi-d/i ">Adjustment vouchers.</i> Adjustment vouchers should be submitted if finalized indirect rates were received but the rates are not for the entire period of performance. For example, the base period of performance is for a calendar year but your indirect rates are by fiscal year. Hence, only part of the base period can be adjusted for the applicable final indirect rates. These invoices should be annotated with “adj” after the invoice number.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(l) <i class="+ topic/ph hi-d/i ">Final vouchers.</i> Final Vouchers shall be submitted if finalized rates have been received for the entire period of performance. For example, the base period of performance is for a calendar year but your indirect rates are by fiscal year. You have received finalized rates for the entire base period that encompass both fiscal years that cover the base period. In accordance with FAR 52.216-7, these invoices shall be submitted within 60 days after settlement of final indirect cost rates. They should be annotated with the word “Final” or “F” after the invoice number. Due to system limitations, the invoice number cannot be more than 11 characters to include spaces.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(m) <i class="+ topic/ph hi-d/i ">Completion vouchers.</i> In accordance with FAR 52.216-7(d)(5), a completion voucher shall be submitted within 120 days (or longer if approved in writing by the Contracting Officer) after settlement of the final annual indirect cost rates for all years of a physically complete contract. The voucher shall reflect the settled amounts and rates. It shall include settled subcontract amounts and rates. The prime contractor is responsible for settling subcontractor amounts and rates included in the completion invoice. Since EPA's invoices must be on a period of performance basis, the contractor shall have a completion invoice for each year of the period of performance. This voucher must be submitted to the Contracting Officer for review and approval before final payment can be made on the contract. The Contracting Officer may request an audit of the completion vouchers before final payment is made. In addition, once approved, the Contracting Officer will request the appropriate closeout paperwork for the contract. For contracts separately invoiced by delivery or task order, provide a schedule showing final total costs claimed by delivery or task order and in total for the contract. In addition to the completion voucher, the contractor must submit the <i class="+ topic/ph hi-d/i ">Contractor's Release; Assignee's Release,</i> if applicable; the <i class="+ topic/ph hi-d/i ">Contractor's Assignment of Refunds, Rebates, Credits and other Amounts;</i> the <i class="+ topic/ph hi-d/i ">Assignee's Assignment of Refunds, Rebates, Credits and other Amounts,</i> if applicable; and the <i class="+ topic/ph hi-d/i ">Contractor's Affidavit of Waiver of Lien,</i> when required by the contract.
+</p>
+                                 <p outputclass="HD1" class="- topic/p ">Alternate I (MAY 2019)
+</p>
+                                 <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="d1e4018"
+                     href="48_6.0.1.5.27.5.1.1.dita#d1e4018">1532.908</xref>, substitute the following paragraphs (c)(1) and (2) for paragraphs (c)(1) and (2) if used in a non-commercial time and materials type contract:
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(c)(1) The Contractor shall prepare a contract level invoice or request for contract financing payment in accordance with the invoice preparation instructions. If contract work is authorized by individual task order or delivery order (TO/DO), the invoice or request for contract financing payment shall also include a summary of the current and cumulative amounts claimed by cost element for each TO/DO and for the contract total, as well as any supporting data for each TO/DO as identified in the instructions.
+</p>
+                                 <p outputclass="List2" class="- topic/p ">(2) The invoice or request for contract financing payment that employs a fixed rate feature shall include current and cumulative charges by contract labor category and by other major cost elements such as travel, equipment, and other direct costs. For current costs, each cost element shall include the appropriate supporting schedules identified in the invoice preparation instructions.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of clause)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

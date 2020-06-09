@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e1145"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1505.203</ph> Publicizing and response time.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) The Contracting Officer may, at his/her discretion under certain circumstances, elect to transmit a synopsis to the Government Point of Entry (GPE) of a proposed contract action that falls within an exception to the synopsis requirement in FAR 5.202(a). For those contract actions, the Contracting Officer may provide for a lesser time period than the 15 days required by FAR 5.203(a) and the 30 days required by FAR 5.203 (c) or (d), and the 45 days required by FAR 5.203(e). The Contracting Officer must identify the basis for the lesser time periods for response in the synopsis.
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) The authority for paragraph (a) does not extend to the synopsis of contract actions falling within the exception in FAR 5.202(a)(7), if to do so would disclose the originality of thought or innovativeness of the proposed research.
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e2534"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1516.303-72</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) The Agency shall use cost-sharing contracts where the principal purpose is ultimate commercialization and utilization of technologies by the private sector. There should also be a reasonable expectation of future economic benefits for the contractor and the Government beyond the Government's contract. 
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) Cost-sharing may be accomplished by a contribution to either direct or indirect costs, provided such costs are reasonable, allocable and allowable in accordance with the cost principles of the contract. Allowable costs which are absorbed by the contractor as its share of contract costs may not be charged directly or indirectly to the Agency or the Federal Government. 
+</p>
+         <p outputclass="List1" class="- topic/p ">(c) Unsolicited proposals will be considered on a case-by-case basis by the Contracting Officer as to the appropriateness of cost-sharing. 
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

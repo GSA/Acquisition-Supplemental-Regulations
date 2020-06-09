@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e8761"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.224-70</ph> Social security numbers of consultants and certain sole proprietors and Privacy Act statement.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e3583"
+                  href="48_6.0.1.4.20.1.1.1.dita#d1e3583">1524.104</xref>, insert the following provision in all solicitations.
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Social Security Numbers of Consultants and Certain Sole Proprietors and Privacy Act Statement (APR 1984)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(a) Section 6041 of title 26 of the U.S. Code requires EPA to file Internal Revenue Service (IRS) Form 1099 with respect to individuals who receive payments from EPA under purchase orders or contracts. Section 6109 of title 26 of the U.S. Code authorizes collection by EPA of the social security numbers of such individuals for the purpose of filing IRS Form 1099. Social security numbers obtained for this purpose will be used by EPA for the sole purpose of filing IRS Form 1099 in compliance with section 6041 of title 26 of the U.S. Code.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) If the offeror or quoter is an individual, consultant, or sole proprietor and has no Employer Identification Number, insert the offeror's or quoter's social security number on the following line.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of provision)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

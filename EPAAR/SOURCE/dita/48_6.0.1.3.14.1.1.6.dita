@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e2587"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1516.303-74</ph> Determining the value of in-kind contributions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">In-kind contributions accepted from a contractor will be addressed on a case-by-case basis provided the established values do not exceed fair market values.
+</p>
+         <p outputclass="List1" class="- topic/p ">(a) Where the Agency receives title to donated land, building, equipment or supplies and the property is not fully consumed during performance of the contract, the Contracting Officer should establish the property's value based on the contractor's booked costs (i.e., acquisition cost less depreciation, if any) at the time of donation. If the booked costs reflect unrealistic values when compared to current market conditions, the Contracting Officer may establish another appropriate value if supported by an independent appraisal of the fair market value of the donated property or property in similar condition and circumstances.
+</p>
+         <p outputclass="List1" class="- topic/p ">(b) The Contracting Officer will monitor reports of in-kind costs as they are incurred or recognized during the contract period of performance to determine that the value of in-kind services does not exceed fair market values.
+</p>
+         <p outputclass="List1" class="- topic/p ">(c) The value of any services or the use of personal or real property donated by a contractor should be established when necessary in accordance with generally accepted accounting policies and Federal cost principles.
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

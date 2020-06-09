@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e5987"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.214-71</ph> Contract award - other factors - formal advertising.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e1912"
+                  href="48_6.0.1.3.12.1.1.2.dita#d1e1912">1514.201-6</xref>(b), insert the following solicitation provision in invitations for bids (IFB) when it is appropriate to describe other factors that will be used in evaluating bids for award. This provision is used to describe the other factors mentioned in the solicitation provisions “Contract Award - Formal Advertising” (FAR 52.214-10), and “Contract Award - Construction” (FAR 52.214-19). All other evaluation provisions in the IFB (e.g., evaluation of options) should be cross-referenced in this provision. The other factors set forth in the provision should represent a consolidated statement of the exact basis upon which bids will be evaluated for award.
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Contract Award - Other Factors - Formal Advertising (APR 1984)
+</p>
+                                 <p outputclass="P" class="- topic/p ">The Government will award a contract resulting from this solicitation as stated in the “Contract Award” provision. The other factors that will be considered are:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "/>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of provision)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

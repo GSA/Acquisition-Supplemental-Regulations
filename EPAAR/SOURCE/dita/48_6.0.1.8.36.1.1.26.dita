@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e6340"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.215-73</ph> General financial and organizational information.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e2426"
+                  href="48_6.0.1.3.13.2.1.8.dita#d1e2426">1515.408</xref>(a)(2), insert the following provision:
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">General Financial and Organizational Information: (AUG 1999)
+</p>
+                                 <p outputclass="P" class="- topic/p ">Offerors or quoters are requested to provide information regarding the following items in sufficient detail to allow a full and complete business evaluation. If the question indicated is not applicable or the answer is none, it should be annotated. If the offeror has previously submitted the information, it should certify the validity of that data currently on file at EPA and to whom and where it was submitted or update all outdated information on file.
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "> (a) Contractor's Name:
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(b) Address (If financial records are maintained at some other location, show the address of the place where the records are kept):
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "> (c) Telephone Number:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "> (d) Individual(s) to contact re. this proposal:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(e) Cognizant Government:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Audit Agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Address:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Auditor:
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(f)(1) Work Distribution for the Last Completed Fiscal Accounting Period:
+</p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="2" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Sales:
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Government cost-reimbursement type prime contracts and subcontracts</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Government fixed-price prime contracts and subcontracts</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Commercial Sales</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Total Sales</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="center" class="- topic/entry ">(2) Total Sales for first and second fiscal years immediately preceding last completed fiscal year.</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="2" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Total Sales for First Preceding Fiscal Year</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Total Sales for Second Preceding Fiscal Year</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">$____
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">(g) Is company a separate rate entity or division?
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Yes _
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">No _</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                                 <p outputclass="P" class="- topic/p ">If a division or subsidiary corporation, name parent company:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "> (h) Date Company Organized: 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(i) Manpower:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Total Employees: 
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Direct: 
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Indirect: 
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Standard Work Week (Hours): 
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p "> (j) Commercial Products: 
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(k) Attach a current organizational chart of the company.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(l) Description of Contractor's system of estimating and accumulating costs under Government contracts. (Check appropriate blocks.)
+</p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="3" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="3" colname="3" colsep="0" class="- topic/colspec "/>
+                     <thead class="- topic/thead ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" class="- topic/entry "> 
+</entry>
+                                             <entry colname="2" class="- topic/entry ">Estimated/actual cost
+</entry>
+                                             <entry colname="3" class="- topic/entry ">Standard cost
+</entry>
+                                          </row>
+                     </thead>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Estimating System:
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Job Order</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Process</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry "> 
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Accumulating System:
+</entry>
+                                             <entry colname="2" align="right" class="- topic/entry "/>
+                                             <entry colname="3" align="right" class="- topic/entry "/>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Job Order</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Process</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___</entry>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                                 <p outputclass="P" class="- topic/p ">Has your cost estimating system been approved by any Government agency?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If yes, give name, date or approval, and location of agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="P" class="- topic/p ">Has your cost accumulation system been approved by any Government agency?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If yes, give name, date of approval, and address of agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(m) What is your fiscal year period? (Give month-to-month dates):
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="P" class="- topic/p ">What were the indirect cost rates for your last completed fiscal year?
+</p>
+                                 <p outputclass="DIV" class="- topic/p ">
+                                    
+                                       <table class="- topic/table ">
+                  <tgroup cols="3" outputclass="FormatA" class="- topic/tgroup ">
+                     <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
+                     <colspec colnum="3" colname="3" colsep="0" class="- topic/colspec "/>
+                     <thead class="- topic/thead ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" class="- topic/entry ">Fiscal year
+</entry>
+                                             <entry colname="2" class="- topic/entry ">Indirect cost rate
+</entry>
+                                             <entry colname="3" class="- topic/entry ">Basis of allocation
+</entry>
+                                          </row>
+                     </thead>
+                     <tbody class="- topic/tbody ">
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Fringe Benefits</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Overhead</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">G&amp;A Expense</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___
+</entry>
+                                          </row>
+                        <row class="- topic/row ">
+                                             <entry colname="1" align="left" class="- topic/entry ">Other</entry>
+                                             <entry colname="2" align="right" class="- topic/entry ">___</entry>
+                                             <entry colname="3" align="right" class="- topic/entry ">___</entry>
+                                          </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+                                    
+                                 </p>
+                                 <p outputclass="List1" class="- topic/p ">(n) Have the proposed indirect cost rate(s) been evaluated and accepted by any Government agency?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If yes, give name, date of approval, and location of the Government agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="P" class="- topic/p ">Date of last preaward audit review by a Government agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="P" class="- topic/p ">If the answer is no, data supporting the proposed rates must accompany the cost or price proposal. A breakdown of the items comprising overhead and G&amp;A must be furnished.
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(o) Cost estimating is performed by:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Accounting Department
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Contracting Department
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Other (describe)
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(p) Has system of control of Government property been approved by a Government agency?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If yes, give name, date of approval, and location of the Government agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(q) Purchasing System: FAR 44.302 requires EPA, where it is the cognizant Government agency, to conduct a Contractor Purchasing System Review for each contractor whose sales to the Government, using other than sealed bid procedures, are expected to exceed $25 million (annual billings) during the next twelve months. The $25 million sales threshold is comprised of prime contracts, subcontractors under Government prime contracts, and modifications (except when the negotiated price is based on established catalog or market prices or is set by law or regulation).
+</p>
+                                 <p outputclass="P" class="- topic/p ">Has your purchasing system been approved by a Government agency?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If yes, name and location of the Government agency:
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">Period of Approval: 
+</p>
+                                 <p outputclass="P" class="- topic/p ">If no, do you estimate that your negotiated sales to the Government during the next twelve months will meet the $25 million threshold? Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If you responded yes to the $25 million threshold question, is EPA the cognizant agency for your organization based on the preponderance of Government contract dollars?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="P" class="- topic/p ">If EPA is not your cognizant Government agency, provide the name and location of the cognizant agency _________________
+</p>
+                                 <p outputclass="FP-DASH" class="- topic/p ">
+</p>
+                                 <p outputclass="P" class="- topic/p ">Are your purchasing policies and procedures written?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(r) Does your firm have an established written incentive compensation or bonus plan?
+</p>
+                                 <p outputclass="FP" class="- topic/p ">Yes _ No _
+</p>
+                                 <p outputclass="List1" class="- topic/p ">(s) Additionally, offerors shall submit current financial statements, including a Balance Sheet, Statement of Income (Loss), and Cash Flow for the last two completed fiscal years. Specify resources available to perform the contract without assistance from any outside source. If sufficient resources are not available, indicate in proposal the amount required and the anticipated source (i.e., bank loans, letter or lines of credit, etc.).</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of provision)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>

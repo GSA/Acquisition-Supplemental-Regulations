@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="d1e9425"
+            outputclass="Section"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1552.235-73</ph> Access to Federal Insecticide, Fungicide, and Rodenticide Act Confidential Business Information (APR 1996).</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="P" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="d1e4112"
+                  href="48_6.0.1.6.29.0.1.1.dita#d1e4112">1535.007</xref>(a), insert the following provision: 
+</p>
+         <note class="- topic/note ">
+                                 <p outputclass="HD1" class="- topic/p ">Access to Federal Insecticide, Fungicide, and Rodenticide Act Confidential Business Information (APR 1996)
+</p>
+                                 <p outputclass="P" class="- topic/p ">In order to perform duties under the contract, the Contractor will need to be authorized for access to Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) confidential business information (CBI). The Contractor and all of its employees handling CBI while working under the contract will be required to follow the procedures contained in the security manual entitled “FIFRA Information Security Manual.” These procedures include applying for FIFRA CBI access authorization for each individual working under the contract who will have access to FIFRA CBI, execution of confidentiality agreements, and designation by the Contractor of an individual to serve as a Document Control Officer. The Contractor will be required to abide by those clauses contained in EPAAR <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="d1e9304"
+                     href="48_6.0.1.8.36.1.1.60.dita#d1e9304">1552.235-70</xref>, 1552.235- 71, and <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="d1e9526"
+                     href="48_6.0.1.8.36.1.1.67.dita#d1e9526">1552.235-77</xref> that are appropriate to the activities set forth in the contract. 
+</p>
+                                 <p outputclass="P" class="- topic/p ">Until EPA has approved the Contractor's security plan, the Contractor may not be authorized for FIFRA CBI access away from EPA facilities.</p>
+                              </note>
+         <p outputclass="HD3" class="- topic/p ">(End of provision)
+</p>
+         
+      </conbody>
+   </concept>
+</dita>
