@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e2850">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 1417</ph> - SPECIAL CONTRACTING METHODS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.54.16.1.dita#d1e2873"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.54.16.1.1.1.dita#d1e2878"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.54.16.1.1.2.dita#d1e2887"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.54.16.2.dita#d1e2897"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.54.16.2.1.1.dita#d1e2902"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.54.16.3.dita#d1e2913"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.54.16.3.1.1.dita#d1e2918"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.54.16.3.1.2.dita#d1e2955"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

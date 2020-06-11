@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e1677">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 1406</ph> - COMPETITION REQUIREMENTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.53.7.1.dita#d1e1700"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.1.1.1.dita#d1e1705"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.dita#d1e1715"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.1.dita#d1e1720"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.2.dita#d1e1726"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.3.dita#d1e1735"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.4.dita#d1e1744"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.5.dita#d1e1751"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.2.1.6.dita#d1e1776"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.53.7.3.dita#d1e1787"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.3.1.1.dita#d1e1792"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.53.7.3.1.2.dita#d1e1804"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

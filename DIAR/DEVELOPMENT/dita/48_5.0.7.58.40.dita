@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e5612">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 1445</ph> - GOVERNMENT PROPERTY</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="48_5.0.7.58.40.1.dita#d1e5635"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="48_5.0.7.58.40.1.1.1.dita#d1e5640"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
