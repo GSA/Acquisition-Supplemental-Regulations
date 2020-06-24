@@ -1061,10 +1061,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_B.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_B.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_B.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 206 - COMPETITION REQUIREMENTS"
                    href="PART_206.dita"
@@ -2446,10 +2443,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_C.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_C.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_C.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 213 - SIMPLIFIED ACQUISITION PROCEDURES"
                    href="PART_213.dita"
@@ -3996,10 +3990,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_D.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_D.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_D.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 219 - SMALL BUSINESS PROGRAMS"
                    href="PART_219.dita"
@@ -6823,10 +6814,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_E.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_E.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_E.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 227 - PATENTS, DATA, AND COPYRIGHTS "
                    href="PART_227.dita"
@@ -8437,10 +8425,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_F.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_F.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_F.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 234 - MAJOR SYSTEM ACQUISITION "
                    href="PART_234.dita"
@@ -9708,10 +9693,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_G.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_G.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_G.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 242 - CONTRACT ADMINISTRATION"
                    href="PART_242.dita"
@@ -11389,10 +11371,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_H.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_H.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_H.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PART 252 - CLAUSES"
                    href="PART_252.dita"
@@ -13979,10 +13958,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_I.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_I.dita" type="topic" class="- map/topicref ">
       <topicref href="DFAR_I.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="Appendix A—Armed Services Board of Contract Appeals"
                    href="Appendix_A.dita"
@@ -15002,10 +14978,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_B.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_B.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_b.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 205 - PUBLICIZING CONTRACT ACTIONS"
                    href="PGI_PART_205.dita"
@@ -15188,6 +15161,7 @@
                    props="PGI PART 208"
                    base="topic"
                    class="- map/topicref ">
+            <topicref href="PGI_208.002.dita" type="concept" class="- map/topicref "/>
             <topicref navtitle="PGI 208.4 —FEDERAL SUPPLY SCHEDULES"
                       href="PGI_208.4.dita"
                       outputclass="SubPart"
@@ -15739,10 +15713,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_C.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_C.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_c.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 213 PGI PART 213 - SIMPLIFIED ACQUISITION PROCEDURES"
                    href="PGI_PART_213.dita"
@@ -16776,10 +16747,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_D.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_D.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_d.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 219 - SMALL BUSINESS PROGRAMS"
                    href="PGI_PART_219.dita"
@@ -17652,10 +17620,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_E.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_E.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_e.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 228 - BONDS AND INSURANCE"
                    href="PGI_PART_228.dita"
@@ -17961,10 +17926,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_F.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_F.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_f.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 234 - MAJOR SYSTEM ACQUISITION"
                    href="PGI_PART_234.dita"
@@ -18363,10 +18325,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_G.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_G.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_g.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 242 - CONTRACT ADMINISTRATION"
                    href="PGI_PART_242.dita"
@@ -19064,10 +19023,7 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Subchapter_PGI_H.dita"
-             outputclass="SubChapter"
-             type="topic"
-             class="- map/topicref ">
+   <topicref href="Subchapter_PGI_H.dita" type="topic" class="- map/topicref ">
       <topicref href="DFARpgi_h.dita" type="topic" class="- map/topicref ">
          <topicref navtitle="PGI PART 252 - CLAUSES"
                    href="PGI_PART_252.dita"
