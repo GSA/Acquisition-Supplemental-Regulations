@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3"><concept id="DFARS-208.002" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "><title class="- topic/title "><ph props="autonumber" class="- topic/ph ">208.002</ph> Priorities for use of Government supply sources.</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a)(1)(v)  See Subpart <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1495348" href="PGI_208.70.dita#i1495348">208.70</xref>, Coordinated Acquisition, and Subpart <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="i1495453" href="PGI_208.74.dita#i1495453">208.74</xref>, Enterprise Software Agreements.</p></conbody></concept></dita>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="DFARS-208.002"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">208.002</ph> Priorities for use
+of Government supply sources.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(1) Supplies. (i) See the guidance
+at PGI 208.002(a)(1)(i) to obtain information on available items
+in DoD’s property inventories.</p>
+         <p class="- topic/p ">(v) See subpart <xref href="PGI_208.70.dita#i1495348"
+                  base="i1495348"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">208.70</xref>,
+Coordinated Acquisition, and subpart <xref href="PGI_208.74.dita#i1495453"
+                  base="i1495453"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">208.74</xref>, Enterprise Software
+Agreements.</p>
+      </conbody>
+   </concept>
+</dita>
