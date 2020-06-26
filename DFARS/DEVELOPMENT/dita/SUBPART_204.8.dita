@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_204.8"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 204.8</ph> --CONTRACT FILES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 204.8</ph> --CONTRACT FILES</title>
    </topic>
 </dita>

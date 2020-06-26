@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_232.11"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 232.11</ph> --ELECTRONIC FUNDS TRANSFER</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 232.11</ph> --ELECTRONIC FUNDS TRANSFER</title>
    </topic>
 </dita>

@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_207.3"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 207.3</ph> —CONTRACTOR VERSUS GOVERNMENT PERFORMANCE</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 207.3</ph> —CONTRACTOR VERSUS GOVERNMENT PERFORMANCE</title>
    </topic>
 </dita>

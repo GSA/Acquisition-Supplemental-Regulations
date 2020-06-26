@@ -4,18 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.249-7002"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.249-7002</ph> Notification of
 Anticipated Contract Termination or Reduction.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p rev="Revised 6/5/2020" class="- topic/p ">As prescribed
-in <xref href="249.7004.dita#DFARS-249.7004" class="- topic/xref ">249.7004</xref>,
+         <p rev="Revised June 5, 2020" class="- topic/p ">As prescribed
+in <xref href="249.7004.dita#DFARS-249.7004" class="- topic/xref "/>,
 use the following clause:</p>
          <p class="- topic/p ">NOTIFICATION OF ANTICIPATED CONTRACT TERMINATION OR REDUCTION</p>
-         <p rev="Revised 6/5/2020" class="- topic/p ">(JUN 2020)</p>
+         <p rev="Revised June 5, 2020" class="- topic/p ">(JUN 2020)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As use in this
 clause—</p>
          <p class="- topic/p ">“Major defense program” means a program that is carried out to
@@ -64,24 +63,24 @@ Act (29 U.S.C. Chapter 32).</p>
 later than 60 days after the Contractor receives the Contracting
 Officer’s notice of the anticipated termination or reduction, the
 Contractor shall—</p>
-         <p rev="Revised 6/5/2020" outputclass="List2" class="- topic/p ">(1) Provide notice
+         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p ">(1) Provide notice
 of the anticipated termination or reduction to each first-tier subcontractor
 with a subcontract that equals or exceeds the threshold specified
 in Defense Federal Acquisition Regulation Supplement (DFARS) <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref ">249.7003</xref>(c)(1)</ph> at the
+               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref "/>(c)(1)</ph> at the
 time of the notice; and</p>
          <p outputclass="List2" class="- topic/p ">(2) Require that each such subcontractor—</p>
          <p outputclass="List3" class="- topic/p ">(i) Provide notice to each of its subcontractors
 with a subcontract that equals or exceeds the threshold specified
 in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref ">249.7003</xref>(c)(2)(i)</ph> at
+               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref "/>(c)(2)(i)</ph> at
 the time of the notice; and</p>
-         <p rev="Revised 6/5/2020" outputclass="List3" class="- topic/p ">(ii) Impose a
+         <p rev="Revised June 5, 2020" outputclass="List3" class="- topic/p ">(ii) Impose a
 similar notice and flowdown requirement to subcontractors with subcontracts
 that equal or exceed the threshold specified in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref ">249.7003</xref>(c)(2)(ii)</ph> at
+               <xref href="249.7003.dita#DFARS-249.7003" class="- topic/xref "/>(c)(2)(ii)</ph> at
 the time of the notice.</p>
-         <p rev="Revised 6/5/2020" outputclass="List1" class="- topic/p ">(e) The notice
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(e) The notice
 provided an employee under paragraph (c) of this clause shall have
 the same effect as a notice of termination to the employee for the
 purposes of determining whether such employee is eligible for training,

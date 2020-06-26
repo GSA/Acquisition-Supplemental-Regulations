@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-219.808-1"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,9 +14,9 @@ follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="PGI_219.808-1.dita#DFARS-PGI_PGI_219.808-1"
                      base="DFARS-PGI_PGI_219.808-1"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">219.808-1</xref>
             </ph>.</p>
-         <p rev="Added 6/5/2020" outputclass="List1" class="- topic/p ">(a) In lieu of the
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(a) In lieu of the
 threshold at FAR 19.808-1(a), the SBA may not accept for negotiation
 a DoD sole-source 8(a) contract exceeding $100 million unless DoD
 has completed a justification in accordance with FAR 6.303 and 206.303-1(b).</p>

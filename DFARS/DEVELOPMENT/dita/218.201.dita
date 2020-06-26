@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-218.201"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -18,13 +17,13 @@ contracting force. See <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="213.201.dita#DFARS-213.201"
                      base="DFARS-213.201"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">213.201</xref>
             </ph>(g)
 and <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="213.270.dita#DFARS-213.270"
                      base="DFARS-213.270"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">213.270</xref>
             </ph>(c)(3)
 and (5).</p>
          <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Governmentwide commercial purchase
@@ -36,7 +35,7 @@ if certain conditions are met. See <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="213.301.dita#DFARS-213.301"
                      base="DFARS-213.301"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">213.301</xref>
             </ph>(3).</p>
          <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Imprest funds and third party drafts</i>.
 Imprest funds are authorized for use without further approval for
@@ -46,14 +45,14 @@ operation. See <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="213.306.dita#DFARS-213.306"
                      base="DFARS-213.306"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">213.306</xref>
             </ph>(a)(1)(B).</p>
          <p outputclass="List2" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Only one offer</i>. The requirements
 at sections <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="216.601.dita#DFARS-216.601"
                      base="DFARS-216.601"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">216.601</xref>
             </ph>(d)(3).<i class="+ topic/ph hi-d/i "/>
          </p>
          <p outputclass="List2" class="- topic/p ">(9) Undefinitized contract actions. The
@@ -64,7 +63,7 @@ peacekeeping operation. See <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="225.7002.dita#DFARS-225.7002"
                      base="DFARS-225.7002"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">225.7002</xref>
             </ph>, Restrictions
 on food, clothing, fabrics, specialty metals, and hand or measuring
 tools: (1) Acquisitions at or below the simplified acquisition threshold;
@@ -81,7 +80,7 @@ See <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="232.7002.dita#DFARS-232.7002"
                      base="DFARS-232.7002"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">232.7002</xref>
             </ph>(a)(4).</p>
       </conbody>
    </concept>

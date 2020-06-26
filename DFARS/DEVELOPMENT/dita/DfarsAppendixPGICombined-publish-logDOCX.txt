@@ -1,0 +1,3 @@
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/tomal/Desktop/DEVELOPMENT/dita/252.249-7002' does not exist or cannot be loaded.
+[topicpull] java.io.FileNotFoundException: C:\Users\tomal\AppData\Local\Temp\temp20200626131647393\252.249-7002 (The system cannot find the file specified)
+[topicpull] file:/C:/Users/tomal/Desktop/DEVELOPMENT/dita/249.7004.dita:15:41: [DOTX031E][ERROR]: The file 252.249-7002#DFARS-252.249-7002 is not available to resolve link information. 

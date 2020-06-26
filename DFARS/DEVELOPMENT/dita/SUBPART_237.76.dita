@@ -7,7 +7,8 @@
    <topic id="DFARS-SUBPART_237.76"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 237.76</ph> —CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 237.76</ph> —CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</title>
       <body class="- topic/body ">
          <p class="- topic/p "/>
       </body>

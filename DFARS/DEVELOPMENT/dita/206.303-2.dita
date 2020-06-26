@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-206.303-2"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -19,7 +18,7 @@ PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="PGI_206.303-2.dita#DFARS-PGI_PGI_206.303-2"
                      base="DFARS-PGI_PGI_206.303-2"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">206.303-2</xref>
             </ph>(b)(i)
 in justifications citing the authority at <ph xtrc="FARxref" class="- topic/ph ">FAR 6.302-1</ph>.</p>
          <p outputclass="List1" class="- topic/p ">(d) In lieu of the threshold at FAR 6.303-2(d),

@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-215.403-1"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -19,7 +18,7 @@ cost or pricing data requirements.</i>
                <xref outputclass="fm:ParaNumOnly"
                      href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">215.403-1</xref>
             </ph>(b).</p>
          <p outputclass="List3" class="- topic/p ">(ii) Submission of certified cost or pricing
 data shall not be required in the case of a contract, subcontract,
@@ -50,17 +49,17 @@ to a competitive solicitation, see <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="212.102.dita#DFARS-212.102"
                      base="DFARS-212.102"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">212.102</xref>
             </ph>(a)(ii)
 regarding prior commercial item determinations.</p>
-         <p rev="Revised 6/5/2020" outputclass="List2" class="- topic/p "> (3)  Commercial
+         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p "> (3)  Commercial
 items. </p>
-         <p rev="Revised 6/5/2020" outputclass="List4" class="- topic/p ">(A)  Follow the
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(A)  Follow the
 procedures at <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                   scope="local"
                   class="- topic/xref ">PGI 215.403-1</xref>(c)(3) for pricing commercial
 items.</p>
-         <p rev="Revised 6/5/2020" outputclass="List4" class="- topic/p ">(B)  When applying
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B)  When applying
 the commercial item exception under FAR 15.403-1(b)(3), see <xref href="212.102.dita#DFARS-212.102"
                   scope="local"
                   class="- topic/xref ">212.102</xref>(a)(ii)
@@ -84,12 +83,12 @@ to granting the waiver. Follow the procedures at PGI <ph xtrc="PGIxref" class="-
                <xref outputclass="fm:ParaNumOnly"
                      href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">215.403-1</xref>
             </ph>(c)(4)(A) for
 determining when an exceptional case waiver is appropriate, for
 approval of such waivers, for partial waivers, and for waivers applicable
 to unpriced supplies or services.</p>
-         <p rev="6/5/2020" outputclass="List4" class="- topic/p ">(B) By November 30th of
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) By November 30th of
 each year, departments and agencies shall provide a report to the
 Director, Defense Pricing and Contracting, Pricing and Contracting
 Initiatives (DPC/PCI), of all waivers granted under FAR 15.403-1(b)(4), during
@@ -104,13 +103,13 @@ and its subcontractors (but see <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="215.408.dita#DFARS-215.408"
                      base="DFARS-215.408"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">215.408</xref>
             </ph>(3)
 and <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="225.870-4.dita#DFARS-225.870-4"
                      base="i1378989"
-                     class="- topic/xref "/>
+                     class="- topic/xref ">225.870-4</xref>
             </ph>(c)).</p>
          <p outputclass="List4" class="- topic/p ">(D) DoD has waived certified cost or pricing
 data requirements for nonprofit organizations (including educational institutions)

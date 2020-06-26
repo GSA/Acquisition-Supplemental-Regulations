@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_217.76"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 217.76</ph> --CONTRACTS WITH PROVISIONING REQUIREMENTS</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 217.76</ph> --CONTRACTS WITH PROVISIONING REQUIREMENTS</title>
    </topic>
 </dita>

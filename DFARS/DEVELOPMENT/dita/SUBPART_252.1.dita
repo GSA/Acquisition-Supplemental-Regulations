@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_252.1"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 252.1</ph> --INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 252.1</ph> --INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES</title>
    </topic>
 </dita>

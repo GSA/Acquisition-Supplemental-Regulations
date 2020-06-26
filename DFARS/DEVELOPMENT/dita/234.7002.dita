@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-234.7002"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -23,10 +23,9 @@ national security objectives; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) The congressional defense committees
 are notified at least 30 days before such treatment or acquisition
 occurs. Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="PGI_234.7002.dita#DFARS-PGI_PGI_234.7002"
-                     base="DFARS-PGI_PGI_234.7002"
-                     class="- topic/xref "/>
+               <xref href="#DFARS-234.7002"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">234.7002</xref>
             </ph>.</p>
          <p outputclass="List2" class="- topic/p ">(2) The authority of the Secretary of Defense
 to make a determination under paragraph (a)(1) of this section may
@@ -63,14 +62,14 @@ prime contract or a modification to a prime contract, or through
 a subcontract under a prime contract or modification to a prime
 contract on which the prime contractor adds no, or negligible, value.</p>
          <p id="DFARS"
-            rev="Revised 6/5/2020"
+            rev="Revised June 5, 2020"
             outputclass="List1"
             class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Relevant
-information</i>. See <xref href="212.209.dita#DFARS-212.209"
-                  format="html"
+information</i>. See <xref href="#DFARS-212.209"
+                  outputclass="fm:ParaNumOnly"
                   scope="local"
-                  class="- topic/xref ">212.209</xref>(a)
-for requirements of <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377(d)&amp;num=0&amp;edition=prelim"
+                  class="- topic/xref ">212.209</xref>(a) for requirements
+of <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377(d)&amp;num=0&amp;edition=prelim"
                   format="html"
                   scope="external"
                   class="- topic/xref ">10 U.S.C. 2377 </xref>with
@@ -110,15 +109,13 @@ the head of the contracting activity determines in writing that
 the information submitted pursuant to paragraphs (d)(1) and (2)
 of this section is not sufficient to determine the reasonableness
 of price.</p>
-         <p rev="Added 6/5/2020" outputclass="List1" class="- topic/p ">(5) An offeror may
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(5) An offeror may
 submit information or analysis relating to the value of a commercial
 item to aid in the determination of the reasonableness of the price
 of such item. A contracting officer may consider such information
 or analysis in addition to the information submitted pursuant to
 paragraphs (d)(1) and (2) of this section. For additional guidance
-see <xref href="PGI_234.7002#DFARS-PGI_PGI_234.7002"
-                  scope="local"
-                  class="- topic/xref ">PGI 234.7002</xref>(d)(5).</p>
+see <xref href="#DFARS-PGI_PGI_234.7002" scope="local" class="- topic/xref ">PGI 234.7002</xref>(d)(5).</p>
       </conbody>
    </concept>
 </dita>

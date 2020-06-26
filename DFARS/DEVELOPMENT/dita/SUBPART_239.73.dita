@@ -7,7 +7,8 @@
    <topic id="DFARS-SUBPART_239.73"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 239.73</ph> –REQUIREMENTS FOR INFORMATION RELATING TO</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 239.73</ph> –REQUIREMENTS FOR INFORMATION RELATING TO</title>
       <body class="- topic/body ">
          <p class="- topic/p "> SUPPLY CHAIN RISK</p>
       </body>

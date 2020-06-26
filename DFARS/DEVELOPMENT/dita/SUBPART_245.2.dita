@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_245.2"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 245.2</ph> -- SOLICITATION AND EVALUATION PROCEDURES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 245.2</ph> -- SOLICITATION AND EVALUATION PROCEDURES</title>
    </topic>
 </dita>

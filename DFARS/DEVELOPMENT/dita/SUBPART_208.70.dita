@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_208.70"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 208.70</ph> --COORDINATED ACQUISITION</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 208.70</ph> --COORDINATED ACQUISITION</title>
    </topic>
 </dita>
