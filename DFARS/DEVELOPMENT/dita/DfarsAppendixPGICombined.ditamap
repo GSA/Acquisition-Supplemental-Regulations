@@ -1167,6 +1167,7 @@
                          props="206.303"
                          base="concept"
                          class="- map/topicref ">
+                  <topicref href="206.303-1.dita" type="concept" class="- map/topicref "/>
                   <topicref navtitle="206.303-2 Content."
                             href="206.303-2.dita"
                             outputclass="subtopic"
@@ -11184,6 +11185,7 @@
                          props="249.7003"
                          base="concept"
                          class="- map/topicref "/>
+               <topicref href="249.7004.dita" type="concept" class="- map/topicref "/>
             </topicref>
          </topicref>
          <topicref navtitle="PART 250 - EXTRAORDINARY CONTRACTUAL ACTIONS"

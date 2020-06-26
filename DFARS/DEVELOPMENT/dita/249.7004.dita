@@ -3,17 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="DFARS-225.7010-3"
+   <concept id="DFARS-249.7004"
+            rev="Added 6/5/2020"
             domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">225.7010-3</ph> Waiver.</title>
+         <ph props="autonumber" class="- topic/ph ">249.7004</ph> Contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised 6/5/2020" class="- topic/p ">The waiver criteria at <xref href="225.7008.dita#DFARS-225.7008"
+         <p class="- topic/p ">Use the clause at <xref href="252.249-7002#DFARS-252.249-7002"
                   scope="local"
-                  class="- topic/xref ">225.7008</xref>(a)
-apply to this restriction.</p>
+                  class="- topic/xref ">252.249-7002</xref>,
+Notification of Anticipated Contract Termination or Reduction, in
+all contracts under a major defense program.</p>
       </conbody>
    </concept>
 </dita>
