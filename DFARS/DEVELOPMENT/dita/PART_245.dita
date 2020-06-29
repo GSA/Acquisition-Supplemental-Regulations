@@ -8,7 +8,7 @@
          <ul otherprops="TOC">
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.1.dita#DFARS-SUBPART_245.1">SUBPART 245.1 --GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.1.dita#DFARS-SUBPART_245.1">SUBPART 245.1 —GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -72,7 +72,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.2.dita#DFARS-SUBPART_245.2">SUBPART 245.2 -- SOLICITATION AND EVALUATION PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.2.dita#DFARS-SUBPART_245.2">SUBPART 245.2 — SOLICITATION AND EVALUATION PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -144,7 +144,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.6.dita#DFARS-SUBPART_245.6">SUBPART 245.6 --REPORTING, REUTILIZATION, AND DISPOSAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.6.dita#DFARS-SUBPART_245.6">SUBPART 245.6 —REPORTING, REUTILIZATION, AND DISPOSAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -185,7 +185,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.70.dita#DFARS-SUBPART_245.70">SUBPART 245.70 --PLANT CLEARANCE FORMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.70.dita#DFARS-SUBPART_245.70">SUBPART 245.70 —PLANT CLEARANCE FORMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -229,17 +229,17 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.71.dita#DFARS-SUBPART_245.71">SUBPART 245.71 --PLANT CLEARANCE FORMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.71.dita#DFARS-SUBPART_245.71">SUBPART 245.71 —PLANT CLEARANCE FORMS</xref>
                </p>
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.72.dita#DFARS-SUBPART_245.72">SUBPART 245.72 --SPECIAL INSTRUCTIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.72.dita#DFARS-SUBPART_245.72">SUBPART 245.72 —SPECIAL INSTRUCTIONS</xref>
                </p>
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_245.73.dita#DFARS-SUBPART_245.73">SUBPART 245.73 --SALE OF SURPLUS CONTRACTOR INVENTORY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_245.73.dita#DFARS-SUBPART_245.73">SUBPART 245.73 —SALE OF SURPLUS CONTRACTOR INVENTORY</xref>
                </p>
             </li>
          </ul>

@@ -61,7 +61,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_215.3.dita#DFARS-SUBPART_215.3">SUBPART 215.3 --SOURCE SELECTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_215.3.dita#DFARS-SUBPART_215.3">SUBPART 215.3 —SOURCE SELECTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -152,7 +152,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_215.4.dita#DFARS-SUBPART_215.4">SUBPART 215.4 --CONTRACT PRICING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_215.4.dita#DFARS-SUBPART_215.4">SUBPART 215.4 —CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

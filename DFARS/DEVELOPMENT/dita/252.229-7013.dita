@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.229-7013"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.229-7013</ph> Tax Exemptions (Spain)—Representation.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1379979"
                      href="229.402-70.dita#DFARS-229.402-70">229.402-70</xref>
             </ph>(e)(2), use the following provision:</p>
-         <p class="- topic/p ">TAX EXEMPTIONS (SPAIN)—REPRESENTATION (APR 2012)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">TAX EXEMPTIONS (SPAIN)—REPRESENTATION (APR 2012)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Exemptions.  </i>In accordance with tax relief agreements between the United States Government and the Spanish Government, and because the resultant contract arises from the activities of the United States Forces in Spain, the contract will be exempt from the excise, luxury, and transaction taxes listed in paragraph (b) of the clause DFARS <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      class="- topic/xref "

@@ -8,7 +8,7 @@
          <ul otherprops="TOC">
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.1.dita#DFARS-SUBPART_229.1">SUBPART 229.1 --GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_229.1.dita#DFARS-SUBPART_229.1">SUBPART 229.1 —GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -47,7 +47,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.4.dita#DFARS-SUBPART_229.4">SUBPART 229.4 --CONTRACT CLAUSES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_229.4.dita#DFARS-SUBPART_229.4">SUBPART 229.4 —CONTRACT CLAUSES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -66,7 +66,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_229.70.dita#DFARS-SUBPART_229.70">SUBPART 229.70 --SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_229.70.dita#DFARS-SUBPART_229.70">SUBPART 229.70 —SPECIAL PROCEDURES FOR OVERSEAS CONTRACTS</xref>
                </p>
             </li>
          </ul>

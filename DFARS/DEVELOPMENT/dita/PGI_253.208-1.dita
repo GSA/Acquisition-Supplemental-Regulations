@@ -19,11 +19,11 @@
             </ph>.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Prepare MIPR information in uniform contract format when possible.  Overprint of fixed repetitive information is authorized.</p>
          <p outputclass="List1" class="- topic/p ">(c)  Instructions for completion of DD Form 448.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  BLOCK 5--MIPR NUMBER.  Number the MIPR by using—</p>
+         <p outputclass="List2" class="- topic/p ">(1)  BLOCK 5—MIPR NUMBER.  Number the MIPR by using—</p>
          <p outputclass="List3" class="- topic/p ">(i)  The requiring department identification code as prescribed in DoD 4000.25-6-M, Department of Defense Activity Address Directory (DoDAAD);</p>
          <p outputclass="List3" class="- topic/p ">(ii)  The last digit of the fiscal year; and</p>
          <p outputclass="List3" class="- topic/p ">(iii)  The number of the particular MIPR (numbered consecutively by the requiring activity).</p>
-         <p outputclass="List2" class="- topic/p ">(2)  BLOCK 6--AMEND NO.  Assign a suffix number.  Assign amendments of the same MIPR consecutive suffix numbers.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  BLOCK 6—AMEND NO.  Assign a suffix number.  Assign amendments of the same MIPR consecutive suffix numbers.</p>
          <p outputclass="List2" class="- topic/p ">(3)  BLOCK 9.</p>
          <p outputclass="List3" class="- topic/p ">(i)  Conduct interdepartmental screening of items in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 8.001</ph>.  Requisition items which are available from stocks of other departments as follows:</p>
          <p outputclass="List4" class="- topic/p ">(A)  Obtain items within the scope of MILSTRIP (see DoD 4000.25-1-M, Military Standard Requisitioning and Issue Procedures (MILSTRIP)) by use of DD Form 1348 (Single Line Item Requisition System Document (Manual), DoD))/1348M (Single Line Item Requisition System Document, DoD (Mechanical)).</p>
@@ -38,8 +38,8 @@
          <p outputclass="List3" class="- topic/p ">(iii)  The requiring activity will furnish estimated weight, cube, and dimensions for each line item or a statement explaining why these data are not available.</p>
          <p outputclass="List3" class="- topic/p ">(iv)  The requiring activity shall include the name and telephone number of an individual who is thoroughly familiar with the MIPR, its attachments, and technical requirements.</p>
          <p outputclass="List3" class="- topic/p ">(v)  Prepare attachments to MIPRs in sufficient numbers so that each copy of a MIPR submitted to the acquiring department is complete with a copy of all attachments.  “Ship To and Mark For” addresses in shipping instructions must include the clear text identification and DoDAAD code if assigned.</p>
-         <p outputclass="List2" class="- topic/p ">(5)  BLOCK 12--TRANSPORTATION ALLOTMENT.  Enter allotment data for transportation of supplies at Government expense if appropriate.</p>
-         <p outputclass="List2" class="- topic/p ">(6)  BLOCK 13--MAIL INVOICES TO.  Use this block to identify the name and address of the office to receive invoices and make payment.</p>
+         <p outputclass="List2" class="- topic/p ">(5)  BLOCK 12—TRANSPORTATION ALLOTMENT.  Enter allotment data for transportation of supplies at Government expense if appropriate.</p>
+         <p outputclass="List2" class="- topic/p ">(6)  BLOCK 13—MAIL INVOICES TO.  Use this block to identify the name and address of the office to receive invoices and make payment.</p>
          <p outputclass="List3" class="- topic/p ">(i)  Complete the block only if—</p>
          <p outputclass="List4" class="- topic/p ">(A)  The resulting contract is not to be paid by the Defense Finance and Accounting Service; and</p>
          <p outputclass="List4" class="- topic/p ">(B)  The office to receive invoices and make payment is known at the time of preparation of the MIPR.</p>

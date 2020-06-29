@@ -6,9 +6,10 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.227-7019"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">252.227-7019</ph> Validation of Asserted Restrictions--Computer Software.</title>
+         <ph props="autonumber" class="- topic/ph ">252.227-7019</ph> Validation of Asserted Restrictions—Computer Software.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
@@ -21,8 +22,7 @@
                      base="i1379842"
                      href="227.7203-6.dita#DFARS-227.7203-6">227.7203-6</xref>
             </ph>(c), use the following clause:</p>
-         <p class="- topic/p ">VALIDATION OF ASSERTED RESTRICTIONS—COMPUTER SOFTWARE</p>
-         <p class="- topic/p ">(SEP 2016)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">VALIDATION OF ASSERTED RESTRICTIONS—COMPUTER SOFTWARE (SEP 2016)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>
          </p>
          <p outputclass="List2" class="- topic/p ">(1)  As used in this clause, unless otherwise specifically indicated, the term “Contractor” means the Contractor and its subcontractors or suppliers.</p>

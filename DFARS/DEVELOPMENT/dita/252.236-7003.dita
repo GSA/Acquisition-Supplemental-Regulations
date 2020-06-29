@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.236-7003"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.236-7003</ph> Payment for Mobilization and Preparatory Work.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="DFARS-236.570"
                      href="236.570.dita#DFARS-236.570">236.570</xref>
             </ph>(b)(2), use the following clause:</p>
-         <p class="- topic/p ">PAYMENT FOR MOBILIZATION AND PREPARATORY WORK (JAN 1997)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">PAYMENT FOR MOBILIZATION AND PREPARATORY WORK (JAN 1997)</p>
          <p outputclass="List1" class="- topic/p ">(a)  The Government will make payment to the Contractor under the procedures in this clause for mobilization and preparatory work under item no. ____________________.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Payments will be made for actual payments by the Contractor on work preparatory to commencing actual work on the construction items for which payment is provided under the terms of this contract, as follows—</p>
          <p outputclass="List2" class="- topic/p ">(1)  For construction plant and equipment exceeding $25,000 in value per unit (as appraised by the Contracting Officer at the work site) acquired for the execution of the work;</p>

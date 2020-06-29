@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.223-7006"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.223-7006</ph> Prohibition on Storage, Treatment, and Disposal of Toxic or Hazardous Materials.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -21,7 +22,7 @@
                      base="DFARS-223.7106"
                      href="223.7106.dita#DFARS-223.7106">223.7106</xref>
             </ph>(a), use the following clause:</p>
-         <p class="- topic/p ">PROHIBITION ON STORAGE, TREATMENT, AND DISPOSAL OF TOXIC OR HAZARDOUS MATERIALS—BASIC (SEP 2014)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">PROHIBITION ON STORAGE, TREATMENT, AND DISPOSAL OF TOXIC OR HAZARDOUS MATERIALS—BASIC (SEP 2014)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause—</p>
          <p class="- topic/p ">“Storage” means a non-transitory, semi-permanent or permanent holding, placement, or leaving of material.  It does not include a temporary accumulation of a limited quantity of a material used in or a waste generated or resulting from authorized activities, such as servicing, maintenance, or repair of Department of Defense (DoD) items, equipment, or facilities.</p>
          <p class="- topic/p ">“Toxic or hazardous materials” means—</p>

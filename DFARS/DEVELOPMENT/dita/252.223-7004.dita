@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.223-7004"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.223-7004</ph> Drug-Free Work Force.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1378797"
                      href="223.570-2.dita#DFARS-223.570-2">223.570-2</xref>
             </ph>, use the following clause:</p>
-         <p class="- topic/p ">DRUG-FREE WORK FORCE (SEP 1988)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">DRUG-FREE WORK FORCE (SEP 1988)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1)  “Employee in a sensitive position,” as used in this clause, means an employee who has been granted access to classified information; or employees in other positions that the Contractor determines involve national security, health or safety, or functions other than the foregoing requiring a high degree of trust and confidence.</p>
          <p outputclass="List2" class="- topic/p ">(2)  “Illegal drugs,” as used in this clause, means controlled substances included in Schedules I and II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawful under Chapter 13 of that Title.  The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.</p>

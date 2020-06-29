@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.227-7014"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7014</ph> Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1379842"
                      href="227.7203-6.dita#DFARS-227.7203-6">227.7203-6</xref>
             </ph>(a)(1), use the following clause:</p>
-         <p class="- topic/p ">RIGHTS IN NONCOMMERCIAL COMPUTER SOFTWARE AND  NONCOMMERCIAL COMPUTER SOFTWARE DOCUMENTATION (FEB 2014)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">RIGHTS IN NONCOMMERCIAL COMPUTER SOFTWARE AND  NONCOMMERCIAL COMPUTER SOFTWARE DOCUMENTATION (FEB 2014)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause—</p>
          <p outputclass="List2" class="- topic/p ">(1)  “Commercial computer software” means software developed or regularly used for non-governmental purposes which—</p>
          <p outputclass="List3" class="- topic/p ">(i)  Has been sold, leased, or licensed to the public;</p>
@@ -140,7 +141,7 @@
                      href="252.227-7025.dita#DFARS-252.227-7025">252.227-7025</xref>
             </ph>, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends.  The non-disclosure agreement shall not include any additional terms and conditions unless mutually agreed to by the parties to the non-disclosure agreement.</p>
          <p outputclass="List2" class="- topic/p ">(4)  <i class="+ topic/ph hi-d/i ">Specifically negotiated license rights</i>.</p>
-         <p outputclass="List3" class="- topic/p ">(i)  The standard license rights granted to the Government under paragraphs (b)(1) through (b)(3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in paragraph (a)(15) of this clause or lesser rights in computer software documentation than are enumerated in paragraph (a)(14) of the Rights in Technical Data--Noncommercial Items clause of this contract.</p>
+         <p outputclass="List3" class="- topic/p ">(i)  The standard license rights granted to the Government under paragraphs (b)(1) through (b)(3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in paragraph (a)(15) of this clause or lesser rights in computer software documentation than are enumerated in paragraph (a)(14) of the Rights in Technical Data—Noncommercial Items clause of this contract.</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Any rights so negotiated shall be identified in a license agreement made part of this contract.</p>
          <p outputclass="List2" class="- topic/p ">(5)  <i class="+ topic/ph hi-d/i ">Prior government rights</i>.  Computer software or computer software documentation that will be delivered, furnished, or otherwise provided to the Government under this contract, in which the Government has previously obtained rights shall be delivered, furnished, or provided with the pre-existing rights, unless—</p>
          <p outputclass="List3" class="- topic/p ">(i)  The parties have agreed otherwise; or</p>
@@ -163,10 +164,26 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="29*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="23*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="24*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="24*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="29*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="23*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="24*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="24*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -239,8 +256,16 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="46*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="54*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="46*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="54*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -291,16 +316,56 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="6*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="6*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="11*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="11*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="15*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="15*" class="- topic/colspec "/>
-               <colspec colnum="7" colname="7" colwidth="15*" class="- topic/colspec "/>
-               <colspec colnum="8" colname="8" colwidth="15*" class="- topic/colspec "/>
-               <colspec colnum="9" colname="9" colwidth="3*" class="- topic/colspec "/>
-               <colspec colnum="10" colname="10" colwidth="3*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="6*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="6*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="15*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="15*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="15*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="15*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="3*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="10"
+                        colname="10"
+                        colwidth="3*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -387,15 +452,51 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="6*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="6*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="11*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="11*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="20*" class="- topic/colspec "/>
-               <colspec colnum="6" colname="6" colwidth="20*" class="- topic/colspec "/>
-               <colspec colnum="7" colname="7" colwidth="20*" class="- topic/colspec "/>
-               <colspec colnum="8" colname="8" colwidth="3*" class="- topic/colspec "/>
-               <colspec colnum="9" colname="9" colwidth="3*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="6*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="6*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="11*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="20*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="6"
+                        colname="6"
+                        colwidth="20*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="7"
+                        colname="7"
+                        colwidth="20*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="8"
+                        colname="8"
+                        colwidth="3*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="9"
+                        colname="9"
+                        colwidth="3*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -469,7 +570,11 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="100*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="100*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
@@ -487,8 +592,8 @@
          <p outputclass="List2" class="- topic/p ">(1)  Have, maintain, and follow written procedures sufficient to assure that restrictive markings are used only when authorized by the terms of this clause; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Maintain records sufficient to justify the validity of any restrictive markings on computer software or computer software documentation delivered under this contract.</p>
          <p outputclass="List1" class="- topic/p ">(h<i class="+ topic/ph hi-d/i ">)  Removal of unjustified and nonconforming markings</i>.</p>
-         <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Unjustified computer software or computer software documentation markings</i>.  The rights and obligations of the parties regarding the validation of restrictive markings on computer software or computer software documentation furnished or to be furnished under this contract are contained in the Validation of Asserted Restrictions--Computer Software and the Validation of Restrictive Markings on Technical Data clauses of this contract, respectively.  Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures of those clauses, a restrictive marking is determined to be unjustified.</p>
-         <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Nonconforming computer software or computer software documentation markings</i>.  A nonconforming marking is a marking placed on computer software or computer software documentation delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract.  Correction of nonconforming markings is not subject to the Validation of Asserted Restrictions--Computer Software or the Validation of Restrictive Markings on Technical Data clause of this contract.  If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty (60) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.</p>
+         <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Unjustified computer software or computer software documentation markings</i>.  The rights and obligations of the parties regarding the validation of restrictive markings on computer software or computer software documentation furnished or to be furnished under this contract are contained in the Validation of Asserted Restrictions—Computer Software and the Validation of Restrictive Markings on Technical Data clauses of this contract, respectively.  Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures of those clauses, a restrictive marking is determined to be unjustified.</p>
+         <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Nonconforming computer software or computer software documentation markings</i>.  A nonconforming marking is a marking placed on computer software or computer software documentation delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract.  Correction of nonconforming markings is not subject to the Validation of Asserted Restrictions—Computer Software or the Validation of Restrictive Markings on Technical Data clause of this contract.  If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty (60) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.</p>
          <p outputclass="List3" class="- topic/p ">(i)  <i class="+ topic/ph hi-d/i ">Relation to patents</i>.  Nothing contained in this clause shall imply a license to the Government under any patent or be construed as affecting the scope of any license or other right otherwise granted to the Government under any patent.</p>
          <p outputclass="List1" class="- topic/p ">(j)  <i class="+ topic/ph hi-d/i ">Limitation on charges for rights in computer software or computer software documentation</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1)  The Contractor shall not charge to this contract any cost, including but not limited to license fees, royalties, or similar charges, for rights in computer software or computer software documentation to be delivered under this contract when—</p>

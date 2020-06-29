@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.235-7002"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.235-7002</ph> Animal Welfare.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="DFARS-235.072"
                      href="235.072.dita#DFARS-235.072">235.072</xref>
             </ph>(a), use the following clause:</p>
-         <p class="- topic/p ">ANIMAL WELFARE (DEC 2014)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">ANIMAL WELFARE (DEC 2014)</p>
          <p outputclass="List1" class="- topic/p ">(a)(1)  The Contractor shall register its research, development, test, and evaluation or training facility with the Secretary of Agriculture in accordance with 7 U.S.C. 2136 and 9 CFR subpart C, and section 2.30, unless otherwise exempt from this requirement by meeting the conditions in 7 U.S.C. 2136 and 9 CFR parts 1 through 4 for the duration of the activity.  The Contractor shall have its proposed animal use approved in accordance with Department of Defense Instruction (DoDI) 3216.01, Use of Animals in DoD Programs, by a DoD Component Headquarters Oversight Office.  The Contractor shall furnish evidence of such registration and approval to the Contracting Officer before beginning work under this contract.</p>
          <p outputclass="List2" class="- topic/p ">(2)  The Contractor shall make its animals, and all premises, facilities, vehicles, equipment, and records that support animal care available during business hours and at other times mutually agreeable to the Contractor and the United States Department of Agriculture Office of Animal and Plant Health Inspection Service (USDA/APHIS) representative, personnel representing the DoD component oversight offices, as well as the Contracting Officer, to ascertain that the Contractor is compliant with 7 U.S.C. 2131-2159 and 9 CFR parts 1 through 4.</p>
          <p outputclass="List1" class="- topic/p ">(b)  The Contractor shall acquire animals in accordance with DoDI 3216.01, current at time of award (http://www.dtic.mil/whs/directives/corres/pdf/321601p.pdf).</p>

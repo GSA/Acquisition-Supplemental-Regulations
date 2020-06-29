@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.211-7005"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.211-7005</ph> Substitutions for Military or Federal Specifications and Standards.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1377906"
                      href="211.273-4.dita#DFARS-211.273-4">211.273-4</xref>
             </ph>, use the following clause:</p>
-         <p class="- topic/p ">SUBSTITUTIONS FOR MILITARY OR FEDERAL SPECIFICATIONS AND STANDARDS (NOV 2005)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">SUBSTITUTIONS FOR MILITARY OR FEDERAL SPECIFICATIONS AND STANDARDS (NOV 2005)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition.</i>  “SPI process,” as used in this clause, means a management or manufacturing process that has been accepted previously by the Department of Defense under the Single Process Initiative (SPI) for use in lieu of a specific military or Federal specification or standard at specific facilities.  Under SPI, these processes are reviewed and accepted by a Management Council, which includes representatives of the Contractor, the Defense Contract Management Agency, the Defense Contract Audit Agency, and the military departments.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Offerors are encouraged to propose SPI processes in lieu of military or Federal specifications and standards cited in the solicitation.  A listing of SPI processes accepted at specific facilities is available via the Internet at http://guidebook.dcma.mil/20/guidebook_process.htm (paragraph 4.2).</p>
          <p outputclass="List1" class="- topic/p ">(c)  An offeror proposing to use an SPI process in lieu of military or Federal specifications or standards cited in the solicitation shall¾</p>
@@ -37,22 +38,26 @@
                         colname="1"
                         colwidth="9*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="9*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="41*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="41*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">

@@ -19,7 +19,7 @@
          <p outputclass="List2" class="- topic/p ">(1) Enter reporting activity name, fiscal year, and period ending.</p>
          <p outputclass="List2" class="- topic/p ">(2) For each AMC/AMSC listed, enter the number of different NSNs purchased during the current fiscal year and their extended dollar value.</p>
          <p outputclass="List2" class="- topic/p ">(3) Report the actual breakout program savings or cost avoidances as measured by completed acquisition (not anticipated acquisitions). Price differentials should be measured on each acquisition where a breakout action has taken place. They should equal the difference between the previous contract unit price and the current contract unit price, times the number of units purchased.</p>
-         <p class="- topic/p ">EXHIBIT I--VALID AMC/AMSC COMBINATIONS</p>
+         <p class="- topic/p ">EXHIBIT I—VALID AMC/AMSC COMBINATIONS</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="13"
                     colsep="0"
@@ -1845,13 +1845,13 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p ">EXHIBIT II--FULL SCREENING DECISION PROCESS SUMMARY</p>
+         <p class="- topic/p ">EXHIBIT II—FULL SCREENING DECISION PROCESS SUMMARY</p>
          <p class="- topic/p ">FLOW CHART</p>
          <p class="- topic/p ">NOTE: Copies of Exhibit II can be obtained from: Defense Acquisition Regulations</p>
          <p class="- topic/p "> System, OUSD(AT&amp;L) DPAP/DARS, 3062 Defense Pentagon, Washington, DC 20301-3062; facsimile (703) 602-0350; e-mail: osd.pentagon.ousd-atl.mbx.dfars@mail.mil .</p>
-         <p class="- topic/p ">EXHIBIT III--LIMITED SCREENING DECISION PROCESS SUMMARY FLOW CHART</p>
+         <p class="- topic/p ">EXHIBIT III—LIMITED SCREENING DECISION PROCESS SUMMARY FLOW CHART</p>
          <p class="- topic/p ">REPLACE WITH MISSING GRAPHIC!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
-         <p class="- topic/p ">EXHIBIT IV--SPARE PARTS BREAKOUT SCREENING REPORT</p>
+         <p class="- topic/p ">EXHIBIT IV—SPARE PARTS BREAKOUT SCREENING REPORT</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="15"
                     colsep="0"
@@ -2293,7 +2293,7 @@
                </tbody>
             </tgroup>
          </table>
-         <p class="- topic/p ">EXHIBIT V--SPARE PARTS ACQUISITION REPORT</p>
+         <p class="- topic/p ">EXHIBIT V—SPARE PARTS ACQUISITION REPORT</p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="12"
                     colsep="0"

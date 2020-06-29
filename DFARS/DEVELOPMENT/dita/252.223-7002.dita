@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.223-7002"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.223-7002</ph> Safety Precautions for Ammunition and Explosives.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1378787"
                      href="223.370-5.dita#DFARS-223.370-5">223.370-5</xref>
             </ph>, use the following clause:</p>
-         <p class="- topic/p ">SAFETY PRECAUTIONS FOR AMMUNITION AND EXPLOSIVES (MAY 1994)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">SAFETY PRECAUTIONS FOR AMMUNITION AND EXPLOSIVES (MAY 1994)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition</i>.  “Ammunition and explosives,” as used in this clause—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Means liquid and solid propellants and explosives, pyrotechnics, incendiaries and smokes in the following forms:</p>
          <p outputclass="List3" class="- topic/p ">(i)  Bulk,</p>
@@ -62,7 +63,7 @@
          <p outputclass="List3" class="- topic/p ">(ii)  NOTE:  The Government Contracting Officer or authorized representative shall notify the prime Contractor of all findings concerning subcontractor safety and compliance with the manual.  The Contracting Officer or authorized representative may furnish copies to the subcontractor.  The Contractor in turn shall communicate directly with the subcontractor, substituting its name for references to “the Government”.  The Contractor and higher tier subcontractors shall also include provisions to allow direction to cease performance of the subcontract if a serious uncorrected or recurring safety deficiency potentially causes an imminent hazard to DoD personnel, property, or contract performance.</p>
          <p outputclass="List2" class="- topic/p ">(2)  The Contractor agrees to ensure that the subcontractor complies with all contract safety requirements.  The Contractor will determine the best method for verifying the adequacy of the subcontractor's compliance.</p>
          <p outputclass="List2" class="- topic/p ">(3)  The Contractor shall ensure that the subcontractor understands and agrees to the Government's right to access to the subcontractor's facilities, personnel, and safety program documentation to perform safety surveys.  The Government performs these safety surveys of subcontractor facilities solely to prevent the occurrence of any mishap which would endanger the safety of DoD personnel or otherwise adversely impact upon the Government's contractual interests.</p>
-         <p outputclass="List2" class="- topic/p ">(4)  The Contractor shall notify the Contracting Officer or authorized representative before issuing any subcontract when it involves ammunition or explosives.  If the proposed subcontract represents a change in the place of performance, the Contractor shall request approval for such change in accordance with the clause of this contract entitled “Change in Place of Performance--Ammunition and Explosives”.</p>
+         <p outputclass="List2" class="- topic/p ">(4)  The Contractor shall notify the Contracting Officer or authorized representative before issuing any subcontract when it involves ammunition or explosives.  If the proposed subcontract represents a change in the place of performance, the Contractor shall request approval for such change in accordance with the clause of this contract entitled “Change in Place of Performance—Ammunition and Explosives”.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>

@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.211-7006"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.211-7006</ph> Passive Radio Frequency Identification.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="i1377953"
                      href="211.275-3.dita#DFARS-211.275-3">211.275-3</xref>
             </ph>, use the following clause:</p>
-         <p class="- topic/p ">PASSIVE RADIO FREQUENCY IDENTIFICATION (DEC 2019)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">PASSIVE RADIO FREQUENCY IDENTIFICATION (DEC 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause—</p>
          <p class="- topic/p ">“Advance shipment notice” means an electronic notification used to list the contents of a shipment of goods as well as additional information relating to the shipment, such as passive radio frequency identification (RFID) or item unique identification (IUID) information, order information, product description, physical characteristics, type of packaging, marking, carrier information, and configuration of goods within the transportation equipment.</p>
          <p class="- topic/p ">“Bulk commodities” means the following commodities, when shipped in rail tank cars, tanker trucks, trailers, other bulk wheeled conveyances, or pipelines:</p>
@@ -53,11 +54,31 @@
                     rowsep="0"
                     outputclass="Table"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="21*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="22*" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colwidth="20*" class="- topic/colspec "/>
-               <colspec colnum="4" colname="4" colwidth="18*" class="- topic/colspec "/>
-               <colspec colnum="5" colname="5" colwidth="18*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="21*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="22*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="20*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="4"
+                        colname="4"
+                        colwidth="18*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="5"
+                        colname="5"
+                        colwidth="18*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <tbody class="- topic/tbody ">
                   <row rowsep="1" class="- topic/row ">
                      <entry class="- topic/entry ">

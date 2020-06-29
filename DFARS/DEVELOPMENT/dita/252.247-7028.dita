@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.247-7028"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.247-7028</ph> Application for U.S. Government Shipping Documentation/Instructions.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="DFARS-247.207"
                      href="247.207.dita#DFARS-247.207">247.207</xref>
             </ph>, use the following clause:</p>
-         <p class="- topic/p ">APPLICATION FOR U.S. GOVERNMENT SHIPPING DOCUMENTATION/INSTRUCTIONS (JUN 2012)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">APPLICATION FOR U.S. GOVERNMENT SHIPPING DOCUMENTATION/INSTRUCTIONS (JUN 2012)</p>
          <p outputclass="List1" class="- topic/p ">(a)  Except as provided in paragraph (b) of this clause, the Contractor shall request bills of lading by submitting a DD Form 1659, Application for U.S. Government Shipping Documentation/Instructions, to the—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Transportation Officer, if named in the contract schedule; or</p>
          <p outputclass="List2" class="- topic/p ">(2)  Contract administration office.</p>

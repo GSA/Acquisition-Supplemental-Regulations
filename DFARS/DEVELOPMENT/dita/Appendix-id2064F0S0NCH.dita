@@ -12,9 +12,9 @@
          <ph props="autonumber" class="- topic/ph ">F-404</ph>Multiple consignee instructions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">The contractor may prepare one MIRR when the identical line item(s) of a contract are to be shipped to more than one consignee, with the same or varying quantities, and the shipment requires origin acceptance. Prepare the MIRR using the procedures in this appendix with the following changes:</p>
-         <p outputclass="List1" class="- topic/p ">(a) Blocks 2, 4, 13, and, if applicable, 14--Enter “See Attached Distribution List.”</p>
-         <p outputclass="List1" class="- topic/p ">(b) Block 15--The contractor may group item numbers for identical stock/part number and description.</p>
-         <p outputclass="List1" class="- topic/p ">(c) Block 17--Enter the “total” quantity shipped by line item or, if applicable, grouped identical line items.</p>
+         <p outputclass="List1" class="- topic/p ">(a) Blocks 2, 4, 13, and, if applicable, 14—Enter “See Attached Distribution List.”</p>
+         <p outputclass="List1" class="- topic/p ">(b) Block 15—The contractor may group item numbers for identical stock/part number and description.</p>
+         <p outputclass="List1" class="- topic/p ">(c) Block 17—Enter the “total” quantity shipped by line item or, if applicable, grouped identical line items.</p>
          <p outputclass="List1" class="- topic/p ">(d) Use the DD Form 250c to list each individual “Shipped To” and “Marked For” with—</p>
          <p outputclass="List2" class="- topic/p ">(1) Code(s) and complete shipping address and a sequential shipment number for each;</p>
          <p outputclass="List2" class="- topic/p ">(2) Line item number(s);</p>

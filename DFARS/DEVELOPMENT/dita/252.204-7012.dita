@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.204-7012"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.204-7012</ph> Safeguarding Covered Defense Information and Cyber Incident Reporting.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -16,7 +17,7 @@
                      base="DFARS-204.7304"
                      href="204.7304.dita#DFARS-204.7304">204.7304</xref>
             </ph>(c), use the following clause:</p>
-         <p class="- topic/p ">SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT  REPORTING (DEC 2019)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT  REPORTING (DEC 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions</i>.  As used in this clause—</p>
          <p class="- topic/p ">“Adequate security” means protective measures that are commensurate with the consequences and probability of loss, misuse, or unauthorized access to, or modification of information.</p>
          <p class="- topic/p ">“Compromise” means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.</p>

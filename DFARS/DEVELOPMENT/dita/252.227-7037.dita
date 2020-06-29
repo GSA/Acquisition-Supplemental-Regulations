@@ -6,7 +6,8 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.227-7037"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.227-7037</ph> Validation of Restrictive Markings on Technical Data.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -21,7 +22,7 @@
                      base="i1379842"
                      href="227.7203-6.dita#DFARS-227.7203-6">227.7203-6</xref>
             </ph>(f), use the following clause:</p>
-         <p class="- topic/p ">VALIDATION OF RESTRICTIVE MARKINGS ON TECHNICAL DATA (SEP 2016)</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">VALIDATION OF RESTRICTIVE MARKINGS ON TECHNICAL DATA (SEP 2016)</p>
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.</i>  The terms used in this clause are defined in the Rights in Technical Data—Noncommercial Items clause of this contract.</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Presumption regarding development exclusively at private expense</i>.</p>
          <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Commercial items</i>.</p>

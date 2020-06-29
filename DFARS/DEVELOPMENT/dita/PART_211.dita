@@ -13,7 +13,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_211.1.dita#DFARS-SUBPART_211.1">SUBPART 211.1 --SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_211.1.dita#DFARS-SUBPART_211.1">SUBPART 211.1 —SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -45,7 +45,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_211.2.dita#DFARS-SUBPART_211.2">SUBPART 211.2 --USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_211.2.dita#DFARS-SUBPART_211.2">SUBPART 211.2 —USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -163,7 +163,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_211.5.dita#DFARS-SUBPART_211.5">SUBPART 211.5 ---LIQUIDATED DAMAGES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_211.5.dita#DFARS-SUBPART_211.5">SUBPART 211.5 —-LIQUIDATED DAMAGES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -180,7 +180,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_211.6.dita#DFARS-SUBPART_211.6">SUBPART 211.6 --PRIORITIES AND ALLOCATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_211.6.dita#DFARS-SUBPART_211.6">SUBPART 211.6 —PRIORITIES AND ALLOCATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -192,7 +192,7 @@
             </li>
             <li props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_211.70.dita#DFARS-SUBPART_211.70">SUBPART 211.70 --PURCHASE REQUESTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_211.70.dita#DFARS-SUBPART_211.70">SUBPART 211.70 —PURCHASE REQUESTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
