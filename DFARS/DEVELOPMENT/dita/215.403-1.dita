@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-215.403-1"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,9 +16,9 @@ certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter
 cost or pricing data requirements.</i>
          </p>
          <p outputclass="List3" class="- topic/p ">(i) Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+               <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">215.403-1</xref>
             </ph>(b).</p>
          <p outputclass="List3" class="- topic/p ">(ii) Submission of certified cost or pricing
@@ -46,20 +47,21 @@ of producing the full quantity; and</p>
 awarded is clearly established on the basis of price analysis (see <ph xtrc="FARxref" class="- topic/ph ">FAR 15.404-1</ph>(b)).</p>
          <p outputclass="List4" class="- topic/p ">(B) If only one offer is received in response
 to a competitive solicitation, see <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="212.102.dita#DFARS-212.102"
+               <xref href="212.102.dita#DFARS-212.102"
                      base="DFARS-212.102"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">212.102</xref>
-            </ph>(a)(ii)
-regarding prior commercial item determinations.</p>
-         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p "> (3)  Commercial
-items. </p>
-         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(A)  Follow the
-procedures at <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
-                  scope="local"
-                  class="- topic/xref ">PGI 215.403-1</xref>(c)(3) for pricing commercial
+            </ph>(a)(ii) regarding
+prior commercial item determinations.</p>
+         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p ">(3) Commercial
 items.</p>
-         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B)  When applying
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(A) Follow
+the procedures at PGI <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+                  base="DFARS-PGI_PGI_215.403-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.403-1</xref>(c)(3)
+for pricing commercial items.</p>
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) When applying
 the commercial item exception under FAR 15.403-1(b)(3), see <xref href="212.102.dita#DFARS-212.102"
                   scope="local"
                   class="- topic/xref ">212.102</xref>(a)(ii)
@@ -80,35 +82,35 @@ or pricing data; and</p>
          <p outputclass="List6" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(3)</i> There are demonstrated benefits
 to granting the waiver. Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+               <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">215.403-1</xref>
             </ph>(c)(4)(A) for
 determining when an exceptional case waiver is appropriate, for
 approval of such waivers, for partial waivers, and for waivers applicable
 to unpriced supplies or services.</p>
-         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) By November 30th of
-each year, departments and agencies shall provide a report to the
-Director, Defense Pricing and Contracting, Pricing and Contracting
+         <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) By November
+30th of each year, departments and agencies shall provide a report
+to the Director, Defense Pricing and Contracting, Pricing and Contracting
 Initiatives (DPC/PCI), of all waivers granted under FAR 15.403-1(b)(4), during
 the previous fiscal year, for any contract, subcontract, or modification
-expected to have a value of $19.5 million or more. See <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
-                  scope="local"
-                  class="- topic/xref ">PGI
-215.403-1</xref>(c)(4)(B) for the format and guidance for the report.</p>
+expected to have a value of $19.5 million or more. See PGI <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+                  base="DFARS-PGI_PGI_215.403-1"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">215.403-1</xref>(c)(4)(B)
+for the format and guidance for the report.</p>
          <p outputclass="List4" class="- topic/p ">(C) DoD has waived the requirement for
 submission of certified cost or pricing data for the Canadian Commercial Corporation
 and its subcontractors (but see <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.408.dita#DFARS-215.408"
+               <xref href="215.408.dita#DFARS-215.408"
                      base="DFARS-215.408"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">215.408</xref>
-            </ph>(3)
-and <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="225.870-4.dita#DFARS-225.870-4"
+            </ph>(3) and <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="225.870-4.dita#DFARS-225.870-4"
                      base="i1378989"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">225.870-4</xref>
             </ph>(c)).</p>
          <p outputclass="List4" class="- topic/p ">(D) DoD has waived certified cost or pricing

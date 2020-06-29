@@ -66,8 +66,8 @@ contract on which the prime contractor adds no, or negligible, value.</p>
             outputclass="List1"
             class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Relevant
 information</i>. See <xref href="#DFARS-212.209"
-                  outputclass="fm:ParaNumOnly"
                   scope="local"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">212.209</xref>(a) for requirements
 of <xref href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2377(d)&amp;num=0&amp;edition=prelim"
                   format="html"
@@ -109,13 +109,15 @@ the head of the contracting activity determines in writing that
 the information submitted pursuant to paragraphs (d)(1) and (2)
 of this section is not sufficient to determine the reasonableness
 of price.</p>
-         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(5) An offeror may
-submit information or analysis relating to the value of a commercial
+         <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(5) An offeror
+may submit information or analysis relating to the value of a commercial
 item to aid in the determination of the reasonableness of the price
 of such item. A contracting officer may consider such information
 or analysis in addition to the information submitted pursuant to
 paragraphs (d)(1) and (2) of this section. For additional guidance
-see <xref href="#DFARS-PGI_PGI_234.7002" scope="local" class="- topic/xref ">PGI 234.7002</xref>(d)(5).</p>
+see PGI <xref href="PGI_234.7002.dita#DFARS-PGI_PGI_234.7002"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">234.7002</xref>(d)(5).</p>
       </conbody>
    </concept>
 </dita>
