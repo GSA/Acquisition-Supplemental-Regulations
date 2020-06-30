@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_211.1"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 211.1</ph> --SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 211.1</ph> —SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</title>
    </topic>
 </dita>

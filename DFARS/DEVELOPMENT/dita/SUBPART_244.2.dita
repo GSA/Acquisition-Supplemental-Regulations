@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_244.2"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 244.2</ph> —CONSENT TO SUBCONTRACTS</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 244.2</ph> —CONSENT TO SUBCONTRACTS</title>
    </topic>
 </dita>

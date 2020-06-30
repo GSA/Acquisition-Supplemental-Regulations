@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_222.3"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 222.3</ph> --CONTRACT WORK HOURS AND SAFETY STANDARDS </title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 222.3</ph> —CONTRACT WORK HOURS AND SAFETY STANDARDS </title>
    </topic>
 </dita>

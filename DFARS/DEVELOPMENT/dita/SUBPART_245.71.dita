@@ -7,7 +7,8 @@
    <topic id="DFARS-SUBPART_245.71"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 245.71</ph> --PLANT CLEARANCE FORMS</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 245.71</ph> —PLANT CLEARANCE FORMS</title>
       <titlealts class="- topic/titlealts ">
          <searchtitle xtrf="Removed"
                       xtrc="Ctr"

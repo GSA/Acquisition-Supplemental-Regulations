@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_246.7"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 246.7</ph> —WARRANTIES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 246.7</ph> —WARRANTIES</title>
    </topic>
 </dita>

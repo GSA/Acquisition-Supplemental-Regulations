@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_208.4"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 208.4</ph> --FEDERAL SUPPLY SCHEDULES</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 208.4</ph> —FEDERAL SUPPLY SCHEDULES</title>
    </topic>
 </dita>

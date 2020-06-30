@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_208.74"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 208.74</ph> --ENTERPRISE SOFTWARE AGREEMENTS</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 208.74</ph> —ENTERPRISE SOFTWARE AGREEMENTS</title>
    </topic>
 </dita>

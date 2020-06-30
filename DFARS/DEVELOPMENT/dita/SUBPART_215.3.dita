@@ -7,6 +7,7 @@
    <topic id="DFARS-SUBPART_215.3"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title class="- topic/title " outputclass="Subpart"><ph props="autonumber">SUBPART 215.3</ph> --SOURCE SELECTION</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">SUBPART 215.3</ph> —SOURCE SELECTION</title>
    </topic>
 </dita>
