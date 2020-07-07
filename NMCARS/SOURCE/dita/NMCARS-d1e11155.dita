@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e11155">
+         <title outputclass="Heading3">
+         <ph props="autonumber"/> Section 3. Solicitation and Contract
+Award</title>
+         <body>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">3.1 Contract type selection. Discuss the
+rationale for the selection of contract type. Provide an analysis
+of why the use of that contract type is appropriate (e.g., complexity
+of the requirements, uncertain duration of the work, contractor’s
+technical capability and financial responsibility, or adequacy of
+the contractor’s accounting system). Discuss the opportunity to
+transition from cost type to fixed priced contracts, if applicable.
+Provide rationale if procuring services that are performance-based
+and a contract type other than a firm-fixed price is contemplated.</p>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">3.2 Delivery Schedule/Period of Performance.
+Describe the basis for establishing delivery schedule or period
+of performance. Include the rationale for the appropriate period
+of performance relative to the type of procurement.</p>
+            <p outputclass="Normal"/>
+         </body>
+      </topic>
+</dita>

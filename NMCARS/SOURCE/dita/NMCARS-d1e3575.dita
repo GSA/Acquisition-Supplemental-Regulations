@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e3575">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5232 CONTRACT FINANCING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3578.dita#d1e3578">SUBPART 5232.2—COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3581.dita#d1e3581">5232.202 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3584.dita#d1e3584">5232.202-1 Policy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3594.dita#d1e3594">SUBPART 5232.4—ADVANCE PAYMENTS FOR NON-COMMERCIAL ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3597.dita#d1e3597">5232.402 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3607.dita#d1e3607">SUBPART 5232.5—PROGRESS PAYMENTS BASED ON COSTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3610.dita#d1e3610">5232.501 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3613.dita#d1e3613">5232.501-2 Unusual progress payments.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3623.dita#d1e3623">SUBPART 5232.6—CONTRACT DEBTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3626.dita#d1e3626">5232.607 Installment payments and deferment of collection.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3629.dita#d1e3629">5232.607-2 Deferment of collection.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3636.dita#d1e3636">5232.690 DON claims against a contractor.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3643.dita#d1e3643">SUBPART 5232.70—ELECTRONIC SUBMISSION AND PROCESSING OF PAYMENT REQUESTS AND RECEIVING REPORTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3646.dita#d1e3646">5232.7003 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

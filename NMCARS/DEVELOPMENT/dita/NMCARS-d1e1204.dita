@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e1204">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5207 ACQUISITION PLANNING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e1207.dita#d1e1207">SUBPART 5207.1—ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1210.dita#d1e1210">5207.103 Agency-head responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1524.dita#d1e1524">5207.105 Contents of written acquisition plans.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1536.dita#d1e1536">5207.106 Additional requirements for major systems.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1546.dita#d1e1546">5207.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e1549.dita#d1e1549">5207.107-2 Consolidation.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e1566.dita#d1e1566">5207.107-3 Bundling.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e1576.dita#d1e1576">SUBPART 5207.2—PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1579.dita#d1e1579">5207.204 Responsibilities of contracting officers.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e1586.dita#d1e1586">SUBPART 5207.5—INHERENTLY GOVERNMENTAL FUNCTIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1589.dita#d1e1589">5207.503 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e1596.dita#d1e1596">SUBPART 5207.70—BUY-TO-BUDGET – ADDITIONAL QUANTITIES OF END ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1599.dita#d1e1599">5207.7002 Authority to acquire additional quantities of end items.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

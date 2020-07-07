@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e1986">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5214 SEALED BIDDING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e1989.dita#d1e1989">SUBPART 5214.4—OPENING OF BIDS AND AWARD OF CONTRACT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e1992.dita#d1e1992">5214.401 Receipt and safeguarding of bids.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e2000.dita#d1e2000">5214.407 Mistakes in bids.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e2003.dita#d1e2003">5214.4073 Other mistakes disclosed before award.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

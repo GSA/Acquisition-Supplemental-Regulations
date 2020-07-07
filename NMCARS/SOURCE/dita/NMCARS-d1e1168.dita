@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e1168">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5206.305 Availability of the justification.</title>
+            <body>
+               <p outputclass="Normal">(S-90) In addition to the requirements
+at FAR 6.305 and DFARS 206.305, no solicitation shall be issued
+earlier than three (3) business days after the HCA forwards a copy
+of any approved justification which negates the use of SeaPort.
+The approved justification shall be submitted to DASN(P) by email
+at <ph outputclass="Hyperlink">SeniorServicesManage.fct@navy.mil</ph> with
+the subject “NMCARS 5206.304(a) – Justification Negating the Use
+of SeaPort.” The only exception to this is if the circumstances
+at FAR 6.302-2, apply. That justification shall be submitted not
+later than two (2) business days after its approval.</p>
+               <p outputclass="Normal"/>
+            </body>
+         </topic>
+</dita>

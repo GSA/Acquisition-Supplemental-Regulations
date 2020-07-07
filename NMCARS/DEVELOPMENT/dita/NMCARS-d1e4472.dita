@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e4472">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5252 SOLICITATION PROVISIONS
+AND CONTRACT CLAUSES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4475.dita#d1e4475">SUBPART 5252.1—INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4478.dita#d1e4478">5252.101 (DFARS 252.101) Using part 52.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4530.dita#d1e4530">SUBPART 5252.2—TEXT OF PROVISIONS AND CLAUSES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4533.dita#d1e4533">5252.200 Scope of subpart.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e4540.dita#d1e4540">5252.223-9000 DON ADDITIONAL SAFETY REQUIREMENTS APPLICABLE TO SPECIFIED GOVERNMENT FURNISHED AMMUNITION AND EXPLOSIVES</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

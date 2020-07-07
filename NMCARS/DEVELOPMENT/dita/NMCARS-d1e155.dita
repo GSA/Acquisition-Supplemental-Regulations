@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e155">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5201.303 Publication and codification.</title>
+            <body>
+               <p outputclass="List1">(a)(ii) To the extent possible, all
+text in this Supplement (whether implementing or supplemental) is
+numbered as if it were implementing the FAR or DFARS.</p>
+               <p outputclass="List4">(A) Implementing numbering is the same
+as its FAR or DFARS counterpart, preceded by the prefix "52".</p>
+               <p outputclass="List4">(B) Supplemental numbering is the same
+as its FAR or DFARS counterpart, preceded by the prefix “52” with
+the addition of a number 90 and up for parts, subparts, sections,
+or subsections or S-90 and up for lower divisions.</p>
+               <p outputclass="Normal"/>
+               <p outputclass="Normal"/>
+            </body>
+         </topic>
+</dita>

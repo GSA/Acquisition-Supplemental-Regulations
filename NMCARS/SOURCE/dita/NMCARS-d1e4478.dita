@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e4478">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5252.101 (DFARS 252.101) Using part
+52.</title>
+            <body>
+               <p outputclass="List1">(b) Numbering.</p>
+               <p outputclass="List2">(2)(ii) Clause numbers for provisions and
+clauses in this supplement, as well as standard component clauses,
+consist of 11 digits assigned as follows:</p>
+               <p outputclass="Normal">POSITION NUMBER EXPLANATION</p>
+               <p outputclass="Normal">1-2 52 Indicates Chapter 52 in Title 48
+of the CFR</p>
+               <p outputclass="Normal">3-5 52.2 Indicates correspondence with
+FAR Subpart</p>
+               <p outputclass="Normal">52.2,"Texts of Provisions and Clauses".</p>
+               <p outputclass="Normal">6-7 XX- Indicates part number in FAR or
+DFARS</p>
+               <p outputclass="Normal">that the clause implements or supplements.</p>
+               <p outputclass="Normal">8-11 9XXX Sequences clauses within part
+number and</p>
+               <p outputclass="Normal">indicates originating activity:</p>
+               <p outputclass="Normal"/>
+               <p outputclass="Normal">9000-9099 NMCARS (OASN(RDA))</p>
+               <p outputclass="Normal">9100-9199 NAVSEA</p>
+               <p outputclass="Normal">9200-9299 NAVWAR</p>
+               <p outputclass="Normal">9300-9399 NAVFAC</p>
+               <p outputclass="Normal">9400-9499 NAVSUP</p>
+               <p outputclass="Normal">9500-9599 NAVAIR</p>
+               <p outputclass="Normal">9600-9649 NAVWAR</p>
+               <p outputclass="Normal">9650-9699 MC</p>
+               <p outputclass="Normal">9700-9749 ONR</p>
+               <p outputclass="Normal">9750-9799 SSP</p>
+               <p outputclass="Normal">9800-9899 MSC</p>
+               <p outputclass="Normal">9900-9999 RESERVED</p>
+               <p outputclass="Normal"/>
+            </body>
+         </topic>
+</dita>

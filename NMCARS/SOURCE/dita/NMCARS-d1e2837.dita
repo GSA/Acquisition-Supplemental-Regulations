@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e2837">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5223 ENVIRONMENT, ENERGY AND
+WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY,
+AND DRUG-FREE WORKPLACE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e2840.dita#d1e2840">SUBPART 5223.3—HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e2843.dita#d1e2843">5223.370 Safety precautions for ammunitions and explosives.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e2846.dita#d1e2846">5223.370-3 Policy.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e2853.dita#d1e2853">5223.370-5 Contract clauses.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e2866.dita#d1e2866">SUBPART 5223.4—USE OF RECOVERED MATERIALS AND BIOBASED PRODUCTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e2869.dita#d1e2869">5223.406 Solicitation provision and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e2884.dita#d1e2884">SUBPART 5223.5—DRUG-FREE WORKPLACE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e2887.dita#d1e2887">5223.506 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e2896.dita#d1e2896">SUBPART 5223.8—OZONE DEPLETING SUBSTANCES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e2899.dita#d1e2899">5223.803 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

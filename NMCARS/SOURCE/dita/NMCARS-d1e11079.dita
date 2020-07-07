@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e11079">
+         <title outputclass="Heading3">
+         <ph props="autonumber"/> Section 1. Requirements Development
+and Management</title>
+         <body>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">1.1 Statement of Need. Describe the requirement,
+its source, the outcomes to be achieved and, if performance based,
+the metrics to measure the outcomes. In your description of the
+product or service, explain the choice of product or service description code
+ensuring it aligns with the DOD taxonomy associated with the acquisition
+of services, supplies and equipment. (See USD(ATL) memorandum entitled,
+“Taxonomy for the Acquisition of Services and Supplies &amp;</p>
+            <p outputclass="Normal">Equipment” dated August 27, 2012.)</p>
+            <p outputclass="Normal">1.2 Historical Summary. Identify how the
+requirement was previously satisfied or identify it as a new requirement.</p>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">1.3 Market Research. Discuss how market
+research was performed and the results.</p>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">1.4 Bundling/Consolidation. Discuss the
+impact of any bundling or consolidation that might affect small
+business participation in the acquisition. When the proposed acquisition
+strategy involves bundling, identify the incumbent contractors and
+contracts affected by the bundling.</p>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">1.5 Technical Data. Discuss the requirements
+for contractor data (including repurchase data) and data rights,
+their estimated cost, and the use to be made of the data. Explain
+how the use of the technical data and data rights will be used to
+sustain competition.</p>
+            <p outputclass="Normal"/>
+         </body>
+      </topic>
+</dita>

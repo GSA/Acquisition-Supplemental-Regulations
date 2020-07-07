@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e3924">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5237 SERVICE CONTRACTING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3927.dita#d1e3927">SUBPART 5237.1—SERVICE CONTRACTS GENERAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3930.dita#d1e3930">5237.102 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3951.dita#d1e3951">5237.102-71 Limitations on service contracts for military flight simulators.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3961.dita#d1e3961">5237.102-90 Enterprise-wide Contractor Manpower Reporting Application (ECMRA).</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4010.dita#d1e4010">5237.103 Contracting officer responsibility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4024.dita#d1e4024">5237.104 Personal services contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4032.dita#d1e4032">5237.170 Approval of contracts and task orders for services.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e4035.dita#d1e4035">5237.170-2 Approval requirements.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4054.dita#d1e4054">5237.192 Services Acquisition Workshops (SAWs).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4072.dita#d1e4072">SUBPART 5237.2—ADVISORY AND ASSISTANCE SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4075.dita#d1e4075">5237.204 Guidelines for determining availability of personnel.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4082.dita#d1e4082">SUBPART 5237.5—MANAGEMENT OVERSIGHT OF SERVICE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4085.dita#d1e4085">5237.502 Exclusions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4093.dita#d1e4093">5237.503 Agency-head responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4108.dita#d1e4108">5237.504 Contracting official’s responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4115.dita#d1e4115">SUBPART 5237.76—CONTINUATION OF ESSENTIAL CONTRACTOR SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4118.dita#d1e4118">5237.7602 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4125.dita#d1e4125">SUBPART 5237.90—CONTRACTOR GUARD SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4128.dita#d1e4128">5237.9000 Contracting for contractor guard services.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
