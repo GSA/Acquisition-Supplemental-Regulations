@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="DFARS-252.249-7002"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
@@ -23,8 +22,6 @@ OF ANTICIPATED CONTRACT TERMINATION OR REDUCTION (JUN 2020)</p>
 clause—</p>
          <p class="- topic/p ">“Major defense program” means a program that is carried out to
 produce or acquire a major system (as defined in 10 U.S.C. 2302(5)).</p>
-         <p class="- topic/p ">“Substantial reduction” means a reduction of 25 percent or more
-in the total dollar value of funds obligated by the contract.</p>
          <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Scope.</i> This
 clause implements section 1372 of the National Defense Authorization
 Act for Fiscal Year 1994 (Pub. L. 103-160) and section 824 of the
@@ -33,8 +30,8 @@ National Defense Authorization Act for Fiscal Year 1997 (<xref href="https://www
                   scope="external"
                   class="- topic/xref ">Pub. L. 104-201</xref>),
 which are intended to help establish benefit eligibility under the
-Workforce Innovation and Opportunity Act (29 U.S.C. chapter 32)
-for employees of DoD contractors and subcontractors adversely affected
+Workforce Innovation and Opportunity Act (29 U.S.C. chapter 32) for
+employees of DoD contractors and subcontractors adversely affected
 by contract terminations or substantial reductions under major defense
 programs.</p>
          <p rev="Revised June 5, 2020" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Notice
@@ -74,27 +71,27 @@ Contractor shall—</p>
 or reduction to each first-tier subcontractor with a subcontract
 that equals or exceeds the threshold specified in Defense Federal
 Acquisition Regulation Supplement (DFARS) <ph rev="Revised June 5, 2020" xtrc="DFARxref" class="- topic/ph ">
-               <xref href="249.7003.dita#DFARS-249.7003"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">249.7003</xref>(c)(1)</ph> at the
-time of the notice; and</p>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="249.7003.dita#DFARS-249.7003"
+                     class="- topic/xref "/>(c)(1)</ph> at
+the time of the notice; and</p>
          <p outputclass="List2" class="- topic/p ">(2) Require that each such subcontractor—</p>
          <p outputclass="List3" class="- topic/p ">(i) Provide notice to each of its subcontractors
 with a subcontract that equals or exceeds the threshold specified
 in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
                <ph rev="Revised June 5, 2020" xtrc="DFARxref" class="- topic/ph ">
-                  <xref href="249.7003.dita#DFARS-249.7003"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">249.7003</xref>(c)(2)(i)</ph>
+                  <xref outputclass="fm:ParaNumOnly"
+                        href="249.7003.dita#DFARS-249.7003"
+                        class="- topic/xref "/>(c)(2)(i)</ph>
             </ph> at
 the time of the notice; and</p>
          <p outputclass="List3" class="- topic/p ">(ii) Impose a similar notice and flowdown
 requirement to subcontractors with subcontracts that equal or exceed
 the threshold specified in DFARS <ph rev="Revised June 5, 2020" xtrc="DFARxref" class="- topic/ph ">
-               <xref href="249.7003.dita#DFARS-249.7003"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">249.7003</xref>(c)(2)(ii)</ph> at
-the time of the notice.</p>
+               <xref outputclass="fm:ParaNumOnly"
+                     href="249.7003.dita#DFARS-249.7003"
+                     class="- topic/xref "/>(c)(2)(ii)</ph> at the
+time of the notice.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>

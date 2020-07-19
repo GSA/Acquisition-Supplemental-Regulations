@@ -16,10 +16,10 @@ certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter
 cost or pricing data requirements.</i>
          </p>
          <p outputclass="List3" class="- topic/p ">(i) Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+               <xref outputclass="fm:ParaNumOnly"
+                     href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">215.403-1</xref>
+                     class="- topic/xref "/>
             </ph>(b).</p>
          <p outputclass="List3" class="- topic/p ">(ii) Submission of certified cost or pricing
 data shall not be required in the case of a contract, subcontract,
@@ -46,20 +46,15 @@ of producing the full quantity; and</p>
             <i class="+ topic/ph hi-d/i ">(ii)</i> The reasonableness of all prices
 awarded is clearly established on the basis of price analysis (see <ph xtrc="FARxref" class="- topic/ph ">FAR 15.404-1</ph>(b)).</p>
          <p outputclass="List4" class="- topic/p ">(B) If only one offer is received in response
-to a competitive solicitation, see <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="212.102.dita#DFARS-212.102"
-                     base="DFARS-212.102"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">212.102</xref>
-            </ph>(a)(ii) regarding
-prior commercial item determinations.</p>
-         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p ">(3) Commercial
-items.</p>
+to a competitive solicitation, see 215.371-3.</p>
+         <p rev="Revised June 5, 2020" outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Commercial
+items.</i>
+         </p>
          <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(A) Follow
-the procedures at PGI <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+the procedures at PGI <xref outputclass="fm:ParaNumOnly"
+                  href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                   base="DFARS-PGI_PGI_215.403-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">215.403-1</xref>(c)(3)
+                  class="- topic/xref "/>(c)(3)(A)
 for pricing commercial items.</p>
          <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) When applying
 the commercial item exception under FAR 15.403-1(b)(3), see <xref href="212.102.dita#DFARS-212.102"
@@ -82,10 +77,10 @@ or pricing data; and</p>
          <p outputclass="List6" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(3)</i> There are demonstrated benefits
 to granting the waiver. Follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+               <xref outputclass="fm:ParaNumOnly"
+                     href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                      base="DFARS-PGI_PGI_215.403-1"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">215.403-1</xref>
+                     class="- topic/xref "/>
             </ph>(c)(4)(A) for
 determining when an exceptional case waiver is appropriate, for
 approval of such waivers, for partial waivers, and for waivers applicable
@@ -95,23 +90,24 @@ to unpriced supplies or services.</p>
 to the Director, Defense Pricing and Contracting, Pricing and Contracting
 Initiatives (DPC/PCI), of all waivers granted under FAR 15.403-1(b)(4), during
 the previous fiscal year, for any contract, subcontract, or modification
-expected to have a value of $19.5 million or more. See PGI <xref href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
+expected to have a value of $19.5 million or more. See PGI <xref outputclass="fm:ParaNumOnly"
+                  href="PGI_215.403-1.dita#DFARS-PGI_PGI_215.403-1"
                   base="DFARS-PGI_PGI_215.403-1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">215.403-1</xref>(c)(4)(B)
+                  class="- topic/xref "/>(c)(4)(B)
 for the format and guidance for the report.</p>
          <p outputclass="List4" class="- topic/p ">(C) DoD has waived the requirement for
 submission of certified cost or pricing data for the Canadian Commercial Corporation
 and its subcontractors (but see <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="215.408.dita#DFARS-215.408"
+               <xref outputclass="fm:ParaNumOnly"
+                     href="215.408.dita#DFARS-215.408"
                      base="DFARS-215.408"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">215.408</xref>
-            </ph>(3) and <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref href="225.870-4.dita#DFARS-225.870-4"
+                     class="- topic/xref "/>
+            </ph>(3)
+and <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     href="225.870-4.dita#DFARS-225.870-4"
                      base="i1378989"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">225.870-4</xref>
+                     class="- topic/xref "/>
             </ph>(c)).</p>
          <p outputclass="List4" class="- topic/p ">(D) DoD has waived certified cost or pricing
 data requirements for nonprofit organizations (including educational institutions)
