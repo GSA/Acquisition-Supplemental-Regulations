@@ -11,13 +11,27 @@
          <ph props="autonumber" class="- topic/ph ">237.7603</ph> Solicitation provision
 and contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Use the clause at 252.237-7023,
-Continuation of Essential Contractor Services in all solicitations
-and contracts for services that are in support of mission-essential
-functions.</p>
-         <p outputclass="List1" class="- topic/p ">(b) Use the provision at 252.237-7024,
-Notice of Continuation of Essential Contractor Services in all solicitations
-for services that include the clause 252.237-7023.</p>
+         <p outputclass="List1" class="- topic/p ">(a) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.237-7023.dita#DFARS-252.237-7023"
+                     base="i1383682"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.237-7023</xref>
+            </ph>, Continuation
+of Essential Contractor Services in all solicitations and contracts
+for services that are in support of mission-essential functions.</p>
+         <p outputclass="List1" class="- topic/p ">(b) Use the provision at <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.237-7024.dita#DFARS-252.237-7024"
+                     base="i1383692"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.237-7024</xref>
+            </ph>, Notice
+of Continuation of Essential Contractor Services in all solicitations
+for services that include the clause <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.237-7023.dita#DFARS-252.237-7023"
+                     base="i1383682"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.237-7023</xref>
+            </ph>.</p>
       </conbody>
    </concept>
 </dita>

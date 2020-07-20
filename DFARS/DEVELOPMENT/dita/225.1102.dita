@@ -12,7 +12,7 @@
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">(A) Use the basic clause in solicitations and contracts
 when the estimated value equals or exceeds $100,000, but is less
-than $182,000, except if the acquisition isof end products in support
+than $182,000, except if the acquisition is of end products in support
 of operations in Afghanistan.</p>
          <p class="- topic/p ">(B) Use the alternate I clause in solicitations and contracts
 when the estimated value equals or exceeds $25,000, but is less than
@@ -38,9 +38,9 @@ in Afghanistan.</p>
 of the clause in paragraph (10)(i) of this section if—</p>
          <p outputclass="List4" class="- topic/p ">(A) Purchase from foreign sources is restricted
 (see <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="225.401.dita#DFARS-225.401"
+               <xref href="225.401.dita#DFARS-225.401"
                      base="DFARS-225.401"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(a)(2)),
 unless the contracting officer anticipates a waiver of the restriction;</p>
@@ -50,9 +50,9 @@ is a commercial item, using fiscal year 2004 or subsequent funds
 2004 (Pub. L. 108-199), and the same provision in subsequent appropriations
 acts); or</p>
          <p outputclass="List4" class="- topic/p ">(C) Using a procedure specified in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="225.7703-1.dita#DFARS-225.7703-1"
+               <xref href="225.7703-1.dita#DFARS-225.7703-1"
                      base="i1379434"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(a).</p>
          <p outputclass="List3" class="- topic/p ">(iii) The acquisition of eligible and noneligible

@@ -28,7 +28,10 @@ an entity; and</p>
 parts.</p>
          <p outputclass="List1" class="- topic/p ">(i) Means any item of supply that is -</p>
          <p outputclass="List2" class="- topic/p ">(A) A commercial item (as defined in paragraph
-(1) of the definition of “commercial item” in section 2.101 of the
+(1) of the definition of “commercial item” in section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-202.101"
+                  href="202.101.dita#DFARS-202.101">2.101</xref> of the
 Federal Acquisition Regulation);</p>
          <p outputclass="List2" class="- topic/p ">(B) Sold in substantial quantities in the
 commercial marketplace; and</p>

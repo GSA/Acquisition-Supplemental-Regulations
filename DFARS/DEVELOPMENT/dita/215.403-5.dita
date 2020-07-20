@@ -13,36 +13,38 @@ submission of certified cost or pricing data and data other than
 certified cost or pricing data.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(3) For contractors following
-the contract cost principles in FAR subpart 31.2, Contracts With
+the contract cost principles in FAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_231.2"
+                  href="SUBPART_231.2.dita#DFARS-SUBPART_231.2">31.2</xref>, Contracts With
 Commercial Organizations, pursuant to the procedures in <ph xtrc="FARxref" class="- topic/ph ">FAR 42.1701</ph>(b), the administrative contracting
 officer shall require contractors to comply with the submission
 items in Table <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.403-1.dita#DFARS-215.403-1"
+               <xref href="215.403-1.dita#DFARS-215.403-1"
                      base="i1378114"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph> in
-order to ensure that their forward pricing rate proposal is submitted
-in an acceptable form in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR
-15.403-5</ph>(b)(3). The contracting officer should request that
-the proposal be submitted to the Government at least 90 days prior
-to the proposed effective date of the rates. To ensure the proposal
-is complete, the contracting officer shall request that the contractor
-complete the Contractor Forward Pricing Rate Proposal Adequacy Checklist
-at Table <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.403-1.dita#DFARS-215.403-1"
+            </ph> in order to ensure
+that their forward pricing rate proposal is submitted in an acceptable form
+in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-5</ph>(b)(3).
+The contracting officer should request that the proposal be submitted
+to the Government at least 90 days prior to the proposed effective
+date of the rates. To ensure the proposal is complete, the contracting
+officer shall request that the contractor complete the Contractor
+Forward Pricing Rate Proposal Adequacy Checklist at Table <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="215.403-1.dita#DFARS-215.403-1"
                      base="i1378114"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>,
 and submit it with the forward pricing rate proposal.</p>
          <p class="- topic/p ">Table <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.403-1.dita#DFARS-215.403-1"
+               <xref href="215.403-1.dita#DFARS-215.403-1"
                      base="i1378114"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph> –
-Contractor Forward Pricing Rate Proposal Adequacy Checklist</p>
+            </ph> – Contractor Forward
+Pricing Rate Proposal Adequacy Checklist</p>
          <p class="- topic/p ">Complete the following checklist, providing the location of requested
 information, or an explanation of why the requested information
 is not provided, and submit it with the forward pricing rate proposal.</p>
@@ -132,25 +134,29 @@ cost impact), and if yes, an explanation;</p>
 of this proposal is inconsistent with your disclosed practices or
 applicable CAS, and, if so, an explanation; and whether the proposal
 is consistent with established estimating and accounting principles
-and procedures and FAR part 31, Cost Principles, and, if not, an
+and procedures and FAR <xref outputclass="fm:Part"
+                                 class="- topic/xref "
+                                 base="DFARS-PART_231"
+                                 href="PART_231.dita#DFARS-PART_231">part 31</xref>, Cost Principles, and, if not, an
 explanation;</p>
                         <p class="- topic/p ">e. The following statement: “This forward pricing
 rate proposal reflects our estimates, as of the date of submission
 entered in (f) below and conforms with Table <ph xtrc="DFARxref" class="- topic/ph ">
-                              <xref outputclass="fm:ParaNumOnly"
-                                    href="215.403-1.dita#DFARS-215.403-1"
+                              <xref href="215.403-1.dita#DFARS-215.403-1"
                                     base="i1378114"
+                                    outputclass="fm:ParaNumOnly"
                                     class="- topic/xref "/>
-                           </ph>.
-By submitting this proposal, we grant the Contracting Officer and
-authorized representative(s) the right to examine those records,
-which include books, documents, accounting procedures and practices,
-and other data, regardless of type and form or whether such supporting
-information is specifically referenced or included in the proposal
-as the basis for each estimate, that will permit an adequate evaluation
-of the proposed rates and factors.”;</p>
-                        <p class="- topic/p ">f. Date of submission;
-andg. Name, title, and signature of authorized representative.</p>
+                           </ph>. By submitting this
+proposal, we grant the Contracting Officer and authorized representative(s)
+the right to examine those records, which include books, documents,
+accounting procedures and practices, and other data, regardless
+of type and form or whether such supporting information is specifically
+referenced or included in the proposal as the basis for each estimate,
+that will permit an adequate evaluation of the proposed rates and
+factors.”;</p>
+                        <p class="- topic/p ">f. Date of submission; and </p>
+                        <p class="- topic/p ">g. Name, title,
+and signature of authorized representative.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Proposal Cover
@@ -186,7 +192,7 @@ the proposal cover page</p>
 or index.</p>
                         <p class="- topic/p ">a. Does the proposal include a table of contents
 or index identifying and referencing all supporting data accompanying
-or identified in the proposal? </p>
+or identified in the proposal?</p>
                         <p class="- topic/p ">b. For supporting documentation
 not provided with the proposal, does the basis of each estimate
 in the proposal include the location of the documentation and the
@@ -209,16 +215,19 @@ disclose known or anticipated changes in business activities or
 processes that could materially impact the proposed rates (if not
 previously provided)? For example—</p>
                         <p class="- topic/p ">a. Management initiatives
-to reduce costs; </p>
+to reduce costs;</p>
                         <p class="- topic/p ">b. Changes in management objectives as a
-result of economic conditions and increased competitiveness; </p>
+result of economic conditions and increased competitiveness;</p>
                         <p class="- topic/p ">c.
 Changes in accounting policies, procedures, and practices including
 (i) reclassification of expenses from direct to indirect or vice
 versa; (ii) new methods of accumulating and allocating indirect
 costs and the related impact; and (iii) advance agreements; d. Company
-reorganizations (including acquisitions or divestitures);e. Shutdown
-of facilities; orf. Changes in business volume and/or contract mix/type.</p>
+reorganizations (including acquisitions or divestitures);</p>
+                        <p class="- topic/p ">e.
+Shutdown of facilities; or</p>
+                        <p class="- topic/p ">f. Changes in business volume and/or
+contract mix/type.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -371,7 +380,8 @@ etc.)</p>
                         <p class="- topic/p ">Indirect Rates
 Methodology and Basis of Each Estimate.a. Does the proposal identify
 the basis of each estimate and provide an explanation of the methodology
-used to develop the indirect rates?b. Does the proposal include
+used to develop the indirect rates?</p>
+                        <p class="- topic/p ">b. Does the proposal include
 or identify the location of the supporting documents for the proposed
 rates?</p>
                      </entry>
@@ -546,7 +556,8 @@ program budgets, etc.?</p>
                         <p class="- topic/p ">Cost of Money.a.
 Are Cost of Money rates submitted on Form CASB-CMF, with the Treasury
 Rate used to compute COM identified and a summary of the net book
-value of assets, identified as distributed and non-distributed?b.
+value of assets, identified as distributed and non-distributed?</p>
+                        <p class="- topic/p ">b.
 Does the proposal identify the support for the Form CASB-CMF, for
 example, the underlying reports and records supporting the net book
 value of assets contained in the form?</p>

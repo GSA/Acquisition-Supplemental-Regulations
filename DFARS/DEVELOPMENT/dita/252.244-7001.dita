@@ -12,14 +12,14 @@
 System Administration.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Basic. As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="244.305-71.dita#DFARS-244.305-71"
+               <xref href="244.305-71.dita#DFARS-244.305-71"
                      base="i1380528"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph> and <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="244.305-71.dita#DFARS-244.305-71"
+               <xref href="244.305-71.dita#DFARS-244.305-71"
                      base="i1380528"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(a),
 use the following clause:</p>
@@ -109,43 +109,41 @@ and applicable flowdown clauses, as required by the FAR and DFARS,
 including terms and conditions required by the prime contract and
 any clauses required to carry out the requirements of the prime
 contract, including the requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.246-7007.dita#DFARS-252.246-7007"
+               <xref href="252.246-7007.dita#DFARS-252.246-7007"
                      base="i1384086"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System,
-if applicable;</p>
+            </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System, if applicable;</p>
          <p outputclass="List2" class="- topic/p ">(20) Provide for an organizational and
 administrative structure that ensures effective and efficient procurement
 of required quality materials and parts at the best value from responsible
 and reliable sources, including the requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.246-7007.dita#DFARS-252.246-7007"
+               <xref href="252.246-7007.dita#DFARS-252.246-7007"
                      base="i1384086"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System,
-if applicable;</p>
+            </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System, if applicable;</p>
          <p outputclass="List2" class="- topic/p ">(21) Establish and maintain selection processes
 to ensure the most responsive and responsible sources for furnishing required
 quality parts and materials and to promote competitive sourcing
 among dependable suppliers so that purchases are reasonably priced
 and from sources that meet contractor quality requirements, including
 the requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.246-7007.dita#DFARS-252.246-7007"
+               <xref href="252.246-7007.dita#DFARS-252.246-7007"
                      base="i1384086"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System,
-and the item marking requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.211-7003.dita#DFARS-252.211-7003"
+            </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System, and the item marking
+requirements of <ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="252.211-7003.dita#DFARS-252.211-7003"
                      base="i1381238"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>,
-Item Unique Identification and Valuation, if applicable;</p>
+            </ph>, Item Unique Identification
+and Valuation, if applicable;</p>
          <p outputclass="List2" class="- topic/p ">(22) Establish and maintain procedures
 to ensure performance of adequate price or cost analysis on purchasing
 actions;</p>
@@ -196,29 +194,29 @@ action plan showing milestones and actions to eliminate the deficiencies.</p>
 Contracting Officer makes a final determination to disapprove the
 Contractor’s purchasing system, and the contract includes the clause
 at <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.242-7005.dita#DFARS-252.242-7005"
+               <xref href="252.242-7005.dita#DFARS-252.242-7005"
                      base="i1383876"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>,
-Contractor Business Systems, the Contracting Officer will withhold
-payments in accordance with that clause.</p>
+            </ph>, Contractor Business
+Systems, the Contracting Officer will withhold payments in accordance
+with that clause.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section ">
             <p class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate I</i>. As prescribed
 in <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="244.305-71.dita#DFARS-244.305-71"
+                  <xref href="244.305-71.dita#DFARS-244.305-71"
                         base="i1380528"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
                </ph> and <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="244.305-71.dita#DFARS-244.305-71"
+                  <xref href="244.305-71.dita#DFARS-244.305-71"
                         base="i1380528"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
                </ph>(b),
-use the following clause,which amends paragraph (c) of the basic
+use the following clause, which amends paragraph (c) of the basic
 clause by deleting paragraphs (c)(1) through(c)(18) and (c)(22)
 through (c)(24), and revising and renumbering paragraphs (c)(19)
 through (c)(21) of the basic clause.</p>
@@ -257,41 +255,41 @@ as required by the FAR and DFARS, including terms and conditions
 required by the prime contract and any clauses required to carry
 out the requirements of the prime contract, including the requirements
 of <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="252.246-7007.dita#DFARS-252.246-7007"
+                  <xref href="252.246-7007.dita#DFARS-252.246-7007"
                         base="i1384086"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
-               </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System;</p>
+               </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System;</p>
             <p outputclass="List2" class="- topic/p ">(2) Provide for an organizational and
 administrative structure that ensures effective and efficient procurement
 of required quality materials and parts at the best value from responsible
 and reliable sources, including the requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="252.246-7007.dita#DFARS-252.246-7007"
+                  <xref href="252.246-7007.dita#DFARS-252.246-7007"
                         base="i1384086"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
-               </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System,
-and, if applicable, the item marking requirements of <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="252.211-7003.dita#DFARS-252.211-7003"
+               </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System, and, if applicable,
+the item marking requirements of <ph xtrc="DFARxref" class="- topic/ph ">
+                  <xref href="252.211-7003.dita#DFARS-252.211-7003"
                         base="i1381238"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
-               </ph>,
-Item Unique Identification and Valuation; and</p>
-            <p outputclass="List2" class="- topic/p ">(3) Establish and maintain selection processes
-to ensure the most responsive and responsible sources for furnishing required
-quality parts and materials and to promote competitive sourcing
-among dependable suppliers so that purchases are from sources that
-meet contractor quality requirements, including the requirements
-of <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="252.246-7007.dita#DFARS-252.246-7007"
+               </ph>, Item Unique Identification
+and Valuation; and</p>
+            <p outputclass="List2" class="- topic/p ">(3) Establish and
+maintain selection processes to ensure the most responsive and responsible
+sources for furnishing required quality parts and materials and
+to promote competitive sourcing among dependable suppliers so that
+purchases are from sources that meet contractor quality requirements,
+including the requirements of <ph xtrc="DFARxref" class="- topic/ph ">
+                  <xref href="252.246-7007.dita#DFARS-252.246-7007"
                         base="i1384086"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
-               </ph>,
-Contractor Counterfeit Electronic Part Detection and Avoidance System.</p>
+               </ph>, Contractor Counterfeit
+Electronic Part Detection and Avoidance System.</p>
             <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Significant deficiencies</i>. (1)
 The Contracting Officer will provide notification of initial determination
 to the Contractor, in writing, of any significant deficiencies.
@@ -322,13 +320,13 @@ milestones and actions to eliminate the deficiencies.</p>
 Contracting Officer makes a final determination to disapprove the
 Contractor’s purchasing system, and the contract includes the clause
 at <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="252.242-7005.dita#DFARS-252.242-7005"
+                  <xref href="252.242-7005.dita#DFARS-252.242-7005"
                         base="i1383876"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
-               </ph>,
-Contractor Business Systems, the Contracting Officer will withhold
-payments in accordance with that clause.</p>
+               </ph>, Contractor Business
+Systems, the Contracting Officer will withhold payments in accordance
+with that clause.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          </section>
       </conbody>

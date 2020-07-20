@@ -201,7 +201,10 @@ in paragraphs (a)(18)(i) and (iii) of this clause; and</p>
 software except as provided in paragraphs (a)(18)(ii), (v), (vi),
 and (vii) of this clause;</p>
          <p outputclass="List3" class="- topic/p ">(v) Permit contractors or subcontractors
-performing service contracts (see 37.101 of the Federal Acquisition
+performing service contracts (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-237.101"
+                  href="237.101.dita#DFARS-237.101">37.101</xref> of the Federal Acquisition
 Regulation) in support of this or a related contract to use computer
 software to diagnose and correct deficiencies in a computer program,
 to modify computer software to enable a computer program to be combined

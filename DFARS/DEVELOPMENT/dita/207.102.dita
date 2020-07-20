@@ -15,7 +15,10 @@
                      class="- topic/xref "
                      base="DFARS-212.102"
                      href="212.102.dita#DFARS-212.102">212.102</xref>
-            </ph> regarding requirements for a written determination that the commercial item definition has been met when using FAR Part 12 procedures.</p>
+            </ph> regarding requirements for a written determination that the commercial item definition has been met when using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">Part 12</xref> procedures.</p>
       </conbody>
    </concept>
 </dita>

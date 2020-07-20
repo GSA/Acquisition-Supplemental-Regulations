@@ -118,7 +118,12 @@ Control</entry>
                      <entry colname="1" colsep="0" align="left" class="- topic/entry ">Composite Value</entry>
                      <entry colname="2" colsep="0" align="right" class="- topic/entry ">100</entry>
                      <entry colname="3" colsep="0" align="right" class="- topic/entry "/>
-                     <entry colname="4" align="right" class="- topic/entry ">4.6</entry>
+                     <entry colname="4" align="right" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="DFARS-SUBPART_204.9"
+                              href="SUBPART_204.9.dita#DFARS-SUBPART_204.9">4.6</xref>
+                     </entry>
                   </row>
                </tbody>
             </tgroup>

@@ -18,7 +18,10 @@ issuing a solicitation with tiered evaluation of offers (section
 816 of Pub. L. 109-163); and</p>
          <p rev="Revised June 5, 2020" outputclass="List4" class="- topic/p ">(B) Use the
 results of market research to determine whether the criteria in
-FAR part 19 are met for setting aside the acquisition for small
+FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_219"
+                  href="PART_219.dita#DFARS-PART_219">part 19</xref> are met for setting aside the acquisition for small
 business or, for a task or delivery order, whether there are a sufficient
 number of qualified small business concerns available to justify
 limiting competition under the terms of the contract. If the contracting officer

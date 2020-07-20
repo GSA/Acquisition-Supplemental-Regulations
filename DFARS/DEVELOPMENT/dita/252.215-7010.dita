@@ -14,16 +14,16 @@ or Pricing Data.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Basic</i>. As prescribed in<ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.408.dita#DFARS-215.408"
+               <xref href="215.408.dita#DFARS-215.408"
                      base="DFARS-215.408"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>(5)(i)
-and (5)(i)(A), use the following provision:</p>
+            </ph>(5)(i) and (5)(i)(A),
+use the following provision:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">REQUIREMENTS FOR CERTIFIED COST OR
 PRICING DATA AND DATA OTHER THAN CERTIFIED COST OR PRICING DATA—BASIC
 (JUL 2019)</p>
-         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this
+         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i "> Definitions</i>. As used in this
 provision—</p>
          <p class="- topic/p ">“Market prices” means current prices that are established in
 the course of ordinary trade between buyers and sellers free to bargain
@@ -121,7 +121,7 @@ whether a subcontractor qualifies for an exception from the requirement for
 submission of certified cost or pricing data on the basis of adequate
 price competition, i.e., two or more responsible offerors, competing
 independently, submit priced offers that satisfy the Government’s
-expressed requirement in accordance with<ph xtrc="FARxref" class="- topic/ph ">FAR
+expressed requirement in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR
 15.403-1</ph>(c)(1)(ii).</p>
          <note class="- topic/note ">
             <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Requirements for data other
@@ -139,13 +139,19 @@ subcontractor in its business operations.</p>
             <p outputclass="List2" class="- topic/p ">(3)
 Within 10 days of a written request from the Contracting Officer
 for additional information to permit an adequate evaluation of the
-proposed price in accordance with FAR 15.403-3, the Offeror shall
+proposed price in accordance with FAR <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-215.403-5"
+                     href="215.403-5.dita#DFARS-215.403-5">15.403-3</xref>, the Offeror shall
 provide either the requested information, or a written explanation
 for the inability to fully comply.</p>
             <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Subcontract
 price evaluation.</i> (i) Offerors shall obtain from subcontractors
 the minimum information necessary to support a determination of
-price reasonableness, as described in FAR part 15 and DFARS part
+price reasonableness, as described in FAR <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_215"
+                     href="PART_215.dita#DFARS-PART_215">part 15</xref> and DFARS part
 215.</p>
             <p outputclass="List3" class="- topic/p ">(ii) No cost data may be required
 from a prospective subcontractor in any case in which there are
@@ -163,7 +169,10 @@ between the proposed prices and the sales data presented.</p>
             <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Subcontracts.</i> The Offeror shall
 insert the substance of this provision, including this paragraph
 (e), in subcontracts exceeding the simplified acquisition threshold
-defined in FAR part 2. The Offeror shall require prospective subcontractors
+defined in FAR <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref>. The Offeror shall require prospective subcontractors
 to adhere to the requirements of -</p>
             <p outputclass="List2" class="- topic/p ">(1)
 Paragraphs (c) and (d) of this provision for subcontracts above
@@ -171,7 +180,10 @@ the threshold for submission of certified cost or pricing data in
 FAR 15.403-4; and</p>
             <p outputclass="List2" class="- topic/p ">(2) Paragraph (d)
 of this provision for subcontracts exceeding the simplified acquisition
-threshold defined in FAR part 2.</p>
+threshold defined in FAR <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref>.</p>
          </note>
          <p class="- topic/p ">(End of provision)</p>
          <p class="- topic/p ">
@@ -280,7 +292,7 @@ whether a subcontractor qualifies for an exception from the requirement for
 submission of certified cost or pricing data on the basis of adequate
 price competition, i.e., two or more responsible offerors, competing
 independently, submit priced offers that satisfy the Government’s
-expressed requirement in accordance with<ph xtrc="FARxref" class="- topic/ph ">FAR
+expressed requirement in accordance with <ph xtrc="FARxref" class="- topic/ph ">FAR
 15.403-1</ph>(c)(1)(ii).</p>
          <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Requirements for data other than
 certified cost or pricing data</i>.</p>
@@ -288,12 +300,12 @@ certified cost or pricing data</i>.</p>
 data submitted in accordance with this provision shall include all
 data necessary to permit a determination that the proposed price
 is fair and reasonable, to include the requirements in DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="215.402.dita#DFARS-215.402"
+               <xref href="215.402.dita#DFARS-215.402"
                      base="DFARS-215.402"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>(a)(i)
-and (b).</p>
+            </ph>(a)(i) and
+(b).</p>
          <p outputclass="List2" class="- topic/p ">(2) In cases in which uncertified cost
 data is required, the information shall be provided in the form
 in which it is regularly maintained by the Offeror or prospective
@@ -310,7 +322,10 @@ comply.</p>
          <p outputclass="List2" class="- topic/p ">(5) <i class="+ topic/ph hi-d/i ">Subcontract price evaluation</i>.</p>
          <p outputclass="List3" class="- topic/p ">(i) Offerors shall obtain from subcontractors
 the information necessary to support a determination of price reasonableness,
-as described in FAR part 15 and DFARS part 215.</p>
+as described in FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_215"
+                  href="PART_215.dita#DFARS-PART_215">part 15</xref> and DFARS part 215.</p>
          <p outputclass="List3" class="- topic/p ">(ii) No cost information may be required
 from a prospective subcontractor in any case in which there are
 sufficient non-Government sales of the same item to establish reasonableness
@@ -326,7 +341,10 @@ data presented.</p>
          <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Subcontracts</i>. The Offeror shall
 insert the substance of this provision, including this paragraph
 (e), in all subcontracts exceeding the simplified acquisition threshold
-defined in FAR part 2. The Offeror shall require prospective subcontractors to
+defined in FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">part 2</xref>. The Offeror shall require prospective subcontractors to
 adhere to the requirements of—</p>
          <p outputclass="List2" class="- topic/p ">(1) Paragraph (c) and (d) of this provision
 for subcontracts above the threshold for submission of certified
@@ -334,7 +352,10 @@ cost or pricing data in <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-4</ph>
 and</p>
          <p outputclass="List2" class="- topic/p ">(2) Paragraph (d) of this provision for
 subcontracts exceeding the simplified acquisition threshold defined
-in FAR part 2.</p>
+in FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">part 2</xref>.</p>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
       </conbody>
    </concept>

@@ -19,7 +19,10 @@
          <p outputclass="List3" class="- topic/p ">(iv) Establish an expedited schedule for the timely resolution of the appeal.</p>
          <p outputclass="List1" class="- topic/p ">(b) Pleadings, discovery, and other prehearing activity will be allowed only as consistent with the requirement to conduct a hearing, or if no hearing is elected, to close the record on a date that will allow the timely issuance of the decision. The Board may shorten time periods prescribed or allowed under these Rules as necessary to enable the Board to decide the appeal within the 120day period.</p>
          <p outputclass="List1" class="- topic/p ">(c) Written decisions by the Board in appeals processed under the Small Claims (Expedited) procedure will be short and will contain only summary findings of fact and conclusions. Decisions will be rendered for the Board by a single Administrative Judge. If there has been a hearing, the Administrative Judge presiding at the hearing may at the conclusion of the hearing and after entertaining such oral argument as deemed appropriate, render on the record oral summary findings of fact, conclusions, and a decision of the appeal. Whenever such an oral decision is rendered, the Board will subsequently furnish the parties an authenticated copy of such oral decision for record and payment purposes and to establish the starting date for the period for filing a motion for reconsideration under Rule 20.</p>
-         <p outputclass="List1" class="- topic/p ">(d) A decision under Rule 12.2 shall have no value as precedent, and in the absence of fraud, shall be final and conclusive and may not be appealed or set aside.</p>
+         <p outputclass="List1" class="- topic/p ">(d) A decision under Rule <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_212.2"
+                  href="SUBPART_212.2.dita#DFARS-SUBPART_212.2">12.2</xref> shall have no value as precedent, and in the absence of fraud, shall be final and conclusive and may not be appealed or set aside.</p>
       </conbody>
    </concept>
 </dita>

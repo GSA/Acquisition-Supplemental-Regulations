@@ -53,7 +53,10 @@ interests, shall be accomplished in accordance with -</p>
          <p outputclass="List3" class="- topic/p ">(i) The provisions of a contract clause
 providing for inspection and acceptance of deliverables and remedies
 for nonconforming deliverables; or</p>
-         <p outputclass="List3" class="- topic/p ">(ii) The procedures at FAR 46.407(c) through
+         <p outputclass="List3" class="- topic/p ">(ii) The procedures at FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-246.470"
+                  href="246.470.dita#DFARS-246.470">46.407</xref>(c) through
 (g), if the contract does not contain an inspection clause providing
 remedies for nonconforming deliverables.</p>
          <p outputclass="List2" class="- topic/p ">(4) Follow the procedures at 227.7103-12(a)(2)
@@ -64,7 +67,10 @@ terms of the clause, pending correction of the nonconforming markings.</p>
          <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Warranty.</i> (1) The intended use
 of the technical data and the cost, if any, to obtain the warranty
 should be considered before deciding to obtain a data warranty (see
-FAR 46.703). The fact that a particular item, component, or process
+FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-246.705"
+                  href="246.705.dita#DFARS-246.705">46.703</xref>). The fact that a particular item, component, or process
 is or is not warranted is not a consideration in determining whether
 or not to obtain a warranty for the technical data that pertain
 to the item, component, or process. For example, a data warranty

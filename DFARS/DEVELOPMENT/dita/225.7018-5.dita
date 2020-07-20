@@ -20,7 +20,10 @@
                      class="- topic/xref "
                      base="i1382540"
                      href="252.225-7052.dita#DFARS-252.225-7052">252.225-7052</xref>
-            </ph>, Restriction on Acquisition of Certain Magnets and Tungsten, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, that exceed the simplified acquisition threshold.</p>
+            </ph>, Restriction on Acquisition of Certain Magnets and Tungsten, in solicitations and contracts, including solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, that exceed the simplified acquisition threshold.</p>
       </conbody>
    </concept>
 </dita>

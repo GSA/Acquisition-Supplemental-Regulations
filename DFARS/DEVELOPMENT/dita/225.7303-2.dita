@@ -19,11 +19,17 @@ even though such costs might not be recognized in the same amounts
 in pricing other defense contracts. Examples of such costs include,
 but are not limited to, the following:</p>
          <p outputclass="List2" class="- topic/p ">(1) Selling expenses (not otherwise limited
-by FAR Part 31), such as -</p>
+by FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_231"
+                  href="PART_231.dita#DFARS-PART_231">Part 31</xref>), such as -</p>
          <p outputclass="List3" class="- topic/p ">(i) Maintaining international sales and
 service organizations;</p>
          <p outputclass="List3" class="- topic/p ">(ii) Sales commissions and fees in accordance
-with FAR Subpart 3.4;</p>
+with FAR Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_203.4"
+                  href="SUBPART_203.4.dita#DFARS-SUBPART_203.4">3.4</xref>;</p>
          <p outputclass="List3" class="- topic/p ">(iii) Sales promotions, demonstrations,
 and related travel for sales to foreign governments. Section 126.8
 of the International Traffic in Arms Regulations (22 CFR 126.8)
@@ -51,7 +57,10 @@ of the FMS customer's purchase. These agreements are distinct and
 independent of the LOA and the FMS contract. Further information
 about offsets and LOAs may be found in the Defense Security Cooperation Agency
 (DSCA) Security Assistance Management Manual (DSCA 5105.38-M), chapter
-6, paragraph 6.3.9. (<i class="+ topic/ph hi-d/i ">http://samm.dsca.mil/chapter/chapter-6</i>).</p>
+6, paragraph <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_206.3"
+                  href="SUBPART_206.3.dita#DFARS-SUBPART_206.3">6.3</xref>.9. (<i class="+ topic/ph hi-d/i ">http://samm.dsca.mil/chapter/chapter-6</i>).</p>
          <p outputclass="List3" class="- topic/p ">(ii) A U.S. defense contractor may recover
 all costs incurred for offset agreements with a foreign government
 or international organization if the LOA is financed wholly with
@@ -70,7 +79,10 @@ FMS customers are placed on notice through the LOA that indirect offset
 costs are deemed reasonable without any further analysis by the
 contracting officer.</p>
          <p outputclass="List2" class="- topic/p ">(4) Costs that are the subject of advance
-agreement under the appropriate provisions of FAR part 31; or where
+agreement under the appropriate provisions of FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_231"
+                  href="PART_231.dita#DFARS-PART_231">part 31</xref>; or where
 the advance understanding places a limit on the amounts of cost
 that will be recognized as allowable in defense contract pricing, and
 the agreement contemplated that it will apply only to DoD contracts

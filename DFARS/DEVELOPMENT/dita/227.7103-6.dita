@@ -58,7 +58,10 @@ do not use the clause in architect-engineer and construction contracts.</p>
                      class="- topic/xref "/>
             </ph> with
 its Alternate I in research solicitations and contracts, including
-research solicitations and contracts using FAR part 12 procedures
+research solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures
 for the acquisition of commercial items, when the contracting officer
 determines, in consultation with counsel, that public dissemination
 by the contractor would be—</p>
@@ -74,7 +77,10 @@ the work for sale on behalf of the Government.</p>
                      class="- topic/xref "/>
             </ph> with
 its Alternate II in solicitations and contracts, including solicitations
-and contracts using FAR part 12 procedures for the acquisition of
+and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of
 commercial items, that are for the development or delivery of a
 vessel design or any useful article embodying a vessel design.</p>
          <p outputclass="List1" class="- topic/p ">(c) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">

@@ -49,7 +49,10 @@ when construction will be performed on or near airfields.</p>
          <p outputclass="List2" class="- topic/p ">(4) 252.236-7006, Cost Limitation, if the
 solicitation's bid schedule contains one or more items subject to
 statutory cost limitations, and if a waiver has not been granted
-(FAR 36.205).</p>
+(FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-236.215"
+                  href="236.215.dita#DFARS-236.215">36.205</xref>).</p>
          <p outputclass="List2" class="- topic/p ">(5) 252.236-7007, Additive or Deductive
 Items, if the procedures in 236.213 are being used.</p>
          <p outputclass="List2" class="- topic/p ">(6) 252.236-7008, Contract Prices - Bidding

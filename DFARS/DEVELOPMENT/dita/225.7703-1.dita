@@ -30,7 +30,10 @@ the contracting officer shall document the contract file with the
 rationale for selecting the particular source(s).</p>
          <p outputclass="List1" class="- topic/p ">(b) For acquisitions conducted using a
 procedure specified in paragraph (a) of this subsection, the justification
-and approval addressed in FAR Subpart 6.3 is not required.</p>
+and approval addressed in FAR Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_206.3"
+                  href="SUBPART_206.3.dita#DFARS-SUBPART_206.3">6.3</xref> is not required.</p>
          <p outputclass="List1" class="- topic/p ">(c) When issuing solicitations and contracts
 for performance in Afghanistan, follow the procedures at PGI <ph xtrc="PGIxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"

@@ -22,7 +22,10 @@ Pricing Data - Canadian Commercial Corporation -</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) In lieu of DFARS 252.215-7010,
 Requirements for Certified Cost or Pricing Data and Data Other Than Certified
 Cost or Pricing Data, in a solicitation, including solicitations
-using FAR part 12 procedures for the acquisition of commercial items,
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 for a sole source acquisition from the Canadian Commercial Corporation
 that is -</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Cost-reimbursement, if the contract
@@ -30,7 +33,10 @@ value is expected to exceed $700,000; or</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Fixed-price, if the contract
 value is expected to exceed $500 million; or</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) In lieu of DFARS 252.215-7010,
-in a solicitation, including solicitations using FAR part 12 procedures for
+in a solicitation, including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for
 the acquisition of commercial items, for a sole source acquisition
 from the Canadian Commercial Corporation that does not meet the
 thresholds specified in paragraph (2)(i)(A)(<i class="+ topic/ph hi-d/i ">1</i>) of this section,
@@ -41,7 +47,10 @@ DFARS 252.215-7010 in competitive acquisitions; and</p>
 Requirement for Submission of Data Other Than Certified Cost or
 Pricing Data - Modifications - Canadian Commercial Corporation -</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) In a solicitation, including
-solicitations using FAR part 12 procedures for the acquisition of
+solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of
 commercial items, for a sole source acquisition, from the Canadian
 Commercial Corporation and resultant contract that is -</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) Cost-reimbursement, if the contract
@@ -49,14 +58,20 @@ value is expected to exceed $700,000; or</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) Fixed-price, if the contract
 value is expected to exceed $500 million;</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>) In a solicitation, including
-solicitations using FAR part 12 procedures for the acquisition of
+solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of
 commercial items, for a sole source acquisition from the Canadian
 Commercial Corporation and resultant contract that does not meet
 the thresholds specified in paragraph (2)(ii)(A)(<i class="+ topic/ph hi-d/i ">1</i>) of this
 section, if approval is obtained as required at 225.870-4(c)(2)(ii);
 or</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>)(<i class="+ topic/ph hi-d/i ">i</i>) In a solicitation,
-including solicitations using FAR part 12 procedures for the acquisition
+including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition
 of commercial items, for a competitive acquisition that includes
 FAR 52.215-21, Requirement for Data Other Than Certified Cost or
 Pricing Data - Modifications, or that meets the thresholds specified
@@ -70,8 +85,10 @@ approval is obtained in accordance with 225.870-4(c)(2)(ii)); and</p>
 a higher threshold in paragraph (b) of the clause 252.215-7004.</p>
          <p outputclass="List2" class="- topic/p ">(3) Use the provision at 252.215-7008,
 Only One Offer, in competitive solicitations that exceed the simplified
-acquisition threshold, including solicitations using FAR part 12
-procedures for the acquisition of commercial items.</p>
+acquisition threshold, including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items.</p>
          <p outputclass="List2" class="- topic/p ">(4) When the solicitation requires the
 submission of certified cost or pricing data, the contracting officer
 should include 252.215-7009, Proposal Adequacy Checklist, in the
@@ -86,7 +103,10 @@ at 252.215-7010, Requirements for Certified Cost or Pricing Data
 and Data Other Than Certified Cost or Pricing Data, in lieu of the
 provision at FAR 52.215-20, Requirements for Certified Cost or Pricing
 Data and Data Other Than Certified Cost or Pricing Data, in solicitations,
-including solicitations using FAR part 12 procedures for the acquisition
+including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition
 of commercial items.</p>
          <p outputclass="List4" class="- topic/p ">(A) Use the basic provision when submission
 of certified cost or pricing data is required to be in the FAR Table

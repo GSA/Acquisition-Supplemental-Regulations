@@ -12,7 +12,10 @@
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">If only one offer is received in response to a competitive
 solicitation issued using simplified acquisition procedures authorized under
-FAR subpart 13.5, follow the procedures at <ph xtrc="DFARxref" class="- topic/ph ">
+FAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_213.4"
+                  href="SUBPART_213.4.dita#DFARS-SUBPART_213.4">13.5</xref>, follow the procedures at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="215.371-2.dita#DFARS-215.371-2"
                      base="i1378089"

@@ -136,7 +136,10 @@
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">FAR 15.408, Table 15-2, Section I,</p>
                         <p class="- topic/p ">Paragraph C(1)</p>
-                        <p class="- topic/p ">FAR 2.101, “Cost or pricing data”</p>
+                        <p class="- topic/p ">FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-202.101"
+                                 href="202.101.dita#DFARS-202.101">2.101</xref>, “Cost or pricing data”</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Does the proposal disclose any other known activity that could materially impact the costs? </p>
@@ -420,16 +423,28 @@
                         <p class="- topic/p ">
                            <ph xtrc="FARxref" class="- topic/ph ">FAR 52.215-20</ph>
                         </p>
-                        <p class="- topic/p ">FAR 2.101,</p>
+                        <p class="- topic/p ">FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-202.101"
+                                 href="202.101.dita#DFARS-202.101">2.101</xref>,</p>
                         <p class="- topic/p ">“commercial item”</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">Has the offeror submitted an exception to the submission of certified cost or pricing data for commercial items proposed either at the prime or subcontractor level, in accordance with provision 52.215-20?</p>
-                        <p class="- topic/p ">  a.  Has the offeror specifically identified the type of commercial item claim (FAR 2.101 commercial item definition, paragraphs (1) through (8)), and the basis on which the item meets the definition?</p>
-                        <p class="- topic/p ">  b.  For modified commercial items (FAR 2.101 commercial item definition paragraph (3));  did the offeror classify the modification(s) as either—</p>
+                        <p class="- topic/p ">  a.  Has the offeror specifically identified the type of commercial item claim (FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-202.101"
+                                 href="202.101.dita#DFARS-202.101">2.101</xref> commercial item definition, paragraphs (1) through (8)), and the basis on which the item meets the definition?</p>
+                        <p class="- topic/p ">  b.  For modified commercial items (FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-202.101"
+                                 href="202.101.dita#DFARS-202.101">2.101</xref> commercial item definition paragraph (3));  did the offeror classify the modification(s) as either—</p>
                         <p class="- topic/p ">     i.  A modification of a type customarily available in the commercial marketplace (paragraph (3)(i)); or </p>
                         <p class="- topic/p ">     ii.  A minor modification (paragraph (3)(ii)) of a type not customarily available in the commercial marketplace made to meet Federal Government requirements not exceeding the thresholds in <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-1</ph>(c)(3)(iii)(B)?</p>
-                        <p class="- topic/p ">  c.  For proposed commercial items “of a type”, or “evolved” or modified (FAR 2.101 commercial item definition paragraphs (1) through (3)), did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?</p>
+                        <p class="- topic/p ">  c.  For proposed commercial items “of a type”, or “evolved” or modified (FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-202.101"
+                                 href="202.101.dita#DFARS-202.101">2.101</xref> commercial item definition paragraphs (1) through (3)), did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -555,7 +570,11 @@
                         <p class="- topic/p ">25.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p "> FAR subpart 22.10</p>
+                        <p class="- topic/p "> FAR subpart <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-SUBPART_222.70"
+                                 href="SUBPART_222.70.dita#DFARS-SUBPART_222.70">22.10</xref>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">If covered by the Service Contract Labor Standards statute (41 U.S.C. chapter 67), are the rates in the proposal in compliance with the minimum rates specified in the statute?</p>
@@ -711,7 +730,11 @@
                         <p class="- topic/p ">33.</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">FAR 16.4</p>
+                        <p class="- topic/p ">FAR <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-SUBPART_216.4"
+                                 href="SUBPART_216.4.dita#DFARS-SUBPART_216.4">16.4</xref>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">If an incentive contract type, does the proposal include offeror proposed target cost, target profit or fee, share ratio, and, when applicable, minimum/maximum fee, ceiling price?</p>

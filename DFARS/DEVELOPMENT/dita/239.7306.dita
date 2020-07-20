@@ -13,7 +13,10 @@ and contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) Insert the provision at 252.239-7017,
 Notice of Supply Chain Risk, in all solicitations, including solicitations
-using FAR part 12 procedures for the acquisition of commercial items,
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 for information technology, whether acquired as a service or as
 a supply, that is a covered system, is a part of a covered system,
 or is in support of a covered system, as defined at <ph xtrc="DFARxref" class="- topic/ph ">
@@ -24,7 +27,10 @@ or is in support of a covered system, as defined at <ph xtrc="DFARxref" class="-
             </ph>.</p>
          <p outputclass="List1" class="- topic/p ">(b) Insert the clause at 252.239-7018,
 Supply Chain Risk, in all solicitations and contracts, including
-solicitations and contracts using FAR part 12 procedures for the
+solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the
 acquisition of commercial items, for information technology, whether
 acquired as a service or as a supply, that is a covered system,
 is a part of a covered system, or is in support of a covered system,

@@ -15,7 +15,10 @@
                      class="- topic/xref "
                      base="i1381391"
                      href="252.215-7007.dita#DFARS-252.215-7007">252.215-7007</xref>
-            </ph>, Notice of Intent to Resolicit, in competitive solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, that will be solicited for fewer than 30 days, unless an exception at <ph xtrc="DFARxref" class="- topic/ph ">
+            </ph>, Notice of Intent to Resolicit, in competitive solicitations, including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, that will be solicited for fewer than 30 days, unless an exception at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      class="- topic/xref "
                      base="i1378099"

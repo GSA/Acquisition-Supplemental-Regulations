@@ -12,9 +12,9 @@
 Property.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="211.274-6.dita#DFARS-211.274-6"
+               <xref href="211.274-6.dita#DFARS-211.274-6"
                      base="i1377938"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(b),
 use the following clause:</p>
@@ -46,12 +46,12 @@ personal property. The IUID Registry is—</p>
          <p outputclass="List3" class="- topic/p ">(i) The authoritative source of Government
 unit acquisition cost for items with unique item identification
 (see DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.211-7003.dita#DFARS-252.211-7003"
+               <xref href="252.211-7003.dita#DFARS-252.211-7003"
                      base="i1381238"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph>)
-that were acquired after January 1, 2004;</p>
+            </ph>) that were acquired
+after January 1, 2004;</p>
          <p outputclass="List3" class="- topic/p ">(ii) The master data source for Government-furnished
 property; and</p>
          <p outputclass="List3" class="- topic/p ">(iii) An authoritative source for establishing
@@ -106,13 +106,13 @@ this clause does not apply to–</p>
          <p outputclass="List2" class="- topic/p ">(1) Contractor-acquired property;</p>
          <p outputclass="List2" class="- topic/p ">(2) Property under any statutory leasing
 authority;</p>
-         <p class="- topic/p ">(3) Property to which the Government has acquired a lien or title
-solely because of partial, advance, progress, or performance-based
-payments;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Property to which the Government has
+acquired a lien or title solely because of partial, advance, progress,
+or performance-based payments;</p>
          <p outputclass="List2" class="- topic/p ">(4) Intellectual property or software;</p>
          <p outputclass="List2" class="- topic/p ">(5) Real property; or</p>
          <p outputclass="List2" class="- topic/p ">(6) Property released for work in process.</p>
-         <p outputclass="List1" class="- topic/p ">(d)<i class="+ topic/ph hi-d/i ">Data for reporting to the IUID Registry</i>.
+         <p outputclass="List1" class="- topic/p ">(d)<i class="+ topic/ph hi-d/i "> Data for reporting to the IUID Registry</i>.
 To permit reporting of Government-furnished property to the IUID
 Registry, the Contractor’s property management system shall enable
 the following data elements in addition to those required by paragraph

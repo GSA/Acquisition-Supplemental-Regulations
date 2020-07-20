@@ -15,7 +15,10 @@
                      class="- topic/xref "
                      base="i1383603"
                      href="252.237-7010.dita#DFARS-252.237-7010">252.237-7010</xref>
-            </ph>, Prohibition on Interrogation of Detainees by Contractor Personnel, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, that are for the provision of services.</p>
+            </ph>, Prohibition on Interrogation of Detainees by Contractor Personnel, in solicitations and contracts, including solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, that are for the provision of services.</p>
       </conbody>
    </concept>
 </dita>

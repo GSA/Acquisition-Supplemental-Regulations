@@ -17,7 +17,10 @@
                      href="PGI_219.800.dita#DFARS-PGI_PGI_219.800">219.800</xref>
             </ph>.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Contracts awarded under the PA may be awarded directly to the 8(a) participant on either a sole source or competitive basis.  An SBA signature on the contract is not required.</p>
-         <p outputclass="List1" class="- topic/p ">(c)  Notwithstanding the PA, the contracting officer may elect to award a contract pursuant to the provisions of FAR Subpart 19.8.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  Notwithstanding the PA, the contracting officer may elect to award a contract pursuant to the provisions of FAR Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_219.8"
+                  href="SUBPART_219.8.dita#DFARS-SUBPART_219.8">19.8</xref>.</p>
       </conbody>
    </concept>
 </dita>

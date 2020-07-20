@@ -9,10 +9,10 @@
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">F-103</ph>Use.</title>
+         <ph props="autonumber" class="- topic/ph ">F-103</ph> Use.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) The WAWF RR, WAWF RRR, and
-the DD Form 250 are multipurpose reportsused—</p>
+the DD Form 250 are multipurpose reports used—</p>
          <p outputclass="List2" class="- topic/p ">(1) To provide evidence of Government contract
 quality assurance at origin or destination;</p>
          <p outputclass="List2" class="- topic/p ">(2) To provide evidence of acceptance at
@@ -55,9 +55,9 @@ words “INSPECTED FOR QUALITY ONLY.”</p>
 WAWF RR and WAWF RRR provide additional functionality, not provided
 by the paper DD Form 250 that complies with the following requirements:</p>
          <p outputclass="List2" class="- topic/p ">(1) Item Unique Identification (IUID),
-when the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  href="252.211-7003.dita#DFARS-252.211-7003"
+when the clause at DFARS <xref href="252.211-7003.dita#DFARS-252.211-7003"
                   base="DFARS-252.211-7003"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref "/>,
 Item Unique Identification and Valuation is used in the contract,
 reporting of IUID data is required. WAWF captures the IUID data
@@ -66,27 +66,27 @@ shall be used to report Unique Item Identifiers (UIIs) at the line
 item level, unless an exception to WAWF applies, and can also be
 used to report UIIs embedded at the line item level.</p>
          <p outputclass="List2" class="- topic/p ">(2) Radio Frequency Identification (RFID),
-when the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  href="252.211-7006.dita#DFARS-252.211-7006"
+when the clause at DFARS <xref href="252.211-7006.dita#DFARS-252.211-7006"
                   base="DFARS-252.211-7006"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref "/>,
 Radio Frequency Identification, is used in the contract, WAWF will
 capture the RFID information and forward the data to the receiving
 location. Using WAWF is the only way a contractor can comply with
-the clause to furnish RFID data via an Advance Shipping Notice (ASN).
-The RFID information may be added at time of submission, or via the
+the clause to furnish RFID data via an Advance Shipping Notice (ASN). The
+RFID information may be added at time of submission, or via the
 WAWF Pack Later functionality after acceptance.</p>
          <p outputclass="List2" class="- topic/p ">(3) Reporting of Government-furnished property,
-when the clause at DFARS <xref outputclass="fm:ParaNumOnly"
-                  href="252.211-7007.dita#DFARS-252.211-7007"
+when the clause at DFARS <xref href="252.211-7007.dita#DFARS-252.211-7007"
                   base="DFARS-252.211-7007"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref "/>,
 Reporting of Government-Furnished Property, is used in the contract,
 use of the WAWF RRR will capture the shipment of Government-furnished
 property items after acceptance of repair services and forward the
-data to the IUID registry. WAWF is the only way a contractor can
-report the transfer of Government-furnished property items in the
-IUID registry.</p>
+data to the IUID registry. WAWF is the only way a contractor can report
+the transfer of Government-furnished property items in the IUID
+registry.</p>
       </conbody>
    </concept>
 </dita>

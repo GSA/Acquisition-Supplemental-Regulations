@@ -21,12 +21,18 @@
                      base="i1377792"
                      href="209.407-3.dita#DFARS-209.407-3">209.407-3</xref>
             </ph> and DoDD 7050.5, Coordination of Remedies for Fraud and Corruption Related to Procurement Activities:</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Certificate of Independent Price Determination (FAR 3.103).</p>
+         <p outputclass="List1" class="- topic/p ">(a)  Certificate of Independent Price Determination (FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-203.171"
+                  href="203.171.dita#DFARS-203.171">3.103</xref>).</p>
          <p outputclass="List1" class="- topic/p ">(b)  Procurement integrity (FAR 3.104).</p>
          <p outputclass="List1" class="- topic/p ">(c)  Gratuities clause (FAR 3.203).</p>
          <p outputclass="List1" class="- topic/p ">(d)  Antitrust laws (FAR 3.303).</p>
          <p outputclass="List1" class="- topic/p ">(e)  Covenant Against Contingent Fees (FAR 3.405).</p>
-         <p outputclass="List1" class="- topic/p ">(f)  Kickbacks (FAR 3.502).</p>
+         <p outputclass="List1" class="- topic/p ">(f)  Kickbacks (FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-203.570"
+                  href="203.570.dita#DFARS-203.570">3.502</xref>).</p>
          <p outputclass="List1" class="- topic/p ">(g)  Prohibitions on persons convicted of defense-related contract felonies (203.570).</p>
       </conbody>
    </concept>

@@ -15,7 +15,10 @@
                      class="- topic/xref "
                      base="i1383332"
                      href="252.232-7017.dita#DFARS-252.232-7017">252.232-7017</xref>
-            </ph>, Accelerating Payments to Small Business Subcontractors—Prohibition on Fees and Consideration, in solicitations and contracts, including those using FAR part 12 procedures for the acquisition of commercial items, that include the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.232-40</ph>, Providing Accelerated Payments to Small Business Subcontractors.</p>
+            </ph>, Accelerating Payments to Small Business Subcontractors—Prohibition on Fees and Consideration, in solicitations and contracts, including those using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, that include the clause at <ph xtrc="FARxref" class="- topic/ph ">FAR 52.232-40</ph>, Providing Accelerated Payments to Small Business Subcontractors.</p>
       </conbody>
    </concept>
 </dita>

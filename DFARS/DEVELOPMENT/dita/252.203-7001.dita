@@ -43,7 +43,10 @@
          <p outputclass="List2" class="- topic/p ">(2)  The nature of the conviction and resultant sentence or punishment imposed;</p>
          <p outputclass="List2" class="- topic/p ">(3)  The reasons for the requested waiver; and</p>
          <p outputclass="List2" class="- topic/p ">(4)  An explanation of why a waiver is in the interest of national security.</p>
-         <p outputclass="List1" class="- topic/p ">(g)  The Contractor agrees to include the substance of this clause, appropriately modified to reflect the identity and relationship of the parties, in all first-tier subcontracts exceeding the simplified acquisition threshold in Part 2 of the Federal Acquisition Regulation, except those for commercial items or components.</p>
+         <p outputclass="List1" class="- topic/p ">(g)  The Contractor agrees to include the substance of this clause, appropriately modified to reflect the identity and relationship of the parties, in all first-tier subcontracts exceeding the simplified acquisition threshold in <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">Part 2</xref> of the Federal Acquisition Regulation, except those for commercial items or components.</p>
          <p outputclass="List1" class="- topic/p ">(h)  Pursuant to 10 U.S.C. 2408(c), defense contractors and subcontractors may obtain information as to whether a particular person has been convicted of fraud or any other felony arising out of a contract with the DoD by contacting The Office of Justice Programs, The Denial of Federal Benefits Office, U.S. Department of Justice, telephone 301-937-1542; www.ojp.usdoj.gov/BJA/grant/DPFC.html.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>

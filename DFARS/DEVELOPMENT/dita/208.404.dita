@@ -21,7 +21,13 @@
                   class="- topic/xref "
                   base="DFARS-PGI_PGI_217.7"
                   href="PGI_217.7.dita#DFARS-PGI_PGI_217.7">217.7</xref> when placing orders for supplies or services in amounts exceeding the simplified acquisitionthreshold.</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  When a schedule lists both foreign and domestic items that will meet the needs of the requiring activity, the ordering office must apply the procedures of part 225 and FAR part 25, Foreign Acquisition.  When purchase of an item of foreign origin is specifically required, the requiring activity must furnish the ordering office sufficient information to permit the determinations required by part 225 and FAR part 25 to be made.</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  When a schedule lists both foreign and domestic items that will meet the needs of the requiring activity, the ordering office must apply the procedures of part 225 and FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_225"
+                  href="PART_225.dita#DFARS-PART_225">part 25</xref>, Foreign Acquisition.  When purchase of an item of foreign origin is specifically required, the requiring activity must furnish the ordering office sufficient information to permit the determinations required by part 225 and FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_225"
+                  href="PART_225.dita#DFARS-PART_225">part 25</xref> to be made.</p>
          <p outputclass="List3" class="- topic/p ">(iv)  Use the provisions at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      class="- topic/xref "

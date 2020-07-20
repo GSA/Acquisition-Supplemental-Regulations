@@ -21,7 +21,10 @@
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.  </i>As used in this clause—</p>
          <p class="- topic/p ">“Commercially available off-the-shelf (COTS) item”—</p>
          <p outputclass="List3" class="- topic/p ">(i)  Means any item of supply (including construction material) that is—</p>
-         <p outputclass="List4" class="- topic/p ">(A)  A commercial item (as defined in paragraph (1) of the definition of  “commercial item” in section 2.101 of the Federal Acquisition Regulation);</p>
+         <p outputclass="List4" class="- topic/p ">(A)  A commercial item (as defined in paragraph (1) of the definition of  “commercial item” in section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-202.101"
+                  href="202.101.dita#DFARS-202.101">2.101</xref> of the Federal Acquisition Regulation);</p>
          <p outputclass="List4" class="- topic/p ">(B)  Sold in substantial quantities in the commercial marketplace; and</p>
          <p outputclass="List4" class="- topic/p ">(C)  Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.</p>
@@ -37,7 +40,10 @@
          <p outputclass="List4" class="- topic/p ">(B)  The construction material is a COTS item.</p>
          <p class="- topic/p ">“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Domestic preference.  </i>This clause implements the Balance of Payments Program by providing a preference for domestic construction material.  The Contractor shall use only domestic construction material in performing this contract, except for—</p>
-         <p outputclass="List2" class="- topic/p ">(1)  Construction material valued at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation; </p>
+         <p outputclass="List2" class="- topic/p ">(1)  Construction material valued at or below the simplified acquisition threshold in <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal Acquisition Regulation; </p>
          <p outputclass="List2" class="- topic/p ">(2)  Information technology that is a commercial item; or</p>
          <p outputclass="List2" class="- topic/p ">(3)  The construction material or components listed by the Government as follows:</p>
          <p class="- topic/p ">___________________________________________________________________________</p>
@@ -55,7 +61,10 @@
             <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definitions.  </i>As used in this clause—</p>
             <p class="- topic/p ">“Commercially available off-the-shelf (COTS) item”—</p>
             <p outputclass="List3" class="- topic/p ">(i)  Means any item of supply (including construction material) that is—</p>
-            <p outputclass="List4" class="- topic/p ">(A)  A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);</p>
+            <p outputclass="List4" class="- topic/p ">(A)  A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-202.101"
+                     href="202.101.dita#DFARS-202.101">2.101</xref> of the Federal Acquisition Regulation);</p>
             <p outputclass="List4" class="- topic/p ">(B)  Sold in substantial quantities in the commercial marketplace; and </p>
             <p outputclass="List4" class="- topic/p ">(C)  Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and</p>
             <p outputclass="List3" class="- topic/p ">(ii)  Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.</p>
@@ -70,12 +79,15 @@
             <p outputclass="List4" class="- topic/p ">(A)  The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components.  Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic; or</p>
             <p outputclass="List4" class="- topic/p ">(B)  The construction material is a COTS item.</p>
             <p class="- topic/p ">“South Caucasus/Central and South Asian (SC/CASA) state” means Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, or Uzbekistan.</p>
-            <p class="- topic/p ">“SC/CASA state construction material” means construction material that¾</p>
+            <p class="- topic/p ">“SC/CASA state construction material” means construction material that—</p>
             <p outputclass="List3" class="- topic/p ">(i)  Is wholly the growth, product, or manufacture of an SC/CASA state; or</p>
             <p outputclass="List3" class="- topic/p ">(ii)  In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different construction material distinct from the material from which it was transformed.</p>
             <p class="- topic/p ">“United States” means the 50 States, the District of Columbia, and outlying areas.</p>
             <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Domestic preference.  </i>This clause implements the Balance of Payments Program by providing a preference for domestic construction material.  The Contractor shall use only domestic construction material or SC/CASA state construction material in performing this contract, except for—</p>
-            <p outputclass="List2" class="- topic/p ">(1)  Construction material valued at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation; </p>
+            <p outputclass="List2" class="- topic/p ">(1)  Construction material valued at or below the simplified acquisition threshold in <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal Acquisition Regulation; </p>
             <p outputclass="List2" class="- topic/p ">(2)  Information technology that is a commercial item; or</p>
             <p outputclass="List2" class="- topic/p ">(3)  The construction material or components listed by the Government as follows:</p>
             <p class="- topic/p ">____________________________________________________________________________</p>

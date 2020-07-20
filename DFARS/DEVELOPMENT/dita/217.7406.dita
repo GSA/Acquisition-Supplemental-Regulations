@@ -39,7 +39,13 @@ value exceeding $5 million.</p>
 paragraphs (a), (b), and (d) of the clause.</p>
          <p outputclass="List2" class="- topic/p ">(3) If, at the time of entering into the
 UCA or unpriced change order, the contracting officer knows that
-the definitive contract action will meet the criteria of <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-1</ph>, 15.403-2, or 15.403-3 for
+the definitive contract action will meet the criteria of <ph xtrc="FARxref" class="- topic/ph ">FAR 15.403-1</ph>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.403-3"
+                  href="215.403-3.dita#DFARS-215.403-3">15.403-2</xref>, or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.403-5"
+                  href="215.403-5.dita#DFARS-215.403-5">15.403-3</xref> for
 not requiring submission of certified cost or pricing data, the
 words “and certified cost or pricing data” may be deleted from paragraph
 (a) of the clause.</p>

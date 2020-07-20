@@ -69,7 +69,12 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">19.5</p>
+                        <p class="- topic/p ">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-SUBPART_219.5"
+                                 href="SUBPART_219.5.dita#DFARS-SUBPART_219.5">19.5</xref>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">219.5</p>
@@ -80,7 +85,12 @@
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">19.501</p>
+                        <p class="- topic/p ">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-219.502-1"
+                                 href="219.502-1.dita#DFARS-219.502-1">19.501</xref>
+                        </p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">219.501</p>

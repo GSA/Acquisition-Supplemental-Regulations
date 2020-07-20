@@ -24,7 +24,10 @@ Area of Responsibility (<xref href="https://www.acq.osd.mil/dpap/policy/policyva
             </ph>,
 Contractor Personnel Supporting U.S. Armed Forces Deployed Outside
 the United States, in all solicitations and contracts, including
-solicitations and contracts using FAR part 12 procedures for the
+solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the
 acquisition of commercial items, that will require contractor personnel
 to perform in the United States Africa Command (AFRICOM) area of
 responsibility. This class deviation remains in effect until incorporated
@@ -32,7 +35,10 @@ in the DFARS or otherwise rescinded.</p>
          <p outputclass="LightBlueText" class="- topic/p ">Use the clause 252.225-7993, Prohibition
 on Providing Funds to the Enemy (DEVIATION 2015-O0016)(SEP 2015),
 in solicitations and contracts, including solicitations and contracts
-using FAR part 12 procedures for the acquisition of commercial items, to
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, to
 be awarded on or before December 31, 2019, with an estimated value
 in excess of $50,000 that are being, or will be, performed outside
 the United States and its outlying areas, in support of a contingency
@@ -74,7 +80,10 @@ DFARS or otherwise rescinded.</p>
          <p outputclass="LightBlueText" class="- topic/p ">Use the clause at 252.225-7976
 Contractor Personnel Performing in Japan (DEVIATION 2018-O0019)
 (AUG 2018) in solicitations and contracts, including solicitations
-and contracts using FAR part 12 procedures for the acquisitions
+and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisitions
 of commercial items, that will require contractor personnel to perform
 in Japan. The clause requires DoD contractors to account for contractor personnel
 and dependents in the Synchronized Predeployment and Operational

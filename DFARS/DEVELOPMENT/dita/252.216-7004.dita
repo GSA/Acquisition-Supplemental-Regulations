@@ -12,15 +12,15 @@
 or Denial for Jeopardizing the Health or Safety of Government Personnel.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="216.406.dita#DFARS-216.406"
+               <xref href="216.406.dita#DFARS-216.406"
                      base="DFARS-216.406"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(e),
 use the following clause:</p>
          <p outputclass="Ctr_SmCaps" class="- topic/p ">AWARD FEE REDUCTION OR DENIAL FOR
 JEOPARDIZING THE HEALTH OR SAFETY OF GOVERNMENT PERSONNEL (SEP 2011)</p>
-         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i ">Definitions</i>. As used in this
+         <p outputclass="List1" class="- topic/p ">(a)<i class="+ topic/ph hi-d/i "> Definitions</i>. As used in this
 clause—</p>
          <p class="- topic/p ">“Covered incident”–</p>
          <p outputclass="List3" class="- topic/p ">(i) Means any incident in which the Contractor,
@@ -58,9 +58,9 @@ could have led to any of the outcomes specified in subparagraphs
 or its subcontractors at any tier not subject to the jurisdiction
 of the U.S. courts, a final determination by the Secretary of Defense
 of Contractor or subcontractor fault (see DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="216.405-2.dita#DFARS-216.405-2"
+               <xref href="216.405-2.dita#DFARS-216.405-2"
                      base="i1378423"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>-70).</p>
          <p class="- topic/p ">“Serious bodily injury” means a grievous physical harm that results

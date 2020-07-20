@@ -18,7 +18,10 @@
                      href="249.501-70.dita#DFARS-249.501-70">249.501-70</xref>
             </ph>, use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">SPECIAL TERMINATION COSTS (DEC 1991)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition.</i>  “Special termination costs,” as used in this clause, means only costs in the following categories as defined in Part 31 of the Federal Acquisition Regulation (FAR)—</p>
+         <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Definition.</i>  “Special termination costs,” as used in this clause, means only costs in the following categories as defined in <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_231"
+                  href="PART_231.dita#DFARS-PART_231">Part 31</xref> of the Federal Acquisition Regulation (FAR)—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Severance pay, as provided in <ph xtrc="FARxref" class="- topic/ph ">FAR 31.205-6</ph>(g);</p>
          <p outputclass="List2" class="- topic/p ">(2)  Reasonable costs continuing after termination, as provided in <ph xtrc="FARxref" class="- topic/ph ">FAR 31.205-42</ph>(b);</p>
          <p outputclass="List2" class="- topic/p ">(3)  Settlement of expenses, as provided in <ph xtrc="FARxref" class="- topic/ph ">FAR 31.205-42</ph>(g);</p>

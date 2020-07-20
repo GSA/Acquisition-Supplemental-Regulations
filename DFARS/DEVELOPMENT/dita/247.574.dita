@@ -13,7 +13,10 @@ and contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(1) Use the provision at 252.247-7022,
 Representation of Extent of Transportation by Sea, in all solicitations,
-including solicitations using FAR part 12 procedures for the acquisition
+including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition
 of commercial items, except -</p>
          <p outputclass="List3" class="- topic/p ">(i) Those for direct purchase of ocean
 transportation services; or</p>
@@ -24,7 +27,10 @@ at FAR 52.204-7, do not separately list 252.247-7022 in the solicitation.</p>
          <p outputclass="List1" class="- topic/p ">(b) Use the basic or one of the alternates
 of the clause at 252.247-7023, Transportation of Supplies by Sea,
 in all solicitations and contracts, including solicitations and
-contracts using FAR part 12 procedures for the acquisition of commercial
+contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial
 items, except those for direct purchase of ocean transportation
 services.</p>
          <p outputclass="List2" class="- topic/p ">(1) Use the basic clause unless any of
@@ -66,7 +72,10 @@ a waiver has been granted in accordance with <ph xtrc="DFARxref" class="- topic/
 Evaluation Preference for Use of Domestic Shipyards–Applicable to
 Acquisition of Carriage by Vessel for DoD Cargo in the Coastwise
 or Noncontiguous Trade, in solicitations, including solicitations
-using FAR part 12 procedures for the acquisition of commercial items,
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 that require a covered vessel for carriage of cargo for DoD.</p>
          <p outputclass="List1" class="- topic/p ">(e) Use the clause at <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
@@ -75,7 +84,10 @@ that require a covered vessel for carriage of cargo for DoD.</p>
                      class="- topic/xref "/>
             </ph>,
 Riding Gang Member Requirements, in solicitations and contracts,
-including solicitations and contracts using FAR part 12 procedures
+including solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures
 for the acquisition of commercial items, that are for the charter
 of, or contract for carriage of cargo by, a U.S.-flag vessel documented
 under chapter 121 of title 46 U.S.C.</p>

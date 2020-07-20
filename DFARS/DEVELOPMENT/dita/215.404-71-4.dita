@@ -184,7 +184,11 @@
                         <p class="- topic/p ">Equipment</p>
                      </entry>
                      <entry class="- topic/entry ">
-                        <p class="- topic/p ">17.5%</p>
+                        <p class="- topic/p ">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="DFARS-SUBPART_217.6"
+                                 href="SUBPART_217.6.dita#DFARS-SUBPART_217.6">17.5</xref>%</p>
                      </entry>
                      <entry class="- topic/entry ">
                         <p class="- topic/p ">10% to 25%</p>

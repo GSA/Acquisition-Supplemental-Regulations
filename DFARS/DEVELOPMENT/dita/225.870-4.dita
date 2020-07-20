@@ -24,8 +24,14 @@ for submission of certified cost or pricing data for the Canadian
 Commercial Corporation and its subcontractors (see 215.403-1(c)(4)(C)).</p>
          <p outputclass="List2" class="- topic/p ">(2) The Canadian Commercial Corporation
 is not exempt from the requirement to submit data other than certified
-cost or pricing data, as defined in FAR 2.101. In accordance with
-FAR 15.403-3(a)(1)(ii), the contracting officer shall require submission
+cost or pricing data, as defined in FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-202.101"
+                  href="202.101.dita#DFARS-202.101">2.101</xref>. In accordance with
+FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.403-5"
+                  href="215.403-5.dita#DFARS-215.403-5">15.403-3</xref>(a)(1)(ii), the contracting officer shall require submission
 of data other than certified cost or pricing data from the offeror,
 to the extent necessary to determine a fair and reasonable price.</p>
          <p outputclass="List3" class="- topic/p ">(i) No further approval is required to
@@ -56,7 +62,10 @@ the contracting officer, determines that data other than certified
 cost or pricing data are needed (or in the case of modifications
 that it is reasonably certain that data other than certified cost
 or pricing data will be needed) in order to determine that the price
-is fair and reasonable) (see FAR 15.403-3(a).</p>
+is fair and reasonable) (see FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.403-5"
+                  href="215.403-5.dita#DFARS-215.403-5">15.403-3</xref>(a).</p>
          <p outputclass="List2" class="- topic/p ">(3) The contracting officer shall use the
 provision at 252.215-7003, Requirement for Submission of Data Other
 Than Certified Cost or Pricing Data - Canadian Commercial Corporation,
@@ -68,8 +77,10 @@ respectively.</p>
 through (4), Canadian suppliers will provide required data other
 than certified cost or pricing data exclusively through the Canadian
 Commercial Corporation.</p>
-         <p outputclass="List2" class="- topic/p ">(5) As specified in FAR 15.403-3(a)(4),
-an offeror who does not comply with a requirement to submit data
+         <p outputclass="List2" class="- topic/p ">(5) As specified in FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-215.403-5"
+                  href="215.403-5.dita#DFARS-215.403-5">15.403-3</xref>(a)(4), an offeror who does not comply with a requirement to submit data
 that the contracting officer has deemed necessary to determine price
 reasonableness or cost realism is ineligible for award, unless the
 head of the contracting activity determines that it is in the best

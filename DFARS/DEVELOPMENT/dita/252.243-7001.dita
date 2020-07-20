@@ -18,7 +18,10 @@
                      href="243.205-70.dita#DFARS-243.205-70">243.205-70</xref>
             </ph>, use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">PRICING OF CONTRACT MODIFICATIONS (DEC 1991)</p>
-         <p class="- topic/p ">When costs are a factor in any price adjustment under this contract, the contract cost principles and procedures in FAR Part 31 and DFARS Part 231, in effect on the date of this contract, apply.</p>
+         <p class="- topic/p ">When costs are a factor in any price adjustment under this contract, the contract cost principles and procedures in FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_231"
+                  href="PART_231.dita#DFARS-PART_231">Part 31</xref> and DFARS Part 231, in effect on the date of this contract, apply.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>

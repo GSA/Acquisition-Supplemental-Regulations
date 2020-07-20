@@ -162,7 +162,10 @@
          <p outputclass="List1" class="- topic/p ">(c)  The Contractor shall—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Ensure that the data encoded on each passive RFID tag are globally unique (i.e., the tag ID is never repeated across two or more RFID tags and conforms to the requirements in paragraph (d) of this clause;</p>
          <p outputclass="List2" class="- topic/p ">(2)  Use passive tags that are readable; and</p>
-         <p outputclass="List2" class="- topic/p ">(3)  Ensure that the passive tag is affixed at the appropriate location on the specific level of packaging, in accordance with MIL-STD-129 (Section 4.9.2) tag placement specifications.</p>
+         <p outputclass="List2" class="- topic/p ">(3)  Ensure that the passive tag is affixed at the appropriate location on the specific level of packaging, in accordance with MIL-STD-129 (Section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_204.16"
+                  href="SUBPART_204.16.dita#DFARS-SUBPART_204.16">4.9</xref>.2) tag placement specifications.</p>
          <p outputclass="List1" class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">Data syntax and standards</i>.  The Contractor shall encode an approved RFID tag using the instructions provided in the EPC™ Tag Data Standards in effect at the time of contract award.  The EPC™ Tag Data Standards are available at  http://www.gs1.org/epc-rfid.</p>
          <p outputclass="List2" class="- topic/p ">(1)  If the Contractor is an EPCglobal™ subscriber and possesses a unique EPC™ company prefix, the Contractor may use any of the identifiers and encoding instructions described in the most recent EPC™ Tag Data Standards document to encode tags. </p>
          <p outputclass="List2" class="- topic/p ">(2)  If the Contractor chooses to employ the DoD identifier, the Contractor shall use its previously assigned Commercial and Government Entity (CAGE) code and shall encode the tags in accordance with the tag identifier details located in the DoD Suppliers' Passive RFID Information Guide at http://www.acq.osd.mil/log/sci/ait.html. If the Contractor uses a third-party packaging house to encode its tags, the CAGE code of the third-party packaging house is acceptable. </p>

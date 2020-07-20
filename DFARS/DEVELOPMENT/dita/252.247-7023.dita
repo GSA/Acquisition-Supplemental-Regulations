@@ -235,12 +235,18 @@ including subcontracts for commercial items, the Contractor shall
 flow down the requirements of this clause as follows:</p>
          <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance
 of this clause, including this paragraph (i), in subcontracts that
-exceed the simplified acquisition threshold in part 2 of the Federal
+exceed the simplified acquisition threshold in <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal
 Acquisition Regulation.</p>
          <p outputclass="List2" class="- topic/p ">(2) The Contractor shall insert the substance
 of paragraphs (a) through (e) of this clause, and this paragraph
 (i), in subcontracts that are at or below the simplified acquisition
-threshold in part 2 of the Federal Acquisition Regulation.</p>
+threshold in <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_202"
+                  href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal Acquisition Regulation.</p>
          <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section outputclass="Alternate" class="- topic/section ">
             <p class="- topic/p ">Alternate I. As prescribed
@@ -481,12 +487,18 @@ clause, including subcontracts for commercial items, the Contractor
 shall flow down the requirements of this clause as follows:</p>
             <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance
 of this clause, including this paragraph (i), in subcontracts that
-exceed the simplified acquisition threshold in part 2 of the Federal
+exceed the simplified acquisition threshold in <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal
 Acquisition Regulation.</p>
             <p outputclass="List2" class="- topic/p ">(2) The Contractor
 shall insert the substance of paragraphs (a) through (e) of this
 clause, and this paragraph (i), in subcontracts that are at or below
-the simplified acquisition threshold in part 2 of the Federal Acquisition
+the simplified acquisition threshold in <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal Acquisition
 Regulation.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
             <p class="- topic/p ">Alternate
@@ -723,12 +735,18 @@ including subcontracts for commercial items, the Contractor shall
 flow down the requirements of this clause as follows:</p>
             <p outputclass="List2" class="- topic/p ">(1) The Contractor shall insert the substance
 of this clause, including this paragraph (i), in subcontracts that
-exceed the simplified acquisition threshold in part 2 of the Federal
+exceed the simplified acquisition threshold in <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal
 Acquisition Regulation.</p>
             <p outputclass="List2" class="- topic/p ">(2) The Contractor
 shall insert the substance of paragraphs (a) through (e) of this
 clause, and this paragraph (i), in subcontracts that are at or below
-the simplified acquisition threshold in part 2 of the Federal Acquisition
+the simplified acquisition threshold in <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="DFARS-PART_202"
+                     href="PART_202.dita#DFARS-PART_202">part 2</xref> of the Federal Acquisition
 Regulation.</p>
             <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          </section>

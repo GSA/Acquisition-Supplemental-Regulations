@@ -21,10 +21,19 @@ from cyber, nuclear, biological, chemical, or radiological attack;
 to facilitate the provision of international disaster assistance;
 or to support response to an emergency or major disaster;</p>
          <p outputclass="List2" class="- topic/p ">(3) Small business set-asides under FAR
-subpart 19.5, set asides offered and accepted into the 8(a) Program
-under FAR subpart 19.8, or set-asides under the HUBZone Program
+subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_219.5"
+                  href="SUBPART_219.5.dita#DFARS-SUBPART_219.5">19.5</xref>, set asides offered and accepted into the 8(a) Program
+under FAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_219.8"
+                  href="SUBPART_219.8.dita#DFARS-SUBPART_219.8">19.8</xref>, or set-asides under the HUBZone Program
 (see FAR 19.1305(c)), the Service-Disabled Veteran-Owned Small Business
-Procurement Program (see FAR 19.1405(c)), or the Women-Owned Small
+Procurement Program (see FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-219.7104"
+                  href="219.7104.dita#DFARS-219.7104">19.1405</xref>(c)), or the Women-Owned Small
 Business Program (see FAR 19.1505(d));</p>
          <p outputclass="List2" class="- topic/p ">(4) Acquisitions of science and technology,
 as specified in 235.016(a); or</p>

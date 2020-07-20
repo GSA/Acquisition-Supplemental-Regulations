@@ -11,9 +11,18 @@
          <ph props="autonumber" class="- topic/ph ">235.016</ph> Broad agency announcement.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">General</i>.  A broad agency announcement with peer or scientific review may be used for the award of science and technology proposals.  Science and technology proposals include proposals for the following:</p>
-         <p outputclass="List3" class="- topic/p ">(i)  Basic research (budget activity 6.1).</p>
-         <p outputclass="List3" class="- topic/p ">(ii)  Applied research (budget activity 6.2).</p>
-         <p outputclass="List3" class="- topic/p ">(iii)  Advanced technology development (budget activity 6.3).</p>
+         <p outputclass="List3" class="- topic/p ">(i)  Basic research (budget activity <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_206.1"
+                  href="SUBPART_206.1.dita#DFARS-SUBPART_206.1">6.1</xref>).</p>
+         <p outputclass="List3" class="- topic/p ">(ii)  Applied research (budget activity <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_206.2"
+                  href="SUBPART_206.2.dita#DFARS-SUBPART_206.2">6.2</xref>).</p>
+         <p outputclass="List3" class="- topic/p ">(iii)  Advanced technology development (budget activity <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-SUBPART_206.3"
+                  href="SUBPART_206.3.dita#DFARS-SUBPART_206.3">6.3</xref>).</p>
          <p outputclass="List3" class="- topic/p ">(iv)  Advanced component development and prototypes (budget activity 6.4).</p>
       </conbody>
    </concept>

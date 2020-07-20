@@ -21,12 +21,18 @@ applies and instructions for invoices are contained in the contract
 administration data section of the contract or task or delivery
 order, use the clause at 252.232-7003, Electronic Submission of
 Payment Requests and Receiving Reports, in solicitations and contracts,
-including solicitations and contracts using FAR part 12 procedures
+including solicitations and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures
 for the acquisition of commercial items.</p>
          <p outputclass="List1" class="- topic/p ">(b) Use the clause at 252.232-7006, Wide
 Area WorkFlow Payment Instructions, in solicitations and contracts
 or task or delivery orders, including solicitations and contracts
-using FAR part 12 procedures for the acquisition of commercial items, when
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items, when
 252.232-7003 is used and none of the exceptions at<ph xtrc="DFARxref" class="- topic/ph "> 
                <xref outputclass="fm:ParaNumOnly"
                      href="232.7002.dita#DFARS-232.7002"

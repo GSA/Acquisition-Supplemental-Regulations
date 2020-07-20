@@ -15,7 +15,10 @@ in support of operations in Afghanistan, treat the offers of end
 products from South Caucasus or Central and South Asian states listed
 in 225.401-70 the same as qualifying country offers.</p>
          <p outputclass="List1" class="- topic/p ">(b) Use the following procedures instead
-of the procedures in FAR 25.502(b) for acquisitions subject to the
+of the procedures in FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.503"
+                  href="225.503.dita#DFARS-225.503">25.502</xref>(b) for acquisitions subject to the
 World Trade Organization Government Procurement Agreement:</p>
          <p outputclass="List3" class="- topic/p ">(i) Consider only offers of U.S.-made,
 qualifying country, or designated country end products, except as
@@ -23,7 +26,10 @@ permitted by 225.403 or 225.7703-1.</p>
          <p outputclass="List3" class="- topic/p ">(ii) If price is the determining factor,
 award on the low offer.</p>
          <p outputclass="List1" class="- topic/p ">(c) Use the following procedures instead
-of those in FAR 25.502(c) for acquisitions subject to the Buy American
+of those in FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.503"
+                  href="225.503.dita#DFARS-225.503">25.502</xref>(c) for acquisitions subject to the Buy American
 statute or the Balance of Payments Program:</p>
          <p outputclass="List3" class="- topic/p ">(i)(A) If the acquisition is subject only
 to the Buy American or Balance of Payments Program, then only qualifying country

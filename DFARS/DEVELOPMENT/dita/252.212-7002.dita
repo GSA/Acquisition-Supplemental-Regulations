@@ -12,9 +12,9 @@
 for Acquisition of Military-Purpose Nondevelopmental Items.</title>
       <conbody outputclass="provision" class="- topic/body  concept/conbody ">
          <p class="- topic/p ">As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="212.7103.dita#DFARS-212.7103"
+               <xref href="212.7103.dita#DFARS-212.7103"
                      base="DFARS-212.7103"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>,
 use the following provision:</p>
@@ -37,16 +37,16 @@ to a Federal agency for reimbursement; or</p>
 2.101</ph> and also includes previously developed items of supply
 that require modifications other than those customarily available
 in the commercial marketplace if such modifications are consistent
-with therequirement at DFARS 212.7102-1(c)(1).</p>
-         <p class="- topic/p ">(b)  Notice.  This is a procurement action under section 866
-of the National Defense Authorization Act for Fiscal Year 2011, Pilot
+with the requirement at DFARS 212.7102-1(c)(1).</p>
+         <p class="- topic/p ">(b) Notice. This is a procurement action under section 866 of
+the National Defense Authorization Act for Fiscal Year 2011, Pilot
 Program for Acquisition of Military-Purpose Nondevelopmental Items,
 as modified by section 892 of the National Defense Authorization
 Act for Fiscal Year 2016 (Pub. L. 114-92), and is subject to the
-limitations outlined in DFARS<ph xtrc="DFARxref" class="- topic/ph "> 
-               <xref outputclass="fm:ParaNumOnly"
-                     href="212.7102.dita#DFARS-212.7102"
+limitations outlined in DFARS<ph xtrc="DFARxref" class="- topic/ph ">
+               <xref href="212.7102.dita#DFARS-212.7102"
                      base="DFARS-212.7102"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>.</p>
          <p outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>

@@ -75,7 +75,10 @@ Acquisition Regulation Supplement (DFARS) 252.219-7004, Small Business
 Subcontracting Plan (Test Program), in subcontracts with subcontractors
 that participate in the Test Program described in DFARS 219.702-70,
 if the subcontract is expected to exceed the applicable threshold
-specified in Federal Acquisition Regulation 19.702(a), and to have
+specified in Federal Acquisition Regulation <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-219.703"
+                  href="219.703.dita#DFARS-219.703">19.702</xref>(a), and to have
 further subcontracting opportunities.</p>
          <p class="- topic/p ">(End of clause)</p>
          <p class="- topic/p ">Alternate I.</p>
@@ -135,7 +138,10 @@ Acquisition Regulation Supplement (DFARS) 252.219-7004, Small Business
 Subcontracting Plan (Test Program), in subcontracts with subcontractors
 that participate in the Test Program described in DFARS 219.702-70,
 if the subcontract is expected to exceed the applicable threshold
-specified in Federal Acquisition Regulation 19.702(a), and to have
+specified in Federal Acquisition Regulation <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-219.703"
+                     href="219.703.dita#DFARS-219.703">19.702</xref>(a), and to have
 further subcontracting opportunities.</p>
          </note>
          <p class="- topic/p ">(End of clause)</p>
@@ -222,7 +228,10 @@ Include the clause at DFARS 252.219-7004, Small Business Subcontracting
 Plan (Test Program), in subcontracts with subcontractors that participate
 in the Test Program described in DFARS 219.702-70, if the subcontract
 is expected to exceed the applicable threshold specified in Federal
-Acquisition Regulation 19.702(a) and to have further subcontracting opportunities.</p>
+Acquisition Regulation <xref outputclass="fm:ParaNumOnly"
+                     class="- topic/xref "
+                     base="DFARS-219.703"
+                     href="219.703.dita#DFARS-219.703">19.702</xref>(a) and to have further subcontracting opportunities.</p>
          </note>
          <p class="- topic/p ">(End of clause)</p>
       </conbody>

@@ -12,11 +12,11 @@
 the Paperwork Reduction Act.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">See PGI <ph xtrc="PGIxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="PGI_201.106.dita#DFARS-PGI____201.106"
+               <xref href="PGI_201.106.dita#DFARS-PGI____201.106"
                      base="DFARS-PGI____201.106"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
-            </ph> for
+            </ph>for
 a list of the information collection and record keeping requirements
 contained in this regulation that have been approved by the Office
 of Management and Budget.</p>

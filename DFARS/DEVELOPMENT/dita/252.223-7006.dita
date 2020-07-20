@@ -12,14 +12,14 @@
 Storage, Treatment, and Disposal of Toxic or Hazardous Materials.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">Basic. As prescribed in <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="223.7106.dita#DFARS-223.7106"
+               <xref href="223.7106.dita#DFARS-223.7106"
                      base="DFARS-223.7106"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph> and <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="223.7106.dita#DFARS-223.7106"
+               <xref href="223.7106.dita#DFARS-223.7106"
                      base="DFARS-223.7106"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref "/>
             </ph>(a),
 use the following clause:</p>
@@ -59,17 +59,17 @@ DoD installation, at any subcontract tier.</p>
          <section outputclass="Alternate" class="- topic/section ">
             <p class="- topic/p ">Alternate I. As prescribed
 in <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="223.7106.dita#DFARS-223.7106"
+                  <xref href="223.7106.dita#DFARS-223.7106"
                         base="DFARS-223.7106"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
                </ph> and <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="223.7106.dita#DFARS-223.7106"
+                  <xref href="223.7106.dita#DFARS-223.7106"
                         base="DFARS-223.7106"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
                </ph>(b),
-use the following clause,which adds a new paragraph (c) and revises
+use the following clause, which adds a new paragraph (c) and revises
 and redesignates paragraph (c) of the basic clause as paragraph
 (d):</p>
             <p class="- topic/p ">PROHIBITION ON STORAGE, TREATMENT, AND DISPOSAL OF TOXIC
@@ -104,9 +104,9 @@ shall be identified elsewhere in the contract with payment to the
 Government on a reimbursable cost basis.</p>
             <p outputclass="List1" class="- topic/p ">(c)
 With respect to treatment or disposal authorized pursuant to DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-                  <xref outputclass="fm:ParaNumOnly"
-                        href="223.7104.dita#DFARS-223.7104"
+                  <xref href="223.7104.dita#DFARS-223.7104"
                         base="DFARS-223.7104"
+                        outputclass="fm:ParaNumOnly"
                         class="- topic/xref "/>
                </ph>(10)
 (10 U.S.C. 2692(b)(10), and notwithstanding any other provision

@@ -18,7 +18,16 @@
                      href="232.908.dita#DFARS-232.908">232.908</xref>
             </ph>, use the following clause:</p>
          <p class="- topic/p " outputclass="Ctr_SmCaps">PAYMENTS IN SUPPORT OF EMERGENCIES AND CONTINGENCY OPERATIONS (MAY 2013)</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Definitions of pertinent terms are set forth in sections 2.101, 32.001, and 32.902 of the Federal Acquisition Regulation.</p>
+         <p outputclass="List1" class="- topic/p ">(a)  Definitions of pertinent terms are set forth in sections <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-202.101"
+                  href="202.101.dita#DFARS-202.101">2.101</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-232.006"
+                  href="232.006.dita#DFARS-232.006">32.001</xref>, and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-232.903"
+                  href="232.903.dita#DFARS-232.903">32.902</xref> of the Federal Acquisition Regulation.</p>
          <p outputclass="List1" class="- topic/p ">(b)  Notwithstanding any other payment clause in this contract, the Government will make invoice payments under the terms and conditions specified in this clause.  The Government considers payment as being made on the day a check is dated or the date of an electronic funds transfer.  </p>
          <p outputclass="List1" class="- topic/p ">(c)  Invoice payments.</p>
          <p outputclass="List2" class="- topic/p ">(1)  Due date.</p>

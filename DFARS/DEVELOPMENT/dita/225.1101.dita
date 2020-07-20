@@ -14,7 +14,10 @@
 of the provision at 252.225-7000, Buy American - Balance of Payments
 Program Certificate, instead of the provision at FAR 52.225-2, Buy
 American Certificate, in any solicitation, including solicitations using
-FAR part 12 procedures for the acquisition of commercial items,
+FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 that includes the basic or the alternate of the clause at 252.225-7001,
 Buy American and Balance of Payments Program. If the solicitation
 includes the provision at FAR 52.204-7, do not separately list the
@@ -27,10 +30,16 @@ the solicitation includes alternate I of the clause at 252.225-7001.</p>
 the clause at 252.225-7001, Buy American Act and Balance of Payments
 Program, instead of the clause at FAR 52.225-1, Buy American - Supplies,
 in solicitations and contracts, including solicitations and contracts
-using FAR part 12 procedures for the acquisition of commercial items,
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 unless -</p>
          <p outputclass="List4" class="- topic/p ">(A) All line items will be acquired from
-a particular source or sources under the authority of FAR 6.302-3;</p>
+a particular source or sources under the authority of FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-206.303-70"
+                  href="206.303-70.dita#DFARS-206.303-70">6.302-3</xref>;</p>
          <p outputclass="List4" class="- topic/p ">(B) All line items require domestic or
 qualifying country end products in accordance with subpart 225.70,
 but note that this exception does not apply if subpart 225.70 only
@@ -40,7 +49,10 @@ for use of domestic components;</p>
          <p outputclass="List4" class="- topic/p ">(C) The acquisition is for supplies for
 use within the United States and an exception to the Buy American
 statute applies, <i class="+ topic/ph hi-d/i ">e.g.,</i> nonavailability or public interest
-(see FAR 25.103 and 225.103);</p>
+(see FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.170"
+                  href="225.170.dita#DFARS-225.170">25.103</xref> and 225.103);</p>
          <p outputclass="List4" class="- topic/p ">(D) The acquisition is for supplies for
 use outside the United States and an exception to the Balance of
 Payments Program applies (see 225.7501);</p>
@@ -73,7 +85,10 @@ of the United States.</p>
          <p outputclass="List2" class="- topic/p ">(5) Use the basic or the alternate of the
 provision at 252.225-7020, Trade Agreements Certificate, instead
 of the provision at FAR 52.225-6, Trade Agreements Certificate,
-in solicitations, including solicitations using FAR part 12 procedures for
+in solicitations, including solicitations using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for
 the acquisition of commercial items, that include the basic or alternate
 II of the clause at 252.225-7021, Trade Agreements. If the solicitation
 includes the provision at FAR 52.204-7, do not separately list the
@@ -86,11 +101,17 @@ solicitation includes alternate II of the clause at 252.225-7021.</p>
 of this section, use the basic or an alternate of the clause at
 252.225-7021, Trade Agreements, instead of the clause at FAR 52.225-5,
 Trade Agreements, in solicitations and contracts, including solicitations
-and contracts using FAR part 12 procedures for the acquisition of
+and contracts using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of
 commercial items, if the World Trade Organization Government Procurement
 Agreement applies, i.e., the acquisition is of end products listed
 at 225.401-70, the value of the acquisition equals or exceeds $182,000,
-and none of the exceptions at 25.401(a) applies.</p>
+and none of the exceptions at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.401"
+                  href="225.401.dita#DFARS-225.401">25.401</xref>(a) applies.</p>
          <p outputclass="List3" class="- topic/p ">(i) Use the basic clause in solicitations
 and contracts that are not of end products in support of operations
 in Afghanistan, or that include the clause at 252.225-7024, Requirement
@@ -128,7 +149,10 @@ provision at 252.225-7035, Buy American - Free Trade Agreements
 - Balance of Payments Program Certificate, instead of the provision
 at FAR 52.225-4, Buy American - Free Trade Agreements - Israeli
 Trade Act Certificate, in solicitations, including solicitations
-using FAR part 12 procedures for the acquisition of commercial items,
+using FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> procedures for the acquisition of commercial items,
 that include the basic or an alternate of the clause at 252.225-7036,
 Buy American - Free Trade Agreements - Balance of Payments Program.
 If the solicitation includes the provision at FAR 52.204-7, do not
@@ -153,8 +177,10 @@ of Payments Program, instead of the clause at FAR 52.225-3, Buy American
 contracts, including solicitations and contracts using FAR part
 12 procedures for the acquisition of commercial items, for the items
 listed at 225.401-70, when the estimated value equals or exceeds
-$25,000, but is less than $182,000, unless an exception at FAR 25.401
-or 225.401 applies.</p>
+$25,000, but is less than $182,000, unless an exception at FAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.401"
+                  href="225.401.dita#DFARS-225.401">25.401</xref> or 225.401 applies.</p>
          <p outputclass="List4" class="- topic/p ">(A) Use the basic clause in solicitations
 and contracts when the estimated value equals or exceeds $100,000,
 but is less than $182,000, except if the acquisition is of end products

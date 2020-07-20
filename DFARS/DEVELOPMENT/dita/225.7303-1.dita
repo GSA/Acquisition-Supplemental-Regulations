@@ -10,7 +10,10 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">225.7303-1</ph> Contractor sales to other foreign customers.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">If the contractor has made sales of the item required for the foreign military sale to foreign customers under comparable conditions, including quantity and delivery, price the FMS contract in accordance with FAR Part 15.</p>
+         <p class="- topic/p ">If the contractor has made sales of the item required for the foreign military sale to foreign customers under comparable conditions, including quantity and delivery, price the FMS contract in accordance with FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_215"
+                  href="PART_215.dita#DFARS-PART_215">Part 15</xref>.</p>
       </conbody>
    </concept>
 </dita>

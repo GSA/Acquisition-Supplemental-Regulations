@@ -76,7 +76,13 @@ findings has been executed concluding that it is more cost effective
 for the Government requiring activity to assign, mark, and register
 the unique item identification after delivery of an item acquired
 from a small business concern or a commercial item acquired under
-FAR part 12 or part 8.</p>
+FAR <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_212"
+                  href="PART_212.dita#DFARS-PART_212">part 12</xref> or <xref outputclass="fm:Part"
+                  class="- topic/xref "
+                  base="DFARS-PART_208"
+                  href="PART_208.dita#DFARS-PART_208">part 8</xref>.</p>
          <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>) The determination and findings
 shall be executed by—</p>
          <p outputclass="List7" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) The Component Acquisition Executive

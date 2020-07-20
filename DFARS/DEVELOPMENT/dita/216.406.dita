@@ -10,7 +10,10 @@
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">216.406</ph> Contract clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(e)  Use the clause at 252.216-7004, Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel, in all solicitations and contracts containing award-fee provisions.</p>
+         <p outputclass="List1" class="- topic/p ">(e)  Use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-252.216-7004"
+                  href="252.216-7004.dita#DFARS-252.216-7004">252.216-7004</xref>, Award Fee Reduction or Denial for Jeopardizing the Health or Safety of Government Personnel, in all solicitations and contracts containing award-fee provisions.</p>
       </conbody>
    </concept>
 </dita>
