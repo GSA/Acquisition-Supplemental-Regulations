@@ -6,8 +6,7 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.242-7006"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.242-7006</ph> Accounting System Administration.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -44,10 +43,7 @@
          <p outputclass="List2" class="- topic/p ">(9)  A timekeeping system that identifies employees’ labor by intermediate or final cost objectives;</p>
          <p outputclass="List2" class="- topic/p ">(10)  A labor distribution system that charges direct and indirect labor to the appropriate cost objectives;</p>
          <p outputclass="List2" class="- topic/p ">(11)  Interim (at least monthly) determination of costs charged to a contract through routine posting of books of account;</p>
-         <p outputclass="List2" class="- topic/p ">(12)  Exclusion from costs charged to Government contracts of amounts which are not allowable in terms of Federal Acquisition Regulation (FAR) <xref outputclass="fm:Part"
-                  class="- topic/xref "
-                  base="DFARS-PART_231"
-                  href="PART_231.dita#DFARS-PART_231">part 31</xref>, Contract Cost Principles and Procedures, and other contract provisions;</p>
+         <p outputclass="List2" class="- topic/p ">(12)  Exclusion from costs charged to Government contracts of amounts which are not allowable in terms of Federal Acquisition Regulation (FAR) part 31, Contract Cost Principles and Procedures, and other contract provisions;</p>
          <p outputclass="List2" class="- topic/p ">(13)  Identification of costs by contract line item and by units (as if each unit or line item were a separate contract), if required by the contract; </p>
          <p outputclass="List2" class="- topic/p ">(14)  Segregation of preproduction costs from production costs, as applicable;</p>
          <p outputclass="List2" class="- topic/p ">(15)  Cost accounting information, as required—</p>

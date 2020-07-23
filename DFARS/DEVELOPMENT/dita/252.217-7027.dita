@@ -6,8 +6,7 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.217-7027"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.217-7027</ph> Contract Definitization.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -52,13 +51,7 @@
             </tgroup>
          </table>
          <p outputclass="List1" class="- topic/p "/>
-         <p outputclass="List1" class="- topic/p ">(c)  If agreement on a definitive contract action to supersede this undefinitized contract action is not reached by the target date in paragraph (b) of this clause, or within any extension of it granted by the Contracting Officer, the Contracting Officer may, with the approval of the head of the contracting activity, determine a reasonable price or fee in accordance with Subpart <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-SUBPART_215.4"
-                  href="SUBPART_215.4.dita#DFARS-SUBPART_215.4">15.4</xref> and <xref outputclass="fm:Part"
-                  class="- topic/xref "
-                  base="DFARS-PART_231"
-                  href="PART_231.dita#DFARS-PART_231">Part 31</xref> of the FAR, subject to Contractor appeal as provided in the Disputes clause.  In any event, the Contractor shall proceed with completion of the contract, subject only to the Limitation of Government Liability clause.</p>
+         <p outputclass="List1" class="- topic/p ">(c)  If agreement on a definitive contract action to supersede this undefinitized contract action is not reached by the target date in paragraph (b) of this clause, or within any extension of it granted by the Contracting Officer, the Contracting Officer may, with the approval of the head of the contracting activity, determine a reasonable price or fee in accordance with Subpart 15.4 and Part 31 of the FAR, subject to Contractor appeal as provided in the Disputes clause.  In any event, the Contractor shall proceed with completion of the contract, subject only to the Limitation of Government Liability clause.</p>
          <p outputclass="List2" class="- topic/p ">(1)  After the Contracting Officer’s determination of price or fee, the contract shall be governed by—</p>
          <p outputclass="List3" class="- topic/p ">(i)  All clauses required by the FAR on the date of execution of this undefinitized contract action for either fixed-price or cost-reimbursement contracts, as determined by the Contracting Officer under this paragraph (c);</p>
          <p outputclass="List3" class="- topic/p ">(ii)  All clauses required by law as of the date of the Contracting Officer’s determination; and</p>

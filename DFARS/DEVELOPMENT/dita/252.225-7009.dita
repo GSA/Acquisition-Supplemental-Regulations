@@ -2,50 +2,84 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-252.225-7009"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.225-7009</ph> Restriction on
 Acquisition of Certain Articles Containing Specialty Metals.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Restriction on Acquisition of
-Certain Articles Containing Specialty Metals (DEC 2019)</p>
+         <p class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.7003-5"
+                  href="225.7003-5.dita#DFARS-225.7003-5">225.7003-5</xref>(a)(2), use the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p ">Restriction on Acquisition of Certain
+Articles Containing Specialty Metals (DEC 2019)</p>
          <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definitions.</i> As used in this
 clause -</p>
-         <p outputclass="List1" class="- topic/p ">(i) For alloys named by a single metallic
+         <p class="- topic/p ">“Alloy” means a metal consisting of a mixture of a basic metallic
+element and one or more metallic, or non-metallic, alloying elements.</p>
+         <p outputclass="List3" class="- topic/p ">(i) For alloys named by a single metallic
 element (e.g., titanium alloy), it means that the alloy contains
 50 percent or more of the named metal (by mass).</p>
-         <p outputclass="List1" class="- topic/p ">(ii) If two metals are specified in the
+         <p outputclass="List3" class="- topic/p ">(ii) If two metals are specified in the
 name (e.g., nickel-iron alloy), those metals are the two predominant
 elements in the alloy, and together they constitute 50 percent or
 more of the alloy (by mass).</p>
-         <p outputclass="List1" class="- topic/p ">(i) Can be provisioned and replaced as
+         <p class="- topic/p "> “Assembly” means an item forming a portion of a system or subsystem
+that—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Can be provisioned and replaced as
 an entity; and</p>
-         <p outputclass="List1" class="- topic/p ">(ii) Incorporates multiple, replaceable
+         <p outputclass="List3" class="- topic/p ">(ii) Incorporates multiple, replaceable
 parts.</p>
-         <p outputclass="List1" class="- topic/p ">(i) Means any item of supply that is -</p>
-         <p outputclass="List2" class="- topic/p ">(A) A commercial item (as defined in paragraph
-(1) of the definition of “commercial item” in section <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-202.101"
-                  href="202.101.dita#DFARS-202.101">2.101</xref> of the
-Federal Acquisition Regulation);</p>
-         <p outputclass="List2" class="- topic/p ">(B) Sold in substantial quantities in the
+         <p class="- topic/p "> “Commercial derivative military article” means an item acquired
+by the Department of Defense that is or will be produced using the
+same production facilities, a common supply chain, and the same
+or similar production processes that are used for the production
+of articles predominantly used by the general public or by nongovernmental
+entities for purposes other than governmental purposes.</p>
+         <p class="- topic/p "> “Commercially available off-the-shelf item”—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Means any item of supply that is -</p>
+         <p outputclass="List4" class="- topic/p ">(A) A commercial item (as defined in paragraph
+(1) of the definition of “commercial item” in section 2.101 of the Federal
+Acquisition Regulation);</p>
+         <p outputclass="List4" class="- topic/p ">(B) Sold in substantial quantities in the
 commercial marketplace; and</p>
-         <p outputclass="List2" class="- topic/p ">(C) Offered to the Government, under this
+         <p outputclass="List4" class="- topic/p ">(C) Offered to the Government, under this
 contract or a subcontract at any tier, without modification, in
 the same form in which it is sold in the commercial marketplace;
 and</p>
-         <p outputclass="List1" class="- topic/p ">(ii) Does not include bulk cargo, as defined
+         <p outputclass="List3" class="- topic/p ">(ii) Does not include bulk cargo, as defined
 in 46 U.S.C. 40102(4), such as agricultural products and petroleum
 products.</p>
-         <p outputclass="List1" class="- topic/p ">(i) Atomization;</p>
-         <p outputclass="List1" class="- topic/p ">(ii) Sputtering; or</p>
-         <p outputclass="List1" class="- topic/p ">(iii) Final consolidation of non-melt derived
+         <p class="- topic/p ">“Component” means any item supplied to the Government as part
+of an end item or of another component.</p>
+         <p class="- topic/p ">“Electronic component” means an item that operates by controlling
+the flow of electrons or other electrically charged particles in
+circuits, using interconnections of electrical devices such as resistors,
+inductors, capacitors, diodes, switches, transistors, or integrated
+circuits.  The term does not include structural or mechanical parts
+of an assembly containing an electronic component, and does not
+include any high performance magnets that may be used in the electronic
+component.</p>
+         <p class="- topic/p ">“End item” means the final production product when assembled
+or completed and ready for delivery under a line item of this contract.</p>
+         <p class="- topic/p ">“High performance magnet” means a permanent magnet that obtains
+a majority of its magnetic properties from rare earth metals (such
+as samarium).</p>
+         <p class="- topic/p ">“Produce” means—</p>
+         <p outputclass="List3" class="- topic/p ">(i) Atomization;</p>
+         <p outputclass="List3" class="- topic/p ">(ii) Sputtering; or</p>
+         <p outputclass="List3" class="- topic/p ">(iii) Final consolidation of non-melt derived
 metal powders.</p>
+         <p class="- topic/p ">“Qualifying country” means any country listed in the definition
+of “Qualifying country” at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="DFARS-225.003"
+                  href="225.003.dita#DFARS-225.003">225.003</xref> of the Defense Federal Acquisition
+Regulation Supplement (DFARS).</p>
          <p class="- topic/p ">“Specialty metal” means—</p>
          <p outputclass="List3" class="- topic/p ">(i) Steel—</p>
          <p outputclass="List4" class="- topic/p ">(A) With a maximum alloy content exceeding
@@ -135,10 +169,10 @@ of such fasteners for all customers.</p>
 country.</p>
          <p outputclass="List2" class="- topic/p ">(5) Specialty metals for which the Government
 has determined in accordance with DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="225.7003-3.dita#DFARS-225.7003-3"
+               <xref href="225.7003-3.dita#DFARS-225.7003-3"
                      base="i1379135"
-                     class="- topic/xref "/>
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">225.7003-3</xref>
             </ph> that specialty
 metal melted or produced in the United States, its outlying areas,
 or a qualifying country cannot be acquired as and when needed in—</p>
@@ -177,15 +211,15 @@ by the Government to meet the definition of “commercial derivative
 military article,” the Contractor has certified, as specified in
 the provision of the solicitation entitled “Commercial Derivative Military
 Article—Specialty Metals Compliance Certificate” (DFARS <ph xtrc="DFARxref" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     href="252.225-7010.dita#DFARS-252.225-7010"
+               <xref href="252.225-7010.dita#DFARS-252.225-7010"
                      base="i1382036"
-                     class="- topic/xref "/>
-            </ph>),
-that the Contractor and its subcontractor(s) will enter into a contractual
-agreement or agreements to purchase an amount of domestically melted
-or produced specialty metal in the required form, for use during
-the period of contract performance in the production of each commercial
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">252.225-7010</xref>
+            </ph>), that
+the Contractor and its subcontractor(s) will enter into a contractual
+agreement or agreements to purchase an amount of domestically melted or
+produced specialty metal in the required form, for use during the
+period of contract performance in the production of each commercial
 derivative military article and the related commercial article,
 that is not less than the Contractor’s good faith estimate of the
 greater of—</p>

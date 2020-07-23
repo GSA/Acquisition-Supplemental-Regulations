@@ -6,8 +6,7 @@
       ditaarch:DITAArchVersion="1.3">
    <concept id="DFARS-252.225-7052"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">252.225-7052</ph> Restriction on the Acquisition of Certain Magnets and Tungsten.</title>
       <conbody outputclass="clause" class="- topic/body  concept/conbody ">
@@ -24,10 +23,7 @@
          <p outputclass="List2" class="- topic/p ">(2)  Incorporates multiple, replaceable parts.</p>
          <p class="- topic/p ">“Commercially available off-the-shelf item”—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Means any item of supply that is—</p>
-         <p outputclass="List3" class="- topic/p ">(i)  A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-202.101"
-                  href="202.101.dita#DFARS-202.101">2.101</xref> of the Federal Acquisition Regulation);</p>
+         <p outputclass="List3" class="- topic/p ">(i)  A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);</p>
          <p outputclass="List3" class="- topic/p ">(ii)  Sold in substantial quantities in the commercial marketplace; and</p>
          <p outputclass="List3" class="- topic/p ">(iii)  Offered to the Government, under this contract or a subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and</p>
          <p outputclass="List2" class="- topic/p ">(2)  Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.</p>
@@ -47,10 +43,7 @@
          <p class="- topic/p ">“Subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.</p>
          <p class="- topic/p ">“Tungsten heavy alloy” means a tungsten base pseudo alloy that—</p>
          <p outputclass="List2" class="- topic/p ">(1)  Meets the specifications of ASTM B777 or SAE-AMS-T-21014 for a particular class of tungsten heavy alloy; or </p>
-         <p outputclass="List2" class="- topic/p ">(2)  Contains at least 90 percent tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has density of at least <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="DFARS-SUBPART_216.5"
-                  href="SUBPART_216.5.dita#DFARS-SUBPART_216.5">16.5</xref> g/cm3).</p>
+         <p outputclass="List2" class="- topic/p ">(2)  Contains at least 90 percent tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has density of at least 16.5 g/cm3).</p>
          <p outputclass="List1" class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Restriction</i>.  </p>
          <p outputclass="List2" class="- topic/p ">(1)  Except as provided in paragraph (c) of this clause, the Contractor shall not deliver under this contract any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material  (10 U.S.C. 2533c).  </p>
          <p outputclass="List2" class="- topic/p ">(2)(i)  For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes—</p>

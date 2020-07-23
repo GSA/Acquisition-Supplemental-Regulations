@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="DFARS-212.7103"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,17 +14,13 @@
                <xref outputclass="fm:ParaNumOnly"
                      href="252.212-7002.dita#DFARS-252.212-7002"
                      base="i1381320"
-                     class="- topic/xref "/>
-            </ph>,
-Pilot Program for Acquisition of Military-Purpose Nondevelopmental
-Items, in solicitations when use of the pilot program is planned and
-the applicability criteria of <ph xtrc="DFARxref" class="- topic/ph ">
+                     class="- topic/xref ">252.212-7002</xref>
+            </ph>, Pilot Program for Acquisition of Military-Purpose Nondevelopmental Items, in solicitations when use of the pilot program is planned and the applicability criteria of <ph xtrc="DFARxref" class="- topic/ph ">
                <xref outputclass="fm:ParaNumOnly"
                      href="212.7102-1.dita#DFARS-212.7102-1"
                      base="i1377958"
-                     class="- topic/xref "/>
-            </ph> are
-met.</p>
+                     class="- topic/xref ">212.7102-1</xref>
+            </ph> are met.</p>
       </conbody>
    </concept>
 </dita>

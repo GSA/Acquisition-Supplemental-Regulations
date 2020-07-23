@@ -8,6 +8,11 @@
          <ul otherprops="TOC">
             <li>
                <p>
+                  <xref outputclass="fm:TOC" href="253.204.dita#DFARS-253.204">253.204 ReserveD</xref>
+               </p>
+            </li>
+            <li>
+               <p>
                   <xref outputclass="fm:TOC" href="253.208.dita#DFARS-253.208">253.208 Required sources of supplies and services.</xref>
                </p>
                <ul otherprops="TOC">
