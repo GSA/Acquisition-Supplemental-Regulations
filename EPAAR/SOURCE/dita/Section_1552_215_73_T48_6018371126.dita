@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_215_73_T48_6018371126">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.215-73</ph> General financial and organizational information.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1515_408_T48_601313218" href="Section_1515_408_T48_601313218.dita#Section_1515_408_T48_601313218">1515.408</xref>(a)(2), insert the following provision:</p>
+			<p outputclass="Ctr_SmCaps">General Financial and Organizational Information: (AUG 1999)</p>
+			<p xtrc="P">Offerors or quoters are requested to provide information regarding the following items in sufficient detail to allow a full and complete business evaluation. If the question indicated is not applicable or the answer is none, it should be annotated. If the offeror has previously submitted the information, it should certify the validity of that data currently on file at EPA and to whom and where it was submitted or update all outdated information on file.</p>
+			<p xtrc="FP-DASH"> (a) Contractor's Name:</p>
+			<p outputclass="List1">(b) Address (If financial records are maintained at some other location, show the address of the place where the records are kept):</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"> (c) Telephone Number:</p>
+			<p xtrc="FP-DASH"> (d) Individual(s) to contact re. this proposal:</p>
+			<p xtrc="FP-DASH"/>
+			<p outputclass="List1">(e) Cognizant Government:</p>
+			<p xtrc="FP-DASH">Audit Agency:</p>
+			<p xtrc="FP-DASH">Address:</p>
+			<p xtrc="FP-DASH">Auditor:</p>
+			<p props="runin" outputclass="List1">(f)</p>
+			<p outputclass="List2">(1) 	Work Distribution for the Last Completed Fiscal Accounting Period:</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="2" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left">Sales:</entry>
+								<entry colname="2" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Government cost-reimbursement type prime contracts and subcontracts</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Government fixed-price prime contracts and subcontracts</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Commercial Sales</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Total Sales</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="center">(2) Total Sales for first and second fiscal years immediately preceding last completed fiscal year.</entry>
+								<entry colname="2" align="right"/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="2" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left">Total Sales for First Preceding Fiscal Year</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Total Sales for Second Preceding Fiscal Year</entry>
+								<entry colname="2" align="right">$____</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">(g) Is company a separate rate entity or division?</entry>
+								<entry colname="2" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Yes _</entry>
+								<entry colname="2" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">No _</entry>
+								<entry colname="2" align="right"/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p xtrc="P">If a division or subsidiary corporation, name parent company:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"> (h) Date Company Organized: </p>
+			<p outputclass="List1">(i) Manpower:</p>
+			<p xtrc="FP-DASH">Total Employees: </p>
+			<p xtrc="FP-DASH">Direct: </p>
+			<p xtrc="FP-DASH">Indirect: </p>
+			<p xtrc="FP-DASH">Standard Work Week (Hours): </p>
+			<p xtrc="FP-DASH"> (j) Commercial Products: </p>
+			<p outputclass="List1">(k) Attach a current organizational chart of the company.</p>
+			<p outputclass="List1">(l) Description of Contractor's system of estimating and accumulating costs under Government contracts. (Check appropriate blocks.)</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="3" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<colspec colnum="3" colname="3" colsep="0"/>
+						<thead>
+							<row rowsep="1">
+								<entry colname="1"> </entry>
+								<entry colname="2">Estimated/actual cost</entry>
+								<entry colname="3">Standard cost</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left">Estimating System:</entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Job Order</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Process</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left"> </entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Accumulating System:</entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Job Order</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Process</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p xtrc="P">Has your cost estimating system been approved by any Government agency?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If yes, give name, date or approval, and location of agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="P">Has your cost accumulation system been approved by any Government agency?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If yes, give name, date of approval, and address of agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"/>
+			<p outputclass="List1">(m) What is your fiscal year period? (Give month-to-month dates):</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="P">What were the indirect cost rates for your last completed fiscal year?</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="3" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<colspec colnum="3" colname="3" colsep="0"/>
+						<thead>
+							<row rowsep="1">
+								<entry colname="1">Fiscal year</entry>
+								<entry colname="2">Indirect cost rate</entry>
+								<entry colname="3">Basis of allocation</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left">Fringe Benefits</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Overhead</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">G&amp;A Expense</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Other</entry>
+								<entry colname="2" align="right">___</entry>
+								<entry colname="3" align="right">___</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p outputclass="List1">(n) Have the proposed indirect cost rate(s) been evaluated and accepted by any Government agency?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If yes, give name, date of approval, and location of the Government agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="P">Date of last preaward audit review by a Government agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="P">If the answer is no, data supporting the proposed rates must accompany the cost or price proposal. A breakdown of the items comprising overhead and G&amp;A must be furnished.</p>
+			<p outputclass="List1">(o) Cost estimating is performed by:</p>
+			<p xtrc="FP-DASH">Accounting Department</p>
+			<p xtrc="FP-DASH">Contracting Department</p>
+			<p xtrc="FP-DASH">Other (describe)</p>
+			<p outputclass="List1">(p) Has system of control of Government property been approved by a Government agency?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If yes, give name, date of approval, and location of the Government agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH"/>
+			<p outputclass="List1">(q) Purchasing System: FAR 44.302 requires EPA, where it is the cognizant Government agency, to conduct a Contractor Purchasing System Review for each contractor whose sales to the Government, using other than sealed bid procedures, are expected to exceed $25 million (annual billings) during the next twelve months. The $25 million sales threshold is comprised of prime contracts, subcontractors under Government prime contracts, and modifications (except when the negotiated price is based on established catalog or market prices or is set by law or regulation).</p>
+			<p xtrc="P">Has your purchasing system been approved by a Government agency?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If yes, name and location of the Government agency:</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="FP-DASH">Period of Approval: </p>
+			<p xtrc="P">If no, do you estimate that your negotiated sales to the Government during the next twelve months will meet the $25 million threshold? Yes _ No _</p>
+			<p xtrc="P">If you responded yes to the $25 million threshold question, is EPA the cognizant agency for your organization based on the preponderance of Government contract dollars?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p xtrc="P">If EPA is not your cognizant Government agency, provide the name and location of the cognizant agency _________________</p>
+			<p xtrc="FP-DASH"/>
+			<p xtrc="P">Are your purchasing policies and procedures written?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p outputclass="List1">(r) Does your firm have an established written incentive compensation or bonus plan?</p>
+			<p xtrc="FP">Yes _ No _</p>
+			<p outputclass="List1">(s) Additionally, offerors shall submit current financial statements, including a Balance Sheet, Statement of Income (Loss), and Cash Flow for the last two completed fiscal years. Specify resources available to perform the contract without assistance from any outside source. If sufficient resources are not available, indicate in proposal the amount required and the anticipated source (i.e., bank loans, letter or lines of credit, etc.).</p>
+			<p outputclass="Endofprovision">(End of provision)</p>
+		</conbody>
+	</concept>
+</dita>

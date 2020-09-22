@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_211_79_T48_6018371121">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.211-79</ph> Compliance with EPA policies for information resources management.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1511_011_79_T48_6012100112" href="Section_1511_011_79_T48_6012100112.dita#Section_1511_011_79_T48_6012100112">1511.011-79</xref>, insert the following clause:</p>
+			<p outputclass="Ctr_SmCaps">Compliance With EPA Policies for Information Resources Management (JUL 2016)</p>
+			<p outputclass="List1">(a) <i>Definition.</i> Information Resources Management (IRM) is defined as any planning, budgeting, organizing, directing, training, promoting, controlling, and managing activities associated with the burden, collection, creation, use and dissemination of information. IRM includes both information itself and the management of information and related resources such as personnel, equipment, funds, and technology. Examples of these services include but are not limited to the following:</p>
+			<p outputclass="List2">(1) 	The acquisition, creation, or modification of a computer program or automated data base for delivery to EPA or use by EPA or contractors operating EPA programs.</p>
+			<p outputclass="List2">(2) The analysis of requirements for, study of the feasibility of, evaluation of alternatives for, or design and development of a computer program or automated data base for use by EPA or contractors operating EPA programs.</p>
+			<p outputclass="List2">(3) Services that provide EPA personnel access to or use of computer or word processing equipment, software, or related services.</p>
+			<p outputclass="List2">(4) Services that provide EPA personnel access to or use of: Data communications; electronic messaging services or capabilities; electronic bulletin boards, or other forms of electronic information dissemination; electronic record-keeping; or any other automated information services.</p>
+			<p outputclass="List1">(b) <i>General.</i> The Contractor shall perform any IRM-related work under this contract in accordance with the IRM policies, standards, and procedures set forth on the Office of Environmental Information policy Web site. Upon receipt of a work request (<i>i.e.</i> delivery order, task order, or work assignment), the Contractor shall check this listing of directives. The applicable directives for performance of the work request are those in effect on the date of issuance of the work request. The 2100 Series (2100-2199) of the Agency's Directive System contains the majority of the Agency's IRM policies, standards, and procedures.</p>
+			<p outputclass="List1">(c) <i>Section 508 requirements (accessibility).</i> Contract deliverables are required to be compliant with Section 508 requirements (accessibility for people with disabilities). The Environmental Protection Agency policy for 508 compliance can be found at <i>www.epa.gov/accessibility.</i>
+			</p>
+			<p outputclass="List1">(d) <i>Electronic access.</i> A complete listing, including full text, of documents included in the 2100 Series of the Agency's Directive System is maintained on the EPA Public Access Server on the Internet at <i>http://www2.epa.gov/irmpoli8/current-information-directives.</i>
+			</p>
+			<p outputclass="Endofclause">(End of clause)</p>
+		</conbody>
+	</concept>
+</dita>

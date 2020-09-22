@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_203_70_T48_601837111">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.203-70</ph> Current/former agency employee involvement certification.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1503_670_T48_60114215" href="Section_1503_670_T48_60114215.dita#Section_1503_670_T48_60114215">1503.670</xref>, insert the following provision in all EPA solicitations for sole-source acquisitions.</p>
+			<p outputclass="Ctr_SmCaps">Current/Former Agency Employee Involvement Certification (JUL 2016)</p>
+			<p xtrc="P">The offeror (quoter) hereby certifies that:</p>
+			<p outputclass="List1">(a) He/She is [ ] is not [ ] a former employee or special government employee whose EPA employment terminated within one year prior to submission of this offer (quote).</p>
+			<p outputclass="List1">(b) He/She does [ ] does not [ ] employ or propose to employ a current/former employee or special government employee whose EPA employment terminated within one year prior to submission of this offer (quote) and who has been or will be involved, directly or indirectly, in developing or negotiating this offer (quote) for the offeror (quoter), or in the management, administration or performance of any contract resulting from this offer (quote).</p>
+			<p outputclass="List1">(c) He/She does [ ] does not [ ] employ or propose to employ as a consultant or subcontractor under any contract resulting from this offer (quote) a current/former employee or special government employee whose EPA employment terminated within one year prior to submission of this offer (quote).</p>
+			<p outputclass="List1">(d) A former employee or special government employee whose EPA employment terminated within one year prior to submission of this offer (quote) or such former employee's spouse or minor child does [ ] does not [ ] own or substantially own or control the offeror's (quoter's) firm.</p>
+			<p outputclass="List1">(e) See EPAAR <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1503_600_71_T48_60114212" href="Section_1503_600_71_T48_60114212.dita#Section_1503_600_71_T48_60114212">1503.600-71</xref> for definitions of the terms “employee” and “special government employee.”</p>
+			<p outputclass="Endofprovision">(End of provision)</p>
+		</conbody>
+	</concept>
+</dita>

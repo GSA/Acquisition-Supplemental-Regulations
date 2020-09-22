@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1516_303_76_T48_601314118">
+		<title class="- topic/title ">
+			<ph props="autonumber">1516.303-76</ph> Fee on cost-sharing contracts by subcontractors.</title>
+		<conbody>
+			<p outputclass="List1">(a) Subcontractors under prime cost-sharing contracts who do not have a significant direct interest in the contract or who are not in a position to gain long-term benefits from the contract may earn a fee.</p>
+			<p outputclass="List1">(b) Contracting Officers should be alert to a potential vulnerability for the Government under cost-sharing contracts when evaluating proposed subcontractors or consenting to a subcontract during contract administration, where the subcontractor is a wholly-owned subsidiary of the prime. The vulnerability consists of the subsidiary earning a large amount of fee, which could be returned to the prime through stock dividends or other intercompany transactions. This could circumvent the objective of a cost-sharing contract.</p>
+		</conbody>
+	</concept>
+</dita>

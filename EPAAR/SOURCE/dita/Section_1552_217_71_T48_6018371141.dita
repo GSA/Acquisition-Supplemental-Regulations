@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_217_71_T48_6018371141">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.217-71</ph> Option to extend the term of the contract - cost-type contract.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1517_208_T48_601315113" href="Section_1517_208_T48_601315113.dita#Section_1517_208_T48_601315113">1517.208</xref>(b), insert this contract clause in cost-reimbursement type term form contracts when applicable. If only one option period is used, enter “NA” in the proper places of the clause. If more than two option periods apply, the clause may be modified accordingly.</p>
+			<p outputclass="Ctr_SmCaps">Option To Extend the Term of the Contract - Cost-Type Contract (APR 1984)</p>
+			<p xtrc="P">The Government has the option to extend the term of this contract for ___ additional period(s). If more than 60 days remain in the contract period of performance, the Government, without prior written notification, may exercise this option by issuing a contract modification. To exercise this option within the last 60 days of the period of performance, the Government must provide to the Contractor written notification prior to that last 60-day period. This preliminary notification does not commit the Government to exercising the option. The Government's estimated level of effort is ___ direct labor hours for the first option period and ___ for the second. Use of an option will result in the following contract modifications:</p>
+			<p outputclass="List1">(a) The “Period of Performance” clause will be amended to cover a base period from _____________ to ______________ and option periods from ______________ to _____________ and ______________ to ______________.</p>
+			<p outputclass="List1">(b) Paragraph (a) of the “Level of Effort” clause will be amended to reflect a new and separate level of effort of _________________ for the first option period and a new and separate level of effort of ______________ for the second option period.</p>
+			<p outputclass="List1">(c) The “Estimated Cost and Fixed Fee” clause will be amended to reflect increased estimated costs and fixed fee for each option period as follows:</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="3" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<colspec colnum="3" colname="3" colsep="0"/>
+						<thead>
+							<row rowsep="1">
+								<entry colname="1"> </entry>
+								<entry colname="2">Option 1</entry>
+								<entry colname="3">Option 2</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left">Estimated cost</entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Fixed fee</entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left">Total</entry>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p outputclass="List1">(d) If the contract contains “not to exceed amounts” for elements of other direct costs (ODC), those amounts will be increased as follows:</p>
+			<p xtrc="DIV">
+				<table frame="all" colsep="1" rowsep="1">
+					<tgroup cols="3" outputclass="FormatA">
+						<colspec colnum="1" colname="1" colsep="0"/>
+						<colspec colnum="2" colname="2" colsep="0"/>
+						<colspec colnum="3" colname="3" colsep="0"/>
+						<thead>
+							<row rowsep="1">
+								<entry colname="1">Other direct cost item</entry>
+								<entry colname="2">Option 1</entry>
+								<entry colname="3">Option 2</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row rowsep="1">
+								<entry colname="1" align="left"/>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left"/>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+							<row rowsep="1">
+								<entry colname="1" align="left"/>
+								<entry colname="2" align="right"/>
+								<entry colname="3" align="right"/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</p>
+			<p outputclass="Endofclause">(End of clause)</p>
+		</conbody>
+	</concept>
+</dita>

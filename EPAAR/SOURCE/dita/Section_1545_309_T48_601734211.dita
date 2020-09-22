@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1545_309_T48_601734211">
+		<title class="- topic/title ">
+			<ph props="autonumber">1545.309</ph> Providing Government production and research property under special restrictions.</title>
+		<conbody>
+			<p xtrc="P">Government production and research property, other than foundations and similar improvements necessary for installing special tooling, special test equipment, or plant equipment, shall not be installed or constructed on land not owned by the Government in such fashion as to be nonseverable unless the contract under which the property is provided contains -  </p>
+			<p outputclass="List1">(a) One of the provisions in FAR 45.309(a); </p>
+			<p outputclass="List1">(b) A requirement that the Government will have the right to abandon in place all nonseverable Government property provided; and </p>
+			<p outputclass="List1">(c) A requirement that the Government will not have any obligation to disassemble or remove the property or to restore or to rehabilitate the premises on which the property is located. </p>
+		</conbody>
+	</concept>
+</dita>

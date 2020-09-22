@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1545_107_T48_601734111">
+		<title class="- topic/title ">
+			<ph props="autonumber">1545.107</ph> Government property clauses.</title>
+		<conbody>
+			<p outputclass="List1">(a) The Contracting Officer shall insert the contract clause at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1552_245_70_T48_6018371183" href="Section_1552_245_70_T48_6018371183.dita#Section_1552_245_70_T48_6018371183">1552.245-70</xref>:</p>
+			<p outputclass="List2">(1) 	When it is anticipated that a Contractor will use Government-furnished or Contractor-acquired property in the cleanup of hazardous material as defined in Federal Standard No. 313, or, the toxic chemicals listed 40 CFR 372.65, in the environment.</p>
+			<p outputclass="List2">(2) In all cost-type solicitations and contracts regardless of whether Government Property is initially provided, and in all fixed-price solicitations and contracts whenever Government furnished property is provided.</p>
+			<p outputclass="List1">(b) The Contracting Officer shall insert the contract clause at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1552_245_71_T48_6018371184" href="Section_1552_245_71_T48_6018371184.dita#Section_1552_245_71_T48_6018371184">1552.245-71</xref>, Government-Furnished Data, in any contract in which the Government is to furnish data to the Contractor. The data to be provided shall be identified in the clause.</p>
+		</conbody>
+	</concept>
+</dita>

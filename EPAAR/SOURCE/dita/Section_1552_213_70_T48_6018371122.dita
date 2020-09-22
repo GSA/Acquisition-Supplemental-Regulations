@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_213_70_T48_6018371122">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.213-70</ph> Notice to suppliers of equipment.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1513_507_T48_601311312" href="Section_1513_507_T48_601311312.dita#Section_1513_507_T48_601311312">1513.507</xref>(b), the Contracting Officer shall insert the following contract clause in orders for or lease of commercially available equipment.</p>
+			<p outputclass="Ctr_SmCaps">Notice to Suppliers of Equipment (APR 1984)</p>
+			<p outputclass="List1">(a) It is the general policy of the Environmental Protection Agency that Contractor or vendor prescribed leases or maintenance agreements for equipment will NOT be executed.</p>
+			<p outputclass="List1">(b) Performance in accordance with the terms and conditions of the vendor's commercial lease, or customer service maintenance agreement, unless specified in the Schedule, may render the vendor's performance unacceptable, thereby permitting the Government to apply such contractual remedies as may be permitted by law, regulation, or the terms of this order.</p>
+			<p outputclass="Endofclause">(End of clause)</p>
+		</conbody>
+	</concept>
+</dita>

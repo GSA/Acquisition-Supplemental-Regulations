@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1552_211_76_T48_6018371118">
+		<title class="- topic/title ">
+			<ph props="autonumber">1552.211-76</ph> Legal analysis.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1511_011_76_T48_601210019" href="Section_1511_011_76_T48_601210019.dita#Section_1511_011_76_T48_601210019">1511.011-76</xref>, insert this contract clause when it is determined that the contract involves legal analysis.</p>
+			<p outputclass="Ctr_SmCaps">Legal Analysis (APR 1984)</p>
+			<p xtrc="P">The Contractor shall furnish to the Contracting Officer's Representative one </p>
+			<p outputclass="List2">(1) 	copy of any draft legal analysis. The Government will provide a response to the Contractor within thirty (30) calendar days after receipt. The Contractor shall not finalize the analysis until the Government has given approval.</p>
+			<p outputclass="Endofclause">(End of clause)</p>
+		</conbody>
+	</concept>
+</dita>

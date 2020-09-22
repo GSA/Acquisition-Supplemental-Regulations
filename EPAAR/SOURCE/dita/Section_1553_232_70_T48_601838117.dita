@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1553_232_70_T48_601838117">
+		<title class="- topic/title ">
+			<ph props="autonumber">1553.232-70</ph> EPA Form 1900-3, Assignee's Release.</title>
+		<conbody>
+			<p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1532_805_70_T48_601527412" href="Section_1532_805_70_T48_601527412.dita#Section_1532_805_70_T48_601527412">1532.805-70</xref>(a), the EPA Form 1900-3 is required to be submitted by the assignee for cost-reimbursement contracts prior to final payment under the contract.</p>
+		</conbody>
+	</concept>
+</dita>

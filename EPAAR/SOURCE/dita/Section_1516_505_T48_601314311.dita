@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+	<concept outputclass="Section" id="Section_1516_505_T48_601314311">
+		<title class="- topic/title ">
+			<ph props="autonumber">1516.505</ph> Contract clauses.</title>
+		<conbody>
+			<p outputclass="List1">(a) The Contracting Officer shall insert the clause in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1552_216_72_T48_6018371132" href="Section_1552_216_72_T48_6018371132.dita#Section_1552_216_72_T48_6018371132">1552.216-72</xref>, <i>Ordering - By Designated Ordering Officers,</i> or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity type solicitations and contracts. The Contracting Officer shall insert Alternate I when formal input from the Contractor will not be obtained prior to order issuance.</p>
+			<p outputclass="List1">(b) The Contracting Officer shall insert the clause in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Section_1552_216_73_T48_6018371133" href="Section_1552_216_73_T48_6018371133.dita#Section_1552_216_73_T48_6018371133">1552.216-73</xref>, Fixed Rates for Services - Indefinite Delivery/Indefinite Quantity Contract, in solicitations and contracts to specify fixed rates for services.</p>
+		</conbody>
+	</concept>
+</dita>
