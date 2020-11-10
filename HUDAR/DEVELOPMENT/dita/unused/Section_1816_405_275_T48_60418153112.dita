@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1816_405_275_T48_60418153112">
+      <title class="- topic/title ">
+         <ph props="autonumber">1816.405-275</ph> Award fee evaluation rating.</title>
+      <conbody>
+         <p outputclass="List1">(a) All award fee contracts shall utilize the adjectival rating categories and associated descriptions as well as the award fee pool available to be earned percentages for each adjectival rating category contained in FAR 16.401(e)(3)(iv). Contracting officers may supplement these descriptions with more specifics relative to their procurement but they cannot alter or delete the FAR adjectival rating descriptions.
+</p>
+         <p outputclass="List1">(b) The following numerical scoring system shall be used in conjunction with the FAR adjectival rating categories and associated descriptions (see FAR 16401(e)(3)(iv)).
+</p>
+         <p outputclass="List2">(1) <i>Excellent</i> (100-91)
+</p>
+         <p outputclass="List2">(2) <i>Very good</i> (90-76)
+</p>
+         <p outputclass="List2">(3) <i>Good</i> (75-51)
+</p>
+         <p props="Runin" outputclass="List2">(4) <i>Satisfactory</i> (50)
+</p>
+         <p outputclass="List2">(5) <i>Unsatisfactory</i> (less than 50) No award fee shall be paid for an unsatisfactory rating.
+</p>
+         <p outputclass="List1">(c) As a benchmark for evaluation, in order to be rated “Excellent” overall, the contractor would typically be under cost, on or ahead of schedule, and providing outstanding technical performance.
+</p>
+         <p outputclass="List1">(d) A weighted scoring system appropriate for the circumstances of the individual contract requirement should be developed. In this system, each evaluation factor (<i>e.g.,</i> technical, schedule, cost control) is assigned a specific percentage weighting with the cumulative weightings of all factors totaling 100. During the award fee evaluation, each factor is scored from 0-100 according to the ratings defined in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_405_275_T48_60418153112"
+                  href="Section_1816_405_275_T48_60418153112.dita#Section_1816_405_275_T48_60418153112">1816.405-275</xref>(b). The numerical score for each factor is then multiplied by the weighting for that factor to determine the weighted score. For example, if the technical factor has a weighting of 60 percent and the numerical score for that factor is 80, the weighted technical score is 48 (80 × 60 percent). The weighted scores for each evaluation factor are then added to determine the total award fee score.
+</p>
+      </conbody>
+   </concept>
+</dita>

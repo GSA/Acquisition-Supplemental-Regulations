@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2122_170_T48_6074213111">
+      <title class="- topic/title ">
+         <ph props="autonumber">2122.170</ph> Contract clauses.</title>
+      <conbody>
+         <p xtrc="P">The provisions at FAR sections 52.222-21, 52.222-22, 52-222.25 are implemented by changing the word “offeror” to “Contractor” and the word “solicitation” to “contract” wherever they appear in the text to reflect the FEGLI Program's statutory exemption from competitive bidding (5 U.S.C. 8709), which obviates the issuance of solicitations.
+</p>
+      </conbody>
+   </concept>
+</dita>

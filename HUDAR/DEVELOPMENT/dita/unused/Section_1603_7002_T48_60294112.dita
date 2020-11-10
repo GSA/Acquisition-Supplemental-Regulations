@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1603_7002_T48_60294112">
+      <title class="- topic/title ">
+         <ph props="autonumber">1603.7002</ph> Additional guidelines.</title>
+      <conbody>
+         <p xtrc="P">Any advertisements which identify a carrier's participation in the FEHBP shall -  
+</p>
+         <p outputclass="List1">(a) Be limited to the merits of the carrier's FEHBP plan and shall be limited to factual statements of the benefits and rates offered by that plan. The official document for benefit and rate comparisons among FEHBP plans is the comparison chart issued by OPM. 
+</p>
+         <p outputclass="List1">(b) Not use the FEHBP logo. 
+</p>
+         <p outputclass="List1">(c) Recognize that the officially approved plan brochure is the sole contractual statement of benefits, limitations, and exclusions. All advertisements that in any way discuss plan benefits shall contain the following statement:
+</p>
+                                    <p xtrc="P">This is a summary (or brief description) of the features of the (plan's name). Before making a final decision, please read the plan's officially approved brochure, (brochure number). All benefits are subject to the definitions, limitations, and exclusions set forth in the official brochure. 
+</p>
+                                    <p outputclass="List1">(d) Set forth the rates for the plan, if the advertisements discuss benefits. 
+</p>
+                                    <p props="Runin" outputclass="List1">(e)
+				</p>
+         <p outputclass="List2">(1) 
+			Not give instructions on enrollment. Statements on enrollment procedures, requirements, or eligibility shall be limited to those such as: To sign up, fill out a Health Benefits Election Form (Standard Form 2809) from your personnel office indicating the enrollment you want or use your agency's electronic enrollment system.
+</p>
+                                    <p outputclass="List2">(2) The enrollment codes for (plan's name) are:
+</p>
+                                    <p xtrc="FP-1">(i) Self Only __ Enrollment Code __
+</p>
+                                    <p xtrc="FP-1">(i) Self Plus One __ Enrollment Code __
+</p>
+                                    <p xtrc="FP-1">(iii) Self and Family __ Enrollment Code __
+</p>
+                                    <p outputclass="List2">(3) The form must then be returned to your personnel office before the (date) deadline. Your (plan's name) coverage will begin the first pay period in January, (year). If you are a retired Federal employee and need forms, contact the Office of Personnel Management, 1900 E Street NW, Attn: Retirement Benefits Branch, Washington, DC 20415 or visit <i>www.opm.gov/forms.</i>
+                                    </p>
+                                 </conbody>
+   </concept>
+</dita>

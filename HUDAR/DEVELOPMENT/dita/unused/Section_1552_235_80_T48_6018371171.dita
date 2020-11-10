@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_235_80_T48_6018371171">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.235-80</ph> Access to confidential business information.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1535_007_70_T48_601629012"
+                  href="Section_1535_007_70_T48_601629012.dita#Section_1535_007_70_T48_601629012">1535.007-70</xref>(g), insert the following clause.
+</p>
+                                    <p xtrc="HD1">Access to Confidential Business Information (OCT 2000)
+</p>
+                                    <p xtrc="P">It is not anticipated that it will be necessary for the contractor to have access to confidential business information (CBI) during the performance of tasks required under this contract. However, the following applies to any and all tasks under which the contractor will or may have access to CBI:
+</p>
+                                    <p xtrc="P">The contractor shall not have access to CBI submitted to EPA under any authority until the contractor obtains from the Project Officer a certification that the EPA has followed all necessary procedures under 40 CFR part 2, subpart B (and any other applicable procedures), including providing, where necessary, prior notice to the submitters of disclosure to the contractor.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

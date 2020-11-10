@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1827_304_2_T48_6042022116">
+      <title class="- topic/title ">
+         <ph props="autonumber">1827.304-2</ph> Contracts placed by or for other Government agencies.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)(3)(i) This subsection applies only to contracts placed by or for other agencies and not to task or delivery orders placed by or for other agencies against NASA Government-wide Acquisition Contracts (GWACs) or Multiple Agency Contracts (MACs).
+</p>
+         <p outputclass="List3">(ii) When a contract is placed for another agency with a small business or nonprofit organization and the agency does not request the use of a specific patent rights clause, the contracting officer shall use the clause at FAR 52.227-11, Patent Rights - Ownership by the Contractor as modified by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_227_11_T48_60423441164"
+                  href="Section_1852_227_11_T48_60423441164.dita#Section_1852_227_11_T48_60423441164">1852.227-11</xref> (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_303_T48_6042022113"
+                  href="Section_1827_303_T48_6042022113.dita#Section_1827_303_T48_6042022113">1827.303</xref>(b)(1)).</p>
+         <p outputclass="List3">(iii) When a contract is placed for another agency with other than a small business or nonprofit organization, the contracting officer, in accordance with Section 20135 of the Act, shall use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_227_70_T48_60423441168"
+                  href="Section_1852_227_70_T48_60423441168.dita#Section_1852_227_70_T48_60423441168">1852.227-70</xref>, New Technology - Other than a Small Business Firm or Nonprofit Organization (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_303_T48_6042022113"
+                  href="Section_1827_303_T48_6042022113.dita#Section_1827_303_T48_6042022113">1827.303</xref>(d)(1).</p>
+         <p outputclass="List3">(iv) When work is to be performed outside the United States by contractors that are not domestic firms, the contracting officer shall use one of the clause described in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_303_T48_6042022113"
+                  href="Section_1827_303_T48_6042022113.dita#Section_1827_303_T48_6042022113">1827.303</xref>(e)(1).</p>
+      </conbody>
+   </concept>
+</dita>

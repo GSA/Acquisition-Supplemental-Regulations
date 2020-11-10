@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_236_72_T48_604234411100">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.236-72</ph> Bids with unit prices.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1836_570_T48_6042130212"
+                  href="Section_1836_570_T48_6042130212.dita#Section_1836_570_T48_6042130212">1836.570</xref>(b), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Bids With Unit Prices (MAR 1989)
+</p>
+                                    <p outputclass="List1">(a) All extensions of the unit prices bid will be subject to verification by the Government. If there is variation between the unit price and any extended amounts, the unit price will be considered to be the bid.
+</p>
+                                    <p outputclass="List1">(b) If a modification to a bid based on unit prices that provides for a lump-sum adjustment to the total estimated cost is submitted, the application of the lump sum adjustment to each unit price in the bid must be stated. If it is not stated, the lump-sum adjustment shall be applied on a pro rata basis to every unit price in the bid.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

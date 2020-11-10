@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2439_107_T48_6095330211">
+      <title class="- topic/title ">
+         <ph props="autonumber">2439.107</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_239_70_T48_60955371144"
+                  href="Section_2452_239_70_T48_60955371144.dita#Section_2452_239_70_T48_60955371144">2452.239-70</xref>, Access to HUD Systems, in solicitations and contracts when the contract will require contractor employees, including subcontractors and consultants, to have access to any HUD information system(s) as defined in the clause.
+</p>
+         <p outputclass="List1">(b) The contracting officer shall insert the clause at 48 CFR 2452.239-71, Information Technology Virus Security, in solicitations and contracts under which the contractor will provide information technology hardware, software or data products.
+</p>
+      </conbody>
+   </concept>
+</dita>

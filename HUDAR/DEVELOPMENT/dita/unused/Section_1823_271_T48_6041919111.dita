@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1823_271_T48_6041919111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1823.271</ph> NASA Solicitation provision and contract clause.</title>
+      <conbody>
+         <p xtrc="P">Insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_223_76_T48_60423441160"
+                  href="Section_1852_223_76_T48_60423441160.dita#Section_1852_223_76_T48_60423441160">1852.223-76</xref>, Federal Automotive Statistical Tool Reporting, in solicitations and contracts requiring contractor operation of Government-owned or -leased motor vehicles, including, but not limited to, interagency fleet management system (IFMS) vehicles authorized in accordance with FAR 51.2.
+</p>
+      </conbody>
+   </concept>
+</dita>

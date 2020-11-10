@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
+<map>
+   <title>
+Title 48_ Federal Acquisition Regulations System</title>
+   <mapref navtitle="Title 48 - Federal Acquisition Regulations System--Volume 6"
+           href="Volume_6_T48_6.ditamap"/>
+</map>

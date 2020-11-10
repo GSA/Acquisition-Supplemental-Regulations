@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_217_77_T48_6018371148">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.217-77</ph> Option to extend the term of the contract fixed price.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1517_208_T48_601315113"
+                  href="Section_1517_208_T48_601315113.dita#Section_1517_208_T48_601315113">1517.208</xref>(h), insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Option To Extend the Term of the Contract Fixed Price (OCT 2000) 
+</p>
+                                    <p xtrc="P">The Government has the option to extend the term of this contract for __ additional period(s). If more than __ days remain in the contract period of performance, the Government, without prior written notification, may exercise this option by issuing a contract modification. To exercise this option within the last __ days of the period of performance, the Government must provide to the Contractor written notification prior to that last __ -day period. This preliminary notification does not commit the Government to exercising the option. Use of an option will result in the following contract modifications: 
+</p>
+                                    <p outputclass="List1">(a) The “Period of Performance” clause will be amended as follows to cover the Base and Option Periods: 
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Period 
+</entry>
+                                                <entry colname="2">Start date 
+</entry>
+                                                <entry colname="3">End date 
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(b) During the option period(s) the Contractor shall provide the services described below: 
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Period 
+</entry>
+                                                <entry colname="2">Attachment 
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(c) The “Consideration and Payment” clause will be amended to reflect increased fixed prices for each option period as follows: 
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Fixed price 
+</entry>
+                                                <entry colname="2">Option period 
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                 <p xtrc="HD3">(End of clause) 
+</p>
+      </conbody>
+   </concept>
+</dita>

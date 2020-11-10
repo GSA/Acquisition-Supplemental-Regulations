@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1842_7001_T48_6042235111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1842.7001</ph> Denied access to NASA facilities.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_242_72_T48_604234411111"
+                  href="Section_1852_242_72_T48_604234411111.dita#Section_1852_242_72_T48_604234411111">1852.242-72</xref>, Denied Access to NASA Facilities, in solicitations and contracts where contractor personnel will be working onsite at a NASA facility such as: NASA Headquarters and NASA Centers, including Component Facilities and Technical and Service Support Centers. For a list of NASA facilities see NPD 1000.3 “The NASA Organization”. The contracting officer shall not insert the clause where contractor personnel will be working onsite at the Jet Propulsion Laboratory including the Deep Space Network Communication Facilities (Goldstone, CA; Canberra, Australia; and Madrid, Spain).
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_242_78_T48_604234411113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.242-78</ph> Emergency Medical Services and Evacuation.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1842_7003_T48_6042235113"
+                  href="Section_1842_7003_T48_6042235113.dita#Section_1842_7003_T48_6042235113">1842.7003</xref>, insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Emergency Medical Services and Evacuation (APR 2001)
+</p>
+                                    <p xtrc="P">The Contractor shall, at its own expense, be responsible for making all arrangements for emergency medical services and evacuation, if required, for its employees while performing work under this contract outside the United States or in remote locations in the United States. If necessary to deal with certain emergencies, the Contractor may request the Government to provide medical or evacuation services. If the Government provides such services, the Contractor shall reimburse the Government for the costs incurred.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

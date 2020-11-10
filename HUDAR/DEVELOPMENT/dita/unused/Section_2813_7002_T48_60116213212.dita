@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2813_7002_T48_60116213212">
+      <title class="- topic/title ">
+         <ph props="autonumber">2813.7002</ph> Procedure.</title>
+      <conbody>
+         <p outputclass="List1">(a) Purchases utilizing the certified invoice procedure shall be effected only in accordance with FAR part 13 and this part 2813, subject to the following:
+</p>
+         <p outputclass="List2">(1) The amount of any one purchase does not exceed the micro-purchase threshold;
+</p>
+         <p outputclass="List2">(2) A purchase order is not required by either the supplier or the Government;
+</p>
+         <p outputclass="List2">(3) Appropriate invoices can be obtained from the supplier; and,
+</p>
+         <p outputclass="List2">(4) The items to be purchased shall be domestic source end products, except as provided in FAR subpart 25.1.
+</p>
+         <p outputclass="List1">(b) Use of the certified invoice procedures does not eliminate the requirements in FAR part 13 or this part 2813 that are applicable to purchases of this dollar threshold.
+</p>
+         <p outputclass="List1">(c) The chief of the contracting office, as defined in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2802_101_T48_6011603111"
+                  href="Section_2802_101_T48_6011603111.dita#Section_2802_101_T48_6011603111">2802.101</xref>(c), shall delegate the authority to use the certified invoice procedure. Each delegation must specify any limitations placed on the individual's use of these procedures, such as limits on the amount of each purchase, or limits on the commodities, or services which can be procured.
+</p>
+         <p outputclass="List1">(d) Each individual using this purchasing technique shall require the supplier to immediately submit properly prepared invoices which itemize property or services furnished. Upon receiving the invoice, the individual making the purchase shall annotate the invoice with the date of receipt, verify the arithmetic accuracy of the invoiced amount and verify on the invoice that the supplies and/or services have been received and accepted. If the invoice is correct, the individual making the purchase shall sign the invoice indicating acceptance and immediately forward it to the appropriate administrative office. The invoice shall be approved by the appropriate administrative office and forwarded to the Finance Office for payment within 5 workdays after receipt of the invoice, or acceptance of supplies or services, whichever is later. Before forwarding the invoice to Finance, the administrative office shall place the following statement on the invoice, along with the accounting and appropriation data:
+</p>
+                                    <p xtrc="P">I certify that these goods and/or services were received on ________ (date) an accepted on ________ (date). Oral purchase was authorized and no confirming order has been issued.
+</p>
+                                    <p xtrc="FP-DASH">Signature
+</p>
+                                    <p xtrc="FP-DASH">Date
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">Printed or Typed Name and Title</p>
+                                 </conbody>
+   </concept>
+</dita>

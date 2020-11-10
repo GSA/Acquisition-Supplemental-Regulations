@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2501_104_2_T48_6010562116">
+      <title class="- topic/title ">
+         <ph props="autonumber">2501.104-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p xtrc="P">The NSFAR uses the same numbering system and arrangement used in the FAR. Where the NSFAR implements the FAR it is numbered and captioned to correspond to the FAR. Where there is no corresponding material in the FAR, Parts 70 and up are used by the NSFAR. Where the subject matter in the FAR requires no implementation the NSFAR contains no corresponding part.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

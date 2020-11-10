@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1836_570_T48_6042130212">
+      <title class="- topic/title ">
+         <ph props="autonumber">1836.570</ph> NASA solicitation provisions and contract clause.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_236_71_T48_60423441199"
+                  href="Section_1852_236_71_T48_60423441199.dita#Section_1852_236_71_T48_60423441199">1852.236-71</xref>, Additive or Deductive Items, in invitations for bids for construction when it is desired to add or deduct bid items to meet available funding.
+</p>
+         <p outputclass="List1">(b) The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_236_72_T48_604234411100"
+                  href="Section_1852_236_72_T48_604234411100.dita#Section_1852_236_72_T48_604234411100">1852.236-72</xref>, Bids with Unit Prices, in invitations for bids for construction when the invitation contemplates unit prices of items.
+</p>
+         <p outputclass="List1">(c) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_236_73_T48_604234411101"
+                  href="Section_1852_236_73_T48_604234411101.dita#Section_1852_236_73_T48_604234411101">1852.236-73</xref>, Hurricane Plan, in solicitations and contracts for construction at sites that experience hurricanes.
+</p>
+         <p outputclass="List1">(d) The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_236_74_T48_604234411102"
+                  href="Section_1852_236_74_T48_604234411102.dita#Section_1852_236_74_T48_604234411102">1852.236-74</xref>, Magnitude of Requirement, in solicitations for construction. Insert the appropriate estimated dollar range in accordance with FAR 36.204.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2415_209_T48_6095014113">
+      <title class="- topic/title ">
+         <ph props="autonumber">2415.209</ph> Solicitation provisions and contract clauses.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)
+				</p>
+         <p outputclass="List2">(1) 
+			The Contracting Officer shall insert a provision substantially the same as the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_215_70_T48_6095537117"
+                  href="Section_2452_215_70_T48_6095537117.dita#Section_2452_215_70_T48_6095537117">2452.215-70</xref>, Proposal Content, in all solicitations for negotiated procurements expected to exceed the simplified acquisition limit. The provision may be used in simplified acquisitions when it is necessary to obtain business proposal information in making the award selection. If the proposed contract requires work on, or access to, HUD systems or applications (see the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_239_70_T48_60955371144"
+                  href="Section_2452_239_70_T48_60955371144.dita#Section_2452_239_70_T48_60955371144">2452.239-70</xref>), the provision shall be used with its Alternate I. When the Contracting Officer has determined that it is necessary to limit the size of the technical and management portion of offers submitted by offerors, the provision shall be used with its Alternate II.
+</p>
+         <p outputclass="List2">(2) The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_215_71_T48_6095537118"
+                  href="Section_2452_215_71_T48_6095537118.dita#Section_2452_215_71_T48_6095537118">2452.215-71</xref>, Relative Importance of Technical Evaluation Factors to Cost or Price, in solicitations for contracts to be awarded using the tradeoff selection process (see FAR 15.101-1) expected to exceed the simplified acquisition limit.
+</p>
+      </conbody>
+   </concept>
+</dita>

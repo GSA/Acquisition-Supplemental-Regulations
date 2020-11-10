@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_223_71_T48_60423441155">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.223-71</ph> Authorization for Radio Frequency Use.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1823_7101_T48_6041919411"
+                  href="Section_1823_7101_T48_6041919411.dita#Section_1823_7101_T48_6041919411">1823.7101</xref>, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Authorization for Radio Frequency Use (APR 2015)
+</p>
+                                    <p outputclass="List1">(a) The contractor or subcontractor shall obtain equipment authorization of use of radio frequencies required in support of this contract following the procedures in NPR 2570.1, NASA Radio Frequency (RF) Spectrum Management Manual.
+</p>
+                                    <p outputclass="List1">(b) For any experimental, developmental, or operational equipment for which the appropriate equipment frequency authorization has not been made, the Contractor or subcontractor shall provide the technical and operating characteristics of the proposed electromagnetic radiating device to the NASA Center Facility Spectrum Manager during the initial planning, experimental, or developmental phase of contractual performance.
+</p>
+                                    <p outputclass="List1">(c) This clause, including this paragraph (c), shall be included in all subcontracts that call for developing, producing, testing, or operating a device for which a radio frequency authorization is required.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

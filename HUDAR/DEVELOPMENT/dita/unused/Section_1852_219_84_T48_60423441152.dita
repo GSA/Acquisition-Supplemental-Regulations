@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_219_84_T48_60423441152">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.219-84</ph> Limitation of the principal investigator - STTR program.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1819_7302_T48_6041917612"
+                  href="Section_1819_7302_T48_6041917612.dita#Section_1819_7302_T48_6041917612">1819.7302</xref>(e), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Limitation of the Principal Investigator - STTR Program (OCT 2006)
+</p>
+                                    <p outputclass="List1">(a) The primary employment of the principal investigator (PI) identified in paragraph (b) of this clause is with the small business concern (SBC)/Contractor or the research institution (RI). Primary employment means that more than one-half of the principal investigator's time is spent in the employ of the SBC/Contractor or RI.
+</p>
+                                    <p outputclass="List1">(b) The PI is considered to be key personnel in the performance of this contract. The SBC/Contractor, whether or not the employer of the PI, shall exercise primary management direction and control over the PI and be overall responsible for the PI's performance under this contract. Deviations from these requirements must be approved in advance and in writing by the Contracting Officer and are not subject to a change in the firm-fixed price of the contract. The PI for this contract is (<i>insert name</i>).</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

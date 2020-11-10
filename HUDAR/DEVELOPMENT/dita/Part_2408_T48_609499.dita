@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2408_T48_609499">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2408</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2408_4_T48_6094991.dita#Subpart_2408_4_T48_6094991"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2408_404_T48_609499111.dita#Section_2408_404_T48_609499111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2408_405_6_T48_609499112.dita#Section_2408_405_6_T48_609499112"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2408_8_T48_6094992.dita#Subpart_2408_8_T48_6094992"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2408_802_70_T48_609499211.dita#Section_2408_802_70_T48_609499211"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

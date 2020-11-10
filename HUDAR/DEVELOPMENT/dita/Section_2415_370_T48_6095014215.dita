@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2415_370_T48_6095014215">
+      <title class="- topic/title ">
+         <ph props="autonumber">2415.370</ph> Solicitation provision.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_215_72_T48_6095537119"
+                  href="Section_2452_215_72_T48_6095537119.dita#Section_2452_215_72_T48_6095537119">2452.215-72</xref>, Evaluation of Small Business Participation, in solicitations for contracts that require the use of the FAR clause in 52.219-9, “Small Business Subcontracting Plan,” that will be awarded using the tradeoff source selection process (see FAR 15.101-1).
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1845_604_T48_6042238511">
+      <title class="- topic/title ">
+         <ph props="autonumber">1845.604</ph> Restrictions on purchase or retention of contractor inventory.</title>
+      <conbody>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			No contractor may sell contractor inventory to persons known by it to be NASA or DOD personnel who have been engaged in administering or terminating NASA contracts.
+</p>
+         <p props="Runin" outputclass="List1">(2)(i) The contractor's or subcontractor's authority to approve the sale, purchase, or retention of Government property on a contract which is excess to needs after Government reutilization screening at less than cost by a subcontractor, and the subcontractor's authority to sell, purchase, or retain such property at less than cost with the approval of the contractor or next higher-tier subcontractor does not include authority to approve - 
+</p>
+         <p outputclass="List3">
+				</p>
+         <p outputclass="List4">(A) 
+			A sale by a subcontractor to the contractor, the next higher-tier subcontractor, or their affiliates; or
+</p>
+         <p outputclass="List3">(B) A sale, purchase, or retention by a subcontractor affiliated with the contractor or next higher-tier subcontractor.
+</p>
+         <p outputclass="List2">(ii) Each excluded sale, purchase, or retention requires the written approval of the plant clearance officer.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

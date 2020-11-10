@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2831_205_32_T48_60116426212">
+      <title class="- topic/title ">
+         <ph props="autonumber">2831.205-32</ph> Precontract costs.</title>
+      <conbody>
+         <p outputclass="List1">(a) Precontract cost authorizations shall be used only on cost reimbursement contracts, contain no provisions for payment of fees, and be treated as advance agreements in accordance with the provisions of FAR 31.109 and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2831_109_T48_60116426112"
+                  href="Section_2831_109_T48_60116426112.dita#Section_2831_109_T48_60116426112">2831.109</xref>.</p>
+         <p outputclass="List1">(b) The following limitations apply to the execution of precontract cost authorizations.
+</p>
+         <p outputclass="List2">(1) Contracts which are estimated to be greater than the simplified acquisition threshold may contain a precontract cost authorization providing the authorization is for a period of 60 days or less and the dollar amount does not exceed the lesser of the simplified acquisition threshold or one third of the total estimated costs (including fee if any) of the contract.
+</p>
+         <p outputclass="List2">(2) the limitation expressed under paragraph (b) of this section may be increased in unusual circumstances as appropriate, with the written approval of the HCA, but in no event shall they exceed one-third of the total estimated costs (including fee if any) of the contract or be for periods of time which exceed 90 days.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

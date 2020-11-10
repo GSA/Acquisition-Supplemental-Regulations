@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_217_75_T48_6018371146">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.217-75</ph> Option to extend the effective period of the contract - time and materials or labor hour contract.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1517_208_T48_601315113"
+                  href="Section_1517_208_T48_601315113.dita#Section_1517_208_T48_601315113">1517.208</xref>(f), insert this clause in time and materials or labor hour type contracts when applicable. This clause will be modified to reflect the actual number of option periods for the acquisition. If only one option period is used, modify (c) accordingly.
+</p>
+                                    <p xtrc="HD1">Option To Extend the Effective Period of the Contract - Time and Materials or Labor Hour Contract (APR 1984)
+</p>
+                                    <p outputclass="List1">(a) The Government has the option to extend the effective period of this contract for __ additional period(s). If more than sixty (60) days remain in the contract effective period, the Government, without prior written notification, may exercise this option by issuing a contract modification. To unilaterally exercise this option within the last 60 days of the effective period, the Government must issue written notification of its intent to exercise the option prior to that last 60-day period. This preliminary notification does not commit the Government to exercising the option.
+</p>
+                                    <p outputclass="List1">(b) If the option(s) are exercised, the “Ceiling Price” clause will be modified to reflect a new and separate ceiling price of $____ for the first option period and a new and separate ceiling price of $____ for the second option period.
+</p>
+                                    <p outputclass="List1">(c) The “Effective Period of the Contract” clause will be modified to cover a base period from __________ to _________ and option periods from __________ to _________ and __________ to ___________.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

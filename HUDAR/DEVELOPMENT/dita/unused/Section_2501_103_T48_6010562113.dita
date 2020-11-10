@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2501_103_T48_6010562113">
+      <title class="- topic/title ">
+         <ph props="autonumber">2501.103</ph> Applicability.</title>
+      <conbody>
+         <p xtrc="P">Except where a deviation is specifically authorized in accordance with subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_2501_4_T48_60105622"
+                  href="Subpart_2501_4_T48_60105622.dita#Subpart_2501_4_T48_60105622">2501.4</xref> or otherwise authorized by law, the FAR and the NSFAR govern all NSF acquisitions.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2419_811_1_T48_60951174114">
+      <title class="- topic/title ">
+         <ph props="autonumber">2419.811-1</ph> Sole source.</title>
+      <conbody>
+         <p outputclass="List1">(e) If the award is to be made under the Partnership Agreement cited in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2419_800_T48_6095117411"
+                  href="Section_2419_800_T48_6095117411.dita#Section_2419_800_T48_6095117411">2419.800</xref>, the contracting officer shall prepare the instrument to be awarded to the 8(a) firm in accordance with the normal HUD procedures for non-8(a) contracts, except for the following:
+</p>
+         <p outputclass="List2">(1) The award form shall cite 41 U.S.C. 253(c)(5) and 15 U.S.C. 637(a) as the authority for use of other than full and open competition.
+</p>
+         <p outputclass="List2">(2) The contracting officer shall include appropriate contract clauses, as necessary, to reflect that the acquisition is an 8(a) contract awarded under the authority of the Partnership Agreement cited in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2419_800_T48_6095117411"
+                  href="Section_2419_800_T48_6095117411.dita#Section_2419_800_T48_6095117411">2419.800</xref>.</p>
+         <p outputclass="List2">(3) The contracting officer shall include SBA's requirement number on the contract unless the acquisition does not exceed the simplified acquisition threshold.
+</p>
+         <p outputclass="List2">(4) A single award document shall be used between HUD and the 8(a) contractor. As such, no signature on the part of the SBA is required; a single signature by the HUD contracting officer shall suffice. The 8(a) contractor's signature shall be placed on the award document as the prime contractor. The 8(a) contractor's name and address shall be placed in the “awarded to” or “contractor name” block on the appropriate forms.
+</p>
+      </conbody>
+   </concept>
+</dita>

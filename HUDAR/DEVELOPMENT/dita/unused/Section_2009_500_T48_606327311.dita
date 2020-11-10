@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2009_500_T48_606327311">
+      <title class="- topic/title ">
+         <ph props="autonumber">2009.500</ph> Scope of subpart.</title>
+      <conbody>
+         <p xtrc="P">In accordance with 42 U.S.C. 2210a., NRC acquisitions are processed in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2009_570_T48_606327312"
+                  href="Section_2009_570_T48_606327312.dita#Section_2009_570_T48_606327312">2009.570</xref>, which takes precedence over FAR 9.5 with respect to organizational conflicts of interest. Where non-conflicting guidance appears in FAR 9.5, that guidance must be followed.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

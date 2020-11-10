@@ -1,0 +1,33 @@
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.007.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.008.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.009.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.010.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.011.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+ [gen-list] [DOTX008W][WARN] File 'file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.012.gif' cannot be loaded, and no navigation title is specified for the table of contents.
+[image-metadata] Image file Graphics/er15ap19.007.gif not found
+[image-metadata] Image file Graphics/er15ap19.008.gif not found
+[image-metadata] Image file Graphics/er15ap19.009.gif not found
+[image-metadata] Image file Graphics/er15ap19.010.gif not found
+[image-metadata] Image file Graphics/er15ap19.011.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+[image-metadata] Image file Graphics/er15ap19.008.gif not found
+[image-metadata] Image file Graphics/er15ap19.009.gif not found
+[image-metadata] Image file Graphics/er15ap19.010.gif not found
+[image-metadata] Image file Graphics/er15ap19.011.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+[image-metadata] Image file Graphics/er15ap19.009.gif not found
+[image-metadata] Image file Graphics/er15ap19.010.gif not found
+[image-metadata] Image file Graphics/er15ap19.011.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+[image-metadata] Image file Graphics/er15ap19.010.gif not found
+[image-metadata] Image file Graphics/er15ap19.011.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+[image-metadata] Image file Graphics/er15ap19.011.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+[image-metadata] Image file Graphics/er15ap19.012.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.008.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.010.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.009.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.012.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.011.gif not found
+File file:/C:/Users/tomal/Desktop/Title48Volume6Chater24/dita/Graphics/er15ap19.007.gif not found

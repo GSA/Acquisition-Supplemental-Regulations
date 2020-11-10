@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1516_303_73_T48_601314115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1516.303-73</ph> Types of cost-sharing.</title>
+      <conbody>
+         <p outputclass="List1">(a) Cost-sharing may be accomplished in various forms or combinations. These include, but are not limited to: cash outlays, real property or interest therein, personal property or services, cost matching, or other in-kind contributions. 
+</p>
+         <p outputclass="List1">(b) In-kind contributions represent non-cash contributions provided by the performing contractor which would normally be a charge against the contract. While in-kind contributions are an acceptable method of cost-sharing, should the booked costs of property appear unrealistic, the fair market value of the property shall be determined pursuant to <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1516_303_74_T48_601314116"
+                  href="Section_1516_303_74_T48_601314116.dita#Section_1516_303_74_T48_601314116">1516.303-74</xref> of this chapter. 
+</p>
+         <p outputclass="List1">(c) In-kind contributions may be in the form of personal property (equipment or supplies) or services which are directly beneficial, specifically identifiable and necessary for the performance of the contract. In-kind contributions must meet all of the following criteria before acceptance. 
+</p>
+         <p outputclass="List2">(1) Be verifiable from the contractor's books and records;
+</p>
+         <p outputclass="List2">(2) Not be included as contributions under any other Federal contract;
+</p>
+         <p outputclass="List2">(3) Be necessary to accomplish project objectives;
+</p>
+         <p outputclass="List2">(4) Provide for types of charges that would otherwise be allowable under applicable Federal cost principles appropriate to the contractor's organization; and
+</p>
+         <p outputclass="List2">(5) Not be paid for by the Federal Government under any contract, agreement or grant.
+</p>
+      </conbody>
+   </concept>
+</dita>

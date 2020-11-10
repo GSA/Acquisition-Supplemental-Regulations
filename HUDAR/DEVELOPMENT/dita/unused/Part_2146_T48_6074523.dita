@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2146_T48_6074523">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2146</ph> - QUALITY ASSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2146_2_T48_60745231.dita#Subpart_2146_2_T48_60745231"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2146_201_T48_6074523111.dita#Section_2146_201_T48_6074523111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2146_270_T48_6074523112.dita#Section_2146_270_T48_6074523112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2146_270_1_T48_6074523113.dita#Section_2146_270_1_T48_6074523113"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

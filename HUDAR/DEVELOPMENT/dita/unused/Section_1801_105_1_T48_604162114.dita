@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1801_105_1_T48_604162114">
+      <title class="- topic/title ">
+         <ph props="autonumber">1801.105-1</ph> Publication and code arrangement.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(b)(i) The NFS is an integrated document that contains both acquisition regulations that require public comment and internal Agency guidance and procedures that do not require public comment. NASA personnel must comply with all regulatory and internal guidance and procedures contained in the NFS.
+</p>
+         <p outputclass="List2">(ii) NFS regulations that require public comment are issued as chapter 18 of title 48, CFR.
+</p>
+         <p outputclass="List2">(iii) The single official NASA-maintained version of the NFS is on the Internet (<i>https://www.hq.nasa.gov/office/procurement/regs/NFS.pdf</i>).
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1511_000_T48_601210011">
+      <title class="- topic/title ">
+         <ph props="autonumber">1511.000</ph> Scope of part.</title>
+      <conbody>
+         <p xtrc="P">This part implements FAR part 11 and provides policy and procedures for describing Agency needs. 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_215_81_T48_60423441118">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.215-81</ph> Proposal page limitations.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1815_209_70_T48_6041814117"
+                  href="Section_1815_209_70_T48_6041814117.dita#Section_1815_209_70_T48_6041814117">1815.209-70</xref>(d), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Proposal Page Limitations (APR 2015)
+</p>
+                                    <p outputclass="List1">(a) The following page limitations are established for each portion of the proposal submitted in response to this solicitation.
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Proposal section
+(List each volume or section)
+</entry>
+                                                <entry colname="2">Page limit
+(Specify limit)
+</entry>
+                                                <entry colname="3">[Proposal subsection]
+(List each subsection)
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left"> </entry>
+                                                <entry colname="3" align="left">(e.g. Offeror's Subcontracting Plan should not exceed 20 pages)</entry>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(b) A page is defined as one side of sheet, 8
+1/2″ × 11″, with at least one inch margins on all sides, using not smaller than 12 point type. Foldouts count as an equivalent number of 8
+1/2″ × 11″ pages. The metric standard format most closely approximating the described standard 8
+1/2″ × 11″ size may also be used. Other limitations/instructions identified as follows: (<i>fill-in,</i> if there are other limitations/instructions).
+</p>
+                                    <p outputclass="List1">(c) Identify any exclusions to the page limits that are excluded from the page counts specified in paragraph (a) of this provision (<i>e.g.</i> title pages, table of contents) as follows: (<i>fill-in</i>). In addition, the Cost section of your proposal is not page limited. However, this section is to be strictly limited to cost and price information. Information that can be construed as belonging in one of the other sections of the proposal will be so construed and counted against that section's page limitation.
+</p>
+                                    <p outputclass="List1">(d) If final proposal revisions are requested, separate page limitations will be specified in the Government's request for that submission.
+</p>
+                                    <p outputclass="List1">(e) Pages submitted in excess of the limitations specified in this provision will not be evaluated by the Government and will be returned to the offeror.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_670_4_T48_6042239415">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.670-4</ph> Multiple shipments.</title>
+      <conbody>
+         <p outputclass="List1">(a) If the “shipped to,” “marked for,” “shipped from,” “CQA,” and “acceptance” data are the same for more than one shipment made on the same day under the same contract in a single car, truck, or other vehicle, one MIRR shall be prepared to cover all such shipments.
+</p>
+         <p outputclass="List1">(b) If the volume of the shipments precludes the use of a single car, truck, or other vehicle, a separate MIRR shall be provided for each vehicle.
+</p>
+      </conbody>
+   </concept>
+</dita>

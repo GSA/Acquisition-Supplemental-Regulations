@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2452_233_70_T48_60955371135">
+      <title class="- topic/title ">
+         <ph props="autonumber">2452.233-70</ph> Review of contracting officer protest decisions.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2433_106_T48_6095227115"
+                  href="Section_2433_106_T48_6095227115.dita#Section_2433_106_T48_6095227115">2433.106</xref>, insert the following provision:
+</p>
+                                    <p xtrc="HD1">Review of Contracting Officer Protest Decisions (FEB 2006)
+</p>
+                                    <p outputclass="List1">(a) In accordance with FAR 33.103 and HUDAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2433_103_T48_6095227113"
+                  href="Section_2433_103_T48_6095227113.dita#Section_2433_103_T48_6095227113">2433.103</xref>, a protester may request an appeal of the Contracting Officer's decision concerning a protest initially made by the protester to the Contracting Officer. The protestor must submit a written request for an appeal to [<i>insert name of HCA and address</i>] not later than 10 days after the protestor's receipt of the Contracting Officer's decision (see FAR 33.101 for the definition of “days”).
+</p>
+                                    <p outputclass="List1">(b) The HCA shall make an independent review of the Contracting Officer's decision and provide the protester with the HCA's decision on the appeal.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

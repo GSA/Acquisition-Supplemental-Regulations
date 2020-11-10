@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_237_71_T48_604234411105">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.237-71</ph> Pension portability.</title>
+      <conbody>
+         <p xtrc="P">As prescribed at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1837_110_70_T48_6042131114"
+                  href="Section_1837_110_70_T48_6042131114.dita#Section_1837_110_70_T48_6042131114">1837.110-70</xref>(b), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Pension Portability (JAN 1997)
+</p>
+                                    <p outputclass="List1">(a) In order for pension costs attributable to employees assigned to this contract to be allowable costs under this contract, the plans covering such employees must:
+</p>
+                                    <p outputclass="List2">(1) Comply with all applicable Government laws and regulations;
+</p>
+                                    <p outputclass="List2">(2) Be a defined contribution plan, or a multiparty defined benefit plan operated under a collective bargaining agreement. In either case, the plan must be portable, i.e., the plan follows the employee, not the employer;
+</p>
+                                    <p outputclass="List2">(3) Provide for 100 percent employee vesting at the earlier of one year of continuous employee service or contract termination; and
+</p>
+                                    <p outputclass="List2">(4) Not be modified, terminated, or a new plan adopted without the prior written approval of the cognizant NASA Contracting Officer.
+</p>
+                                    <p outputclass="List1">(b) The Contractor shall include paragraph (a) of this clause in subcontracts for continuing services under a service contract if:
+</p>
+                                    <p outputclass="List2">(1) The prime contract requires pension portability;
+</p>
+                                    <p outputclass="List2">(2) The subcontracted labor dollars (excluding any burdens or profit/fee) exceed $2,500,000 and ten percent of the total prime contract labor dollars (excluding any burdens or profit/fee); and
+</p>
+                                    <p outputclass="List2">(3) Either of the following conditions exists:
+</p>
+                                    <p outputclass="List3">(i) There is a continuing need for the same or similar subcontract services for a minimum of five years (inclusive of options), and if the subcontractor changes, a high percentage of the predecessor subcontractor's employees are expected to remain with the program; or
+</p>
+                                    <p outputclass="List3">(ii) The employees under a predecessor subcontract were covered by a portable pension plan, a follow-on subcontract or a subcontract consolidating existing services is awarded, and the total subcontract period covered by the plan covers a minimum of five years (including both the predecessor and successor subcontracts).</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

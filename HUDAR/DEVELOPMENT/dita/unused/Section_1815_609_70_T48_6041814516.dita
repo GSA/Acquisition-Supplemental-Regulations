@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1815_609_70_T48_6041814516">
+      <title class="- topic/title ">
+         <ph props="autonumber">1815.609-70</ph> Limited use of proposals.</title>
+      <conbody>
+         <p xtrc="P">Unsolicited proposals shall be evaluated outside the Government only to the extent authorized by, and in accordance with, the procedures prescribed in, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1815_207_70_T48_6041814113"
+                  href="Section_1815_207_70_T48_6041814113.dita#Section_1815_207_70_T48_6041814113">1815.207-70</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

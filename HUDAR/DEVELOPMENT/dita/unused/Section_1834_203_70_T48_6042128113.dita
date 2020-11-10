@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1834_203_70_T48_6042128113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1834.203-70</ph> NASA solicitation provision and contract clause.</title>
+      <conbody>
+         <p xtrc="P">Except for firm-fixed price contracts and the contracts identified in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1834_201_T48_6042128111"
+                  href="Section_1834_201_T48_6042128111.dita#Section_1834_201_T48_6042128111">1834.201</xref>(c), the contracting officer shall insert - 
+</p>
+         <p outputclass="List1">(a) The provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_234_1_T48_60423441192"
+                  href="Section_1852_234_1_T48_60423441192.dita#Section_1852_234_1_T48_60423441192">1852.234-1</xref>, Notice of Earned Value Management System, in solicitations for contracts for - 
+</p>
+         <p outputclass="List2">(1) Development or production, including flight and ground support projects, and institutional projects (facility, IT investment, etc.), with a value exceeding $20M; and
+</p>
+         <p outputclass="List2">(2) Acquisitions of any value designated as major by the project manager in accordance with OMB Circular A-11; and
+</p>
+         <p outputclass="List1">(b) The clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_234_2_T48_60423441193"
+                  href="Section_1852_234_2_T48_60423441193.dita#Section_1852_234_2_T48_60423441193">1852.234-2</xref>, Earned Value Management System, in solicitations and contracts with a value exceeding $50M that include the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_234_1_T48_60423441192"
+                  href="Section_1852_234_1_T48_60423441192.dita#Section_1852_234_1_T48_60423441192">1852.234-1</xref>. The contracting officer shall use the clause with its Alternate I when the contract value is less than $50M.
+</p>
+      </conbody>
+   </concept>
+</dita>

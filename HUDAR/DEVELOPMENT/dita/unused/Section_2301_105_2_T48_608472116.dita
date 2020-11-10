@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2301_105_2_T48_608472116">
+      <title class="- topic/title ">
+         <ph props="autonumber">2301.105-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>General.</i> The SSAR conforms to the FAR with respect to divisional arrangements; i.e., subchapters, parts, subparts, sections, subsections, and paragraphs. 
+</p>
+         <p outputclass="List1">(b) <i>Numbering.</i> The FAR System of numbering permits the keying of the same or similar subject matter throughout Chapters 1 (FAR) and 23 (SSAR) of Title 48, CFR. However, SSA's system varies somewhat from that of the FAR numbering scheme, in the numbering to the left of the decimal point. Whereas the FAR only identifies the part number of 48 CFR to the left of the decimal point, our corresponding reference identifies the chapter as well. For example, the FAR paragraph corresponding to this SSAR paragraph is numbered 1.105-2(b) where “1” is the part number (may be one or two digits and is followed by a decimal point), “1” (to the right of the decimal point) is the subpart number, “05” (always two digits) is the section number, “2” is the subsection number (always hyphenated), and “(b)” is the paragraph reference. This SSAR reference is <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2301_105_2_T48_608472116"
+                  href="Section_2301_105_2_T48_608472116.dita#Section_2301_105_2_T48_608472116">2301.105-2</xref>(b) where the “23” is the chapter number assigned to SSA and the “01” represents the part number (part numbers will always be two digits for agencies implementing the FAR). The remaining numbers to the right of the decimal point are identical to and reflect the same divisions as in the FAR numbering scheme. 
+</p>
+         <p props="Runin" outputclass="List1">(c) <i>References and citations.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			Unless otherwise stated, references indicate parts, subparts, sections, subsections, etc., of this regulation, the SSAR. 
+</p>
+         <p outputclass="List2">(2) This regulation shall be referred to as the Social Security Acquisition Regulation (SSAR). Any reference may be cited as “SSAR” followed by the appropriate number. Within the SSAR, the number alone will be used. 
+</p>
+         <p outputclass="List2">(3) Citations of authority shall be incorporated where necessary. All FAR reference numbers shall be preceded by “FAR.” 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

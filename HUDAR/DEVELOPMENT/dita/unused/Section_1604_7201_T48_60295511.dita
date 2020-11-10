@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1604_7201_T48_60295511">
+      <title class="- topic/title ">
+         <ph props="autonumber">1604.7201</ph> FEHB Program Large Provider Agreements.</title>
+      <conbody>
+         <p xtrc="P">The following provisions apply to all experience-rated carriers participating in the FEHB Program:
+</p>
+         <p props="Runin" outputclass="List1">(a) <i>Notification and information requirements.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			All experience-rated carriers must provide notice to the contracting officer of their intent to enter into or to make a significant modification to a Large Provider Agreement. Significant modification means a 20% increase or more in the amount of the Large Provider Agreement:
+</p>
+         <p outputclass="List3">(i) Not less than 60 days before entering into any Large Provider Agreement; and
+</p>
+         <p outputclass="List3">(ii) Not less than 60 days before exercising renewals or other options, or making a significant modification.
+</p>
+         <p outputclass="List2">(2) The carrier's notification to the contracting officer must be in writing and must, at a minimum:
+</p>
+         <p outputclass="List3">(i) Describe the supplies and/or services the proposed provider agreement will require;
+</p>
+         <p outputclass="List3">(ii) Identify the proposed basis for reimbursement;
+</p>
+         <p outputclass="List3">(iii) Identify the proposed provider agreement, explain why the carrier selected the proposed provider, and, where applicable, what contracting method it used, including the kind of competition obtained;
+</p>
+         <p outputclass="List3">(iv) Describe the methodology the carrier used to compute the provider's profit; and, (v) Describe the provider risk provisions.
+</p>
+         <p outputclass="List2">(3) The contracting officer may request from the carrier any additional information on a proposed provider agreement and its terms and conditions prior to a Large Provider award and during the performance of the agreement.
+</p>
+         <p outputclass="List2">(4) Within 30 days of receiving the carrier's notification, the contracting officer will either give the carrier written comments or written notice that there will be no comments. If the contracting officer comments, the carrier must respond in writing within 10 calendar days and explain how it intends to address any concerns.
+</p>
+         <p outputclass="List2">(5) When computing the carrier's annual service charge, the contracting officer will consider how well the carrier complies with the provisions of this section, including the advance notification requirements, as an aspect of the carrier's performance factor.
+</p>
+         <p outputclass="List2">(6) The contracting officer's review of any Large Provider agreement, option, renewal, or modification will not constitute a determination of the acceptability of terms or conditions of any provider agreement or the allowability of any costs under the carrier's contract, nor will it relieve the carrier of any responsibility for performing the contract.
+</p>
+         <p outputclass="List1">(b) <i>Records and inspection.</i> The carrier must insert in all Large Provider Agreements the requirement that the provider will retain and make available to the Government all records relating to the agreement as follows:
+</p>
+         <p outputclass="List2">(1) Records that support the annual statement of operations - Retain for 6 years after the agreement term ends.
+</p>
+         <p outputclass="List2">(2) Enrollee records, if applicable - Retain for 6 years after the agreement term ends.
+</p>
+         <p outputclass="List1">(c) Large Provider Agreements based on cost analysis are subject to the provisions of FAR 52.215-2, “Audit and Records-Negotiation.”
+</p>
+         <p outputclass="List1">(d) Large Provider Agreements based on price analysis are subject to the provisions of 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1646_301_T48_6021422211"
+                  href="Section_1646_301_T48_6021422211.dita#Section_1646_301_T48_6021422211">1646.301</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1652_246_70_T48_60215241121"
+                  href="Section_1652_246_70_T48_60215241121.dita#Section_1652_246_70_T48_60215241121">1652.246-70</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

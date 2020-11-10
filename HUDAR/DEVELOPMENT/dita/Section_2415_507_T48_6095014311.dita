@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2415_507_T48_6095014311">
+      <title class="- topic/title ">
+         <ph props="autonumber">2415.507</ph> Protests against award.</title>
+      <conbody>
+         <p xtrc="P">Protests against awards of negotiated procurements shall be processed in accordance with FAR subpart 33.1 and HUDAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_2433_1_T48_60952271"
+                  href="Subpart_2433_1_T48_60952271.dita#Subpart_2433_1_T48_60952271">2433.1</xref>
+         </p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1602_170_14_T48_602931115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1602.170-14</ph> FEHB-specific medical loss ratio threshold calculation.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Medical Loss Ratio</i> (MLR) means the ratio of plan incurred claims, including the carrier's expenditures for activities that improve health care quality, to total premium revenue determined by OPM, as defined by the Department of Health and Human Services in 45 CFR part 158.
+</p>
+         <p outputclass="List1">(b) The FEHB-specific MLR will be calculated on an annual basis. This FEHB-specific MLR will be measured against an FEHB-specific MLR threshold to be put forth by OPM no later than 12 calendar months before the beginning of plan years 2014 and beyond. OPM will publish the FEHB-specific MLR threshold no later than 8 months before the beginning of plan year 2013.
+</p>
+         <p outputclass="List1">(c) In place of the credibility adjustment at 45 CFR 158.230-158.232, OPM will set a separate credibility adjustment to account for the special circumstances of small FEHB plans in annual rate instructions to carriers.
+</p>
+      </conbody>
+   </concept>
+</dita>
