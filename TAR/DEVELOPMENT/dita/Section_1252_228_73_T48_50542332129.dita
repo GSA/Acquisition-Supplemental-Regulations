@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1252_228_73_T48_50542332129">
+      <title class="- topic/title ">
+         <ph props="autonumber">1252.228-73</ph> Notification of Miller Act payment bond protection.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in guidance at (TAR) 48 CFR 1228.106-470, insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Notification of Miller Act Payment Bond Protection (APR 2005)
+</p>
+                                    <p xtrc="P">This notice clause shall be inserted by first tier subcontractors in all their subcontracts and shall contain information pertaining to the surety that provided the payment bond under the prime contract.
+</p>
+                                    <p outputclass="List1">(a) The prime contract is subject to the Miller Act, (40 U.S.C. 3131 et al), under which the prime contractor has obtained a payment bond. This payment bond may provide certain unpaid employees, suppliers, and subcontractors a right to sue the bonding surety under the Miller Act for amounts owed for work performed and materials delivery under the prime contract.
+</p>
+                                    <p outputclass="List1">(b) Persons believing that they have legal remedies under the Miller Act should consult their legal advisor regarding the proper steps to take to obtain these remedies. This notice clause does not provide any party any rights against the Federal Government, or create any relationship, contractual or otherwise, between the Federal Government and any private party.
+</p>
+                                    <p outputclass="List1">(c) The surety which has provided the payment bond under the prime contract is: 
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Name) 
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Street Address) 
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(City, State, Zip Code) 
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Contact &amp; Tel. No.)</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

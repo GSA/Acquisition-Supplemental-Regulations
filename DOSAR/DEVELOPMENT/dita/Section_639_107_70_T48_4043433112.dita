@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_639_107_70_T48_4043433112">
+      <title class="- topic/title ">
+         <ph props="autonumber">639.107-70</ph> DOSAR solicitation provision and contract clause.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert the provision at 652.239-70, Information Technology Security Plan and Accreditation, in solicitations that include information technology resources or services in which the contractor will have physical or electronic access to Department information that directly supports the mission of the Department.
+</p>
+         <p outputclass="List1">(b) The contracting officer shall insert the clause at 652.239-71, Security Requirements for Unclassified Information Technology Resources, in solicitations and contracts containing the provision at 652.239-70. The provision and clause shall not be inserted in solicitations and contracts for personal services with individuals.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

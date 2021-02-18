@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1205_T48_505366">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1205</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1205_1_T48_5053661.dita#Subpart_1205_1_T48_5053661"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1205_101_T48_505366111.dita#Section_1205_101_T48_505366111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1205_4_T48_5053662.dita#Subpart_1205_4_T48_5053662"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1205_402_T48_505366211.dita#Section_1205_402_T48_505366211"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

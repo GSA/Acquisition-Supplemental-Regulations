@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1404_7002_T48_507525412">
+      <title class="- topic/title ">
+         <ph props="autonumber">1404.7002</ph> Policy.</title>
+      <conbody>
+         <p xtrc="P">The CO shall direct the contractor, in the technical instructions, to acknowledge Federal sponsorship in the final report or publication by placing the following statement on the title page:
+</p>
+         <p xtrc="P">“This publication was funded by U.S. Department of the Interior, (Name of Bureau/Office), Washington, DC, under contract number_______.”
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

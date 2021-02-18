@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_904_404_T48_503185113">
+      <title class="- topic/title ">
+         <ph props="autonumber">904.404</ph> Solicitation provision and contract clause.</title>
+      <conbody>
+         <p outputclass="List1">(d) The security clauses to be used in DOE contracts are found at 952.204. They are:
+</p>
+         <p outputclass="List2">(1) <i>Security, 952.204-2.</i> This clause is required in contracts and subcontracts, the performance of which involves or is likely to involve classified information, access to special nuclear materials or the provision of protective services. DOE utilizes the National Industrial Security Program but DOE's security authority is derived from the Atomic Energy Act which contains specific language not found in other agencies' authorities. For this reason, DOE contracts must contain the clause at 952.204-2 rather than the clause at 48 CFR 52.204-2. 
+</p>
+         <p outputclass="List2">(2) <i>Classification/Declassification, 952.204-70.</i> This clause is to be used in all contracts which involve classified information.
+</p>
+         <p outputclass="List2">(3) <i>Sensitive foreign nation controls, 952.204-71.</i> This clause is required in unclassified research contracts which may involve making unclassified information about nuclear technology available to certain sensitive foreign nations. The contractor shall be provided at the time of award the listing of nations referenced in DOE Order 142.3 or its successor. (The attachment referred to in the clause shall set forth the applicable requirements of the DOE regulations on dissemination of unclassified published and unpublished technical information to foreign nations.)
+</p>
+         <p outputclass="List2">(4) <i>Disclosure of information, 952.204-72.</i> This clause may be used in place of the clauses entitled “Security” and “Classification” in contracts with educational institutions for research work performed in their own institute facilities that are not likely to produce classified information.
+</p>
+         <p outputclass="List2">(5) <i>Facility Clearance, 952.204-73.</i> This solicitation provision should be used in solicitations expected to result in contracts and subcontracts that require employees to possess access authorizations.
+</p>
+         <p outputclass="List2">(6) Except as prescribed in 970.1504-5(b), the contracting officer shall insert the clause at 952.204-76, Conditional Payment of Fee or Profit - Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health, in all contracts that contain the clause at 952.204-2, Security, but that do not contain the clause at 952.250-70, Nuclear Hazards Indemnity Agreement.
+</p>
+         <p outputclass="List2">(7) <i>Computer Security, 952.204-77.</i> This clause is required in contracts in which the contractor may have access to computers owned, leased or operated on behalf of the Department of Energy.
+</p>
+      </conbody>
+   </concept>
+</dita>

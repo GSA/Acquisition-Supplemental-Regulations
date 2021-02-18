@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1408_T48_507539">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1408</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1408_1_T48_5075391.dita#Subpart_1408_1_T48_5075391"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1408_102_T48_507539111.dita#Section_1408_102_T48_507539111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1408_8_T48_5075392.dita#Subpart_1408_8_T48_5075392"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1408_802_T48_507539211.dita#Section_1408_802_T48_507539211"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

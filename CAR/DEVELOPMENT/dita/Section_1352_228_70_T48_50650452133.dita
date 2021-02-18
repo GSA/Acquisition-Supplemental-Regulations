@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_228_70_T48_50650452133">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.228-70</ph> Insurance coverage.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1328.310-70(a), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Insurance Coverage (APR 2010)
+</p>
+                                    <p outputclass="List1">(a) <i>Workers Compensation and Employer's Liability.</i> The contractor is required to comply with applicable Federal and State workers' compensation and occupational disease statutes. If occupational diseases are not compensable under those statutes, they shall be covered under the employer's liability section of the insurance policy, except when contract operations are so commingled with a contractor's commercial operations that it would not be practical to require this coverage. Employer's liability coverage of at least $100,000 shall be required, except in states with exclusive or monopolistic funds that do not permit workers' compensation to be written by private carriers.
+</p>
+                                    <p props="Runin" outputclass="List1">(b) <i>General liability.</i> 
+				</p><p outputclass="List2">(1) 
+			The contractor shall have bodily injury liability insurance coverage written on the comprehensive form of policy of at least $500,000 per occurrence.
+</p>
+                                    <p outputclass="List2">(2) When special circumstances apply in accordance with FAR 28.307-2(b), Property Damage Liability Insurance shall be required in the amount of $____ [insert zero unless special circumstances apply, if applicable, insert dollar amount.].
+</p>
+                                    <p outputclass="List1">(c) <i>Automobile liability.</i> The contractor shall have automobile liability insurance written on the comprehensive form of policy. The policy shall provide for bodily injury and property damage liability covering the operation of all automobiles used in connection with performing the contract. Policies covering automobiles operated in the United States shall provide coverage of at least $200,000 per person and $500,000 per occurrence for bodily injury and $20,000 per occurrence for property damage.
+</p>
+                                    <p outputclass="List1">(d) <i>Aircraft public and passenger liability.</i> When aircraft are used in connection with performing the contract, the contractor shall have aircraft public and passenger liability insurance. Coverage shall be at least $200,000 per person and $500,000 per occurrence for bodily injury, other than passenger liability, and $200,000 per occurrence for property damage. Coverage for passenger liability bodily injury shall be at least $200,000 multiplied by the number of seats or passengers, whichever is greater.
+</p>
+                                    <p outputclass="List1">(e) <i>Vessel liability.</i> When contract performance involves use of vessels, the Contractor shall provide, vessel collision liability and protection and indemnity liability insurance as determined by the Government.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

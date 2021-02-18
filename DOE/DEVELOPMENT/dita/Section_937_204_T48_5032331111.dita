@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_937_204_T48_5032331111">
+      <title class="- topic/title ">
+         <ph props="autonumber">937.204</ph> Guidelines for determining availability of personnel.</title>
+      <conbody>
+         <p outputclass="List1">(a) The determination, that there is sufficient DOE personnel with the requisite training and capabilities for each evaluation or analysis of proposals, shall be determined in accordance with 915.207-70(f)(2)(i).
+</p>
+         <p outputclass="List1">(b) If it is determined that there is no such DOE personnel available, then other Federal agencies may have the required personnel with the requisite training and capabilities for the evaluation or the analysis of proposals. The determination, to use employees of other Federal agencies for the evaluation or analysis of proposals, shall be in accordance with 915.207-70(f)(2)(ii).
+</p>
+         <p outputclass="List1">(d) The determination, to employ non-Federal evaluators or advisors, shall be determined in accordance with 915.207-70(f)(3).
+</p>
+         <p outputclass="List1">(e) The determination that covered personnel are unavailable for a class of proposals, necessitating employment of non-Federal evaluators or advisors, shall be determined in accordance with 915.207-70(f)(3).
+</p>
+      </conbody>
+   </concept>
+</dita>

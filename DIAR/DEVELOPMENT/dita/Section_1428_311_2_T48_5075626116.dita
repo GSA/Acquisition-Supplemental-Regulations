@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1428_311_2_T48_5075626116">
+      <title class="- topic/title ">
+         <ph props="autonumber">1428.311-2</ph> Agency solicitation provisions and contract clauses.</title>
+      <conbody>
+         <p xtrc="P">The following DOI clauses shall be used as prescribed:
+</p>
+         <p outputclass="List1">(a) The CO shall insert the clause at 1452.228-71, Aircraft and General Public Liability Insurance - Department of the Interior, in solicitations and contracts when a fixed-price contract for operation of aircraft is anticipated and where the Government is using a contractor-furnished pilot.
+</p>
+         <p outputclass="List1">(b) The CO shall insert the clause at 1452.228-72, Liability for Loss or Damage - Department of the Interior, in solicitations and contracts when a fixed-price contract for use of aircraft is anticipated and where the Government does not have a property interest and is using a Government-furnished pilot.
+</p>
+         <p outputclass="List1">(c) The CO shall insert the clause at 1452.228-73, Liability for Loss or Damage (Property Interest) - Department of the Interior, in solicitations and contracts when a fixed-price contract for use of aircraft is anticipated and where the Government has a property interest in the aircraft and is using a Government-furnished pilot (<i>e.g.,</i> a lease with purchase option).
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

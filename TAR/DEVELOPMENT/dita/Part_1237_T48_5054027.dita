@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1237_T48_5054027">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1237</ph> - SERVICE CONTRACTING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1237_1_T48_50540271.dita#Subpart_1237_1_T48_50540271"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_110_T48_5054027111.dita#Section_1237_110_T48_5054027111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1237_70_T48_50540272.dita#Subpart_1237_70_T48_50540272"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7000_T48_5054027211.dita#Section_1237_7000_T48_5054027211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7001_T48_5054027212.dita#Section_1237_7001_T48_5054027212"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7002_T48_5054027213.dita#Section_1237_7002_T48_5054027213"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1237_7003_T48_5054027214.dita#Section_1237_7003_T48_5054027214"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

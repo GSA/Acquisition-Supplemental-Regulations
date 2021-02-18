@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1436_270_2_T48_5075734114">
+      <title class="- topic/title ">
+         <ph props="autonumber">1436.270-2</ph> Part I - The Schedule.</title>
+      <conbody>
+         <p xtrc="P">The CO shall prepare the Schedule as follows:
+</p>
+         <p outputclass="List1">(a) <i>Section A, Solicitation/contract form.</i> Use SF 1442, Solicitation, Offer, and Award (Construction, Alteration or Repair), as prescribed in FAR 36.701(a).
+</p>
+         <p outputclass="List1">(b) <i>Section B, Bid schedule.</i> Bid schedule.
+</p>
+         <p outputclass="List1">(c) <i>Section C, Specifications/Drawings.</i> Include specifications and drawings (<i>See</i> FAR Part 11) or reference other location in the uniform contract format (<i>e.g.</i> Section J, attachment ___).
+</p>
+         <p outputclass="List1">(d) <i>Section D, Packaging and Marking.</i> Not applicable.
+</p>
+         <p outputclass="List1">(e) <i>Section E, Inspection and acceptance.</i> Include inspection, acceptance, quality assurance, and reliability requirements (<i>See</i> FAR Part 46).
+</p>
+         <p outputclass="List1">(f) <i>Section F, Deliveries or performance.</i> Include Suspension of Work, Liquidated Damages, Commencement, Prosecution, and Completion of Work, Variation in Quantity clauses (<i>See</i> FAR Part 12).
+</p>
+         <p outputclass="List1">(g) <i>Section G, Contract administration data.</i> Include Contracting Officer's Representative/Technical Representative identification, and any required administration information (<i>e.g.,</i> accounting and appropriation data).
+</p>
+         <p outputclass="List1">(h) <i>Section H, Special contract requirements.</i> Include any special contract requirements which are not included in other sections of the uniform contract format.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_925_7003_T48_5032122614">
+      <title class="- topic/title ">
+         <ph props="autonumber">925.7003</ph> Requirements.</title>
+      <conbody>
+         <p outputclass="List1">(a) For the acquisition of nuclear hot cell services under the conditions in paragraph (b) of this section, the selection official in evaluating competitive offers for selection purposes only shall - 
+</p>
+         <p outputclass="List2">(1) Consider neither costs related to the decommissioning of nuclear waste facilities nor costs related to the storage and disposal of nuclear waste; or
+</p>
+         <p outputclass="List2">(2) Add these costs to offers of foreign companies.
+</p>
+         <p outputclass="List1">(b) The requirements of this section apply under the following circumstances - 
+</p>
+         <p outputclass="List2">(1) One or more of the offers is submitted by a United States company and includes costs related to the decommissioning of nuclear facilities and costs related to the storage and disposal of nuclear waste because it is subject to such costs; and
+</p>
+         <p outputclass="List2">(2) One or more of the offers is submitted by a foreign company and does not include these types of costs. (A foreign company might not be subject to such costs or might not have to include these types of costs in its offer if the firm is subsidized in decommissioning activity or storage and disposal of nuclear waste, or a foreign government is performing the activities below the actual cost of the activity.)
+</p>
+      </conbody>
+   </concept>
+</dita>

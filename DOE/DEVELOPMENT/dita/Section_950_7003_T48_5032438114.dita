@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_950_7003_T48_5032438114">
+      <title class="- topic/title ">
+         <ph props="autonumber">950.7003</ph> Nuclear hazards indemnity.</title>
+      <conbody>
+         <p outputclass="List1">(a) Section 170d. of the Atomic Energy Act, as amended, requires DOE “to enter into agreements of indemnification with any person who may conduct activities under a contract with DOE that involve the risk of public liability * * *.” However, DOE contractors whose activities are already subject to indemnification by the Nuclear Regulatory Commission are not eligible for such statutory indemnity. See 950.7006 below.
+</p>
+         <p outputclass="List1">(b) The Heads of Contracting Activities shall assure that contracts subject to this requirement contain the appropriate nuclear hazards indemnity provisions.
+</p>
+      </conbody>
+   </concept>
+</dita>

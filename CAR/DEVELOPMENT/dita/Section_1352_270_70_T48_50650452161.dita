@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_270_70_T48_50650452161">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.270-70</ph> Period of performance.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1370.101, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Period of Performance (APR 2010)
+</p>
+                                    <p outputclass="List1">(a) The base period of performance of this contract is from ____ through ____. If an option is exercised, the period of performance shall be extended through the end of that option period.
+</p>
+                                    <p outputclass="List1">(b) The option periods that may be exercised are as follows:
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Period 
+</entry>
+                                                <entry colname="2">Start date 
+</entry>
+                                                <entry colname="3">End date
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">Option I</entry>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">Option II</entry>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">Option III</entry>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">Option IV</entry>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(c) The notice requirements for unilateral exercise of option periods are set out in FAR 52.217-9.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

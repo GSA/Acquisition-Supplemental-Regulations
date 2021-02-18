@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_216_76_T48_50650452127">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.216-76</ph> Placement of orders.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1316.506(b), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Placement of Orders (APR 2010)
+</p>
+                                    <p outputclass="List1">(a) The contractor shall provide goods and/or services under this contract only as directed in orders issued by authorized individuals. In accordance with FAR 16.505, each order will include:
+</p>
+                                    <p outputclass="List2">(1) Date of order;
+</p>
+                                    <p outputclass="List2">(2) Contract number and order number;
+</p>
+                                    <p outputclass="List2">(3) Item number and description, quantity, and unit price or estimated cost or fee;
+</p>
+                                    <p outputclass="List2">(4) Delivery or performance date;
+</p>
+                                    <p outputclass="List2">(5) Place of delivery or performance (including consignee);
+</p>
+                                    <p outputclass="List2">(6) Packaging, packing, and shipping instructions, if any;
+</p>
+                                    <p outputclass="List2">(7) Accounting and appropriation data;
+</p>
+                                    <p outputclass="List2">(8) Method of payment and payment office, if not specified in the contract;
+</p>
+                                    <p outputclass="List2">(9) Any other pertinent information.
+</p>
+                                    <p outputclass="List1">(b) In accordance with FAR 52.216-18, <i>Ordering,</i> the following individuals (or activities) are authorized to place orders against this contract:
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p outputclass="List1">(c) If multiple awards have been made, the contact information for the DOC task and delivery order ombudsman is ____.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

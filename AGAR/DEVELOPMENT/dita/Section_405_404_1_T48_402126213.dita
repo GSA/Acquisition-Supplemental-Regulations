@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_405_404_1_T48_402126213">
+      <title class="- topic/title ">
+         <ph props="autonumber">405.404-1</ph> Release procedures.</title>
+      <conbody>
+         <p outputclass="List1">(a) HCA's shall establish written procedures to control the release of long-range acquisition estimates, as authorized under FAR 5.404-1.
+</p>
+         <p outputclass="List1">(b) Classified information shall not be released without the approval of the Information Security Staff, Personnel and Document Security Division, Office of Procurement and Property Management. Departmental Manuals and Regulations (3400 series) contain guidance on classified information.
+</p>
+      </conbody>
+   </concept>
+</dita>

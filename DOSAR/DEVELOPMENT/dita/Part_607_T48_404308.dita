@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_607_T48_404308">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 607</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_102_T48_404308011.dita#Section_607_102_T48_404308011"/>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_103_T48_404308012.dita#Section_607_103_T48_404308012"/>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_105_T48_404308013.dita#Section_607_105_T48_404308013"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_607_5_T48_4043081.dita#Subpart_607_5_T48_4043081"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_607_503_T48_404308111.dita#Section_607_503_T48_404308111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

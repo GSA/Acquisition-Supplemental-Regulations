@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_452_219_70_T48_40218511118">
+      <title class="- topic/title ">
+         <ph props="autonumber">452.219-70</ph> Size Standard and NAICS Code Information.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 419.508, insert the following provision:
+</p>
+                                    <p xtrc="HD1">Size Standard and NAICS Code Information (SEP 2001)
+</p>
+                                    <p xtrc="P">The North American Industrial Classification System Code(s) and business size standard(s) describing the products and/or services to be acquired under this solicitation are listed below:
+</p>
+                                    <p xtrc="FP">Contract line item(s): ___* NAICS Code ___* Size Standard ___*</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+         <p xtrc="P">* <i>Contracting Officer shall insert the appropriate data for each contract line item in the solicitation. The data entry line may be duplicated as required to describe all of the contract line items or sub-items.</i>
+                                 </p>
+      </conbody>
+   </concept>
+</dita>

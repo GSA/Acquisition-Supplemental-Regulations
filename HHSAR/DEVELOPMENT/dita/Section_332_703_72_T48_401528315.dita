@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_332_703_72_T48_401528315">
+      <title class="- topic/title ">
+         <ph props="autonumber">332.703-72</ph> Incremental Funding Table.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert substantially the following language in Section B: Supplies or Services and Prices or Costs, Table 1, in all cost-reimbursement contracts for severable services using incremental funding. The language requires the contracting officer to:
+</p>
+         <p outputclass="List2">(1) Insert the initial funding obligated by the award;
+</p>
+         <p outputclass="List2">(2) Identify the increment of performance covered by the funding provided; and
+</p>
+         <p outputclass="List2">(3) Specify the start and end dates for each increment of performance, as required by the “Limitation of Funds” clause at FAR 52.232-22.
+</p>
+         <p outputclass="List1">(b) Modification of the language is permitted to fit specific circumstances of the contract, including but not limited to language necessary to reflect the specific type of cost reimbursement contract awarded, but the language may not be omitted completely.
+</p>
+         <p xtrc="HD3">Table 1 - B. __Estimated Cost - Incrementally Funded Contract
+</p>
+         <p outputclass="List1">(a) The total estimated cost to the Government for full performance of this contract, including all allowable direct and indirect costs, is $__ [<i>insert full amount</i>].
+</p>
+         <p outputclass="List1">(b) The following represents the schedule* by which the Government expects to allot funds to this contract:
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="6" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <colspec colnum="5" colname="5" colsep="0"/>
+                  <colspec colnum="6" colname="6" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">CLIN,
+task number, or
+description
+</entry>
+                                             <entry colname="2">Start date of
+increment of
+performance
+</entry>
+                                             <entry colname="3">End date of
+increment of
+performance
+</entry>
+                                             <entry colname="4">Estimated cost ($)
+</entry>
+                                             <entry colname="5">Fee ($)
+(as appropriate)
+</entry>
+                                             <entry colname="6">Estimated cost
+plus fee
+($) (as appropriate)
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left"/>
+                                             <entry colname="5" align="left"/>
+                                             <entry colname="6" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left"/>
+                                             <entry colname="5" align="left"/>
+                                             <entry colname="6" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left"/>
+                                             <entry colname="5" align="left"/>
+                                             <entry colname="6" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left"/>
+                                             <entry colname="5" align="left"/>
+                                             <entry colname="6" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left"/>
+                                             <entry colname="5" align="left"/>
+                                             <entry colname="6" align="left"/>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left"> </entry>
+                                             <entry colname="2" align="left"/>
+                                             <entry colname="3" align="left"/>
+                                             <entry colname="4" align="left">[Total]</entry>
+                                             <entry colname="5" align="left">[Total]</entry>
+                                             <entry colname="6" align="left">[Total]</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p xtrc="P">* To be inserted after negotiation
+</p>
+         <p outputclass="List1">(c) Total funds currently obligated and available for payment under this contract are $__ [<i>insert amount funded to date</i>].
+</p>
+         <p outputclass="List1">(d) The contracting officer may issue unilateral modifications to obligate additional funds to the contract and make related changes to paragraphs (b) and/or (c) above.
+</p>
+         <p outputclass="List1">(e) Until this contract is fully funded, the requirements of the clause at FAR 52.232-22, <i>Limitation of Funds,</i> shall govern. Once the contract is fully funded, the requirements of the clause at FAR 52.232-20, <i>Limitation of Cost,</i> govern.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_402_T48_402113">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 402</ph> - DEFINITIONS OF WORDS AND TERMS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_402_000_T48_402113011.dita#Section_402_000_T48_402113011"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_402_1_T48_4021131.dita#Subpart_402_1_T48_4021131"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_402_101_T48_402113111.dita#Section_402_101_T48_402113111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

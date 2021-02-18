@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_401_170_T48_402112119">
+      <title class="- topic/title ">
+         <ph props="autonumber">401.170</ph> Electronic access to regulatory information.</title>
+      <conbody>
+         <p xtrc="P">The USDA Departmental Administration Procurement Homepage provides access to the AGAR, AGAR amendments (circulars), AGAR Advisories, and other USDA procurement policy and guidance in electronic form. The Internet address for the Procurement Homepage is URL <i>http://www.usda.gov/procurement/.</i>
+                                 </p>
+      </conbody>
+   </concept>
+</dita>

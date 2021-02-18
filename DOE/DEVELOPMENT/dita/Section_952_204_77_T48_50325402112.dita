@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_952_204_77_T48_50325402112">
+      <title class="- topic/title ">
+         <ph props="autonumber">952.204-77</ph> Computer security.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 904.404(d)(7), the following clause shall be included:
+</p>
+                                    <p xtrc="HD1">Computer Security (AUG 2006) 
+</p>
+                                    <p props="Runin" outputclass="List1">(a) <i>Definitions.</i> 
+				</p><p outputclass="List2">(1) 
+			<i>Computer</i> means desktop computers, portable computers, computer networks (including the DOE Network and local area networks at or controlled by DOE organizations), network devices, automated information systems, and or other related computer equipment owned by, leased, or operated on behalf of the DOE.
+</p>
+                                    <p outputclass="List2">(2) <i>Individual</i> means a DOE Contractor or subcontractor employee, or any other person who has been granted access to a DOE computer or to information on a DOE computer, and does not include a member of the public who sends an e-mail message to a DOE computer or who obtains information available to the public on DOE Web sites.
+</p>
+                                    <p outputclass="List1">(b) <i>Access to DOE computers.</i> A Contractor shall not allow an individual to have access to information on a DOE computer unless - 
+</p>
+                                    <p outputclass="List2">(1) The individual has acknowledged in writing that the individual has no expectation of privacy in the use of a DOE computer; and
+</p>
+                                    <p outputclass="List2">(2) The individual has consented in writing to permit access by an authorized investigative agency to any DOE computer used during the period of that individual's access to information on a DOE computer, and for a period of three years thereafter.
+</p>
+                                    <p outputclass="List1">(c) <i>No expectation of privacy.</i> Notwithstanding any other provision of law (including any provision of law enacted by the Electronic Communications Privacy Act of 1986), no individual using a DOE computer shall have any expectation of privacy in the use of that computer.
+</p>
+                                    <p outputclass="List1">(d) <i>Written records.</i> The Contractor is responsible for maintaining written records for itself and subcontractors demonstrating compliance with the provisions of paragraph (b) of this section. The Contractor agrees to provide access to these records to the DOE, or its authorized agents, upon request.
+</p>
+                                    <p outputclass="List1">(e) <i>Subcontracts.</i> The Contractor shall insert this clause, including this paragraph (e), in subcontracts under this contract that may provide access to computers owned, leased or operated on behalf of the DOE.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
