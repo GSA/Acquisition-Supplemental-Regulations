@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1301_303_T48_506432212">
+      <title class="- topic/title ">
+         <ph props="autonumber">1301.303</ph> Publication and codification.</title>
+      <conbody>
+         <p outputclass="List1">(a) The CAR parallels the FAR in format, arrangement and numbering system. Coverage within the CAR is identified by the prefix “13” or “130” followed by the complete FAR citation to the subsection level (<i>e.g.,</i> CAR coverage of FAR 1.602-1 is cited as 1301.602-1).
+</p>
+         <p outputclass="List1">(b) Supplementary material without a FAR counterpart will be codified using 70 and up as appropriate for the part, subpart, section, or subsection number (<i>e.g.,</i> part 1370, subpart 1301.70, section 1301.370 or subsection 1301.301-70).
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_435_010_T48_4021635011">
+      <title class="- topic/title ">
+         <ph props="autonumber">435.010</ph> Scientific and technical reports.</title>
+      <conbody>
+         <p xtrc="P">Research and development contracts shall contain a provision requiring that the contractor send copies of all scientific and technical reports to the National Technical Information Service at the address indicated in FAR 35.010(b). The release of research and development contract results to other government activities and to the private sector is subject to the provisions of FAR subpart 4.4.
+</p>
+      </conbody>
+   </concept>
+</dita>

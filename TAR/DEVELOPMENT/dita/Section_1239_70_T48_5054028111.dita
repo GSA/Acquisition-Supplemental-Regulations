@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1239_70_T48_5054028111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1239.70</ph> Solicitation provision and contract clause.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the provision at (TAR) 48 CFR 1252.239-71, Information Technology Security Plan and Accreditation, and the clause at (TAR) 48 CFR 1252.239-70, Security Requirements for Unclassified Information Technology Resources, in all solicitations and contracts, exceeding the micro-purchase threshold, that include information technology services.
+</p>
+      </conbody>
+   </concept>
+</dita>

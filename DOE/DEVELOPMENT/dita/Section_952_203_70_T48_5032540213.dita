@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_952_203_70_T48_5032540213">
+      <title class="- topic/title ">
+         <ph props="autonumber">952.203-70</ph> Whistleblower protection for contractor employees.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 903.971, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Whistleblower Protection for Contractor Employees (DEC 2000) 
+</p>
+                                    <p outputclass="List1">(a) The Contractor shall comply with the requirements of “DOE Contractor Employee Protection Program” at 10 CFR part 708 for work performed on behalf of DOE directly related to activities at DOE-owned or -leased sites. 
+</p>
+                                    <p outputclass="List1">(b) The Contractor shall insert or have inserted the substance of this clause, including this paragraph (b), in subcontracts at all tiers, for subcontracts involving work performed on behalf of DOE directly related to activities at DOE-owned or leased sites.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

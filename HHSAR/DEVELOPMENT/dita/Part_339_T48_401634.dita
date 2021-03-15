@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_339_T48_401634">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 339</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_339_1_T48_4016341.dita#Subpart_339_1_T48_4016341"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_101_T48_401634111.dita#Section_339_101_T48_401634111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_339_2_T48_4016342.dita#Subpart_339_2_T48_4016342"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_203_T48_401634211.dita#Section_339_203_T48_401634211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_203_70_T48_401634212.dita#Section_339_203_70_T48_401634212"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_204_T48_401634213.dita#Section_339_204_T48_401634213"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_204_1_T48_401634214.dita#Section_339_204_1_T48_401634214"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_339_205_T48_401634215.dita#Section_339_205_T48_401634215"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_445_T48_4021744">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 445</ph> - GOVERNMENT PROPERTY</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_3_T48_40217441.dita#Subpart_445_3_T48_40217441"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_302_T48_4021744111.dita#Section_445_302_T48_4021744111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_302_1_T48_4021744112.dita#Section_445_302_1_T48_4021744112"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_4_T48_40217442.dita#Subpart_445_4_T48_40217442"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_403_T48_4021744211.dita#Section_445_403_T48_4021744211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_445_407_T48_4021744212.dita#Section_445_407_T48_4021744212"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_445_6_T48_40217443.dita#Subpart_445_6_T48_40217443"/>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

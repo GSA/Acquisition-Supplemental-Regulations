@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_652_232_70_T48_40436432116">
+      <title class="- topic/title ">
+         <ph props="autonumber">652.232-70</ph> Payment Schedule and Invoice Submission (Fixed-Price).</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 632.908(a), the contracting officer may insert a clause substantially the same as follows:
+</p>
+                                    <p xtrc="HD1">Payment Schedule and Invoice Submission (Fixed-Price) (AUG 1999)
+</p>
+                                    <p outputclass="List1">(a) <i>General.</i> The Government shall pay the contractor as full compensation for all work required, performed and accepted under this contract, inclusive of all costs and expenses, the firm fixed-price stated in Section B of this contract.
+</p>
+                                    <p xtrc="FP">[<i>Use paragraph (b) only if partial payments apply. Otherwise, paragraph (a) above assumes the contractor will be paid in full amount upon completion of all contractural requirements.</i>]
+</p>
+                                    <p outputclass="List1">(b) <i>Payment Schedule.</i> Payments will be made in accordance with the following partial payment schedule:
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="4" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Partial payment No.
+</entry>
+                                                <entry colname="2">Specific deliverable
+</entry>
+                                                <entry colname="3">Delivery date
+</entry>
+                                                <entry colname="4">Payment amount
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">1</entry>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">2</entry>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">3</entry>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p xtrc="FP">[<i>Continue as necessary</i>]
+</p>
+                                    <p outputclass="List1">(c) Invoice Submission. Invoices shall be submitted in an original and [contracting officer insert appropriate number of copies] to the office identified in Block 10 of the SF-26, Block 23 of the SF-33, or Block 18b of the SF-1449. To constitute a proper invoice, the invoice must include all items per FAR 52.232-25, “Prompt Payment”.
+</p>
+                                    <p outputclass="List1">(d) <i>Contractor Remittance Address.</i> Payment shall be made to the contractor's address as specified on the cover page of this contract, unless a separate remittance address is specified below:
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP-DASH"/>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

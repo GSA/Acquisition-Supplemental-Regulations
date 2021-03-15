@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_606_T48_404307">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 606</ph> - COMPETITION REQUIREMENTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_606_2_T48_4043071.dita#Subpart_606_2_T48_4043071"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_202_T48_404307111.dita#Section_606_202_T48_404307111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_606_3_T48_4043072.dita#Subpart_606_3_T48_4043072"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_302_T48_404307211.dita#Section_606_302_T48_404307211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_302_1_T48_404307212.dita#Section_606_302_1_T48_404307212"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_302_4_T48_404307213.dita#Section_606_302_4_T48_404307213"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_302_6_T48_404307214.dita#Section_606_302_6_T48_404307214"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_302_7_T48_404307215.dita#Section_606_302_7_T48_404307215"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_303_T48_404307216.dita#Section_606_303_T48_404307216"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_303_1_T48_404307217.dita#Section_606_303_1_T48_404307217"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_303_2_T48_404307218.dita#Section_606_303_2_T48_404307218"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_304_T48_404307219.dita#Section_606_304_T48_404307219"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_304_70_T48_4043072110.dita#Section_606_304_70_T48_4043072110"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_370_T48_4043072111.dita#Section_606_370_T48_4043072111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_606_5_T48_4043073.dita#Subpart_606_5_T48_4043073"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_501_T48_404307311.dita#Section_606_501_T48_404307311"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_501_70_T48_404307312.dita#Section_606_501_70_T48_404307312"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_606_570_T48_404307313.dita#Section_606_570_T48_404307313"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

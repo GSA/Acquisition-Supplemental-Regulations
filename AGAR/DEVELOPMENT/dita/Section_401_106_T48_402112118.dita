@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_401_106_T48_402112118">
+      <title class="- topic/title ">
+         <ph props="autonumber">401.106</ph> OMB approval under the Paperwork Reduction Act.</title>
+      <conbody>
+         <p xtrc="P">The following OMB control numbers apply to USDA solicitations and specified information collections within the AGAR:
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">AGAR segment
+</entry>
+                                             <entry colname="2">OMB Control No.
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">411.170</entry>
+                                             <entry colname="2" align="right">0505-0014
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">415.2</entry>
+                                             <entry colname="2" align="right">0505-0013
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">436.575</entry>
+                                             <entry colname="2" align="right">0505-0011
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">437.110</entry>
+                                             <entry colname="2" align="right">0505-0015
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">437.270</entry>
+                                             <entry colname="2" align="right">0505-0016
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">452.211-1</entry>
+                                             <entry colname="2" align="right">0505-0014
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">452.215-71</entry>
+                                             <entry colname="2" align="right">0505-0013
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">452.236-75</entry>
+                                             <entry colname="2" align="right">0505-0011
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">452.237-74</entry>
+                                             <entry colname="2" align="right">0505-0015
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">452.237-76</entry>
+                                             <entry colname="2" align="right">0505-0016</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+      </conbody>
+   </concept>
+</dita>

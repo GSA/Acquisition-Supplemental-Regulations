@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_301_106_T48_40112113">
+      <title class="- topic/title ">
+         <ph props="autonumber">301.106</ph> Office of Management and Budget approval under the Paperwork Reduction Act.</title>
+      <conbody>
+         <p outputclass="List1">(a) The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 <i>et seq.</i>) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting the same information from 10 or more members of the public.
+</p>
+         <p outputclass="List1">(b) The following OMB control numbers apply to the information collection and recordkeeping requirements contained in this chapter:
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">HHSAR Segment
+</entry>
+                                             <entry colname="2">OMB Control No.
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_311_7102_T48_401212213"
+                                 href="Section_311_7102_T48_401212213.dita#Section_311_7102_T48_401212213">311.7102</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0434
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_311_7202_T48_401212313"
+                                 href="Section_311_7202_T48_401212313.dita#Section_311_7202_T48_401212313">311.7202</xref>(b)</entry>
+                                             <entry colname="2" align="right">0990-0434
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_311_7300_T48_401212411"
+                                 href="Section_311_7300_T48_401212411.dita#Section_311_7300_T48_401212411">311.7300</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0436
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_337_103_T48_401633111"
+                                 href="Section_337_103_T48_401633111.dita#Section_337_103_T48_401633111">337.103</xref>(d)(3)</entry>
+                                             <entry colname="2" align="right">0990-0430
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_337_103_T48_401633111"
+                                 href="Section_337_103_T48_401633111.dita#Section_337_103_T48_401633111">337.103</xref>(d)(4)</entry>
+                                             <entry colname="2" align="right">0990-0433
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_370_301_T48_4011038212"
+                                 href="Section_370_301_T48_4011038212.dita#Section_370_301_T48_4011038212">370.301</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0431
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_370_401_T48_4011038312"
+                                 href="Section_370_401_T48_4011038312.dita#Section_370_401_T48_4011038312">370.401</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0432
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_211_1_T48_401836214"
+                                 href="Section_352_211_1_T48_401836214.dita#Section_352_211_1_T48_401836214">352.211-1</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0434
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_211_2_T48_401836215"
+                                 href="Section_352_211_2_T48_401836215.dita#Section_352_211_2_T48_401836215">352.211-2</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0434
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_211_3_T48_401836216"
+                                 href="Section_352_211_3_T48_401836216.dita#Section_352_211_3_T48_401836216">352.211-3</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0436
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_227_11_T48_4018362119"
+                                 href="Section_352_227_11_T48_4018362119.dita#Section_352_227_11_T48_4018362119">352.227-11</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0419
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_227_14_T48_4018362120"
+                                 href="Section_352_227_14_T48_4018362120.dita#Section_352_227_14_T48_4018362120">352.227-14</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0419
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">352.227-71</entry>
+                                             <entry colname="2" align="right">0990-0430
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_237_72_T48_4018362129"
+                                 href="Section_352_237_72_T48_4018362129.dita#Section_352_237_72_T48_4018362129">352.237-72</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0433
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_352_237_73_T48_4018362130"
+                                 href="Section_352_237_73_T48_4018362130.dita#Section_352_237_73_T48_4018362130">352.237-73</xref>
+                        </entry>
+                                             <entry colname="2" align="right">0990-0431
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             

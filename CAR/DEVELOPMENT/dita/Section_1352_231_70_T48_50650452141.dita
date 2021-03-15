@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_231_70_T48_50650452141">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.231-70</ph> Precontract costs.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1331.205-32, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Precontract Costs (APR 2010)
+</p>
+                                    <p xtrc="P">The contractor is entitled to reimbursement for allowable, allocable, and reasonable costs incurred during the period of ____ to the award date of this contract in an amount not to exceed $____.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

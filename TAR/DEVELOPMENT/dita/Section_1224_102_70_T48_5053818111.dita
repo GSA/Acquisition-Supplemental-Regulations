@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1224_102_70_T48_5053818111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1224.102-70</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(a) Systems of records to which the Privacy Act applies shall not be released except by the Government regardless of whether the Government or a contractor acting on behalf of the Government is maintaining the records. Examples of systems of records are:
+</p>
+         <p outputclass="List2">(1) Personnel, payroll and background records personal to any officer or employee of DOT, or other person, including his or her residential address;
+</p>
+         <p outputclass="List2">(2) Medical histories and medical records concerning individuals, including applications for licenses; and
+</p>
+         <p outputclass="List2">(3) Any other detailed record containing information identifiable with a particular person.
+</p>
+         <p outputclass="List1">(b) Examples of systems of records to which the Privacy Act does not apply are:
+</p>
+         <p outputclass="List2">(1) Records that are maintained by a contractor on individuals employed by the contractor in the process of providing goods and services to the Federal government; and
+</p>
+         <p outputclass="List2">(2) Records generated on contract students pursuant to their attendance (e.g., admission forms, grade reports) when contracting with an educational institution. These records must be similar to those maintained on other students, must not reveal their identities, and must not be commingled with records of other students. 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

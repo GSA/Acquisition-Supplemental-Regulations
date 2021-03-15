@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_949_T48_5032437">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 949</ph> - TERMINATION OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_949_1_T48_50324371.dita#Subpart_949_1_T48_50324371"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_101_T48_5032437111.dita#Section_949_101_T48_5032437111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_106_T48_5032437112.dita#Section_949_106_T48_5032437112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_111_T48_5032437113.dita#Section_949_111_T48_5032437113"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_949_5_T48_50324372.dita#Subpart_949_5_T48_50324372"/>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

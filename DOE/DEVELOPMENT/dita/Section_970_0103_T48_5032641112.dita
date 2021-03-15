@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_0103_T48_5032641112">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.0103</ph> Publication and codification.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a) <i>Organization of Part 970.</i> 
+				</p><p outputclass="List2">(1) 
+			To the extent possible, the titles and text of the subparts, sections, and subsections of this part are numbered to correspond with related material that is contained in the FAR. 
+</p>
+         <p outputclass="List2">(2) The number to the left of the decimal point represents the DEAR part number (i.e., 970). The numbers to the right of the decimal point and to the left of the dash represent, in order, the DEAR subpart (first two digits), and the DEAR section number (second two digits). The numbers to the right of the dash represent the DEAR subsection. A second dash may follow the DEAR subsection number. As applicable, numbers to the right of the second dash represent subordinate subsections. 
+</p>
+         <p outputclass="List2">(3) To the extent practicable, the subpart number corresponds with the FAR part which contains related coverage, and the section number corresponds with the FAR subpart which contains related coverage (e.g., the coverage contained in 970.0309 corresponds with material contained in 48 CFR subpart 3.9). 
+</p>
+         <p outputclass="List2">(4) Where the FAR does not contain related coverage on a particular subject, the DEAR section number will be numbered using numbers of 70 and up (e.g., 970.0370). 
+</p>
+         <p outputclass="List1">(b) <i>Special Note Regarding Clause Numbering.</i> The section number for clauses prescribed in part 970 are numbered to correspond with the subpart in which the clause is prescribed (e.g., 970.5203-1 is prescribed for use at subpart 970.03). 
+</p>
+      </conbody>
+   </concept>
+</dita>

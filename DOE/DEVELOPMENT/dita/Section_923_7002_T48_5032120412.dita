@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_923_7002_T48_5032120412">
+      <title class="- topic/title ">
+         <ph props="autonumber">923.7002</ph> Worker safety and health.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)
+				</p><p outputclass="List2">(1) 
+			Except when the clause prescribed at 970.1504-8(c) is used, the clauses entitled “952.223-76, Conditional Payment of Fee or Profit - Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health” or “952.223-77, Conditional Payment of Fee or Profit - Protection of Worker Safety and Health” implement the requirements of section 234C of the Atomic Energy Act for the use of a contract clause that provides for an appropriate reduction in the fee or amount paid to the contractor under the contract in the event of a violation by the contractor or any contractor employee of any Departmental regulation relating to the enforcement of worker safety and health concerns. The clauses, in part, provide for reductions in the amount of fee, profit, or share of cost savings that is otherwise earned by the contractor for performance failures relating to worker safety and health violations under the Department's regulations. 
+</p>
+         <p outputclass="List2">(2) The clauses provide for reductions of fee or profit that is earned by the contractor depending upon the severity of the contractor's failure to comply with contract terms or conditions relating to worker safety and health concerns. When reviewing performance failures that would otherwise warrant a reduction of earned fee, the contracting officer must consider mitigating factors that may warrant a reduction below the applicable range specified in the clauses. Some of the mitigating factors that must be considered are specified in the clauses. 
+</p>
+         <p outputclass="List2">(3) The contracting officer must obtain the concurrence of the Head of the Contracting Activity - 
+</p>
+         <p outputclass="List3">(i) Prior to effecting any reduction of fee or amounts otherwise payable to the contractor in accordance with the terms and conditions of the clause entitled “Conditional Payment of Fee or Profit - Safeguarding Restricted Data and Other Classified Information and Protection of Worker Safety and Health” or of the clause entitled “Conditional Payment of Fee or Profit - Protection of Worker Safety and Health”; and 
+</p>
+         <p outputclass="List3">(ii) For determinations that no reduction of fee is warranted for a particular performance failure(s) that would otherwise warrant a reduction. 
+</p>
+         <p outputclass="List2">(4) Section 234C of the Atomic Energy Act provides that DOE shall either pursue civil penalties (implemented at 10 CFR part 851) for a violation under section 234C of the Atomic Energy Act (42 U.S.C. 2282c) or a contract fee reduction, but not both. 
+</p>
+         <p outputclass="List2">(5) The contracting officer must coordinate with the Office of Price Anderson Enforcement within the Office of the Assistant Secretary for Health, Safety and Security (or with any designated successor office) before pursuing a contract fee reduction in the event of a violation by the contractor or any contractor employee of any Departmental regulation relating to the enforcement of worker health and safety concerns.
+</p>
+      </conbody>
+   </concept>
+</dita>

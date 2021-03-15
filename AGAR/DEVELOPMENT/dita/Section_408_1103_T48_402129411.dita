@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_408_1103_T48_402129411">
+      <title class="- topic/title ">
+         <ph props="autonumber">408.1103</ph> Contract requirements.</title>
+      <conbody>
+         <p xtrc="P">If the requirement includes the need for the vendor to provide operational maintenance such as fueling, lubrication, or other fluid changes or replenishment, the contracting officer shall include in the contract:
+</p>
+         <p outputclass="List1">
+				</p><p outputclass="List2">(1) 
+			A requirement for the use of fluids and lubricants containing the maximum available amounts of recovered materials, and alternative fuels whenever available; and
+</p>
+         <p outputclass="List1">(2) A preference for retreaded tires meeting the Federal retread specifications, tires with the maximum recovered material content, or retreading services for the tires on the vehicle.
+</p>
+      </conbody>
+   </concept>
+</dita>
