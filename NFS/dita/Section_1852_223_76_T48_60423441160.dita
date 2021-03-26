@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_223_76_T48_60423441160">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.223-76</ph> Federal Automotive Statistical Tool Reporting.</title>
+      <conbody>
+         <p xtrc="P">As prescribed at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1823_271_T48_6041919111"
+                  href="Section_1823_271_T48_6041919111.dita#Section_1823_271_T48_6041919111">1823.271</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1851_205_T48_6042243111"
+                  href="Section_1851_205_T48_6042243111.dita#Section_1851_205_T48_6042243111">1851.205</xref>, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Federal Automotive Statistical Tool Reporting (JUL 2003)
+</p>
+                                    <p xtrc="P">If authorized to operate Government-owned or -leased vehicles, including interagency fleet management system (IFMS) vehicles or related services in performance of this contract, the Contractor shall report the data describing vehicle usage required by the Federal Automotive Statistical Tool (FAST) by October 15 of each year. FAST is accessed through <i>https://fastweb.inel.gov/ .</i>
+                                    </p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

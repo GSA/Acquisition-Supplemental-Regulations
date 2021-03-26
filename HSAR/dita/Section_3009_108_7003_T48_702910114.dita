@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3009_108_7003_T48_702910114">
+      <title class="- topic/title ">
+         <ph props="autonumber">3009.108-7003</ph> Special rules.</title>
+      <conbody>
+         <p xtrc="P">The following special rules shall apply when determining whether a foreign incorporated entity should be treated as an inverted domestic corporation.
+</p>
+         <p outputclass="List1">(a) <i>Certain stock disregarded.</i> For the purpose of treating a foreign incorporated entity as an inverted domestic corporation these shall not be taken into account in determining ownership:
+</p>
+         <p outputclass="List2">(1) Stock held by members of the expanded affiliated group which includes the foreign incorporated entity; or
+</p>
+         <p outputclass="List2">(2) Stock of such entity which is sold in a public offering related to the acquisition described in subsection (b)(1) of section 835 of the Homeland Security Act, 6 U.S.C. 395(b)(1).
+</p>
+         <p outputclass="List1">(b) <i>Plan deemed in certain cases.</i> If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of section 835(b)(2) of the Act are met, such actions shall be treated as pursuant to a plan.
+</p>
+         <p outputclass="List1">(c) <i>Certain transfers disregarded.</i> The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+</p>
+         <p outputclass="List1">(d) <i>Special rule for related partnerships.</i> For purposes of applying subsection (b) to the acquisition of a domestic partnership, except as provided in regulations, all domestic partnerships which are under common control (within the meaning of section 482 of the Internal Revenue Code of 1986) shall be treated as a partnership.
+</p>
+         <p props="Runin" outputclass="List1">(e) <i>Treatment of certain rights.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			Certain rights shall be treated as stocks to the extent necessary to reflect the present value of all equitable interests incident to the transaction, as follows:
+</p>
+         <p outputclass="List3">(i) Warrants;
+</p>
+         <p outputclass="List3">(ii) Options;
+</p>
+         <p outputclass="List3">(iii) Contracts to acquire stock;
+</p>
+         <p outputclass="List3">(iv) Convertible debt instruments;
+</p>
+         <p outputclass="List3">(v) Others similar interests.
+</p>
+         <p outputclass="List2">(2) Rights labeled as stocks shall not be treated as stocks whenever it is deemed appropriate to do so to reflect the present value of the transaction or to disregard transactions whose recognition would defeat the purpose of section 835 of the Act.
+</p>
+      </conbody>
+   </concept>
+</dita>

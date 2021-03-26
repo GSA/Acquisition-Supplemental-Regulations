@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_000_T48_6042344011">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.000</ph> Scope of part.</title>
+      <conbody>
+         <p xtrc="P">This part, in conjunction with FAR part 52 - 
+</p>
+         <p outputclass="List1">(a) Sets forth the provisions and clauses prescribed in the NFS,
+</p>
+         <p outputclass="List1">(b) Gives instructions for their use, and
+</p>
+         <p outputclass="List1">(c) Presents a matrix listing the provisions and clauses applicable to each principal contract type and/or purpose (e.g., fixed-price supply, cost-reimbursement research and development).
+</p>
+      </conbody>
+   </concept>
+</dita>

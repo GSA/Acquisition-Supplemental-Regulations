@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_671_T48_6042239417">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.671</ph> Contract quality assurance on shipments between contractors.</title>
+      <conbody>
+         <p outputclass="List1">(a) The supplier's commercial shipping document/packing list shall indicate performance of required CQA actions at subcontract level.
+</p>
+         <p xtrc="P">The following entries shall be made on the document/packing list:
+</p>
+                                    <p xtrc="P">Required CQA of items has been performed.
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Signature of Authorized Government Representative)
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Date)
+</p>
+                                    <p xtrc="FP-DASH">
+</p>
+                                    <p xtrc="FP">(Typed Name and Office)</p>
+                                 <p outputclass="List1">(b) Distribution for Government purposes shall be one copy each - 
+</p>
+         <p outputclass="List2">(1) With shipment;
+</p>
+         <p outputclass="List2">(2) For the Government representative at consignee (via mail); and
+</p>
+         <p outputclass="List2">(3) For the Government representative at consignor.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_244_70_T48_604234411116">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.244-70</ph> Geographic participation in the aerospace program.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1844_204_70_T48_6042237112"
+                  href="Section_1844_204_70_T48_6042237112.dita#Section_1844_204_70_T48_6042237112">1844.204-70</xref>, insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Geographic Participation in the Aerospace Program (APR 1985)
+</p>
+                                    <p outputclass="List1">(a) It is the policy of the National Aeronautics and Space Administration to advance a broad participation by all geographic regions in filling the scientific, technical, research and development, and other needs of the aerospace program. 
+</p>
+                                    <p outputclass="List1">(b) The Contractor agrees to use its best efforts to solicit subcontract sources on the broadest feasible geographic basis consistent with efficient contract performance and without impairment of program effectiveness or increase in program cost. 
+</p>
+                                    <p outputclass="List1">(c) The Contractor further agrees to insert this clause in all subcontracts of $100,000 and over.</p>
+                                 <p xtrc="HD3">(End of clause) 
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1622_103_70_T48_6021212111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1622.103-70</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">The clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1652_222_70_T48_60215241111"
+                  href="Section_1652_222_70_T48_60215241111.dita#Section_1652_222_70_T48_60215241111">1652.222-70</xref> shall be inserted in all FEHBP contracts.
+</p>
+      </conbody>
+   </concept>
+</dita>

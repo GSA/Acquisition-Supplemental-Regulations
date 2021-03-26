@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3439_702_T48_7032124112">
+      <title class="- topic/title ">
+         <ph props="autonumber">3439.702</ph> Department security requirements.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer must include the solicitation provision in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3452_239_71_T48_70323291123"
+                  href="Section_3452_239_71_T48_70323291123.dita#Section_3452_239_71_T48_70323291123">3452.239-71</xref> (Notice to offerors of Department security requirements) and the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3452_239_72_T48_70323291124"
+                  href="Section_3452_239_72_T48_70323291124.dita#Section_3452_239_72_T48_70323291124">3452.239-72</xref> (Department security requirements) when contractor employees will have access to Department-controlled facilities or space, or when the work (wherever located) involves the design, operation, repair, or maintenance of information systems and access to sensitive but unclassified information.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

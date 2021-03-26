@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9903_302_3_T48_7010264315">
+      <title class="- topic/title ">
+         <ph props="autonumber">9903.302-3</ph> Illustrations of changes which meet the definition of “change to a cost accounting practice.”</title>
+      <conbody>
+         <p outputclass="List1">(a) The method or technique used for measuring costs has been changed.
+
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Description
+</entry>
+                                             <entry colname="2">Accounting treatment
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(1) Contractor changes its actuarial cost method for computing pension costs.</entry>
+                                             <entry colname="2" align="left">(1)(i) Before change: The contractor computed pension costs using the aggregate cost method.
+(ii) After change: The contractor computes pension cost using the unit credit method.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(2) Contractor uses standard costs to account for its direct labor. Labor cost at standard was computed by multiplying labor-time standard by actual labor rates. The contractor changes the computation by multiplying labor-time standard by labor-rate standard</entry>
+                                             <entry colname="2" align="left">(2)(i) Before change: Contractor's direct labor cost was measured with only one component set at standard.
+(ii) After change: Contractor's direct labor cost is measured with both the time and rate components set at standard.</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p outputclass="List1">(b) The method or technique used for assignment of cost to cost accounting periods has been changed.
+
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Description
+</entry>
+                                             <entry colname="2">Accounting treatment
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(1) Contractor changes his established criteria for capitalizing certain classes of tangible capital assets whose acquisition costs totaled $1 million per cost accounting period</entry>
+                                             <entry colname="2" align="left">(1)(i) Before change: Items having acquisition costs of between $200 and $400 per unit were capitalized and depreciated over a number of cost accounting periods.
+(ii) After change: The contractor charges the value of assets costing between $200 and $400 per unit to an indirect expense pool which is allocated to the cost objectives of the cost accounting period in which the cost was incurred.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(2) Contractor changes his methods for computing depreciation for a class of assets</entry>
+                                             <entry colname="2" align="left">(2)(i) Before change: The contractor assigned depreciation costs to cost accounting periods using an accelerated method.
+(ii) After change: The contractor assigns depreciation costs to cost accounting periods using the straight line method.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(3) Contractor changes his general method of determining asset lives for classes of assets acquired prior to the effective date of CAS 409</entry>
+                                             <entry colname="2" align="left">(3)(i) Before change: The contractor identified the cost accounting periods to which the cost of tangible capital assets would be assigned using guideline class lives provided in IRS Rev. Pro. 72-10.
+(ii) After change: The contractor changes the method by which he identifies the cost accounting periods to which the costs of tangible capital assets will be assigned. He now uses the expected actual lives based on past usage.</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p outputclass="List1">(c) The method or technique used for allocating costs has been changed.
+
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Description
+</entry>
+                                             <entry colname="2">Accounting treatment
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(1) Contractor changes his method of allocating G&amp;A expenses under the requirements of Cost Accounting Standard 410</entry>
+                                             <entry colname="2" align="left">(1)(i) Before change: The contractor operating under Cost Accounting Standard 410 has been allocating his general and administrative expense pool to final cost objectives on a total cost input base in compliance with the Standard. The contractor's business changes substantially such that there are significant new projects which have only insignificant quantities of material.
+(ii) After change: After the addition of the new work, an evaluation of the changed circumstances reveals that the continued use of a total cost input base would result in a significant distortion in the allocation of the G&amp;A expense pool in relation to the benefits received. To remain in compliance with Standard 410, the contractor alters his G&amp;A allocation base from a total cost input base to a value added base.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(2) The contractor changes the accounting for hardware common to all projects</entry>
+                                             <entry colname="2" align="left">(2)(i) Before change: The contractor allocated the cost of purchased or requisitioned hardware directly to projects.
+(ii) After change: The contractor charges the cost of purchased or requisitioned hardware to an indirect expense pool which is allocated to projects using an appropriate allocation base.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(3) The contractor merges operating segment A and B which use different cost accounting practices in accounting for manufacturing overhead costs</entry>
+                                             <entry colname="2" align="left">(3)(i) Before change: In segment, A, the costs of the manufacturing overhead pool have been allocated to final cost objectives using a direct labor hours base; in segment B, the costs of the manufacturing overhead pool have been allocated to final cost objectives using a direct labor dollars base.
+(ii) After change: As a result of the merger of operations, the combined segment decides to allocate the cost of the manufacturing overhead pool to all final cost objectives, using a direct labor dollars base. Thus, for those final cost objectives referred to in segment A, the cost of the manufacturing overhead pool will be allocated to the final cost objectives of segment A using a direct labor dollars base instead of a direct labor hours base.</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+      </conbody>
+   </concept>
+</dita>

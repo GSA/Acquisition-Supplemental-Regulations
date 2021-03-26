@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_242_71_T48_70323291127">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.242-71</ph> Notice to the Government of delays.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3442_7002_T48_7032225112"
+                  href="Section_3442_7002_T48_7032225112.dita#Section_3442_7002_T48_7032225112">3442.7002</xref>, insert the following clause in all solicitations and contracts other than purchase orders:
+</p>
+                                    <p xtrc="HD1">Notice to The Government Of Delays (MAR 2011)
+</p>
+                                    <p xtrc="P">The contractor shall notify the contracting officer of any actual or potential situation, including but not limited to labor disputes, that delays or threatens to delay the timely performance of work under this contract. The contractor shall immediately give written notice thereof, including all relevant information.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

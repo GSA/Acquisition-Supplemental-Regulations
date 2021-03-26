@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1815_606_70_T48_6041814514">
+      <title class="- topic/title ">
+         <ph props="autonumber">1815.606-70</ph> Relationship of unsolicited proposals to NRAs.</title>
+      <conbody>
+         <p xtrc="P">An unsolicited proposal for a new effort or a renewal, identified by an evaluating office as being within the scope of an open NRA, shall be evaluated as a response to that NRA (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1835_016_71_T48_6042129012"
+                  href="Section_1835_016_71_T48_6042129012.dita#Section_1835_016_71_T48_6042129012">1835.016-71</xref>), provided that the evaluating office can either:
+</p>
+         <p outputclass="List1">(a) State that the proposal is not at a competitive disadvantage, or
+</p>
+         <p outputclass="List1">(b) Give the offeror an opportunity to amend the unsolicited proposal to ensure compliance with the applicable NRA proposal preparation instructions. If these conditions cannot be met, the proposal must be evaluated separately.
+</p>
+      </conbody>
+   </concept>
+</dita>

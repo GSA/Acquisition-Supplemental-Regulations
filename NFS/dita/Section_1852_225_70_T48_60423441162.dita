@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_225_70_T48_60423441162">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.225-70</ph> Export Licenses.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1825_1103_70_T48_6041921413"
+                  href="Section_1825_1103_70_T48_6041921413.dita#Section_1825_1103_70_T48_6041921413">1825.1103-70</xref>(b), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Export Licenses (FEB 2000)
+</p>
+                                    <p outputclass="List1">(a) The Contractor shall comply with all U.S. export control laws and regulations, including the International Traffic in Arms Regulations (ITAR), 22 CFR parts 120-130, and the Export Administration Regulations (EAR), 15 CFR parts 730-799, in the performance of this contract. In the absence of available license exemptions/exceptions, the Contractor shall be responsible for obtaining the appropriate licenses or other approvals, if required, for exports of hardware, technical data, and software, or for the provision of technical assistance.
+</p>
+                                    <p outputclass="List1">(b) The Contractor shall be responsible for obtaining export licenses, if required, before utilizing foreign persons in the performance of this contract, including instances where the work is to be performed on-site at [insert name of NASA installation], where the foreign person will have access to export-controlled technical data or software.
+</p>
+                                    <p outputclass="List1">(c) The Contractor shall be responsible for all regulatory record keeping requirements associated with the use of licenses and license exemptions/exceptions.
+</p>
+                                    <p outputclass="List1">(d) The Contractor shall be responsible for ensuring that the provisions of this clause apply to its subcontractors.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+         <p xtrc="P">
+                                    <i>Alternate I</i> (FEB 2000). As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1825_1103_70_T48_6041921413"
+                  href="Section_1825_1103_70_T48_6041921413.dita#Section_1825_1103_70_T48_6041921413">1825.1103-70</xref>(b), add the following paragraph (e) as Alternate I to the clause:
+</p>
+                                    <p outputclass="List1">(e) The Contractor may request, in writing, that the Contracting Officer authorizes it to export ITAR-controlled technical data (including software) pursuant to the exemption at 22 CFR 125.4(b)(3). The Contracting Officer or designated representative may authorize or direct the use of the exemption where the data does not disclose details of the design, development, production, or manufacture of any defense article.</p>
+                                 </conbody>
+   </concept>
+</dita>

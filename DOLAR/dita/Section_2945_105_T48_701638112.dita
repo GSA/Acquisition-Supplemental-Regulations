@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2945_105_T48_701638112">
+      <title class="- topic/title ">
+         <ph props="autonumber">2945.105</ph> Records of Government property.</title>
+      <conbody>
+         <p xtrc="P">Contracting officers must maintain a file on any Government-furnished property (GFP) in the possession of contractors. As a minimum, the file must contain the following:
+</p>
+         <p outputclass="List1">(a) A copy of the applicable portions of the contract that list the GFP; 
+</p>
+         <p outputclass="List1">(b) Contracting officer's letters assigning the GFP administrator to the contract; 
+</p>
+         <p outputclass="List1">(c) Written evidence that the contractor's property control system was reviewed and approved as required by FAR 45.104; 
+</p>
+         <p outputclass="List1">(d) If applicable, documentation of the request and approval or denial of the contractor's requests to acquire or fabricate special test equipment in accordance with FAR 45.307 or other property; 
+</p>
+         <p outputclass="List1">(e) The contractor's written notice of receipt of the GFP and any reported discrepancies thereto, as required by FAR 45.502-1 and 45.502-2, respectively; 
+</p>
+         <p outputclass="List1">(f) Any other documents pertaining to or affecting the status of the GFP in the possession of contractors or subcontractors under the contract; 
+</p>
+         <p outputclass="List1">(g) Documentation of the screening and disposal of all GFP as required by FAR 45.6.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

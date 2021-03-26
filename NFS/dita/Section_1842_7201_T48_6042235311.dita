@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1842_7201_T48_6042235311">
+      <title class="- topic/title ">
+         <ph props="autonumber">1842.7201</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(a) [Reserved] 
+</p>
+         <p outputclass="List1">(b) Reporting requirements. 
+				</p>
+         <p outputclass="List2">(1) 
+			Use of the NASA Contractor Financial Management Reports, the NASA form 533 series, is required on cost-type, price redetermination, and fixed-price incentive contracts when the following dollar, period of performance, and scope criteria are met:
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="4" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Contract value/scope
+</entry>
+                                             <entry colname="2">Period of performance
+</entry>
+                                             <entry colname="3">533M
+</entry>
+                                             <entry colname="4">533Q
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">$500K to $999K</entry>
+                                             <entry colname="2" align="left">1 year or more</entry>
+                                             <entry colname="3" align="left">Required</entry>
+                                             <entry colname="4" align="left">Optional.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">$1,000,000 and over</entry>
+                                             <entry colname="2" align="left">Less than 1 year</entry>
+                                             <entry colname="3" align="left">Required</entry>
+                                             <entry colname="4" align="left">Optional.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">$1,000,000 and over</entry>
+                                             <entry colname="2" align="left">1 year or more</entry>
+                                             <entry colname="3" align="left">Required</entry>
+                                             <entry colname="4" align="left">Required.</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p xtrc="P">(2) When it is probable that a contract will ultimately meet the criteria in paragraph (b)(1) of this section through change orders, supplemental agreements, etc., the reporting requirement must be implemented in the contract based on the estimated final contract value at the time of award.
+</p>
+      </conbody>
+   </concept>
+</dita>

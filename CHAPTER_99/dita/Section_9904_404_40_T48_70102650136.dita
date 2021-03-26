@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9904_404_40_T48_70102650136">
+      <title class="- topic/title ">
+         <ph props="autonumber">9904.404-40</ph> Fundamental requirement.</title>
+      <conbody>
+         <p outputclass="List1">(a) The acquisition cost of tangible capital assets shall be capitalized. Capitalization shall be based upon a written policy that is reasonable and consistently applied.
+</p>
+         <p outputclass="List1">(b) The contractor's policy shall designate economic and physical characteristics for capitalization of tangible assets.
+</p>
+         <p outputclass="List2">(1) The contractor's policy shall designate a minimum service life criterion, which shall not exceed 2 years, but which may be a shorter period. The policy shall also designate a minimum acquisition cost criterion which shall not exceed $5,000, but which may be a smaller amount. 
+</p>
+         <p outputclass="List2">(2) The contractor's policy may designate other specific characteristics which are pertinent to his capitalization policy decisions (e.g., class of asset, physical size, identifiability and controllability, the extent of integration or independence of constituent units).
+</p>
+         <p outputclass="List2">(3) The contractor's policy shall provide for identification of asset accountability units to the maximum extent practical.
+</p>
+         <p outputclass="List2">(4) The contractor's policy may designate higher minimum dollar limitations for original complement of low cost equipment and for betterments and improvements than the limitation established in accordance with paragraph (b)(1) of this subsection, provided such higher limitations are reasonable in the contractor's circumstances.
+</p>
+         <p outputclass="List1">(c) Tangible assets shall be capitalized when both of the criteria in the contractor's policy as required in paragraph (b)
+				</p>
+         <p outputclass="List2">(1) 
+			of this subsection are met, except that assets described in subparagraph (b)(4) of this subsection shall be capitalized in accordance with the criteria established in accordance with that paragraph.
+</p>
+         <p outputclass="List1">(d) Costs incurred subsequent to the acquisition of a tangible capital asset which result in extending the life or increasing the productivity of that asset (e.g., betterments and improvements) and which meet the contractor's established criteria for capitalization shall be capitalized with appropriate accounting for replaced asset accountability units. However, costs incurred for repairs and maintenace to a tangible capital asset which either restore the asset to, or maintain it at, its normal or expected service life or production capacity shall be treated as costs of the current period.
+</p>
+      </conbody>
+   </concept>
+</dita>

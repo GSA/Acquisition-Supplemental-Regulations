@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1834_203_T48_6042128112">
+      <title class="- topic/title ">
+         <ph props="autonumber">1834.203</ph> Solicitation provisions and contract clause.</title>
+      <conbody>
+         <p xtrc="P">The FAR EVMS solicitation provisions and contract clause are not used in NASA contracts. See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1834_203_70_T48_6042128113"
+                  href="Section_1834_203_70_T48_6042128113.dita#Section_1834_203_70_T48_6042128113">1834.203-70</xref> for the NASA EVMS solicitation provision and contract clause.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

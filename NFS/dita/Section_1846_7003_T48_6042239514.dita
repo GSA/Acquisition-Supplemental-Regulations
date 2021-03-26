@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_7003_T48_6042239514">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.7003</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">For acquisitions with covered contractors as defined in section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1846_7001_T48_6042239512"
+                  href="Section_1846_7001_T48_6042239512.dita#Section_1846_7001_T48_6042239512">1846.7001</xref>, use the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_246_74_T48_604234411135"
+                  href="Section_1852_246_74_T48_604234411135.dita#Section_1852_246_74_T48_604234411135">1852.246-74</xref>, Contractor Counterfeit Electronic Part Detection and Avoidance, in solicitations and contracts, when procuring - 
+</p>
+         <p outputclass="List1">(a) Electronic parts;
+</p>
+         <p outputclass="List1">(b) End items, components, parts, or assemblies containing electronic parts; or
+</p>
+         <p outputclass="List1">(c) Services, if the covered contractor will supply electronic parts or components, parts, or assemblies containing electronic parts as part of the service.
+
+
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

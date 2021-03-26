@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1836_513_T48_6042130211">
+      <title class="- topic/title ">
+         <ph props="autonumber">1836.513</ph> Accident prevention.</title>
+      <conbody>
+         <p xtrc="P">For additional guidance on the use of FAR clause 52.236-13, Accident Prevention, and its Alternate I in NASA contracts, see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1823_7001_T48_6041919311"
+                  href="Section_1823_7001_T48_6041919311.dita#Section_1823_7001_T48_6041919311">1823.7001</xref>(d).</p>
+      </conbody>
+   </concept>
+</dita>

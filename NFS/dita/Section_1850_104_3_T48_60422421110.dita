@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1850_104_3_T48_60422421110">
+      <title class="- topic/title ">
+         <ph props="autonumber">1850.104-3</ph> Special procedures for unusually hazardous or nuclear risks.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a) <i>Indemnification requests.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			Contractor indemnification requests must be submitted to the cognizant contracting officer for the contract for which the indemnification clause is requested. The request shall be submitted six (6) months in advance of the desired effective date of the requested indemnification in order to allow sufficient time for the request to be reviewed, analyzed, and approved by the Agency. Contractors shall submit a single request and shall ensure that duplicate requests are not submitted by associated divisions, subsidiaries, or central offices of the contractor.
+</p>
+         <p outputclass="List2">(ii) The contractor's request for indemnification must identify a sufficient factual basis for indemnification by explaining specifically what work activities under the contract create the unusually hazardous or nuclear risk and identifying the timeframes in which the risk would be incurred.
+</p>
+         <p outputclass="List2">(iii) The contractor shall also provide evidence, such as a certificate of insurance or other customary proof of insurance, that such insurance is either in force or is available and will be in force during the indemnified period.
+</p>
+         <p props="Runin" outputclass="List1">(b) <i>Action on indemnification requests.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			If recommending approval, the contracting officer shall forward the required information to the NASA Headquarters Office of Procurement, Program Operations Division, along with the following:
+</p>
+         <p outputclass="List3">(i) For contracts of five years duration or longer, a determination, with supporting rationale, whether the indemnification approval and insurance coverage and premiums should be reviewed for adequacy and continued validity at points in time within the extended contract period.
+</p>
+         <p outputclass="List3">(ii) The specific definition of the unusually hazardous risk to which the contractor is exposed in the performance of the contract(s), including specificity about which activities present such risk and the anticipated timeframes in which the risk will be incurred;
+</p>
+         <p outputclass="List3">(iv) A complete discussion of the contractor's financial protection program; and
+</p>
+         <p outputclass="List3">(vi) The extent to, and conditions under, which indemnification is being approved for subcontracts.
+</p>
+         <p outputclass="List2">(2) The NASA Administrator is the approval authority for using the indemnification clause in a contract by a Memorandum of Decision.
+</p>
+         <p props="Runin" outputclass="List2">(4)(ii) If approving subcontractor indemnification, the contracting officer shall document the file with a memorandum for record addressing the items set forth in FAR 50.104-3(b) and include an analysis of the subcontractor's financial protection program. In performing this analysis, the contracting officer shall take into consideration the availability, cost, terms and conditions of insurance in relation to the unusually hazardous risk.
+</p>
+      </conbody>
+   </concept>
+</dita>

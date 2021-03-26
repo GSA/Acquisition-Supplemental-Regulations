@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1532_170_T48_601527113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1532.170</ph> Forms.</title>
+      <conbody>
+         <p outputclass="List1">(a) EPA Form 1900-10 Contractor's Cumulative Claim and Reconciliation, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1553_232_74_T48_6018381111"
+                  href="Section_1553_232_74_T48_6018381111.dita#Section_1553_232_74_T48_6018381111">1553.232-74</xref>, shall be used for an accounting of the cumulative charges and costs for cost-reimbursement contracts from inception of the contract to completion. It shall be submitted by the Contractor upon submission of the completion voucher. 
+</p>
+         <p outputclass="List1">(b) EPA Form 1900-68, Notice of Contract Costs Suspended and/or Disallowed, at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1553_232_75_T48_6018381112"
+                  href="Section_1553_232_75_T48_6018381112.dita#Section_1553_232_75_T48_6018381112">1553.232-75</xref>, shall be inserted in all cost-reimbursement type and fixed-rate type contracts. 
+</p>
+      </conbody>
+   </concept>
+</dita>

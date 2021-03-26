@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1503_1004_T48_60114413">
+      <title class="- topic/title ">
+         <ph props="autonumber">1503.1004</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">As required by EPAAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1503_1003_T48_60114412"
+                  href="Section_1503_1003_T48_60114412.dita#Section_1503_1003_T48_60114412">1503.1003</xref>(b), the contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_203_71_T48_601837112"
+                  href="Section_1552_203_71_T48_601837112.dita#Section_1552_203_71_T48_601837112">1552.203-71</xref>, <i>Display of EPA Office of Inspector General Hotline Poster,</i> in all contracts valued at $1,000,000 or more, including all contract options.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

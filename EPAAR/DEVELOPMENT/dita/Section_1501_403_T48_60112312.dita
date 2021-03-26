@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1501_403_T48_60112312">
+      <title class="- topic/title ">
+         <ph props="autonumber">1501.403</ph> Individual deviations.</title>
+      <conbody>
+         <p xtrc="P">Requests for individual deviations from the FAR and the EPAAR shall be submitted to the Head of the Contracting Activity (HCA) for approval. Requests submitted shall cite the specific part of the FAR or EPAAR from which it is desired to deviate, shall set forth the nature of the deviation(s), and shall give the reasons for the action requested.
+</p>
+      </conbody>
+   </concept>
+</dita>

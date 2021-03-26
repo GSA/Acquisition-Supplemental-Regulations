@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_223_73_T48_60423441157">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.223-73</ph> Safety and health plan.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1823_7001_T48_6041919311"
+                  href="Section_1823_7001_T48_6041919311.dita#Section_1823_7001_T48_6041919311">1823.7001</xref>(c), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Safety and Health Plan (JUL 2015)
+</p>
+                                    <p outputclass="List1">(a) The offeror shall submit a detailed safety and occupational health plan as part of its proposal. The plan shall include a detailed discussion of the policies, procedures, and techniques that will be used to ensure the safety and occupational health of Contractor employees and to ensure the safety of all working conditions throughout the performance of the contract.
+</p>
+                                    <p outputclass="List1">(b) The plan shall similarly address subcontractor employee safety and occupational health for those proposed subcontracts or subcontract effort where the work will be conducted completely or partly on a Federally-controlled facility.
+</p>
+                                    <p outputclass="List1">(c) This plan, as approved by the Contracting Officer, will be incorporated into any resulting contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+         <p xtrc="P">Alternate I (JUL 2015)
+</p>
+                                    <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1823_7001_T48_6041919311"
+                  href="Section_1823_7001_T48_6041919311.dita#Section_1823_7001_T48_6041919311">1823.7001</xref>(c), delete the first sentence in paragraph (a) of the basic provision and substitute the following:
+</p>
+                                    <p xtrc="P">The apparent low bidder, upon request by the Contracting Officer, shall submit a detailed safety and occupational health plan. The plan shall be submitted within the time specified by the Contracting Officer. Failure to submit an acceptable plan shall make the bidder ineligible for the award of a contract.</p>
+                                 </conbody>
+   </concept>
+</dita>

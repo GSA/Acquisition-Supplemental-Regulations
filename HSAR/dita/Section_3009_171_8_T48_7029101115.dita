@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3009_171_8_T48_7029101115">
+      <title class="- topic/title ">
+         <ph props="autonumber">3009.171-8</ph> Ineligible contractors.</title>
+      <conbody>
+         <p xtrc="P">Any business concern determined to be ineligible for award under (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_171_5_T48_7029101112"
+                  href="Section_3009_171_5_T48_7029101112.dita#Section_3009_171_5_T48_7029101112">3009.171-5</xref> to <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_171_7_T48_7029101114"
+                  href="Section_3009_171_7_T48_7029101114.dita#Section_3009_171_7_T48_7029101114">3009.171-7</xref> shall be ineligible to receive a contract for guard services under the FPS guard program until such time as:
+</p>
+         <p outputclass="List1">(a) The concern demonstrates that it has addressed and resolved the issues that resulted in the determination of ineligibility, and
+</p>
+         <p outputclass="List1">(b) The HCA approves an award request under (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_171_7_T48_7029101114"
+                  href="Section_3009_171_7_T48_7029101114.dita#Section_3009_171_7_T48_7029101114">3009.171-7</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9903_301_T48_7010264311">
+      <title class="- topic/title ">
+         <ph props="autonumber">9903.301</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The definitions set forth below apply to this chapter 99.
+</p>
+         <p xtrc="P">
+                                    <i>Accrued benefit cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Accumulating costs.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actual cash value.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_416_30_T48_701026501160"
+                  href="Section_9904_416_30_T48_701026501160.dita#Section_9904_416_30_T48_701026501160">9904.416-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actual cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref> for the broader definition and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref> for a more restricted definition applicable only to the standard on the use of standard costs for direct material and direct labor.
+</p>
+         <p xtrc="P">
+                                    <i>Actuarial assumption.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actuarial cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actuarial gain and loss.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actuarial liability.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Actuarial valuation.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Allocate.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_403_30_T48_70102650125"
+                  href="Section_9904_403_30_T48_70102650125.dita#Section_9904_403_30_T48_70102650125">9904.403-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_406_30_T48_70102650155"
+                  href="Section_9904_406_30_T48_70102650155.dita#Section_9904_406_30_T48_70102650155">9904.406-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_418_30_T48_701026501180"
+                  href="Section_9904_418_30_T48_701026501180.dita#Section_9904_418_30_T48_701026501180">9904.418-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Asset accountability unit.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_404_30_T48_70102650135"
+                  href="Section_9904_404_30_T48_70102650135.dita#Section_9904_404_30_T48_70102650135">9904.404-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Assignment of cost to cost accounting periods.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_302_1_T48_7010264313"
+                  href="Section_9903_302_1_T48_7010264313.dita#Section_9903_302_1_T48_7010264313">9903.302-1</xref>(b).</p>
+         <p xtrc="P">
+                                    <i>Bid and proposal (B&amp;P) cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Business unit.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_414_30_T48_701026501140"
+                  href="Section_9904_414_30_T48_701026501140.dita#Section_9904_414_30_T48_701026501140">9904.414-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>CAS-covered contract,</i> as used in this part, means any negotiated contract or subcontract in which a CAS clause is required to be included.
+</p>
+         <p xtrc="P">
+                                    <i>Category of material.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Change to a cost accounting practice.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_302_2_T48_7010264314"
+                  href="Section_9903_302_2_T48_7010264314.dita#Section_9903_302_2_T48_7010264314">9903.302-2</xref>.</p>
+         <p xtrc="P">
+                                    <i>Compensated personal absence.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_408_30_T48_70102650175"
+                  href="Section_9904_408_30_T48_70102650175.dita#Section_9904_408_30_T48_70102650175">9904.408-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Cost accounting practice.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_302_1_T48_7010264313"
+                  href="Section_9903_302_1_T48_7010264313.dita#Section_9903_302_1_T48_7010264313">9903.302-1</xref>.</p>
+         <p xtrc="P">
+                                    <i>Cost input.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Cost objective.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_406_30_T48_70102650155"
+                  href="Section_9904_406_30_T48_70102650155.dita#Section_9904_406_30_T48_70102650155">9904.406-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Cost of capital committed to facilities.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_414_30_T48_701026501140"
+                  href="Section_9904_414_30_T48_701026501140.dita#Section_9904_414_30_T48_701026501140">9904.414-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Currently performing,</i> as used in this part, means that a contractor has been awarded a contract, but has not yet received notification of final acceptance of all supplies, services, and data deliverable under the contract (including options).
+</p>
+         <p xtrc="P">
+                                    <i>Deferred compensation.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_415_30_T48_701026501150"
+                  href="Section_9904_415_30_T48_701026501150.dita#Section_9904_415_30_T48_701026501150">9904.415-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Defined-benefit pension plan.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Defined-contribution pension plan.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Direct cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_418_30_T48_701026501180"
+                  href="Section_9904_418_30_T48_701026501180.dita#Section_9904_418_30_T48_701026501180">9904.418-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Directly associated cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_405_30_T48_70102650145"
+                  href="Section_9904_405_30_T48_70102650145.dita#Section_9904_405_30_T48_70102650145">9904.405-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Disclosure statement,</i> as used in this part, means the Disclosure Statement required by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_202_1_T48_70102642111"
+                  href="Section_9903_202_1_T48_70102642111.dita#Section_9903_202_1_T48_70102642111">9903.202-1</xref>.</p>
+         <p xtrc="P">
+                                    <i>Entitlement.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_408_30_T48_70102650175"
+                  href="Section_9904_408_30_T48_70102650175.dita#Section_9904_408_30_T48_70102650175">9904.408-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Estimating costs.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Expressly unallowable cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_405_30_T48_70102650145"
+                  href="Section_9904_405_30_T48_70102650145.dita#Section_9904_405_30_T48_70102650145">9904.405-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Facilities capital.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_414_30_T48_701026501140"
+                  href="Section_9904_414_30_T48_701026501140.dita#Section_9904_414_30_T48_701026501140">9904.414-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Final cost objective.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Fiscal year.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_406_30_T48_70102650155"
+                  href="Section_9904_406_30_T48_70102650155.dita#Section_9904_406_30_T48_70102650155">9904.406-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Funded pension cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Funding agency.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>General and administrative (G&amp;A) expense.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Home office.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_403_30_T48_70102650125"
+                  href="Section_9904_403_30_T48_70102650125.dita#Section_9904_403_30_T48_70102650125">9904.403-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Immediate-gain actuarial cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Independent research and development (IR&amp;D) cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Indirect cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_405_30_T48_70102650145"
+                  href="Section_9904_405_30_T48_70102650145.dita#Section_9904_405_30_T48_70102650145">9904.405-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_418_30_T48_701026501180"
+                  href="Section_9904_418_30_T48_701026501180.dita#Section_9904_418_30_T48_701026501180">9904.418-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Indirect cost pool.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_30_T48_70102650115"
+                  href="Section_9904_402_30_T48_70102650115.dita#Section_9904_402_30_T48_70102650115">9904.402-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_406_30_T48_70102650155"
+                  href="Section_9904_406_30_T48_70102650155.dita#Section_9904_406_30_T48_70102650155">9904.406-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_418_30_T48_701026501180"
+                  href="Section_9904_418_30_T48_701026501180.dita#Section_9904_418_30_T48_701026501180">9904.418-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Insurance administration expenses.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_416_30_T48_701026501160"
+                  href="Section_9904_416_30_T48_701026501160.dita#Section_9904_416_30_T48_701026501160">9904.416-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Intangible capital asset.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_414_30_T48_701026501140"
+                  href="Section_9904_414_30_T48_701026501140.dita#Section_9904_414_30_T48_701026501140">9904.414-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_417_30_T48_701026501170"
+                  href="Section_9904_417_30_T48_701026501170.dita#Section_9904_417_30_T48_701026501170">9904.417-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Labor cost at standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Labor-rate standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Labor-time standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Material cost at standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Material inventory record.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Material-price standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Material-quantity standard.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Measurement of cost.</i> See 9904.302-1(c).
+</p>
+         <p xtrc="P">
+                                    <i>Moving average cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Multiemployer pension plan.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Negotiated subcontract,</i> as used in this part, means any subcontract except a firm fixed-price subcontract made by a contractor or subcontractor after receiving offers from at least two persons not associated with each other or with such contractor or subcontractor, providing 
+</p>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			The solicitation to all competitors is identical,
+</p>
+         <p outputclass="List1">(2) Price is the only consideration in selecting the subcontractor from among the competitors solicited, and
+</p>
+         <p outputclass="List1">(3) The lowest offer received in compliance with the solicitation from among those solicited is accepted.
+</p>
+         <p xtrc="P">
+                                    <i>Net awards,</i> as used in this chapter, means the total value of negotiated CAS-covered prime contract and subcontract awards, including the potential value of contract options, received during the reporting period minus cancellations, terminations, and other related credit transactions.
+</p>
+         <p xtrc="P">
+                                    <i>Normal cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Operating revenue.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_403_30_T48_70102650125"
+                  href="Section_9904_403_30_T48_70102650125.dita#Section_9904_403_30_T48_70102650125">9904.403-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Original complement of low cost equipment.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_404_30_T48_70102650135"
+                  href="Section_9904_404_30_T48_70102650135.dita#Section_9904_404_30_T48_70102650135">9904.404-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Pay-as-you-go cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Pension plan.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Pension plan participant.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Pricing.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Production unit.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Projected average loss.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_416_30_T48_701026501160"
+                  href="Section_9904_416_30_T48_701026501160.dita#Section_9904_416_30_T48_701026501160">9904.416-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Projected benefit cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_412_30_T48_701026501115"
+                  href="Section_9904_412_30_T48_701026501115.dita#Section_9904_412_30_T48_701026501115">9904.412-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Proposal.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Repairs and maintenance.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_404_30_T48_70102650135"
+                  href="Section_9904_404_30_T48_70102650135.dita#Section_9904_404_30_T48_70102650135">9904.404-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Reporting costs.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_30_T48_7010265015"
+                  href="Section_9904_401_30_T48_7010265015.dita#Section_9904_401_30_T48_7010265015">9904.401-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Residual value.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_409_30_T48_70102650185"
+                  href="Section_9904_409_30_T48_70102650185.dita#Section_9904_409_30_T48_70102650185">9904.409-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Segment.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_403_30_T48_70102650125"
+                  href="Section_9904_403_30_T48_70102650125.dita#Section_9904_403_30_T48_70102650125">9904.403-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_410_30_T48_70102650195"
+                  href="Section_9904_410_30_T48_70102650195.dita#Section_9904_410_30_T48_70102650195">9904.410-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_420_30_T48_701026501190"
+                  href="Section_9904_420_30_T48_701026501190.dita#Section_9904_420_30_T48_701026501190">9904.420-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Self-insurance.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_416_30_T48_701026501160"
+                  href="Section_9904_416_30_T48_701026501160.dita#Section_9904_416_30_T48_701026501160">9904.416-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Self-insurance charge.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_416_30_T48_701026501160"
+                  href="Section_9904_416_30_T48_701026501160.dita#Section_9904_416_30_T48_701026501160">9904.416-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Service life.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_409_30_T48_70102650185"
+                  href="Section_9904_409_30_T48_70102650185.dita#Section_9904_409_30_T48_70102650185">9904.409-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Small business,</i> as used in this part, means any concern, firm, person, corporation, partnership, cooperative, or other business enterprise which, under 15 U.S.C. 637(b)(6) and the rules and regulations of the Small Business Administration in part 121 of title 13 of the Code of Federal Regulations, is determined to be a small business concern for the purpose of Government contracting.
+</p>
+         <p xtrc="P">
+                                    <i>Spread-gain actuarial cost method.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Standard cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Tangible capital asset.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_403_30_T48_70102650125"
+                  href="Section_9904_403_30_T48_70102650125.dita#Section_9904_403_30_T48_70102650125">9904.403-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_404_30_T48_70102650135"
+                  href="Section_9904_404_30_T48_70102650135.dita#Section_9904_404_30_T48_70102650135">9904.404-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_409_30_T48_70102650185"
+                  href="Section_9904_409_30_T48_70102650185.dita#Section_9904_409_30_T48_70102650185">9904.409-30</xref>, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_414_30_T48_701026501140"
+                  href="Section_9904_414_30_T48_701026501140.dita#Section_9904_414_30_T48_701026501140">9904.414-30</xref> or <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_417_30_T48_701026501170"
+                  href="Section_9904_417_30_T48_701026501170.dita#Section_9904_417_30_T48_701026501170">9904.417-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Termination gain or loss.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_413_30_T48_701026501128"
+                  href="Section_9904_413_30_T48_701026501128.dita#Section_9904_413_30_T48_701026501128">9904.413-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Unallowable cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_405_30_T48_70102650145"
+                  href="Section_9904_405_30_T48_70102650145.dita#Section_9904_405_30_T48_70102650145">9904.405-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Variance.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_407_30_T48_70102650165"
+                  href="Section_9904_407_30_T48_70102650165.dita#Section_9904_407_30_T48_70102650165">9904.407-30</xref>.</p>
+         <p xtrc="P">
+                                    <i>Weighted average cost.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_411_30_T48_701026501105"
+                  href="Section_9904_411_30_T48_701026501105.dita#Section_9904_411_30_T48_701026501105">9904.411-30</xref>.</p>
+         <p outputclass="List1">(b) The definitions set forth below are applicable exclusively to educational institutions and apply to this chapter 99. 
+</p>
+         <p xtrc="P">
+                                    <i>Business unit.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_201_2_T48_7010264213"
+                  href="Section_9903_201_2_T48_7010264213.dita#Section_9903_201_2_T48_7010264213">9903.201-2</xref>(c)(2)(ii). 
+</p>
+         <p xtrc="P">
+                                    <i>Educational institution.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_201_2_T48_7010264213"
+                  href="Section_9903_201_2_T48_7010264213.dita#Section_9903_201_2_T48_7010264213">9903.201-2</xref>(c)(2)(i). 
+</p>
+         <p xtrc="P">
+                                    <i>Intermediate cost objective.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9905_502_30_T48_70102660114"
+                  href="Section_9905_502_30_T48_70102660114.dita#Section_9905_502_30_T48_70102660114">9905.502-30</xref>(a)(7). 
+</p>
+         <p xtrc="P">
+                                    <i>Segment.</i> See <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_201_2_T48_7010264213"
+                  href="Section_9903_201_2_T48_7010264213.dita#Section_9903_201_2_T48_7010264213">9903.201-2</xref>(c)(2)(ii). 
+</p>
+      </conbody>
+   </concept>
+</dita>

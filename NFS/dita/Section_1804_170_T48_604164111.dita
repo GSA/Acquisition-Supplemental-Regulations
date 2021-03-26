@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1804_170_T48_604164111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1804.170</ph> Contract effective date.</title>
+      <conbody>
+         <p xtrc="P">“Contract effective date” means the date agreed upon by the parties for beginning the period of performance under the contract. In no case shall the effective date precede the date on which the contracting officer or designated higher approval authority signs the document. Costs incurred before the contract effective date are unallowable unless they qualify as precontract costs (see FAR 31.205-32) and the clause prescribed at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1831_205_70_T48_6042025112"
+                  href="Section_1831_205_70_T48_6042025112.dita#Section_1831_205_70_T48_6042025112">1831.205-70</xref> is used.
+</p>
+      </conbody>
+   </concept>
+</dita>

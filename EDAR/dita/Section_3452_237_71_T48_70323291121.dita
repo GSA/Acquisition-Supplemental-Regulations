@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_237_71_T48_70323291121">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.237-71</ph> Observance of administrative closures.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3437_170_T48_7032123112"
+                  href="Section_3437_170_T48_7032123112.dita#Section_3437_170_T48_7032123112">3437.170</xref>, insert the following clause in all solicitations and service contracts:
+</p>
+                                    <p xtrc="HD1">Observance of Administrative Closures (MAR 2011)
+</p>
+                                    <p outputclass="List1">(a) The contract schedule identifies all Federal holidays that are observed under this contract. Contractor performance is required under this contract at all other times, and compensated absences are not extended due to administrative closures of Government facilities and operations due to inclement weather, Presidential decree, or other administrative issuances where Government personnel receive early dismissal instructions.
+</p>
+                                    <p outputclass="List1">(b) In cases of contract performance at a Government facility when the facility is closed, the vendor may arrange for performance to continue during the closure at the contractor's site, if appropriate.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_215_85_T48_60423441120">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.215-85</ph> Proposal adequacy checklist.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1815_408_70_T48_6041814318"
+                  href="Section_1815_408_70_T48_6041814318.dita#Section_1815_408_70_T48_6041814318">1815.408-70</xref>(c), use the following provision:
+</p>
+                                    <p xtrc="HD1">PROPOSAL ADEQUACY CHECKLIST (MAR 2014)
+</p>
+                                    <p xtrc="P">The offeror shall complete the following checklist, providing location of requested information, or an explanation of why the requested information is not provided. In preparation of the offeror's checklist, offerors may elect to have their prospective subcontractors use the same or similar checklist as appropriate.
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <title>
+                                          Proposal Adequacy Checklist
+
+                                       </title>
+               <tgroup cols="4" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">References
+</entry>
+                                                <entry colname="2">Submission item
+</entry>
+                                                <entry colname="3">Proposal page No.
+</entry>
+                                                <entry colname="4">If not provided explain (may use continuation pages traceable to this checklist)
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   GENERAL INSTRUCTIONS
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">1. FAR 15.408, Table 15-2, Section I Paragraph A</entry>
+                                                <entry colname="2" align="left">Is there a properly completed first page of the proposal per FAR 15.408 Table 15-2 I.A or as specified in the solicitation?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">2. FAR 15.408, Table 15-2, Section I Paragraph A(7)</entry>
+                                                <entry colname="2" align="left">Does the proposal identify the need for Government-furnished material/tooling/test equipment? Include the accountable contract number and contracting officer contact information if known.</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">3. FAR 15.408, Table 15-2, Section I Paragraph A(8)</entry>
+                                                <entry colname="2" align="left">If your organization is subject to Cost Accounting Standards (CAS), does the proposal identify the current status of your CAS Disclosure Statement? Does the proposal identify and explain notifications of noncompliance with Cost Accounting Standards Board or Cost Accounting Standards (CAS); any proposal inconsistencies with your disclosed practices or applicable CAS; and inconsistencies with your established estimating and accounting principles and procedures?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">4. FAR 15.408, Table 15-2, Section I, Paragraph C(1)</entry>
+                                                <entry colname="2" align="left">Does the proposal disclose any other known activity that could materially impact the costs?
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">FAR 2.101, “Cost or pricing data”</entry>
+                                                <entry colname="2" align="left">This may include, but is not limited to, such factors as - 
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(1) Vendor quotations;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(2) Nonrecurring costs;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(3) Information on changes in production methods and in production or purchasing volume;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(4) Data supporting projections of business prospects and objectives and related operations costs;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(5) Unit-cost trends such as those associated with labor efficiency;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(6) Make-or-buy decisions;
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(7) Estimated resources to attain business goals; and
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">(8) Information on management decisions that could have a significant bearing on costs.
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">5. FAR 15.408, Table 15-2, Section I Paragraph B</entry>
+                                                <entry colname="2" align="left">Is an Index of all certified cost or pricing data and information accompanying or identified in the proposal provided and appropriately referenced?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">6. FAR 15.403-1(b)</entry>
+                                                <entry colname="2" align="left">Are there any exceptions to submission of certified cost or pricing data pursuant to FAR 15.403-1(b)? If so, is supporting documentation included in the proposal? (Note questions 18-20.)</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">7. FAR 15.408, Table 15-2, Section I Paragraph C(2)(i)</entry>
+                                                <entry colname="2" align="left">Does the proposal disclose the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">8. FAR 15.408, Table 15-2, Section I Paragraph C(2)(ii)</entry>
+                                                <entry colname="2" align="left">Does the proposal disclose the nature and amount of any contingencies included in the proposed price?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">9. FAR 15.408 Table 15-2, Section II, Paragraph A or B</entry>
+                                                <entry colname="2" align="left">Does the proposal explain the basis of all cost estimating relationships (labor hours or material) proposed on other than a discrete basis?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">10. FAR 15.408, Table 15-2, Section I Paragraphs D and E</entry>
+                                                <entry colname="2" align="left">Is there a summary of total cost by element of cost and are the elements of cost cross-referenced to the supporting cost or pricing data? (Breakdowns for each cost element must be consistent with your cost accounting system, including breakdown by year.)</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">11. FAR 15.408, Table 15-2, Section I Paragraphs D and E</entry>
+                                                <entry colname="2" align="left">If more than one Contract Line Item Number (CLIN) or sub Contract Line Item Number (sub-CLIN) is proposed as required by the RFP, are there summary total amounts covering all line items for each element of cost and is it cross-referenced to the supporting cost or pricing data?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">12. FAR 15.408, Table 15-2, Section I Paragraph F</entry>
+                                                <entry colname="2" align="left">Does the proposal identify any incurred costs for work performed before the submission of the proposal?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">13. FAR 15.408, Table 15-2, Section I Paragraph G</entry>
+                                                <entry colname="2" align="left">Is there a Government forward pricing rate agreement (FPRA)? If so, the offeror shall identify the official submittal of such rate and factor data. If not, does the proposal include all rates and factors by year that are utilized in the development of the proposal and the basis for those rates and factors?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   COST ELEMENTS
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">MATERIALS AND SERVICES
+</entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">14. FAR 15.408, Table 15-2, Section II Paragraph A</entry>
+                                                <entry colname="2" align="left">Does the proposal include a consolidated summary of individual material and services, frequently referred to as a Consolidated Bill of Material (CBOM), to include the basis for pricing? The offeror's consolidated summary shall include raw materials, parts, components, assemblies, subcontracts and services to be produced or performed by others, identifying as a minimum the item, source, quantity, and price.</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   SUBCONTRACTS (Purchased materials or services)
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">15. FAR 15.404-3(c)
+FAR 52.244-2</entry>
+                                                <entry colname="2" align="left">Per the thresholds of FAR 15.404-3(c), Subcontract Pricing Considerations, does the proposal include a copy of the applicable subcontractor's certified cost or pricing data?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">16. FAR 15.408, Table 15-2, Note 1; Section II Paragraph A</entry>
+                                                <entry colname="2" align="left">Is there a price/cost analysis establishing the reasonableness of each of the proposed subcontracts included with the proposal?
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">If the offeror's price/cost analyses are not provided with the proposal, does the proposal include a matrix identifying dates for receipt of subcontractor proposal, completion of fact finding for purposes of price/cost analysis, and submission of the price/cost analysis?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   EXCEPTIONS TO CERTIFIED COST OR PRICING DATA
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">17. FAR 52.215-20
+FAR 2.101, “commercial item”</entry>
+                                                <entry colname="2" align="left">Has the offeror submitted an exception to the submission of certified cost or pricing data for commercial items proposed either at the prime or subcontractor level, in accordance with provision 52.215-20?
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">a. Has the offeror specifically identified the type of commercial item claim (FAR 2.101 commercial item definition, paragraphs (1) through (8)), and the basis on which the item meets the definition?
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">b. For modified commercial items (FAR 2.101 commercial item definition paragraph (3)); did the offeror classify the modification(s) as either - 
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">i. A modification of a type customarily available in the commercial marketplace (paragraph (3)(i)); or
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">ii. A minor modification (paragraph (3)(ii)) of a type not customarily available in the commercial marketplace made to meet Federal Government requirements not exceeding the thresholds in FAR 15.403-1(c)(3)(iii)(B)?
+</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"> </entry>
+                                                <entry colname="2" align="left">c. For proposed commercial items “of a type”, or “evolved” or modified (FAR 2.101 commercial item definition paragraphs (1) through (3)), did the contractor provide a technical description of the differences between the proposed item and the comparison item(s)?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">18. FAR 15.408, Table 15-2, Section II Paragraph A(1)</entry>
+                                                <entry colname="2" align="left">Does the proposal support the degree of competition and the basis for establishing the source and reasonableness of price for each subcontract or purchase order priced on a competitive basis exceeding the threshold for certified cost or pricing data?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   INTERORGANIZATIONAL TRANSFERS
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">19. FAR 15.408, Table 15-2, Section II Paragraph A.(2)</entry>
+                                                <entry colname="2" align="left">For inter-organizational transfers proposed at cost, does the proposal include a complete cost proposal in compliance with Table 15-2?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">20. FAR 15.408, Table 15-2, Section II Paragraph A(1)</entry>
+                                                <entry colname="2" align="left">For inter-organizational transfers proposed at price in accordance with FAR 31.205-26(e), does the proposal provide an analysis by the prime that supports the exception from certified cost or pricing data in accordance with FAR 15.403-1?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   DIRECT LABOR
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">21. FAR 15.408, Table 15-2, Section II Paragraph B</entry>
+                                                <entry colname="2" align="left">Does the proposal include a time phased (i.e.; monthly, quarterly) breakdown of labor hours, rates and costs by category or skill level? If labor is the allocation base for indirect costs, the labor cost must be summarized in order that the applicable overhead rate can be applied.</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">22. FAR 15.408, Table 15-2, Section II Paragraph B</entry>
+                                                <entry colname="2" align="left">For labor Basis of Estimates (BOEs), does the proposal include labor categories, labor hours, and task descriptions, (e.g.; Statement of Work reference, applicable CLIN, Work Breakdown Structure, rationale for estimate, applicable history, and time-phasing)?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">23. FAR subpart 22.10</entry>
+                                                <entry colname="2" align="left">If covered by the Service Contract Labor Standards statute (41 U.S.C. chapter 67), are the rates in the proposal in compliance with the minimum rates specified in the statute?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   INDIRECT COSTS
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">24. FAR 15.408, Table 15-2, Section II Paragraph C</entry>
+                                                <entry colname="2" align="left">Does the proposal indicate the basis of estimate for proposed indirect costs and how they are applied? (Support for the indirect rates could consist of cost breakdowns, trends, and budgetary data.)</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   OTHER COSTS
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">25. FAR 15.408, Table 15-2, Section II Paragraph D</entry>
+                                                <entry colname="2" align="left">Does the proposal include other direct costs and the basis for pricing? If travel is included does the proposal include number of trips, number of people, number of days per trip, locations, and rates (e.g. airfare, per diem, hotel, car rental, etc)?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">26. FAR 15.408, Table 15-2, Section II Paragraph E</entry>
+                                                <entry colname="2" align="left">If royalties exceed $1,500 does the proposal provide the information/data identified by Table 15-2?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">27. FAR 15.408, Table 15-2, Section II Paragraph F</entry>
+                                                <entry colname="2" align="left">When facilities capital cost of money is proposed, does the proposal include submission of Form CASB-CMF or reference to an FPRA/FPRP and show the calculation of the proposed amount?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   FORMATS FOR SUBMISSION OF LINE ITEM SUMMARIES
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">28. FAR 15.408, Table 15-2, Section III</entry>
+                                                <entry colname="2" align="left">Are all cost element breakdowns provided using the applicable format prescribed in FAR 15.408, Table 15-2 III? (or alternative format if specified in the request for proposal).</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">29. FAR 15.408, Table 15-2, Section III Paragraph B</entry>
+                                                <entry colname="2" align="left">If the proposal is for a modification or change order, have cost of work deleted (credits) and cost of work added (debits) been provided in the format described in FAR 15.408, Table 15-2.III.B?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">30. FAR 15.408, Table 15-2, Section III Paragraph C</entry>
+                                                <entry colname="2" align="left">For price revisions/redeterminations, does the proposal follow the format in FAR 15.408, Table 15-2.III.C?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="center">
+                                                   OTHER
+                                                </entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">31. FAR 16.4</entry>
+                                                <entry colname="2" align="left">If an incentive contract type, does the proposal include offeror proposed target cost, target profit or fee, share ratio, and, when applicable, minimum/maximum fee, ceiling price?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">32. FAR 16.203-4 and FAR 15.408 Table 15-2, Section II, Paragraphs A, B, C, and D</entry>
+                                                <entry colname="2" align="left">If Economic Price Adjustments are being proposed, does the proposal show the rationale and application for the economic price adjustment?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">33. FAR 52.232-28</entry>
+                                                <entry colname="2" align="left">If the offeror is proposing Performance-Based Payments - did the offeror comply with FAR 52.232-28?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">34. FAR 15.408(n)
+FAR 52.215-22
+FAR 52.215-23</entry>
+                                                <entry colname="2" align="left">Excessive Pass-through Charges - Identification of Subcontract Effort: If the offeror intends to subcontract more than 70% of the total cost of work to be performed, does the proposal identify: (i) the amount of the offeror's indirect costs and profit applicable to the work to be performed by the proposed subcontractor(s); and (ii) a description of the added value provided by the offeror as related to the work to be performed by the proposed subcontractor(s)?</entry>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                 <p xtrc="HD3">(End of provision) 
+</p>
+      </conbody>
+   </concept>
+</dita>

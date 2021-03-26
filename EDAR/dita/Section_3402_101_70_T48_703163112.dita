@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3402_101_70_T48_703163112">
+      <title class="- topic/title ">
+         <ph props="autonumber">3402.101-70</ph> Abbreviations and acronyms.</title>
+      <conbody>
+                                    <p xtrc="FP-1">CAO - Chief Acquisition Officer.
+</p>
+                                    <p xtrc="FP-1">CO - Contracting Officer.
+</p>
+                                    <p xtrc="FP-1">COR - Contracting Officer's Representative.
+</p>
+                                    <p xtrc="FP-1">FSA - Federal Student Aid.
+</p>
+                                    <p xtrc="FP-1">HCA - Head of the Contracting Activity.
+</p>
+                                    <p xtrc="FP-1">IPv6 - Internet Protocol version 6.
+</p>
+                                    <p xtrc="FP-1">OMB - Office of Management and Budget.
+</p>
+                                    <p xtrc="FP-1">OSDBU - Office of Small and Disadvantaged Business Utilization.
+</p>
+                                    <p xtrc="FP-1">PBO - Performance-Based Organization (Federal Student Aid).
+</p>
+                                    <p xtrc="FP-1">RFP - Request for Proposal.
+</p>
+                                    <p xtrc="FP-1">SBA - Small Business Administration.
+</p>
+                                    <p xtrc="FP-1">SPE - Senior Procurement Executive.</p>
+                                 </conbody>
+   </concept>
+</dita>
