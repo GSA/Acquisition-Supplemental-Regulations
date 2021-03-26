@@ -100,6 +100,11 @@ CellBody_Hanging_FL
   content: '_______________';
 }
 
+*[class *= 'LightBlueText']
+{
+color: #4863A0;
+}	
+
 *[class *= 'Right']
 {
   text-align: right;
@@ -323,6 +328,13 @@ li[class*= 'Runin'] > p{
     float:left;
     margin-bottom: 0px;
 }
+
+p[class*= 'Runin']{
+    margin-top: 0;
+    float:left;
+    margin-bottom: 0px;
+}
+
 [class *= 'Underline']:before
 {
     content: '__';
@@ -346,6 +358,10 @@ li[class*= 'Runin'] > p{
 {
     content: '✓';
     float:left;
+}
+
+input[type=checkbox], input[type=radio] {
+float: left;
 }
 
 
