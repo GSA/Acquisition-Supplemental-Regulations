@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2101_102_T48_607392112">
+      <title class="- topic/title ">
+         <ph props="autonumber">2101.102</ph> Authority.</title>
+      <conbody>
+         <p outputclass="List1">(a) The LIFAR is issued by the Director of the Office of Personnel Management in accordance with the authority of 5 U.S.C. Chapter 87 and other applicable laws and regulations.
+</p>
+         <p outputclass="List1">(b) The LIFAR does not replace or incorporate regulations found at 5 CFR part 870, which provide the substantive policy guidance for administration of the FEGLI Program under 5 U.S.C. chapter 87. The following is the order of precedence in interpreting a contract provision under the FEGLI Program:
+</p>
+         <p outputclass="List2">(1) 5 U.S.C. chapter 87.
+</p>
+         <p outputclass="List2">(2) 5 CFR part 870.
+</p>
+         <p outputclass="List2">(3) 48 CFR chapters 1 and 21.
+</p>
+         <p outputclass="List2">(4) The FEGLI Program contract.
+</p>
+      </conbody>
+   </concept>
+</dita>

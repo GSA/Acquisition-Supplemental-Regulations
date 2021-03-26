@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1516_307_T48_6013141110">
+      <title class="- topic/title ">
+         <ph props="autonumber">1516.307</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) The Contracting Officer shall insert the clause in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_216_71_T48_6018371132"
+                  href="Section_1552_216_71_T48_6018371132.dita#Section_1552_216_71_T48_6018371132">1552.216-71</xref>, Date of Incurrence of Cost, in cost-reimbursement contracts when an anticipatory cost letter has been issued on the project.
+</p>
+         <p outputclass="List1">(b) The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_216_74_T48_6018371135"
+                  href="Section_1552_216_74_T48_6018371135.dita#Section_1552_216_74_T48_6018371135">1552.216-74</xref>, Payment of Fee, in solicitations and contracts where a cost-reimbursement term form contract is contemplated, unless the Contracting Officer determines that such a provision would be detrimental to ensuring proper contract performance.
+</p>
+         <p outputclass="List1">(c) The Contracting Officer shall insert a clause substantially the same as 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_216_76_T48_6018371137"
+                  href="Section_1552_216_76_T48_6018371137.dita#Section_1552_216_76_T48_6018371137">1552.216-76</xref>, Estimated Cost and Cost-Sharing, in solicitations and contracts where the total incurred costs are shared by the contractor on a straight percentage basis. The Contracting Officer may develop other clauses, as appropriate, following the same approach, but reflecting different cost-sharing arrangements negotiated on specific contract actions. 
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_237_70_T48_6018371175">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.237-70</ph> Contract publication review procedures.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1537_110_T48_601631111"
+                  href="Section_1537_110_T48_601631111.dita#Section_1537_110_T48_601631111">1537.110</xref>, insert the following contract clause when the products of the contract are subject to contract publication review.
+</p>
+                                    <p xtrc="HD1">Contract Publication Review Procedures (APR 1984)
+</p>
+                                    <p outputclass="List1">(a) Material generated under this contract intended for release to the public is subject to the Agency's publication review process in accordance with the EPA Order on this subject and the following.
+</p>
+                                    <p outputclass="List1">(b) Except as indicated in paragraph (c) of this contract, the Contractor shall not independently publish or print material generated under this contract until after completion of the EPA review process. The Contracting Officer's Representative will notify the Contractor of review completion within __ calendar days after the Contractor's transmittal to the Contracting Officer's Representative of material generated under this contract. If the Contractor does not receive Contracting Officer's Representative notification within this period, the Contractor shall immediately notify the Contracting Officer in writing. 
+</p>
+                                    <p outputclass="List1">(c) The Contractor may publish, in a scientific journal, material resulting directly or indirectly from work performed under this contract, subject to the following:
+</p>
+                                    <p outputclass="List2">(1) The Contractor shall submit to the Contracting Officer and the Contracting Officer's Representative, at least 30 days prior to publication, a copy of any paper, article, or other dissemination of information intended for publication. 
+</p>
+                                    <p outputclass="List2">(2) The Contractor shall include the following statement in a journal article which has not been subjected to EPA review: “Although the research described in this article has been funded wholly or in part by the United States Environmental Protection Agency contract (number) to (Name of Contractor), it has not been subject to the Agency's review and therefore does not necessarily reflect the views of the Agency, and no official endorsement should be inferred.”
+</p>
+                                    <p outputclass="List2">(3) Following publication of the journal article, the Contractor shall submit five copies of the journal article to the Contracting Officer's Representative, and one copy to the Contracting Officer. 
+</p>
+                                    <p outputclass="List1">(d) If the Government has completed the review process and agreed that the contract material may be attributed to EPA, the Contractor shall include the following statement in the document:
+</p>
+                                    <p xtrc="P">This material has been funded wholly or in part by the United States Environmental Protection Agency under contract (number) to (name). It has been subject to the Agency's review, and it has been approved for publication as an EPA document. Mention of trade names or commercial products does not constitute endorsement or recommendation for use.
+</p>
+                                    <p outputclass="List1">(e) If the Government has completed the review process, but decides not to publish the material, the Contractor may independently publish and distribute the material for its own use and its own expense, and shall include the following statement in any independent publication:
+</p>
+                                    <p xtrc="P">Although the information described in this article has been funded wholly or in part by the United States Environmental Protection Agency under contract (number) to (name), it does not necessarily reflect the views of the Agency and no official endorsement should be inferred.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

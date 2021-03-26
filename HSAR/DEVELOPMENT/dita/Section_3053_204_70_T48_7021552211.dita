@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3053_204_70_T48_7021552211">
+      <title class="- topic/title ">
+         <ph props="autonumber">3053.204-70</ph> Administrative matters.</title>
+      <conbody>
+         <p xtrc="P">The following forms are prescribed for use in the closeout of applicable contracts, as specified in (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3004_804_570_T48_70285313"
+                  href="Section_3004_804_570_T48_70285313.dita#Section_3004_804_570_T48_70285313">3004.804-570</xref>:</p>
+         <p outputclass="List1">(a) DHS Form 700-1, Cumulative Claim and Reconciliation Statement. (See (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3004_804_570_T48_70285313"
+                  href="Section_3004_804_570_T48_70285313.dita#Section_3004_804_570_T48_70285313">3004.804-570</xref>(a)(3).)</p>
+         <p outputclass="List1">(b) DHS Form 700-2, Contractor's Assignment of Refunds, Rebates, Credits and Other Amounts. (See (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3004_804_570_T48_70285313"
+                  href="Section_3004_804_570_T48_70285313.dita#Section_3004_804_570_T48_70285313">3004.804-570</xref>(a)(2).)</p>
+         <p outputclass="List1">(c) DHS Form 700-3, Contractor Release. (See (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3004_804_570_T48_70285313"
+                  href="Section_3004_804_570_T48_70285313.dita#Section_3004_804_570_T48_70285313">3004.804-570</xref>(a)(1).)</p>
+      </conbody>
+   </concept>
+</dita>

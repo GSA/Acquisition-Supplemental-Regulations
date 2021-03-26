@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9904_420_40_T48_701026501191">
+      <title class="- topic/title ">
+         <ph props="autonumber">9904.420-40</ph> Fundamental requirement.</title>
+      <conbody>
+         <p outputclass="List1">(a) The basic unit for the identification and accumulation of Independent Research and Development (IR&amp;D) and Bid and Proposal (B&amp;P) costs shall be the individual IR&amp;D or B&amp;P project.
+</p>
+         <p outputclass="List1">(b) The IR&amp;D and B&amp;P project costs shall consist of all allocable costs, except business unit general and administrative expenses.
+</p>
+         <p outputclass="List1">(c) The IR&amp;D and B&amp;P cost pools consist of all IR&amp;D and B&amp;P project costs and other allocable costs, except business unit general and administrative expenses.
+</p>
+         <p outputclass="List1">(d) The IR&amp;D and B&amp;P cost pools of a home office shall be allocated to segments on the basis of the beneficial or causal relationship between the IR&amp;D and B&amp;P costs and the segments reporting to that home office.
+</p>
+         <p outputclass="List1">(e) The IR&amp;D and B&amp;P cost pools of a business unit shall be allocated to the final cost objectives of that business unit on the basis of the beneficial or causal relationship between the IR&amp;D and B&amp;P costs and the final cost objectives.
+</p>
+         <p props="Runin" outputclass="List1">(f)
+				</p><p outputclass="List2">(1) 
+			The B&amp;P costs incurred in a cost accounting period shall not be assigned to any other cost accounting period.
+</p>
+         <p outputclass="List2">(2) The IR&amp;D costs incurred in a cost accounting period shall not be assigned to any other cost accounting period, except as may be permitted pursuant to provisions of existing laws, regulations, and other controlling factors.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

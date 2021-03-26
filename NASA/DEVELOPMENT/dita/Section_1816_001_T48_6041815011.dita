@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1816_001_T48_6041815011">
+      <title class="- topic/title ">
+         <ph props="autonumber">1816.001</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this part - 
+</p>
+         <p xtrc="P">
+                                 <i>Earned award fee</i> means the payment of the full amount of an award fee evaluation period's score/rating.
+</p>
+         <p xtrc="P">
+                                 <i>Term-determining official</i> means the designated Agency official who reviews the recommendations of the Award-Term Board in determining whether the contractor is eligible for an award term.
+</p>
+         <p xtrc="P">
+                                 <i>Unearned award fee</i> means the difference between the available award fee pool amount for a given award fee evaluation period less the contractor's earned award fee amount for that same evaluation period.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9904_415_30_T48_701026501150">
+      <title class="- topic/title ">
+         <ph props="autonumber">9904.415-30</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The following are definitions of terms which are prominent in this Standard 9904.415. Other terms defined elsewhere in this Chapter 99 shall have the meanings ascribed to them in those definitions unless paragraph (b) of this section requires otherwise.
+</p>
+         <p outputclass="List2">(1) <i>Deferred compensation</i> means an award made by an employer to compensate an employee in a future cost accounting period or periods for services rendered in one or more cost accounting periods prior to the date of the receipt of compensation by the employee. This definition shall not include the amount of year end accruals for salaries, wages, or bonuses that are to be paid within a reasonable period of time after the end of a cost accounting period.
+</p>
+         <p outputclass="List2">(2) Employee Stock Ownership Plan (ESOP) means:
+</p>
+         <p outputclass="List3">(i) An employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code (IRC) of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock, and
+</p>
+         <p outputclass="List3">(ii) Any other deferred compensation plan designed to invest primarily in the stock of the contractor's corporation including, but not limited to, plans covered by ERISA.
+</p>
+         <p outputclass="List2">(3) Fair value means the amount that a seller would reasonably expect to receive in a current arm's length transaction between a willing buyer and a willing seller, other than a forced or liquidation sale.
+</p>
+         <p outputclass="List1">(b) The following modifications of terms defined elsewhere in this Chapter 99 are applicable to this Standard:
+</p>
+         <p outputclass="List2">(1) Market value means the current or prevailing price of a stock or other property as indicated by market quotations.
+</p>
+         <p outputclass="List2">(2) [Reserved]
+</p>
+      </conbody>
+   </concept>
+</dita>

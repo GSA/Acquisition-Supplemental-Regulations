@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_370_T48_6042239211">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.370</ph> NASA contract clauses.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_246_73_T48_604234411134"
+                  href="Section_1852_246_73_T48_604234411134.dita#Section_1852_246_73_T48_604234411134">1852.246-73</xref>, Human Space Flight Item, in solicitations and contracts for human space flight hardware and flight-related equipment if the highest available quality standards are necessary to ensure astronaut safety.
+</p>
+      </conbody>
+   </concept>
+</dita>

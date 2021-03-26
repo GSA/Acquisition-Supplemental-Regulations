@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1615_404_4_T48_6021110412">
+      <title class="- topic/title ">
+         <ph props="autonumber">1615.404-4</ph> Profit.</title>
+      <conbody>
+         <p outputclass="List1">(a) When the pricing of FEHB Program contracts is determined by cost analysis (experience-rated) or by a combination of cost and price analysis (community rated), OPM will determine a performance based percentage of the price using a weighted guidelines structured approach based on the profit analysis factors described in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1615_404_70_T48_6021110413"
+                  href="Section_1615_404_70_T48_6021110413.dita#Section_1615_404_70_T48_6021110413">1615.404-70</xref>. For experience-rated plans, OPM will use the performance based percentage so determined to develop the profit or fee prenegotiation objective, which will be the total profit (service charge) negotiated for the contract. For community-rated plans, OPM will use the performance based percentage so determined to develop an adjustment to net-to-carrier premiums, (performance adjustment) to be made during the first quarter of the following contract period.
+</p>
+         <p outputclass="List1">(b) OPM will not guarantee a minimum service charge.
+</p>
+      </conbody>
+   </concept>
+</dita>

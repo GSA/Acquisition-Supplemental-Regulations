@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_216_73_T48_6018371134">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.216-73</ph> Fixed rates for services - indefinite delivery/indefinite quantity contract.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1516_505_T48_601314311"
+                  href="Section_1516_505_T48_601314311.dita#Section_1516_505_T48_601314311">1516.505</xref>(b), insert the following clause to specify fixed rates for services in indefinite delivery/indefinite quantity contracts. When the contract contains options, the clause should be modified to reflect the information and data for the base period and any option periods. 
+</p>
+                                    <p xtrc="HD1">Fixed Rates for Services - Indefinite Delivery/Indefinite Quantity Contract (APR 1984)
+</p>
+                                    <p xtrc="P">The following fixed rates shall apply for payment purposes for the duration of the contact. 
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="5" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <colspec colnum="5" colname="5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Personnel classification 
+</entry>
+                                                <entry colname="2">Skill level 
+</entry>
+                                                <entry colname="3">Estimated direct labor hours 
+</entry>
+                                                <entry colname="4">Fixed hourly rate 
+</entry>
+                                                <entry colname="5">Total 
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                                <entry colname="4" align="right"/>
+                                                <entry colname="5" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                                <entry colname="4" align="right"/>
+                                                <entry colname="5" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                                <entry colname="4" align="right"/>
+                                                <entry colname="5" align="right"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="right"/>
+                                                <entry colname="3" align="right"/>
+                                                <entry colname="4" align="right"/>
+                                                <entry colname="5" align="right"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p xtrc="P">The rate, or rates, set forth above cover all expenses, including report preparation, salaries, overhead, general and administrative expenses, and profit.
+</p>
+                                    <p xtrc="P">The Contractor shall voucher for only the time of the personnel whose services are applied directly to the work called for in individual Delivery Orders and accepted by the EPA Project Officer. The Government shall pay the Contractor for the life of a delivery order at rates in effect when the delivery order was issued, even if performance under the delivery order crosses into another period. The Contractor shall maintain time and labor distribution records for all employees who work under the contract. These records must document time worked and work performed by each individual on all Delivery Orders.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_232_70_T48_60423441185">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.232-70</ph> NASA modification of FAR 52.232-12.</title>
+      <conbody>
+         <p xtrc="P">As prescribed at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1832_412_70_T48_6042026312"
+                  href="Section_1832_412_70_T48_6042026312.dita#Section_1832_412_70_T48_6042026312">1832.412-70</xref>, make the following modifications:
+</p>
+                                    <p xtrc="HD1">NASA Modification of FAR 52.232-12, (MAR 1998)
+</p>
+                                    <p props="Runin" outputclass="List1">(a) <i>Basic clause.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			In paragraph (e), Maximum Payment, in the sentence that begins “When the sum of,” change the word “When” to lower case and insert before it: “Unliquidated advance payments shall not exceed $__ at any time outstanding. In addition. * * *.”
+</p>
+                                    <p outputclass="List2">(2) In paragraph (m)(1), delete “in the form prescribed by the administering office” and substitute “and Standard Form 425, Federal Financial Report.”
+</p>
+                                    <p outputclass="List1">(b) Alternate II (if incorporated in the contract). In paragraph (e), Maximum Payment, in the sentence that begins “When the sum of,” change the word “When” to lower case and insert before it: “Unliquidated advance payments shall not exceed $__ at any time outstanding. In addition. * * *.”
+</p>
+                                    <p outputclass="List1">(c) Alternate V (if incorporated in the contract). 
+				</p>
+         <p outputclass="List2">(1) 
+			Substitute the following for paragraph (b): “(b) Use of funds. The Contractor may use advance payment funds only to pay for properly allocable, allowable, and reasonable costs for direct materials, direct labor, indirect costs, or such other costs approved in writing by the administering contracting office. Payments are subject to any restrictions in other clauses of this contract. Determinations of whether costs are properly allocable, allowable, and reasonable shall be in accordance with generally accepted accounting principles, subject to any applicable subparts of part 31 of the Federal Acquisition Regulation, other applicable regulations referenced in part 31, or subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_1831_2_T48_60420251"
+                  href="Subpart_1831_2_T48_60420251.dita#Subpart_1831_2_T48_60420251">1831.2</xref>.”</p>
+                                    <p xtrc="P">(2) In paragraph (d), Maximum Payment, in the sentence that begins “When the sum of,” change the word “When” to lower case and insert before it: “Unliquidated advance payments shall not exceed $__ at any time outstanding. In addition. * * *.”
+</p>
+                                    <p xtrc="P">(3) In paragraph (j)(1), insert between “statements,” and “and” “together with Standard Form 425, Federal Financial Report”.
+</p>
+                                    <p xtrc="P">(4) If this is a Phase I contract awarded under the SBIR or STTR programs, delete paragraph (a) and substitute the following: “(a) Requirements for payment. Advance payments will be made under this contract upon receipt of invoices from the Contractor. Invoices should be clearly marked “Small Business Innovation Research Contract” or “Small Business Technology Transfer Contract,” as appropriate, to expedite payment processing. One-third of the total contract price will be available to be advanced to the contractor immediately after award, another one-third will be advanced three months after award, and the final one-third will be paid upon acceptance by NASA of the Contractor's final report. By law, full payment must be made no later than 12 months after the date that contract requirements are completed. The Contractor shall flow down the terms of this clause to any subcontractor requiring advance payments.”</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

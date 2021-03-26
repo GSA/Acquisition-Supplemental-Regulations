@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
+<map outputclass="dfars" otherprops="String2Xref">
+   <title> CHAPTER 29 - DEPARTMENT OF LABOR</title>
+   <topicref navtitle="Volume Number"
+             href="VolumeChapter_29_T48_701.dita"
+             props="CHAPTER 29"
+             outputclass="Volume">
+      <topicref navtitle="Chapter Title"
+                href="Chapter_29_T48_701.dita"
+                props="CHAPTER 29"/>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER A - GENERAL&#xA;&#xA;&#xA;"
+             href="Subchapter_A_T48_7011.dita"
+             props="SUBCHAPTER A"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e394725.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2900 [RESERVED]&#xA;&#xA;&#xA;"
+                   href="Part_2900_T48_70111.dita"
+                   props="PART 2900"
+                   outputclass="Part"/>
+         <topicref navtitle="PART 2901 - DEPARTMENT OF LABOR ACQUISITION REGULATION SYSTEM &#xA;"
+                   href="Part_2901_T48_70112.dita"
+                   props="PART 2901"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2901.0 - Scope of Subpart"
+                      href="tce_48_701121.dita"
+                      props="Subpart 2901.0"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.001   Scope of part."
+                         href="Section_2901_001_T48_70112111.dita"
+                         props="2901.001"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.1 - Purpose, Authority, Issuance"
+                      href="Subpart_2901_1_T48_701122.dita"
+                      props="Subpart 2901.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.101   Purpose."
+                         href="Section_2901_101_T48_70112211.dita"
+                         props="2901.101"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.103   Authority."
+                         href="Section_2901_103_T48_70112212.dita"
+                         props="2901.103"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.105-2   Arrangement of regulations."
+                         href="Section_2901_105_2_T48_70112213.dita"
+                         props="2901.105-2"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.105-3   Copies."
+                         href="Section_2901_105_3_T48_70112214.dita"
+                         props="2901.105-3"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.2 - Administration"
+                      href="Subpart_2901_2_T48_701123.dita"
+                      props="Subpart 2901.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.201-1   Maintenance of the FAR."
+                         href="Section_2901_201_1_T48_70112311.dita"
+                         props="2901.201-1"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.3 - Agency Acquisition Regulations"
+                      href="Subpart_2901_3_T48_701124.dita"
+                      props="Subpart 2901.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.302   Limitations."
+                         href="Section_2901_302_T48_70112411.dita"
+                         props="2901.302"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.304   Agency control and compliance procedures."
+                         href="Section_2901_304_T48_70112412.dita"
+                         props="2901.304"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.4 - Deviations From the FAR and DOLAR"
+                      href="Subpart_2901_4_T48_701125.dita"
+                      props="Subpart 2901.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.403   Individual deviations from the FAR."
+                         href="Section_2901_403_T48_70112511.dita"
+                         props="2901.403"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.404   Class deviations."
+                         href="Section_2901_404_T48_70112512.dita"
+                         props="2901.404"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.405   Deviations pertaining to treaties and executive agreements."
+                         href="Section_2901_405_T48_70112513.dita"
+                         props="2901.405"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.6 - Career Development, Contracting Authority, and Responsibilities"
+                      href="Subpart_2901_6_T48_701126.dita"
+                      props="Subpart 2901.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.601   General."
+                         href="Section_2901_601_T48_70112611.dita"
+                         props="2901.601"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.602   Contracting officers."
+                         href="Section_2901_602_T48_70112612.dita"
+                         props="2901.602"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.602-1   Authority."
+                         href="Section_2901_602_1_T48_70112613.dita"
+                         props="2901.602-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.602-3   Ratification of unauthorized commitments."
+                         href="Section_2901_602_3_T48_70112614.dita"
+                         props="2901.602-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603   Selection, appointment, and termination of appointment."
+                         href="Section_2901_603_T48_70112615.dita"
+                         props="2901.603"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-1   General."
+                         href="Section_2901_603_1_T48_70112616.dita"
+                         props="2901.603-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-3   Appointment."
+                         href="Section_2901_603_3_T48_70112617.dita"
+                         props="2901.603-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-4   Terminations."
+                         href="Section_2901_603_4_T48_70112618.dita"
+                         props="2901.603-4"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-70   Responsibility of other government personnel."
+                         href="Section_2901_603_70_T48_70112619.dita"
+                         props="2901.603-70"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-71   Contracting Officer's Technical Representatives (COTR)."
+                         href="Section_2901_603_71_T48_701126110.dita"
+                         props="2901.603-71"
+                         outputclass="Section"/>
+               <topicref navtitle="2901.603-72   Administrative procurement management reviews."
+                         href="Section_2901_603_72_T48_701126111.dita"
+                         props="2901.603-72"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2901.7 - Determinations and Findings"
+                      href="Subpart_2901_7_T48_701127.dita"
+                      props="Subpart 2901.7"
+                      outputclass="SubPart">
+               <topicref navtitle="2901.707   Signatory authority."
+                         href="Section_2901_707_T48_70112711.dita"
+                         props="2901.707"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2902 - DEFINITIONS OF WORDS AND TERMS &#xA;"
+                   href="Part_2902_T48_70113.dita"
+                   props="PART 2902"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2.1 - Definitions"
+                      href="Subpart_2_1_T48_701131.dita"
+                      props="Subpart 2.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2902.101   Definitions."
+                         href="Section_2902_101_T48_70113111.dita"
+                         props="2902.101"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2903 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST &#xA;"
+                   href="Part_2903_T48_70114.dita"
+                   props="PART 2903"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2903.1 - Safeguards"
+                      href="Subpart_2903_1_T48_701141.dita"
+                      props="Subpart 2903.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2903.101   Standards of conduct."
+                         href="Section_2903_101_T48_70114111.dita"
+                         props="2903.101"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.101-1   General."
+                         href="Section_2903_101_1_T48_70114112.dita"
+                         props="2903.101-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.104   Procurement integrity."
+                         href="Section_2903_104_T48_70114113.dita"
+                         props="2903.104"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.104-3   Definitions."
+                         href="Section_2903_104_3_T48_70114114.dita"
+                         props="2903.104-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.104-5   Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
+                         href="Section_2903_104_5_T48_70114115.dita"
+                         props="2903.104-5"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.104-7   Violations or possible violations of standards of conduct."
+                         href="Section_2903_104_7_T48_70114116.dita"
+                         props="2903.104-7"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2903.2 - Contractor Gratuities to Government Personnel"
+                      href="Subpart_2903_2_T48_701142.dita"
+                      props="Subpart 2903.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2903.203   Reporting suspected violations of the Gratuities clause."
+                         href="Section_2903_203_T48_70114211.dita"
+                         props="2903.203"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.204   Treatment of violations."
+                         href="Section_2903_204_T48_70114212.dita"
+                         props="2903.204"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2903.6 - Contracts With Government Employees or Organizations Owned or Controlled by Them"
+                      href="Subpart_2903_6_T48_701143.dita"
+                      props="Subpart 2903.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2903.601   Policy."
+                         href="Section_2903_601_T48_70114311.dita"
+                         props="2903.601"
+                         outputclass="Section"/>
+               <topicref navtitle="2903.602   Exceptions."
+                         href="Section_2903_602_T48_70114312.dita"
+                         props="2903.602"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2904 - ADMINISTRATIVE MATTERS &#xA;"
+                   href="Part_2904_T48_70115.dita"
+                   props="PART 2904"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2904.8 - Government Contract Files"
+                      href="Subpart_2904_8_T48_701151.dita"
+                      props="Subpart 2904.8"
+                      outputclass="SubPart">
+               <topicref navtitle="2904.800-70   Contents of contract files."
+                         href="Section_2904_800_70_T48_70115111.dita"
+                         props="2904.800-70"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER B - ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+             href="Subchapter_B_T48_7012.dita"
+             props="SUBCHAPTER B"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e395780.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2905 - PUBLICIZING CONTRACT ACTIONS&#xA;"
+                   href="Part_2905_T48_70126.dita"
+                   props="PART 2905"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2905.1 - Dissemination of Information"
+                      href="Subpart_2905_1_T48_701261.dita"
+                      props="Subpart 2905.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2905.101   Methods of disseminating information."
+                         href="Section_2905_101_T48_70126111.dita"
+                         props="2905.101"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2905.2 - Synopsis of Proposed Contract Actions"
+                      href="Subpart_2905_2_T48_701262.dita"
+                      props="Subpart 2905.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2905.202   Exceptions."
+                         href="Section_2905_202_T48_70126211.dita"
+                         props="2905.202"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2905.4 - Release Of Information"
+                      href="Subpart_2905_4_T48_701263.dita"
+                      props="Subpart 2905.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2905.402   General public."
+                         href="Section_2905_402_T48_70126311.dita"
+                         props="2905.402"
+                         outputclass="Section"/>
+               <topicref navtitle="2905.403   Requests from Members of Congress."
+                         href="Section_2905_403_T48_70126312.dita"
+                         props="2905.403"
+                         outputclass="Section"/>
+               <topicref navtitle="2905.404   Release procedures."
+                         href="Section_2905_404_T48_70126313.dita"
+                         props="2905.404"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2905.5 - Paid Advertisements"
+                      href="Subpart_2905_5_T48_701264.dita"
+                      props="Subpart 2905.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2905.501   Scope."
+                         href="Section_2905_501_T48_70126411.dita"
+                         props="2905.501"
+                         outputclass="Section"/>
+               <topicref navtitle="2905.502   Authority."
+                         href="Section_2905_502_T48_70126412.dita"
+                         props="2905.502"
+                         outputclass="Section"/>
+               <topicref navtitle="2905.503   Procedures."
+                         href="Section_2905_503_T48_70126413.dita"
+                         props="2905.503"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2906 - COMPETITION REQUIREMENTS&#xA;"
+                   href="Part_2906_T48_70127.dita"
+                   props="PART 2906"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2906.3 - Other Than Full and Open Competition"
+                      href="Subpart_2906_3_T48_701271.dita"
+                      props="Subpart 2906.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2906.301   Policy."
+                         href="Section_2906_301_T48_70127111.dita"
+                         props="2906.301"
+                         outputclass="Section"/>
+               <topicref navtitle="2906.303   Justifications."
+                         href="Section_2906_303_T48_70127112.dita"
+                         props="2906.303"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2906.5 - Competition Advocate"
+                      href="Subpart_2906_5_T48_701272.dita"
+                      props="Subpart 2906.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2906.501   Requirement."
+                         href="Section_2906_501_T48_70127211.dita"
+                         props="2906.501"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2907 - ACQUISITION PLANNING&#xA;"
+                   href="Part_2907_T48_70128.dita"
+                   props="PART 2907"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2907.1 - Acquisition Plans"
+                      href="Subpart_2907_1_T48_701281.dita"
+                      props="Subpart 2907.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2907.105   Contents of written acquisition plans."
+                         href="Section_2907_105_T48_70128111.dita"
+                         props="2907.105"
+                         outputclass="Section"/>
+               <topicref navtitle="2907.107   Additional requirements for acquisitions involving bundling."
+                         href="Section_2907_107_T48_70128112.dita"
+                         props="2907.107"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2907.3 - Contractor Versus Government Performance"
+                      href="Subpart_2907_3_T48_701282.dita"
+                      props="Subpart 2907.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2907.300   Availability of inventory."
+                         href="Section_2907_300_T48_70128211.dita"
+                         props="2907.300"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2908 - REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;"
+                   href="Part_2908_T48_70129.dita"
+                   props="PART 2908"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2908.4 - Federal Supply Schedules"
+                      href="Subpart_2908_4_T48_701291.dita"
+                      props="Subpart 2908.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2908.404   Using schedules."
+                         href="Section_2908_404_T48_70129111.dita"
+                         props="2908.404"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2909 - CONTRACTOR QUALIFICATIONS&#xA;"
+                   href="Part_2909_T48_701210.dita"
+                   props="PART 2909"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2909.1 - Responsible Prospective Contractors"
+                      href="Subpart_2909_1_T48_7012101.dita"
+                      props="Subpart 2909.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2909.105   Procedures."
+                         href="Section_2909_105_T48_701210111.dita"
+                         props="2909.105"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2909.4 - Debarment, Suspension, and Ineligibility"
+                      href="Subpart_2909_4_T48_7012102.dita"
+                      props="Subpart 2909.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2909.402   Policy."
+                         href="Section_2909_402_T48_701210211.dita"
+                         props="2909.402"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.405   Effect of listing."
+                         href="Section_2909_405_T48_701210212.dita"
+                         props="2909.405"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.405-1   Continuation of current contracts."
+                         href="Section_2909_405_1_T48_701210213.dita"
+                         props="2909.405-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.406   Debarment."
+                         href="Section_2909_406_T48_701210214.dita"
+                         props="2909.406"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.406-1   General."
+                         href="Section_2909_406_1_T48_701210215.dita"
+                         props="2909.406-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.406-3   Procedures."
+                         href="Section_2909_406_3_T48_701210216.dita"
+                         props="2909.406-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.407   Suspension."
+                         href="Section_2909_407_T48_701210217.dita"
+                         props="2909.407"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.407-1   General."
+                         href="Section_2909_407_1_T48_701210218.dita"
+                         props="2909.407-1"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2909.5 - Organizational and Consultant Conflicts of Interest"
+                      href="Subpart_2909_5_T48_7012103.dita"
+                      props="Subpart 2909.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2909.503   Waiver."
+                         href="Section_2909_503_T48_701210311.dita"
+                         props="2909.503"
+                         outputclass="Section"/>
+               <topicref navtitle="2909.506   Procedures."
+                         href="Section_2909_506_T48_701210312.dita"
+                         props="2909.506"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2910 - MARKET RESEARCH&#xA;"
+                   href="Part_2910_T48_701211.dita"
+                   props="PART 2910"
+                   outputclass="Part">
+            <topicref navtitle="2910.002   Procedures."
+                      href="Section_2910_002_T48_701211011.dita"
+                      props="2910.002"
+                      outputclass="Section"/>
+         </topicref>
+         <topicref navtitle="PART 2911 - DESCRIBING AGENCY NEEDS&#xA;"
+                   href="Part_2911_T48_701212.dita"
+                   props="PART 2911"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2911.1 - Selecting And Developing Requirements Documents"
+                      href="Subpart_2911_1_T48_7012121.dita"
+                      props="Subpart 2911.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2911.103   Market acceptance."
+                         href="Section_2911_103_T48_701212111.dita"
+                         props="2911.103"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2911.5 - Liquidated Damages"
+                      href="Subpart_2911_5_T48_7012122.dita"
+                      props="Subpart 2911.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2911.501   Policy."
+                         href="Section_2911_501_T48_701212211.dita"
+                         props="2911.501"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2912 - ACQUISITION OF COMMERCIAL ITEMS&#xA;"
+                   href="Part_2912_T48_701213.dita"
+                   props="PART 2912"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2912.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
+                      href="Subpart_2912_3_T48_7012131.dita"
+                      props="Subpart 2912.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2912.302   Tailoring of provisions and clauses for the acquisition of commercial items."
+                         href="Section_2912_302_T48_701213111.dita"
+                         props="2912.302"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2913 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+                   href="Part_2913_T48_701214.dita"
+                   props="PART 2913"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2913.1 - Procedures"
+                      href="Subpart_2913_1_T48_7012141.dita"
+                      props="Subpart 2913.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2913.106-3   Soliciting competition, evaluation of quotations or offers, award and documentation."
+                         href="Section_2913_106_3_T48_701214111.dita"
+                         props="2913.106-3"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2913.2 - Actions at or Below the Micro-Purchase Threshold"
+                      href="Subpart_2913_2_T48_7012142.dita"
+                      props="Subpart 2913.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2913.201   General."
+                         href="Section_2913_201_T48_701214211.dita"
+                         props="2913.201"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2913.3 - Simplified Acquisition Methods"
+                      href="Subpart_2913_3_T48_7012143.dita"
+                      props="Subpart 2913.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2913.301   Governmentwide commercial purchase card."
+                         href="Section_2913_301_T48_701214311.dita"
+                         props="2913.301"
+                         outputclass="Section"/>
+               <topicref navtitle="2913.307   Forms."
+                         href="Section_2913_307_T48_701214312.dita"
+                         props="2913.307"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER C - CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
+             href="Subchapter_C_T48_7013.dita"
+             props="SUBCHAPTER C"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e396543.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2914 - SEALED BIDDING&#xA;"
+                   href="Part_2914_T48_701315.dita"
+                   props="PART 2914"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2914.4 - Opening of Bids and Award of Contract"
+                      href="Subpart_2914_4_T48_7013151.dita"
+                      props="Subpart 2914.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2914.404-1   Cancellation of invitations after opening."
+                         href="Section_2914_404_1_T48_701315111.dita"
+                         props="2914.404-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2914.407-3   Other mistakes disclosed before award."
+                         href="Section_2914_407_3_T48_701315112.dita"
+                         props="2914.407-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2914.408   Award."
+                         href="Section_2914_408_T48_701315113.dita"
+                         props="2914.408"
+                         outputclass="Section"/>
+               <topicref navtitle="2914.408-1   General."
+                         href="Section_2914_408_1_T48_701315114.dita"
+                         props="2914.408-1"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2915 - CONTRACTING BY NEGOTIATION&#xA;"
+                   href="Part_2915_T48_701316.dita"
+                   props="PART 2915"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2915.4 - Contract Pricing"
+                      href="Subpart_2915_4_T48_7013161.dita"
+                      props="Subpart 2915.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2915.405-70   Determining fair and reasonable price."
+                         href="Section_2915_405_70_T48_701316111.dita"
+                         props="2915.405-70"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2915.5 - Preaward, Award, and Postaward Notifications, Protests, and Mistakes"
+                      href="Subpart_2915_5_T48_7013162.dita"
+                      props="Subpart 2915.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2915.508   Discovery of mistakes."
+                         href="Section_2915_508_T48_701316211.dita"
+                         props="2915.508"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2915.6 - Unsolicited Proposals"
+                      href="Subpart_2915_6_T48_7013163.dita"
+                      props="Subpart 2915.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2915.604   Agency points of contact."
+                         href="Section_2915_604_T48_701316311.dita"
+                         props="2915.604"
+                         outputclass="Section"/>
+               <topicref navtitle="2915.605   Content of unsolicited proposals."
+                         href="Section_2915_605_T48_701316312.dita"
+                         props="2915.605"
+                         outputclass="Section"/>
+               <topicref navtitle="2915.606   Agency procedures."
+                         href="Section_2915_606_T48_701316313.dita"
+                         props="2915.606"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2916 - CONTRACT TYPES&#xA;"
+                   href="Part_2916_T48_701317.dita"
+                   props="PART 2916"
+                   outputclass="Part">
+            <topicref navtitle="2916.000   Scope of part."
+                      href="Section_2916_000_T48_701317011.dita"
+                      props="2916.000"
+                      outputclass="Section"/>
+            <topicref navtitle="Subpart 2916.5 - Indefinite-Delivery Contracts"
+                      href="Subpart_2916_5_T48_7013171.dita"
+                      props="Subpart 2916.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2916.505   Ordering."
+                         href="Section_2916_505_T48_701317111.dita"
+                         props="2916.505"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2916.6 - Time-and-Materials, Labor-Hour, and Letter Contracts"
+                      href="Subpart_2916_6_T48_7013172.dita"
+                      props="Subpart 2916.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2916.603-2   Application."
+                         href="Section_2916_603_2_T48_701317211.dita"
+                         props="2916.603-2"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2917 - SPECIAL CONTRACTING METHODS&#xA;"
+                   href="Part_2917_T48_701318.dita"
+                   props="PART 2917"
+                   outputclass="Part">
+            <topicref navtitle="2917.000   Scope of part."
+                      href="Section_2917_000_T48_701318011.dita"
+                      props="2917.000"
+                      outputclass="Section"/>
+            <topicref navtitle="Subpart 2917.2 - Options"
+                      href="Subpart_2917_2_T48_7013181.dita"
+                      props="Subpart 2917.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2917.202   Use of options."
+                         href="Section_2917_202_T48_701318111.dita"
+                         props="2917.202"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.207   Exercising options."
+                         href="Section_2917_207_T48_701318112.dita"
+                         props="2917.207"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2917.5 - Interagency Acquisitions Under The Economy Act"
+                      href="Subpart_2917_5_T48_7013182.dita"
+                      props="Subpart 2917.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2917.500   Scope of subpart."
+                         href="Section_2917_500_T48_701318211.dita"
+                         props="2917.500"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.501   Definitions."
+                         href="Section_2917_501_T48_701318212.dita"
+                         props="2917.501"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.502   General."
+                         href="Section_2917_502_T48_701318213.dita"
+                         props="2917.502"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.503   Determinations and findings requirements."
+                         href="Section_2917_503_T48_701318214.dita"
+                         props="2917.503"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.504   Ordering procedures."
+                         href="Section_2917_504_T48_701318215.dita"
+                         props="2917.504"
+                         outputclass="Section"/>
+               <topicref navtitle="2917.504-70   Signature authority and internal procedures."
+                         href="Section_2917_504_70_T48_701318216.dita"
+                         props="2917.504-70"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER D - SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
+             href="Subchapter_D_T48_7014.dita"
+             props="SUBCHAPTER D"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e397063.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2918 [RESERVED]&#xA;&#xA;&#xA;"
+                   href="Part_2918_T48_701419.dita"
+                   props="PART 2918"
+                   outputclass="Part"/>
+         <topicref navtitle="PART 2919 - SMALL BUSINESS AND SMALL DISADVANTAGED BUSINESS CONCERNS&#xA;"
+                   href="Part_2919_T48_701420.dita"
+                   props="PART 2919"
+                   outputclass="Part">
+            <topicref navtitle="2919.000   Scope of part."
+                      href="Section_2919_000_T48_701420011.dita"
+                      props="2919.000"
+                      outputclass="Section"/>
+            <topicref navtitle="Subpart 2919.2 - Policies"
+                      href="Subpart_2919_2_T48_7014201.dita"
+                      props="Subpart 2919.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2919.201   General policy."
+                         href="Section_2919_201_T48_701420111.dita"
+                         props="2919.201"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.202   Specific policies."
+                         href="Section_2919_202_T48_701420112.dita"
+                         props="2919.202"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.202-1   Encouraging small business participation in acquisitions."
+                         href="Section_2919_202_1_T48_701420113.dita"
+                         props="2919.202-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.202-2   Locating small business sources."
+                         href="Section_2919_202_2_T48_701420114.dita"
+                         props="2919.202-2"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2919.5 - Set-Asides for Small Business"
+                      href="Subpart_2919_5_T48_7014202.dita"
+                      props="Subpart 2919.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2919.502   Setting aside acquisitions."
+                         href="Section_2919_502_T48_701420211.dita"
+                         props="2919.502"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.505   Rejecting Small Business Administration recommendations."
+                         href="Section_2919_505_T48_701420212.dita"
+                         props="2919.505"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2919.7 - The Small Business Subcontracting Program"
+                      href="Subpart_2919_7_T48_7014203.dita"
+                      props="Subpart 2919.7"
+                      outputclass="SubPart">
+               <topicref navtitle="2919.704   Subcontracting plan requirements."
+                         href="Section_2919_704_T48_701420311.dita"
+                         props="2919.704"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.705-1   General support for the program."
+                         href="Section_2919_705_1_T48_701420312.dita"
+                         props="2919.705-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.705-5   Awards involving subcontracting plans."
+                         href="Section_2919_705_5_T48_701420313.dita"
+                         props="2919.705-5"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.705-6   Post-award responsibilities of the contracting officer."
+                         href="Section_2919_705_6_T48_701420314.dita"
+                         props="2919.705-6"
+                         outputclass="Section"/>
+               <topicref navtitle="2919.706   Responsibilities of the cognizant administrative contracting officer."
+                         href="Section_2919_706_T48_701420315.dita"
+                         props="2919.706"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2919.8 - Contracting with the Small Business Administration (The 8(a) Program)"
+                      href="Subpart_2919_8_T48_7014204.dita"
+                      props="Subpart 2919.8"
+                      outputclass="SubPart">
+               <topicref navtitle="2919.812   Contract administration."
+                         href="Section_2919_812_T48_701420411.dita"
+                         props="2919.812"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2920-2921 [RESERVED] &#xA;&#xA;&#xA;"
+                   href="Part_2920_2921_T48_701421.dita"
+                   props="PARTS 2920-2921 [RESERVED]"
+                   outputclass="Part"/>
+         <topicref navtitle="PART 2922 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS &#xA;"
+                   href="Part_2922_T48_701422.dita"
+                   props="PART 2922"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2922.1 - Basic Labor Policies"
+                      href="Subpart_2922_1_T48_7014221.dita"
+                      props="Subpart 2922.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2922.101-3   Reporting labor disputes."
+                         href="Section_2922_101_3_T48_701422111.dita"
+                         props="2922.101-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2922.101-4   Removal of items from contractor facilities affected by work stoppages."
+                         href="Section_2922_101_4_T48_701422112.dita"
+                         props="2922.101-4"
+                         outputclass="Section"/>
+               <topicref navtitle="2922.103-4   Approvals."
+                         href="Section_2922_103_4_T48_701422113.dita"
+                         props="2922.103-4"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2922.8 - Equal Employment Opportunity"
+                      href="Subpart_2922_8_T48_7014222.dita"
+                      props="Subpart 2922.8"
+                      outputclass="SubPart">
+               <topicref navtitle="2922.802   General."
+                         href="Section_2922_802_T48_701422211.dita"
+                         props="2922.802"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2923 - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE &#xA;"
+                   href="Part_2923_T48_701423.dita"
+                   props="PART 2923"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2923.2 - Energy And Water Efficiency and Renewable Energy"
+                      href="Subpart_2923_2_T48_7014231.dita"
+                      props="Subpart 2923.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2923.271   Purchase and use of environmentally sound and energy efficient products and services."
+                         href="Section_2923_271_T48_701423111.dita"
+                         props="2923.271"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2924-2927 [RESERVED] &#xA;&#xA;&#xA;"
+                   href="Part_2924_2927_T48_701424.dita"
+                   props="PARTS 2924-2927 [RESERVED]"
+                   outputclass="Part"/>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER E - GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
+             href="Subchapter_E_T48_7015.dita"
+             props="SUBCHAPTER E"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e397438.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2928 - BONDS AND INSURANCE &#xA;"
+                   href="Part_2928_T48_701525.dita"
+                   props="PART 2928"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2928.2 - Sureties and Other Security for Bonds"
+                      href="Subpart_2928_2_T48_7015251.dita"
+                      props="Subpart 2928.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2928.204   Alternatives in lieu of corporate or individual sureties."
+                         href="Section_2928_204_T48_701525111.dita"
+                         props="2928.204"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2928.3 - Insurance"
+                      href="Subpart_2928_3_T48_7015252.dita"
+                      props="Subpart 2928.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2928.305   Overseas workers' compensation and war hazard insurance."
+                         href="Section_2928_305_T48_701525211.dita"
+                         props="2928.305"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2929 - TAXES &#xA;"
+                   href="Part_2929_T48_701526.dita"
+                   props="PART 2929"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2929.1 - General"
+                      href="Subpart_2929_1_T48_7015261.dita"
+                      props="Subpart 2929.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2929.101   Resolving tax problems."
+                         href="Section_2929_101_T48_701526111.dita"
+                         props="2929.101"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2929.3 - State and Local Taxes"
+                      href="Subpart_2929_3_T48_7015262.dita"
+                      props="Subpart 2929.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2929.303   Applications of state and local taxes to Government contractors and subcontractors."
+                         href="Section_2929_303_T48_701526211.dita"
+                         props="2929.303"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2930 - COST ACCOUNTING STANDARDS ADMINISTRATION &#xA;"
+                   href="Part_2930_T48_701527.dita"
+                   props="PART 2930"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2930.2 - CAS Program Requirements"
+                      href="Subpart_2930_2_T48_7015271.dita"
+                      props="Subpart 2930.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2930.201-5   Waiver."
+                         href="Section_2930_201_5_T48_701527111.dita"
+                         props="2930.201-5"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2931 - CONTRACT COST PRINCIPLES AND PROCEDURES &#xA;"
+                   href="Part_2931_T48_701528.dita"
+                   props="PART 2931"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2931.1 - Applicability"
+                      href="Subpart_2931_1_T48_7015281.dita"
+                      props="Subpart 2931.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2931.101   Objectives."
+                         href="Section_2931_101_T48_701528111.dita"
+                         props="2931.101"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2932 - CONTRACT FINANCING &#xA;"
+                   href="Part_2932_T48_701529.dita"
+                   props="PART 2932"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2932.4 - Advance Payments for Non-Commercial Items"
+                      href="Subpart_2932_4_T48_7015291.dita"
+                      props="Subpart 2932.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2932.402   General."
+                         href="Section_2932_402_T48_701529111.dita"
+                         props="2932.402"
+                         outputclass="Section"/>
+               <topicref navtitle="2932.407   Interest."
+                         href="Section_2932_407_T48_701529112.dita"
+                         props="2932.407"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2932.7 - Contract Funding"
+                      href="Subpart_2932_7_T48_7015292.dita"
+                      props="Subpart 2932.7"
+                      outputclass="SubPart">
+               <topicref navtitle="2932.703   Contract funding requirements."
+                         href="Section_2932_703_T48_701529211.dita"
+                         props="2932.703"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2933 - PROTESTS, DISPUTES, AND APPEALS &#xA;"
+                   href="Part_2933_T48_701530.dita"
+                   props="PART 2933"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2933.1 - Protests"
+                      href="Subpart_2933_1_T48_7015301.dita"
+                      props="Subpart 2933.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2933.102   General."
+                         href="Section_2933_102_T48_701530111.dita"
+                         props="2933.102"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.103   Protests to the agency."
+                         href="Section_2933_103_T48_701530112.dita"
+                         props="2933.103"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.104   Protests to GAO."
+                         href="Section_2933_104_T48_701530113.dita"
+                         props="2933.104"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2933.2 - Disputes and Appeals"
+                      href="Subpart_2933_2_T48_7015302.dita"
+                      props="Subpart 2933.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2933.203   Applicability."
+                         href="Section_2933_203_T48_701530211.dita"
+                         props="2933.203"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.209   Suspected fraudulent claims."
+                         href="Section_2933_209_T48_701530212.dita"
+                         props="2933.209"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.211   Contracting officer's decision."
+                         href="Section_2933_211_T48_701530213.dita"
+                         props="2933.211"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.212   Contracting officer's duties upon appeal."
+                         href="Section_2933_212_T48_701530214.dita"
+                         props="2933.212"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.213   Obligation to continue performance."
+                         href="Section_2933_213_T48_701530215.dita"
+                         props="2933.213"
+                         outputclass="Section"/>
+               <topicref navtitle="2933.270   Department of Labor Board of Contract Appeals."
+                         href="Section_2933_270_T48_701530216.dita"
+                         props="2933.270"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2934-2935 [RESERVED] &#xA;&#xA;&#xA;"
+                   href="Part_2934_2935_T48_701531.dita"
+                   props="PARTS 2934-2935 [RESERVED]"
+                   outputclass="Part"/>
+         <topicref navtitle="PART 2936 - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS &#xA;"
+                   href="Part_2936_T48_701532.dita"
+                   props="PART 2936"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2936.2 - Special Aspects of Contracting for Construction"
+                      href="Subpart_2936_2_T48_7015321.dita"
+                      props="Subpart 2936.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2936.201   Evaluation of contractor performance."
+                         href="Section_2936_201_T48_701532111.dita"
+                         props="2936.201"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.209   Construction contracts with architect-engineer firms."
+                         href="Section_2936_209_T48_701532112.dita"
+                         props="2936.209"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2936.5 - Contract Clauses"
+                      href="Subpart_2936_5_T48_7015322.dita"
+                      props="Subpart 2936.5"
+                      outputclass="SubPart">
+               <topicref navtitle="2936.516   Quality surveys."
+                         href="Section_2936_516_T48_701532211.dita"
+                         props="2936.516"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2936.6 - Architect-Engineer Services"
+                      href="Subpart_2936_6_T48_7015323.dita"
+                      props="Subpart 2936.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2936.602   Selection of firms for architect-engineer contracts."
+                         href="Section_2936_602_T48_701532311.dita"
+                         props="2936.602"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.602-1   Selection criteria."
+                         href="Section_2936_602_1_T48_701532312.dita"
+                         props="2936.602-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.602-2   Evaluation boards."
+                         href="Section_2936_602_2_T48_701532313.dita"
+                         props="2936.602-2"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.602-3   Evaluation board functions."
+                         href="Section_2936_602_3_T48_701532314.dita"
+                         props="2936.602-3"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.602-4   Selection Authority."
+                         href="Section_2936_602_4_T48_701532315.dita"
+                         props="2936.602-4"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.602-5   Short selection processes for contracts not to exceed $100,000."
+                         href="Section_2936_602_5_T48_701532316.dita"
+                         props="2936.602-5"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.603   Collecting data on and appraising firms' qualifications."
+                         href="Section_2936_603_T48_701532317.dita"
+                         props="2936.603"
+                         outputclass="Section"/>
+               <topicref navtitle="2936.604   Performance evaluation."
+                         href="Section_2936_604_T48_701532318.dita"
+                         props="2936.604"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2937 - SERVICE CONTRACTING&#xA;"
+                   href="Part_2937_T48_701533.dita"
+                   props="PART 2937"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2937.1 - Service Contracts-General"
+                      href="Subpart_2937_1_T48_7015331.dita"
+                      props="Subpart 2937.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2937.103   Contracting officer responsibility."
+                         href="Section_2937_103_T48_701533111.dita"
+                         props="2937.103"
+                         outputclass="Section"/>
+               <topicref navtitle="2937.103-70   Department of Labor checklist to aid analysis and review of requirements for service contracts."
+                         href="Section_2937_103_70_T48_701533112.dita"
+                         props="2937.103-70"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2937.2 - Advisory and Assistance Services"
+                      href="Subpart_2937_2_T48_7015332.dita"
+                      props="Subpart 2937.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2937.203   Policy."
+                         href="Section_2937_203_T48_701533211.dita"
+                         props="2937.203"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2937.6 - Preference for Performance-Based Contracting (PBC)"
+                      href="Subpart_2937_6_T48_7015333.dita"
+                      props="Subpart 2937.6"
+                      outputclass="SubPart">
+               <topicref navtitle="2937.602   Elements of performance-based contracting."
+                         href="Section_2937_602_T48_701533311.dita"
+                         props="2937.602"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2938-2941 [RESERVED] &#xA;&#xA;&#xA;"
+                   href="Part_2938_2941_T48_701534.dita"
+                   props="PARTS 2938-2941 [RESERVED]"
+                   outputclass="Part"/>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER G - CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
+             href="Subchapter_G_T48_7016.dita"
+             props="SUBCHAPTER G"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e398323.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2942 - CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
+                   href="Part_2942_T48_701635.dita"
+                   props="PART 2942"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2942.1 - Contract Audit Services"
+                      href="Subpart_2942_1_T48_7016351.dita"
+                      props="Subpart 2942.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2942.101   Policy."
+                         href="Section_2942_101_T48_701635111.dita"
+                         props="2942.101"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2942.15 - Contractor Performance Information"
+                      href="Subpart_2942_15_T48_7016352.dita"
+                      props="Subpart 2942.15"
+                      outputclass="SubPart">
+               <topicref navtitle="2942.1501   Scope."
+                         href="Section_2942_1501_T48_701635211.dita"
+                         props="2942.1501"
+                         outputclass="Section"/>
+               <topicref navtitle="2942.1502   Policy."
+                         href="Section_2942_1502_T48_701635212.dita"
+                         props="2942.1502"
+                         outputclass="Section"/>
+               <topicref navtitle="2942.1503   Procedures."
+                         href="Section_2942_1503_T48_701635213.dita"
+                         props="2942.1503"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2943 - CONTRACT MODIFICATIONS &#xA;"
+                   href="Part_2943_T48_701636.dita"
+                   props="PART 2943"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2943.2 - Change Orders"
+                      href="Subpart_2943_2_T48_7016361.dita"
+                      props="Subpart 2943.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2943.205   Contract clauses."
+                         href="Section_2943_205_T48_701636111.dita"
+                         props="2943.205"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2943.3 - Forms"
+                      href="Subpart_2943_3_T48_7016362.dita"
+                      props="Subpart 2943.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2943.301   Use of forms."
+                         href="Section_2943_301_T48_701636211.dita"
+                         props="2943.301"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2944 - SUBCONTRACTING POLICIES AND PROCEDURES &#xA;"
+                   href="Part_2944_T48_701637.dita"
+                   props="PART 2944"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2944.1 - General"
+                      href="Subpart_2944_1_T48_7016371.dita"
+                      props="Subpart 2944.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2944.101   Waiver."
+                         href="Section_2944_101_T48_701637111.dita"
+                         props="2944.101"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2944.2 - Consent To Subcontract"
+                      href="Subpart_2944_2_T48_7016372.dita"
+                      props="Subpart 2944.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2944.201-1   Consent requirements."
+                         href="Section_2944_201_1_T48_701637211.dita"
+                         props="2944.201-1"
+                         outputclass="Section"/>
+               <topicref navtitle="2944.202   Contracting officer's evaluation."
+                         href="Section_2944_202_T48_701637212.dita"
+                         props="2944.202"
+                         outputclass="Section"/>
+               <topicref navtitle="2944.202-2   Considerations."
+                         href="Section_2944_202_2_T48_701637213.dita"
+                         props="2944.202-2"
+                         outputclass="Section"/>
+               <topicref navtitle="2944.203   Consent limitations."
+                         href="Section_2944_203_T48_701637214.dita"
+                         props="2944.203"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2944.3 - Contractors' Purchasing Systems Reviews"
+                      href="Subpart_2944_3_T48_7016373.dita"
+                      props="Subpart 2944.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2944.302   Requirements."
+                         href="Section_2944_302_T48_701637311.dita"
+                         props="2944.302"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2945 - GOVERNMENT PROPERTY &#xA;"
+                   href="Part_2945_T48_701638.dita"
+                   props="PART 2945"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2945.1 - General"
+                      href="Subpart_2945_1_T48_7016381.dita"
+                      props="Subpart 2945.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2945.104   Review and correction of contractors' property control systems."
+                         href="Section_2945_104_T48_701638111.dita"
+                         props="2945.104"
+                         outputclass="Section"/>
+               <topicref navtitle="2945.105   Records of Government property."
+                         href="Section_2945_105_T48_701638112.dita"
+                         props="2945.105"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2945.3 - Providing Government Property to Contractors"
+                      href="Subpart_2945_3_T48_7016382.dita"
+                      props="Subpart 2945.3"
+                      outputclass="SubPart">
+               <topicref navtitle="2945.302   Providing facilities."
+                         href="Section_2945_302_T48_701638211.dita"
+                         props="2945.302"
+                         outputclass="Section"/>
+            </topicref>
+            <topicref navtitle="Subpart 2945.4 - Contractor Use and Rental of Government Property"
+                      href="Subpart_2945_4_T48_7016383.dita"
+                      props="Subpart 2945.4"
+                      outputclass="SubPart">
+               <topicref navtitle="2945.403   Rental-use and charges clause."
+                         href="Section_2945_403_T48_701638311.dita"
+                         props="2945.403"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2946-2951 [RESERVED]&#xA;&#xA;&#xA;"
+                   href="Part_2946_2951_T48_701639.dita"
+                   props="PARTS 2946-2951 [RESERVED]"
+                   outputclass="Part"/>
+      </topicref>
+   </topicref>
+   <topicref navtitle="SUBCHAPTER H - CLAUSE AND FORMS&#xA;&#xA;&#xA;"
+             href="Subchapter_H_T48_7017.dita"
+             props="SUBCHAPTER H"
+             outputclass="SubChapter">
+      <topicref navtitle="Powered By GSA Acquisition.Gov"
+                href="Spacer_d1e398666.dita"
+                outputclass="Spacer">
+         <topicref navtitle="PART 2952 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES &#xA;"
+                   href="Part_2952_T48_701740.dita"
+                   props="PART 2952"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2952.2 - Text of Provisions and Clauses"
+                      href="Subpart_2952_2_T48_7017401.dita"
+                      props="Subpart 2952.2"
+                      outputclass="SubPart">
+               <topicref navtitle="2952.201-70   Contracting Officer's Technical Representative (COTR)."
+                         href="Section_2952_201_70_T48_701740111.dita"
+                         props="2952.201-70"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PART 2953 - FORMS &#xA;"
+                   href="Part_2953_T48_701741.dita"
+                   props="PART 2953"
+                   outputclass="Part">
+            <topicref navtitle="Subpart 2953.1 - General"
+                      href="Subpart_2953_1_T48_7017411.dita"
+                      props="Subpart 2953.1"
+                      outputclass="SubPart">
+               <topicref navtitle="2953.100   Request for Recommendation by Procurement Review Board DL 1-490."
+                         href="Section_2953_100_T48_701741111.dita"
+                         props="2953.100"
+                         outputclass="Section"/>
+               <topicref navtitle="2953.101   Simplified Acquisition Documentation Checklist DL 1-2216."
+                         href="Section_2953_101_T48_701741112.dita"
+                         props="2953.101"
+                         outputclass="Section"/>
+               <topicref navtitle="2953.102   Quotation for Simplified Acquisitions DL 1-2078."
+                         href="Section_2953_102_T48_701741113.dita"
+                         props="2953.102"
+                         outputclass="Section"/>
+               <topicref navtitle="2953.103   Acquisition Screening and Review - over $100,000 DL 1-2004."
+                         href="Section_2953_103_T48_701741114.dita"
+                         props="2953.103"
+                         outputclass="Section"/>
+            </topicref>
+         </topicref>
+         <topicref navtitle="PARTS 2954-2999 [RESERVED]&#xA;&#xA;&#xA;"
+                   href="Part_2954_2999_T48_701742.dita"
+                   props="PARTS 2954-2999 [RESERVED]"
+                   outputclass="Part"/>
+      </topicref>
+   </topicref>
+</map>

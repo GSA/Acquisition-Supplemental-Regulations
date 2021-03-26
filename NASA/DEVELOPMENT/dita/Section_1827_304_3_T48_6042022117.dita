@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1827_304_3_T48_6042022117">
+      <title class="- topic/title ">
+         <ph props="autonumber">1827.304-3</ph> Subcontracts.</title>
+      <conbody>
+         <p outputclass="List1">(a) Unless otherwise authorized or directed by the contracting officer, contractors awarding subcontracts at any tier shall select and include in the subcontracts one of the clauses identified in subparagraphs (a)
+				</p>
+         <p outputclass="List2">(1) 
+			or (2) of this section. At all tiers, the applicable clause identified below shall be modified to identify the parties as follows: references to the Government are not changed, and in all references to the Contractor the subcontractor is substituted for the Contractor so that the subcontractor has all rights and obligations of the Contractor in the clause.
+</p>
+         <p outputclass="List2">(1) The clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_227_70_T48_60423441168"
+                  href="Section_1852_227_70_T48_60423441168.dita#Section_1852_227_70_T48_60423441168">1852.227-70</xref>, New Technology - Other than a Small Business Firm or Nonprofit Organization, shall be used in any subcontract with other than a small business firm or a nonprofit organization if a purpose of the subcontract is the performance of experimental, developmental, research, design, or engineering work of any of the types described in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_303_T48_6042022113"
+                  href="Section_1827_303_T48_6042022113.dita#Section_1827_303_T48_6042022113">1827.303</xref>(d)(1).</p>
+         <p outputclass="List2">(2) The clause at FAR 52.227-11, Patent Rights - Ownership by the Contractor, modified by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_227_11_T48_60423441164"
+                  href="Section_1852_227_11_T48_60423441164.dita#Section_1852_227_11_T48_60423441164">1852.227-11</xref> (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_303_T48_6042022113"
+                  href="Section_1827_303_T48_6042022113.dita#Section_1827_303_T48_6042022113">1827.303</xref>(b)(1)), shall be used in any subcontract with a small business firm or a nonprofit organization if a purpose of the subcontract is the performance of experimental, developmental, or research work.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1632_172_T48_6021316113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1632.172</ph> Clause - experience-rated contracts.</title>
+      <conbody>
+         <p xtrc="P">The clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1652_232_71_T48_60215241115"
+                  href="Section_1652_232_71_T48_60215241115.dita#Section_1652_232_71_T48_60215241115">1652.232-71</xref> shall be inserted in all experience-rated FEHBP contracts.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1837_203_70_T48_6042131212">
+      <title class="- topic/title ">
+         <ph props="autonumber">1837.203-70</ph> Providing contractors access to sensitive information.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)
+				</p>
+         <p outputclass="List2">(1) 
+			As used in this subpart, “sensitive information” refers to information that the contractor has developed at private expense or that the Government has generated that qualifies for an exception to the Freedom of Information Act, which is not currently in the public domain, may embody trade secrets or commercial or financial information, and may be sensitive or privileged, the disclosure of which is likely to have either of the following effects: To impair the Government's ability to obtain this type of information in the future; or to cause substantial harm to the competitive position of the person from whom the information was obtained. The term is not intended to resemble the markings of national security documents as in sensitive-secret-top secret.
+</p>
+         <p outputclass="List2">(2) As used in this subpart, “requiring organization” refers to the NASA organizational element or activity that requires specified services to be provided.
+</p>
+         <p outputclass="List2">(3) As used in this subpart, “service provider” refers to the service contractor that receives sensitive information from NASA to provide services to the requiring organization.
+</p>
+         <p props="Runin" outputclass="List1">(b)
+				</p>
+         <p outputclass="List2">(1) 
+			To support management activities and administrative functions, NASA relies on numerous service providers. These contractors may require access to sensitive information in the Government's possession, which may be entitled to protection from unauthorized use or disclosure.
+</p>
+         <p outputclass="List2">(2) As an initial step, the requiring organization shall identify when needed services may entail access to sensitive information and shall determine whether providing access is necessary for accomplishing the Agency's mission. The requiring organization shall review any service provider requests for access to information to determine whether the access is necessary and whether the information requested is considered “sensitive” as defined in paragraph (a)(1) of this section.
+</p>
+         <p outputclass="List1">(c) When the requiring organization determines that providing specified services will entail access to sensitive information, the solicitation shall require each potential service provider to submit with its proposal a preliminary analysis of possible organizational conflicts of interest that might flow from the award of a contract. After selection, or whenever it becomes clear that performance will necessitate access to sensitive information, the service provider must submit a comprehensive organizational conflicts of interest avoidance plan.
+</p>
+         <p outputclass="List1">(d) This comprehensive plan shall incorporate any previous studies performed, shall thoroughly analyze all organizational conflicts of interest that might arise because the service provider has access to other companies' sensitive information, and shall establish specific methods to control, mitigate, or eliminate all problems identified. The contracting officer, with advice from Center counsel, shall review the plan for completeness and identify to the service provider substantive weaknesses and omissions for necessary correction. Once the service provider has corrected the substantive weaknesses and omissions, the contracting officer shall incorporate the revised plan into the contract, as a compliance document.
+</p>
+         <p outputclass="List1">(e) If the service provider will be operating an information technology system for NASA that contains sensitive information, the operating contract shall include the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_204_76_T48_6042344114"
+                  href="Section_1852_204_76_T48_6042344114.dita#Section_1852_204_76_T48_6042344114">1852.204-76</xref>, Security Requirements for Unclassified Information Technology Resources, which requires the implementation of an Information Technology Security Plan to protect information processed, stored, or transmitted from unauthorized access, alteration, disclosure, or use.
+</p>
+         <p outputclass="List1">(f) NASA will monitor performance to assure any service provider that requires access to sensitive information follows the steps outlined in the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_237_72_T48_604234411106"
+                  href="Section_1852_237_72_T48_604234411106.dita#Section_1852_237_72_T48_604234411106">1852.237-72</xref>, Access to Sensitive Information, to protect the information from unauthorized use or disclosure.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

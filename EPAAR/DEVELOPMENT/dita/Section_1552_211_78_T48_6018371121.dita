@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_211_78_T48_6018371121">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.211-78</ph> Advisory and assistance services.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1511_011_78_T48_6012100111"
+                  href="Section_1511_011_78_T48_6012100111.dita#Section_1511_011_78_T48_6012100111">1511.011-78</xref>, insert the following contract clause in all contracts for advisory and assistance services.
+</p>
+                                    <p xtrc="HD1">Advisory and Assistance Services (JUL 2016)
+</p>
+                                    <p xtrc="P">All reports containing recommendations to the Environmental Protection Agency shall include the following information on the cover of each report: (a) Name and business address of the contractor; (b) contract number; (c) contract dollar amount; (d) whether the contract was subject to full and open competition or a sole source acquisition; (e) name of the EPA Contracting Officer's Representative (COR) and the COR's office identification and location; and (f) date of report.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

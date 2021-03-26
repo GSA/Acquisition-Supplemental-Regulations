@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2052_231_70_T48_60638251131">
+      <title class="- topic/title ">
+         <ph props="autonumber">2052.231-70</ph> Precontract costs.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2031_109_70_T48_6063519111"
+                  href="Section_2031_109_70_T48_6063519111.dita#Section_2031_109_70_T48_6063519111">2031.109-70</xref>, following clause may be used in all cost type contracts when costs in connection with work under the contract will be incurred by the contractor before the effective date of the contract. Approval for use of this clause must be obtained at one level above the contracting officer.
+</p>
+                                    <p xtrc="HD1">Precontract Costs (JAN 1993)
+</p>
+                                    <p xtrc="P">Allowable costs under this contract include costs incurred by the contractor in connection with the work covered by this contract during the period from * and including * to the effective date of this contract that would have been allowable under the terms of this contract if this contract had been in effect during that period. However, the costs may not in aggregate exceed * which is included in the estimated cost of this contract.
+</p>
+                                    <p xtrc="P">*To be incorporated into any resultant contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

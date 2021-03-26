@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_216_81_T48_60423441129">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.216-81</ph> Estimated cost.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_307_70_T48_6041815213"
+                  href="Section_1816_307_70_T48_6041815213.dita#Section_1816_307_70_T48_6041815213">1816.307-70</xref>(d), insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Estimated cost (DEC 1988)
+</p>
+                                    <p xtrc="P">The total estimated cost for complete performance of this contract is $  [Insert total estimated cost of the contract]. See FAR clause 52.216-11, Cost Contract - No Fee, of this contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

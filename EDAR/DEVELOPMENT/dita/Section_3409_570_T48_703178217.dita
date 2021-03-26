@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3409_570_T48_703178217">
+      <title class="- topic/title ">
+         <ph props="autonumber">3409.570</ph> Certification at or below the simplified acquisition threshold.</title>
+      <conbody>
+         <p xtrc="P">By accepting any contract, including orders against any Schedule or Government-wide Acquisition Contract (GWAC), with the Department at or below the simplified acquisition threshold:
+</p>
+         <p outputclass="List1">(a) The contractor warrants that, to the best of the contractor's knowledge and belief, there are no relevant facts or circumstances that would give rise to an organizational conflict of interest, as defined in FAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_2_1_T48_701131"
+                  href="Subpart_2_1_T48_701131.dita#Subpart_2_1_T48_701131">2.1</xref>, or that the contractor has disclosed all such relevant information.
+</p>
+         <p outputclass="List1">(b) The contractor agrees that if an actual or potential organizational conflict of interest is discovered after award, the contractor will make an immediate full disclosure in writing to the contracting officer. This disclosure must include a description of actions that the contractor has taken or proposes to take, after consultation with the contracting officer, to avoid, mitigate, or neutralize the actual or potential conflict.
+</p>
+         <p outputclass="List1">(c) The contractor agrees that:
+</p>
+         <p outputclass="List2">(1) The Government may terminate this contract for convenience, in whole or in part, if such termination is necessary to avoid an organizational conflict of interest.
+</p>
+         <p outputclass="List2">(2) The Government may terminate this contract for default or pursue other remedies permitted by law or this contract if the contractor was aware or should have been aware of a potential organizational conflict of interest prior to award, or discovers or should have discovered an actual or potential conflict after award, and does not disclose, or misrepresents, relevant information to the contracting officer regarding the conflict.
+</p>
+         <p outputclass="List1">(d) The contractor further agrees to insert provisions that substantially conform to the language of this section, including this paragraph (d), in any subcontract or consultant agreement hereunder.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

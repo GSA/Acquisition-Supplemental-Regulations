@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1816_405_270_T48_6041815317">
+      <title class="- topic/title ">
+         <ph props="autonumber">1816.405-270</ph> CPAF contracts.</title>
+      <conbody>
+         <p outputclass="List1">(a) In addition to the items identified in FAR 16.401(e)(1), D&amp;Fs will include a discussion of the other types of contracts considered and shall indicate why an award fee incentive is the appropriate choice. Award fee incentives should not be used on contracts with a total estimated cost and fee less than $2 million per year. Use of award fee incentive for lower-valued acquisitions may be authorized in exceptional situations such as contract requirements having direct health or safety impacts, where the judgmental assessment of the quality of contractor performance is critical.
+</p>
+         <p outputclass="List1">(b) Except as provided in paragraph (d) of this section, an award fee incentive may be used in conjunction with other contract types for aspects of performance that cannot be objectively assessed. In such cases, the cost incentive is based on objective formulas inherent in the other contract types (<i>e.g.,</i> FPI, CPIF), and the award fee provision should not separately incentivize cost performance.
+</p>
+         <p outputclass="List1">(c) Award fee incentives shall not be used with a cost-plus-fixed-fee (CPFF) contract.
+</p>
+      </conbody>
+   </concept>
+</dita>

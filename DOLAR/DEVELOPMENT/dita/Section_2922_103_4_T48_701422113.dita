@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2922_103_4_T48_701422113">
+      <title class="- topic/title ">
+         <ph props="autonumber">2922.103-4</ph> Approvals.</title>
+      <conbody>
+         <p xtrc="P">The “agency approving official” as identified in FAR 22.103-4(a) and (b) is a manager, supervisor, or executive responsible for the contracting officer's technical representative (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2901_603_71_T48_701126110"
+                  href="Section_2901_603_71_T48_701126110.dita#Section_2901_603_71_T48_701126110">2901.603-71</xref>).</p>
+      </conbody>
+   </concept>
+</dita>

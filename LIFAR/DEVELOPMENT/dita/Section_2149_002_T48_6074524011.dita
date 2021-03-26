@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2149_002_T48_6074524011">
+      <title class="- topic/title ">
+         <ph props="autonumber">2149.002</ph> Applicability.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a) <i>Termination.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			Termination of FEGLI Program contracts is controlled by 5 U.S.C. 8709(c) and this chapter. The procedures for termination of FEGLI Program contracts are contained in FAR part 49. For the purpose of this part, terminate means to discontinue as used in 5 U.S.C. 8709(c).
+</p>
+         <p outputclass="List2">(2) A life insurance contract entered into by OPM may be terminated by OPM at any time for default by the Contractor in accordance with the provisions of FAR part 49 and FAR 52.249-8. A life insurance contract entered into by OPM may be terminated by the Contractor at the end of the grace period, after default for nonpayment by OPM. Notwithstanding the preceding sentence, the Contractor will allow OPM an additional 5 days after the end of the grace period to make payment if the failure to make payment was inadvertent and/or due to circumstances beyond the Government's control.
+</p>
+         <p outputclass="List2">(3) A life insurance contract entered into by OPM may be terminated for convenience of the Government 60 days after the Contractor's receipt of OPM's written notice to terminate.
+</p>
+         <p outputclass="List2">(4) The Contractor may terminate its contract with OPM at the end of any contract year when notice of intent to terminate is given to OPM in writing at least 60 days prior to the end of the contract year (i.e., no later than July 31).
+</p>
+         <p outputclass="List1">(b) <i>Continuation of services.</i> The services under this contract are of vital interest to the Government and must be continued without interruption in the event the contract is terminated for the Contractor's default or OPM's convenience. Consequently, the contract termination procedures contained in this paragraph must be used in conjunction with section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2137_102_T48_6074420111"
+                  href="Section_2137_102_T48_6074420111.dita#Section_2137_102_T48_6074420111">2137.102</xref> of this chapter, section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2137_110_T48_6074420112"
+                  href="Section_2137_110_T48_6074420112.dita#Section_2137_110_T48_6074420112">2137.110</xref> of this chapter, and the provisions of the “Continuity of Services” clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2152_237_70_T48_60746251115"
+                  href="Section_2152_237_70_T48_60746251115.dita#Section_2152_237_70_T48_60746251115">2152.237-70</xref> of this chapter. The Contractor is not required to continue performance subsequent to OPM's default for failure to pay premiums in accordance with the provisions of the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2152_249_70_T48_60746251119"
+                  href="Section_2152_249_70_T48_60746251119.dita#Section_2152_249_70_T48_60746251119">2152.249-70</xref>(b) of this chapter.
+</p>
+         <p outputclass="List1">(c) <i>Settlement.</i> The procedures for settlement of contracts after they are terminated are those contained in FAR part 49.
+</p>
+      </conbody>
+   </concept>
+</dita>

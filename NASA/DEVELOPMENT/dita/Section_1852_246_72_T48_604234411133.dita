@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_246_72_T48_604234411133">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.246-72</ph> Material inspection and receiving report.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1846_674_T48_60422394116"
+                  href="Section_1846_674_T48_60422394116.dita#Section_1846_674_T48_60422394116">1846.674</xref>, insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Material Inspection and Receiving Report (APR 2015)
+</p>
+                                    <p outputclass="List1">(a) At the time of each delivery to the Government under this contract, the Contractor shall prepare and furnish a Material Inspection and Receiving Report (DD Form 250 series). The form(s) shall be prepared and distributed as follows: </p>
+                                    <p xtrc="FP-DASH"> (Insert number of copies and distribution instructions.)
+</p>
+                                    <p outputclass="List1">(b) The Contractor shall prepare the DD Form 250 in accordance with NASA FAR Supplement <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_1846_6_T48_60422394"
+                  href="Subpart_1846_6_T48_60422394.dita#Subpart_1846_6_T48_60422394">1846.6</xref>. The Contractor shall enclose the copies of the DD Form 250 in the package or seal them in a waterproof envelope, which shall be securely attached to the exterior of the package in the most protected location.
+</p>
+                                    <p outputclass="List1">(c) When more than one package is involved in a shipment, the Contractor shall list on the DD Form 250, as additional information, the quantity of packages and the package numbers. The Contractor shall forward the DD Form 250 with the lowest numbered package of the shipment and print the words “CONTAINS DD FORM 250” on the package.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

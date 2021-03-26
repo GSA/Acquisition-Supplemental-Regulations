@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1816_405_271_T48_6041815318">
+      <title class="- topic/title ">
+         <ph props="autonumber">1816.405-271</ph> Base fee.</title>
+      <conbody>
+         <p outputclass="List1">(a) A base fee shall not be used on CPAF contracts for which the periodic award fee evaluations are final (1816.405-273(a)). In these circumstances, contractor performance during any award fee period is independent of and has no effect on subsequent performance periods or the final results at contract completion. For other contracts, such as those for hardware or software development, the procurement officer may authorize the use of a base fee not to exceed 3 percent. Base fee shall not be used when an award fee incentive is used in conjunction with another contract type (<i>e.g.,</i> CPIF/AF).
+</p>
+         <p outputclass="List1">(b) When a base fee is authorized for use in a CPAF contract, it shall be paid only if the final award fee evaluation is “satisfactory” or better. (<i>See</i> 
+            <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_405_273_T48_60418153110"
+                  href="Section_1816_405_273_T48_60418153110.dita#Section_1816_405_273_T48_60418153110">1816.405-273</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_405_275_T48_60418153112"
+                  href="Section_1816_405_275_T48_60418153112.dita#Section_1816_405_275_T48_60418153112">1816.405-275</xref>) Pending final evaluation, base fee may be paid during the life of the contract at defined intervals on a provisional basis. If the final award fee evaluation is “unsatisfactory”, all provisional base fee payments shall be refunded to the Government.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9904_407_30_T48_70102650165">
+      <title class="- topic/title ">
+         <ph props="autonumber">9904.407-30</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The following are definitions of terms which are prominent in this Standard. Other terms defined elsewhere in this chapter 99 shall have the meanings ascribed to them in those definitions unless paragraph (b) of this subsection requires otherwise.
+</p>
+         <p outputclass="List2">(1) <i>Labor cost at standard</i> means a pre-established measure of the labor element of cost, computed by multiplying labor-rate standard by labor-time standard.
+</p>
+         <p outputclass="List2">(2) <i>Labor-rate standard</i> means a pre-established measure, expressed in monetary terms, of the price of labor.
+</p>
+         <p outputclass="List2">(3) <i>Labor-time standard</i> means a pre-established measure, expressed in temporal terms, of the quantity of labor.
+</p>
+         <p outputclass="List2">(4) <i>Material cost at standard</i> means a pre-established measure of the material element of cost, computed by multiplying material-price standard by material-quantity standard.
+</p>
+         <p outputclass="List2">(5) <i>Material-price standard</i> means a pre-established measure, expressed in monetary terms, of the price of material.
+</p>
+         <p outputclass="List2">(6) <i>Material-quantity standard</i> means a pre-established measure, expressed in physical terms, of the quantity of material.
+</p>
+         <p outputclass="List2">(7) <i>Production unit</i> means a grouping of activities which either uses homogeneous inputs of direct material and direct labor or yields homogeneous outputs such that the costs or statistics related to these homogeneous inputs or outputs are appropriate as bases for allocating variances.
+</p>
+         <p outputclass="List2">(8) <i>Standard cost</i> means any cost computed with the use of pre-established measures.
+</p>
+         <p outputclass="List2">(9) <i>Variance</i> means the difference between a pre-established measure and an actual measure.
+</p>
+         <p outputclass="List1">(b) The following modifications of terms defined elsewhere in this Chapter 99 are applicable to this Standard:
+</p>
+         <p outputclass="List2">(1) Actual cost. An amount determined on the basis of cost incurred.
+</p>
+         <p outputclass="List2">(2) [Reserved]
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

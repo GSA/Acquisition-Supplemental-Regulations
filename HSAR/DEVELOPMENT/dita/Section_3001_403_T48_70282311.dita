@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3001_403_T48_70282311">
+      <title class="- topic/title ">
+         <ph props="autonumber">3001.403</ph> Individual deviations.</title>
+      <conbody>
+         <p xtrc="P">Unless precluded by law, executive order, or other regulation, the HCA is authorized to approve individual deviation (except with respect to (FAR) 48 CFR 30.201-3, 30.201-4; the requirements of the Cost Accounting Standards board rules and regulations at 48 CFR chapter 99 (FAR appendix); and part 50). Submit requests per (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3001_7000_T48_70282611"
+                  href="Section_3001_7000_T48_70282611.dita#Section_3001_7000_T48_70282611">3001.7000</xref>, including complete documentation of the justification for the deviations (<i>See</i> HSAM <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3001_403_T48_70282311"
+                  href="Section_3001_403_T48_70282311.dita#Section_3001_403_T48_70282311">3001.403</xref>).</p>
+      </conbody>
+   </concept>
+</dita>

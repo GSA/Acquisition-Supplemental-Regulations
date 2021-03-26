@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3011_602_T48_702912411">
+      <title class="- topic/title ">
+         <ph props="autonumber">3011.602</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(c) The following DHS Components may assign priority ratings on contracts and orders placed with contractors to acquire products, materials, and services under the Defense Priorities and Allocations System (DPAS) regulations (15 CFR part 700):
+</p>
+         <p outputclass="List2">(1) The U.S. Coast Guard in support of certified national defense related programs; and
+</p>
+         <p outputclass="List2">(2) The Federal Emergency Management Agency in support of emergency preparedness activities.
+</p>
+      </conbody>
+   </concept>
+</dita>

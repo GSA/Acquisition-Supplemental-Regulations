@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1817_7000_T48_6041816211">
+      <title class="- topic/title ">
+         <ph props="autonumber">1817.7000</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Down-selection.</i> In a phased acquisition, the process of selecting contractors for later phases from among the preceding phase contractors.
+</p>
+         <p outputclass="List1">(b) <i>Phased Acquisition.</i> An incremental acquisition implementation comprised of several distinct phases where the realization of program/project objectives requires a planned, sequential acquisition of each phase. The phases may be acquired separately, in combination, or through a down-selection strategy.
+</p>
+         <p outputclass="List1">(c) <i>Progressive Competition.</i> A type of down-selection strategy for a phased acquisition. In this method, a single solicitation is issued for all phases of the program. The initial phase contracts are awarded, and the contractors for subsequent phases are expected to be chosen through a down-selection from among the preceding phase contractors. In each phase, progressively fewer contracts are awarded until a single contractor is chosen for the final phase. Normally, all down-selections are accomplished without issuance of a new, formal solicitation.
+</p>
+      </conbody>
+   </concept>
+</dita>

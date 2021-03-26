@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3009_171_1_T48_702910118">
+      <title class="- topic/title ">
+         <ph props="autonumber">3009.171-1</ph> General.</title>
+      <conbody>
+         <p xtrc="P">Except as provided in (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_171_6_T48_7029101113"
+                  href="Section_3009_171_6_T48_7029101113.dita#Section_3009_171_6_T48_7029101113">3009.171-6</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_171_7_T48_7029101114"
+                  href="Section_3009_171_7_T48_7029101114.dita#Section_3009_171_7_T48_7029101114">3009.171-7</xref>, Department of Homeland Security (DHS) contracting officers shall not enter into a contract for guard services under the Federal Protective Service (FPS) guard services program with any business concern owned, controlled, or operated by an individual convicted of a serious felony.
+</p>
+      </conbody>
+   </concept>
+</dita>

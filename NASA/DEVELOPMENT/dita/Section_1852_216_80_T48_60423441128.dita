@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_216_80_T48_60423441128">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.216-80</ph> Task ordering procedure.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_506_70_T48_6041815411"
+                  href="Section_1816_506_70_T48_6041815411.dita#Section_1816_506_70_T48_6041815411">1816.506-70</xref>, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Task Ordering Procedures (OCT 1996)
+</p>
+                                    <p outputclass="List1">(a) Only the Contracting Officer may issue task orders to the Contractor, providing specific authorization or direction to perform work within the scope of the contract and as specified in the schedule. The Contractor may incur costs under this contract in performance of task orders and task order modifications issued in accordance with this clause. No other costs are authorized unless otherwise specified in the contract or expressly authorized by the Contracting Officer.
+</p>
+                                    <p outputclass="List1">(b) Prior to issuing a task order, the Contracting Officer shall provide the Contractor with the following date:
+</p>
+                                    <p outputclass="List2">(1) A functional description of the work identifying the objectives or results desired from the contemplated task order.
+</p>
+                                    <p outputclass="List2">(2) Proposed performance standards to be used as criteria for determining whether the work requirements have been met.
+</p>
+                                    <p outputclass="List2">(3) A request for a task plan from the Contractor to include the technical approach, period of performance, appropriate cost information, and any other information required to determine the reasonableness of the Contractor's proposal. 
+</p>
+                                    <p outputclass="List1">(c) Within __ calendar days after receipt of the Contracting Officer's request, the Contractor shall submit a task plan conforming to the request.
+</p>
+                                    <p outputclass="List1">(d) After review and any necessary discussions, the Contracting Officer may issue a task order to the Contractor containing, as a minimum, the following:
+</p>
+                                    <p outputclass="List2">(1) Date of the order.
+</p>
+                                    <p outputclass="List2">(2) Contract number and order number.
+</p>
+                                    <p outputclass="List2">(3) Functional description of the work identifying the objectives or results desired from the task order, including special instructions or other information necessary for performance of the task.
+</p>
+                                    <p outputclass="List2">(4) Performance standards, and where appropriate, quality assurance standards.
+</p>
+                                    <p outputclass="List2">(5) Maximum dollar amount authorized (cost and fee or price). This includes allocation of award fee among award fee periods, if applicable.
+</p>
+                                    <p outputclass="List2">(6) Any other resources (travel, materials, equipment, facilities, etc.) authorized.
+</p>
+                                    <p outputclass="List2">(7) Delivery/performance schedule including start and end dates.
+</p>
+                                    <p outputclass="List2">(8) If contract funding is by individual task order, accounting and appropriation data.
+</p>
+                                    <p outputclass="List1">(e) The Contractor shall provide acknowledgement of receipt to the Contracting Officer within __ calendar days after receipt of the task order.
+</p>
+                                    <p outputclass="List1">(f) If time constraints do not permit issuance of a fully defined task order in accordance with the procedures described in paragraphs (a) through (d), a task order which includes a ceiling price may be issued.
+</p>
+                                    <p outputclass="List1">(g) The Contracting officer may amend tasks in the same manner in which they are issued.
+</p>
+                                    <p outputclass="List1">(h) In the event of a conflict between the requirements of the task order and the Contractor's approved task plan, the task order shall prevail.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+         <p xtrc="P">
+                                    <i>Alternate I</i> (APR 2018) As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_506_70_T48_6041815411"
+                  href="Section_1816_506_70_T48_6041815411.dita#Section_1816_506_70_T48_6041815411">1816.506-70</xref>(a), insert the following paragraph (i):
+</p>
+                                    <p outputclass="List1">(i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
+</p>
+                                    <p outputclass="List2">(1) Contract number, task order number, and date of the order.
+</p>
+                                    <p outputclass="List2">(2) Total estimated dollar amount of task order(s).
+</p>
+                                    <p outputclass="List2">(3) Cost and hours incurred to date for each issued task order.
+</p>
+                                    <p outputclass="List2">(4) Costs and hours estimated to complete each issued task order.
+</p>
+                                    <p outputclass="List2">(5) Significant issues/problems associated with a task order.
+</p>
+                                    <p outputclass="List2">(6) Cost summary of the status of all task orders issued under the contract.
+</p>
+                                    <p outputclass="List2">(7) Invoice number.</p>
+                                 <p xtrc="P">
+                                    <i>Alternate II</i> (APR 2018) As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1816_506_70_T48_6041815411"
+                  href="Section_1816_506_70_T48_6041815411.dita#Section_1816_506_70_T48_6041815411">1816.506-70</xref>(b), insert the following paragraph (i):
+</p>
+                                    <p outputclass="List1">(i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
+</p>
+                                    <p outputclass="List2">(1) Contract number, task order number, and date of the order.
+</p>
+                                    <p outputclass="List2">(2) Price and billed amounts to date for each task order.
+</p>
+                                    <p outputclass="List2">(3) Significant issues/problems associated with the task order.
+</p>
+                                    <p outputclass="List2">(4) Status of all task orders issued under the contract.
+</p>
+                                    <p outputclass="List2">(5) Invoice number.</p>
+                                 </conbody>
+   </concept>
+</dita>

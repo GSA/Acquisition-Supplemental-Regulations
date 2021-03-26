@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2823_T48_60116320">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2823</ph> - ENVIRONMENT, CONSERVATION, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2823_1_T48_601163201.dita#Subpart_2823_1_T48_601163201"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2823_107_T48_60116320111.dita#Section_2823_107_T48_60116320111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2823_3_T48_601163202.dita#Subpart_2823_3_T48_601163202"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2823_303_70_T48_60116320211.dita#Section_2823_303_70_T48_60116320211"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2823_4_T48_601163203.dita#Subpart_2823_4_T48_601163203"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2823_403_T48_60116320311.dita#Section_2823_403_T48_60116320311"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2823_404_T48_60116320312.dita#Section_2823_404_T48_60116320312"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2823_404_70_T48_60116320313.dita#Section_2823_404_70_T48_60116320313"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

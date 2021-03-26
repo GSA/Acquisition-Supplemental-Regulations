@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1807_7200_T48_604177111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1807.7200</ph> Policy.</title>
+      <conbody>
+         <p outputclass="List1">(a) As required by the Business Opportunity Development Reform Act of 1988, it is NASA policy to - 
+</p>
+         <p outputclass="List2">(1) Prepare an annual forecast and semiannual update of expected contract opportunities or classes of contract opportunities for each fiscal year; 
+</p>
+         <p outputclass="List2">(2) Include in the forecast contract opportunities that small business concerns, including those owned and controlled by socially and economically disadvantaged individuals, may be capable of performing; and 
+</p>
+         <p outputclass="List2">(3) Make available such forecasts to the public.
+</p>
+         <p outputclass="List1">(b) The annual forecast and semiannual update are available on the NASA Acquisition Internet Service (<i>http://www.hq.nasa.gov/office/procurement/forecast/index.html</i>).
+</p>
+      </conbody>
+   </concept>
+</dita>

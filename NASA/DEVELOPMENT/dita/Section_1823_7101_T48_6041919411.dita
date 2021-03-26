@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1823_7101_T48_6041919411">
+      <title class="- topic/title ">
+         <ph props="autonumber">1823.7101</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_223_71_T48_60423441155"
+                  href="Section_1852_223_71_T48_60423441155.dita#Section_1852_223_71_T48_60423441155">1852.223-71</xref>, Authorization for radio Frequency Use, in solicitations and contracts calling for developing, producing, constructing, testing, or operating a device for which a radio frequency equipment authorization is required.
+</p>
+      </conbody>
+   </concept>
+</dita>

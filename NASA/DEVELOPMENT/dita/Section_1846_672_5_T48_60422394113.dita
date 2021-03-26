@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_672_5_T48_60422394113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.672-5</ph> Packing list instructions.</title>
+      <conbody>
+         <p xtrc="P">Copies of the MIRR may be used as a packing list. The packing list copies shall be in addition to the copies of the MIRR required for distribution (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1846_673_T48_60422394115"
+                  href="Section_1846_673_T48_60422394115.dita#Section_1846_673_T48_60422394115">1846.673</xref>) and shall be marked “PACKING LIST”. 
+</p>
+      </conbody>
+   </concept>
+</dita>

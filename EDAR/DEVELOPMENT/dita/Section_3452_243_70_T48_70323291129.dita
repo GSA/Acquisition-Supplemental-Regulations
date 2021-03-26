@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_243_70_T48_70323291129">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.243-70</ph> Key personnel.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3443_107_T48_7032226111"
+                  href="Section_3443_107_T48_7032226111.dita#Section_3443_107_T48_7032226111">3443.107</xref>, insert a clause substantially the same as the following in all solicitations and resultant cost-reimbursement contracts in which it will be essential for the contracting officer to be notified that a change of designated key personnel is to take place by the contractor:
+</p>
+                                    <p xtrc="HD1">Key Personnel (MAR 2011)
+</p>
+                                    <p outputclass="List1">(a) The personnel designated as key personnel in this contract are considered to be essential to the work being performed hereunder. Prior to diverting any of the specified individuals to other programs, or otherwise substituting any other personnel for specified personnel, the contractor shall notify the contracting officer reasonably in advance and shall submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on the contract effort. No diversion or substitution shall be made by the contractor without written consent of the contracting officer; provided, that the contracting officer may ratify a diversion or substitution in writing and that ratification shall constitute the consent of the contracting officer required by this clause. The contract shall be modified to reflect the addition or deletion of key personnel.
+</p>
+                                    <p outputclass="List1">(b) The following personnel have been identified as Key Personnel in the performance of this contract:
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Labor category 
+</entry>
+                                                <entry colname="2">Name
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">[Insert category.]</entry>
+                                                <entry colname="2" align="left">[Insert name.]</entry>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
