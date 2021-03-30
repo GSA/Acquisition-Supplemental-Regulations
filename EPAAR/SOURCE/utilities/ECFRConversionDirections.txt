@@ -1,4 +1,0 @@
-conversion.bat /html "C:\Users\tomal\Desktop\ecfrTest\ECFR-title48fixed.xml"
-
-Title48 - volume4
-        - 
