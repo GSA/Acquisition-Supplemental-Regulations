@@ -1,86 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="Part_301_T48_40112">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="Part_301_T48_40112"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber">PART 301</ph> - HHS ACQUISITION REGULATION SYSTEM</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_301_1_T48_401121.dita#Subpart_301_1_T48_401121"/>
+         <ph props="autonumber" class="- topic/ph ">PART 301</ph> - HHS ACQUISITION
+REGULATION SYSTEM</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_301_1_T48_401121.dita#Subpart_301_1_T48_401121"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_101_T48_40112111.dita#Section_301_101_T48_40112111"/>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_101_T48_40112111.dita#Section_301_101_T48_40112111"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_103_T48_40112112.dita#Section_301_103_T48_40112112"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_103_T48_40112112.dita#Section_301_103_T48_40112112"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_106_T48_40112113.dita#Section_301_106_T48_40112113"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_106_T48_40112113.dita#Section_301_106_T48_40112113"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_301_2_T48_401122.dita#Subpart_301_2_T48_401122"/>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_301_2_T48_401122.dita#Subpart_301_2_T48_401122"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_301_4_T48_401123.dita#Subpart_301_4_T48_401123"/>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_301_4_T48_401123.dita#Subpart_301_4_T48_401123"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_401_T48_40112311.dita#Section_301_401_T48_40112311"/>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_401_T48_40112311.dita#Section_301_401_T48_40112311"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_301_6_T48_401124.dita#Subpart_301_6_T48_401124"/>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_301_6_T48_401124.dita#Subpart_301_6_T48_401124"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_602_T48_40112411.dita#Section_301_602_T48_40112411"/>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_602_T48_40112411.dita#Section_301_602_T48_40112411"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_602_3_T48_40112412.dita#Section_301_602_3_T48_40112412"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_602_3_T48_40112412.dita#Section_301_602_3_T48_40112412"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_603_T48_40112413.dita#Section_301_603_T48_40112413"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_603_T48_40112413.dita#Section_301_603_T48_40112413"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_301_603_1_T48_40112414.dita#Section_301_603_1_T48_40112414"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_301_603_1_T48_40112414.dita#Section_301_603_1_T48_40112414"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
                </ul>
