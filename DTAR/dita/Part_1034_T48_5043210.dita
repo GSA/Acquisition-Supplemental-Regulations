@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="Part_1034_T48_5043210">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="Part_1034_T48_5043210"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
-         <ph props="autonumber">PART 1034</ph> - MAJOR SYSTEM ACQUISITION</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_34_0_T48_50432101.dita#Subpart_34_0_T48_50432101"/>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1034_001_T48_5043210111.dita#Section_1034_001_T48_5043210111"/>
+         <ph props="autonumber" class="- topic/ph ">PART 1034</ph> - MAJOR SYSTEM ACQUISITION</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_1034_001_T48_5043210111.dita#Section_1034_001_T48_5043210111"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1034_004_T48_5043210112.dita#Section_1034_004_T48_5043210112"/>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_1034_004_T48_5043210112.dita#Section_1034_004_T48_5043210112"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
                </ul>
