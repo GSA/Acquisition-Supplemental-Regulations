@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e9916">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> ANNEX 18 – INDIVIDUAL STREAMLINED
+ACQUISITION PLAN (ISTRAP)</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e9983.dita#d1e9983">Section 1: Acquisition Background and Objectives.</xref>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e10016.dita#d1e10016">Section 2: Acquisition Considerations.</xref>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e10229.dita#d1e10229">Section 3: Program Risks.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
