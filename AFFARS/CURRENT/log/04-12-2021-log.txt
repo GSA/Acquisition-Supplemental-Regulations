@@ -1,0 +1,2 @@
+Warning: Unrecognised paragraph style: 'Heading 1_Red' (Style ID: Heading1Red)
+Warning: Unrecognised paragraph style: 'edition' (Style ID: edition)
