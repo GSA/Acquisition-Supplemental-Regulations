@@ -1,0 +1,8 @@
+Warning: An unrecognised element was ignored: w:softHyphen
+Warning: Unrecognised paragraph style: 'Plain Text' (Style ID: PlainText)
+Warning: Unrecognised run style: 'Heading 2 Char' (Style ID: Heading2Char)
+Warning: Unrecognised paragraph style: 'Default' (Style ID: Default)
+Warning: Unrecognised paragraph style: 'List 1' (Style ID: List1)
+Warning: Unrecognised paragraph style: 'List 2' (Style ID: List2)
+Warning: Unrecognised paragraph style: 'Normal (Web)' (Style ID: NormalWeb)
+Warning: Unrecognised paragraph style: 'List 3' (Style ID: List3)
