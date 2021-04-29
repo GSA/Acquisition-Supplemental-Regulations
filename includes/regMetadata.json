@@ -1379,7 +1379,7 @@
         "uuid": "28e966ae-40a7-4961-bf09-1ffec35dcfdf",
         "html": "AFFARS-PART-5353--Reserved.html"
     },
-    "AFFARS-PGI_PART-PGI_5301": {
+    "AFFARS-PGI_PART-pgi_5301": {
         "title": "PGI 5301 - Federal Acquisition Regulations System",
         "toctitle": "Federal Acquisition Regulations System",
         "reg": "affars",
@@ -1387,9 +1387,9 @@
         "number": "pgi_5301",
         "index": "No",
         "uuid": "ce6779c9-9a9e-437d-8439-16d797c80222",
-        "html": "AFFARS-PGI_PART-PGI_5301.html"
+        "html": "AFFARS-PGI_PART-pgi_5301.html"
     },
-    "AFFARS-PGI_PART-PGI_5304": {
+    "AFFARS-PGI_PART-pgi_5304": {
         "title": "PGI 5304 - Administrative Matters",
         "toctitle": "Administrative Matters",
         "reg": "affars",
@@ -1397,9 +1397,9 @@
         "number": "pgi_5304",
         "index": "No",
         "uuid": "5085dc7e-c265-4c3f-94f3-aea53c2de40e",
-        "html": "AFFARS-PGI_PART-PGI_5304.html"
+        "html": "AFFARS-PGI_PART-pgi_5304.html"
     },
-    "AFFARS-PGI_PART-PGI_5305": {
+    "AFFARS-PGI_PART-pgi_5305": {
         "title": "PGI 5305 - Publicizing Contract Actions",
         "toctitle": "Publicizing Contract Actions",
         "reg": "affars",
@@ -1407,9 +1407,9 @@
         "number": "pgi_5305",
         "index": "No",
         "uuid": "35668df2-6a32-4066-8ac8-2e352f7efd02",
-        "html": "AFFARS-PGI_PART-PGI_5305.html"
+        "html": "AFFARS-PGI_PART-pgi_5305.html"
     },
-    "AFFARS-PGI_PART-PGI_5306": {
+    "AFFARS-PGI_PART-pgi_5306": {
         "title": "PGI 5306 - Competition Requirements",
         "toctitle": "Competition Requirements",
         "reg": "affars",
@@ -1417,9 +1417,9 @@
         "number": "pgi_5306",
         "index": "No",
         "uuid": "a04e9908-29c9-47bb-9658-01b51035e4c4",
-        "html": "AFFARS-PGI_PART-PGI_5306.html"
+        "html": "AFFARS-PGI_PART-pgi_5306.html"
     },
-    "AFFARS-PGI_PART-PGI_5307": {
+    "AFFARS-PGI_PART-pgi_5307": {
         "title": "PGI 5307 - Acquisition Planning",
         "toctitle": "Acquisition Planning",
         "reg": "affars",
@@ -1427,9 +1427,9 @@
         "number": "pgi_5307",
         "index": "No",
         "uuid": "2b440589-1d33-4687-bd18-86936d6d114a",
-        "html": "AFFARS-PGI_PART-PGI_5307.html"
+        "html": "AFFARS-PGI_PART-pgi_5307.html"
     },
-    "AFFARS-PGI_PART-PGI_5308": {
+    "AFFARS-PGI_PART-pgi_5308": {
         "title": "PGI 5308 - Required Sources of Supplies and Services",
         "toctitle": "Required Sources of Supplies and Services",
         "reg": "affars",
@@ -1437,9 +1437,9 @@
         "number": "pgi_5308",
         "index": "No",
         "uuid": "92b6e42b-4c1b-475a-92a0-3a6895904df9",
-        "html": "AFFARS-PGI_PART-PGI_5308.html"
+        "html": "AFFARS-PGI_PART-pgi_5308.html"
     },
-    "AFFARS-PGI_PART-PGI_5309": {
+    "AFFARS-PGI_PART-pgi_5309": {
         "title": "PGI 5309 - Contractor Qualifications",
         "toctitle": "Contractor Qualifications",
         "reg": "affars",
@@ -1447,9 +1447,9 @@
         "number": "pgi_5309",
         "index": "No",
         "uuid": "a5ba4798-c2a4-4765-bc3e-581d91712873",
-        "html": "AFFARS-PGI_PART-PGI_5309.html"
+        "html": "AFFARS-PGI_PART-pgi_5309.html"
     },
-    "AFFARS-PGI_PART-PGI_5311": {
+    "AFFARS-PGI_PART-pgi_5311": {
         "title": "PGI 5311 - Describing Agency Needs",
         "toctitle": "Describing Agency Needs",
         "reg": "affars",
@@ -1457,9 +1457,9 @@
         "number": "pgi_5311",
         "index": "No",
         "uuid": "c232d228-9d29-4770-9bca-296dbcae10b7",
-        "html": "AFFARS-PGI_PART-PGI_5311.html"
+        "html": "AFFARS-PGI_PART-pgi_5311.html"
     },
-    "AFFARS-PGI_PART-PGI_5312": {
+    "AFFARS-PGI_PART-pgi_5312": {
         "title": "PGI 5312 - Acquisition of Commercial Items",
         "toctitle": "Acquisition of Commercial Items",
         "reg": "affars",
@@ -1467,9 +1467,9 @@
         "number": "pgi_5312",
         "index": "No",
         "uuid": "0b20c230-4c1b-4936-b2b7-4ce46e5b0cdc",
-        "html": "AFFARS-PGI_PART-PGI_5312.html"
+        "html": "AFFARS-PGI_PART-pgi_5312.html"
     },
-    "AFFARS-PGI_PART-PGI_5313": {
+    "AFFARS-PGI_PART-pgi_5313": {
         "title": "PGI 5313 - Simplified Acquisition Procedures",
         "toctitle": "Simplified Acquisition Procedures",
         "reg": "affars",
@@ -1477,9 +1477,9 @@
         "number": "pgi_5313",
         "index": "No",
         "uuid": "a04da71d-ec03-407a-a25c-9c4ca87832ee",
-        "html": "AFFARS-PGI_PART-PGI_5313.html"
+        "html": "AFFARS-PGI_PART-pgi_5313.html"
     },
-    "AFFARS-PGI_PART-PGI_5314": {
+    "AFFARS-PGI_PART-pgi_5314": {
         "title": "PGI 5314 - Sealed Bidding",
         "toctitle": "Sealed Bidding",
         "reg": "affars",
@@ -1487,9 +1487,9 @@
         "number": "pgi_5314",
         "index": "No",
         "uuid": "b18ec2b8-fe83-46ec-a19d-21f4763682d2",
-        "html": "AFFARS-PGI_PART-PGI_5314.html"
+        "html": "AFFARS-PGI_PART-pgi_5314.html"
     },
-    "AFFARS-PGI_PART-PGI_5315": {
+    "AFFARS-PGI_PART-pgi_5315": {
         "title": "PGI 5315 - Contracting by Negotiation",
         "toctitle": "Contracting by Negotiation",
         "reg": "affars",
@@ -1497,9 +1497,9 @@
         "number": "pgi_5315",
         "index": "No",
         "uuid": "9cfc6bd3-0bd8-46ba-b05f-cbec2ef66373",
-        "html": "AFFARS-PGI_PART-PGI_5315.html"
+        "html": "AFFARS-PGI_PART-pgi_5315.html"
     },
-    "AFFARS-PGI_PART-PGI_5316": {
+    "AFFARS-PGI_PART-pgi_5316": {
         "title": "PGI 5316 - Types of Contracts",
         "toctitle": "Types of Contracts",
         "reg": "affars",
@@ -1507,9 +1507,9 @@
         "number": "pgi_5316",
         "index": "No",
         "uuid": "69ffbd0e-9655-4157-93f5-a09a421b20b1",
-        "html": "AFFARS-PGI_PART-PGI_5316.html"
+        "html": "AFFARS-PGI_PART-pgi_5316.html"
     },
-    "AFFARS-PGI_PART-PGI_5317": {
+    "AFFARS-PGI_PART-pgi_5317": {
         "title": "PGI 5317 - Special Contracting Methods",
         "toctitle": "Special Contracting Methods",
         "reg": "affars",
@@ -1517,9 +1517,9 @@
         "number": "pgi_5317",
         "index": "No",
         "uuid": "00f19db3-ce38-46c1-9029-812e836cfec5",
-        "html": "AFFARS-PGI_PART-PGI_5317.html"
+        "html": "AFFARS-PGI_PART-pgi_5317.html"
     },
-    "AFFARS-PGI_PART-PGI_5319": {
+    "AFFARS-PGI_PART-pgi_5319": {
         "title": "PGI 5319 - Small Business Programs",
         "toctitle": "Small Business Programs",
         "reg": "affars",
@@ -1527,9 +1527,9 @@
         "number": "pgi_5319",
         "index": "No",
         "uuid": "52f44a91-9105-4d01-a58e-3a327826aa8e",
-        "html": "AFFARS-PGI_PART-PGI_5319.html"
+        "html": "AFFARS-PGI_PART-pgi_5319.html"
     },
-    "AFFARS-PGI_PART-PGI_5322": {
+    "AFFARS-PGI_PART-pgi_5322": {
         "title": "PGI 5322 - Application of Labor Laws to Government Acquisitions",
         "toctitle": "Application of Labor Laws to Government Acquisitions",
         "reg": "affars",
@@ -1537,9 +1537,9 @@
         "number": "pgi_5322",
         "index": "No",
         "uuid": "ca55a7e6-d4b8-4e2f-9ffc-48a3db893f38",
-        "html": "AFFARS-PGI_PART-PGI_5322.html"
+        "html": "AFFARS-PGI_PART-pgi_5322.html"
     },
-    "AFFARS-PGI_PART-PGI_5323": {
+    "AFFARS-PGI_PART-pgi_5323": {
         "title": "PGI 5323 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace",
         "toctitle": "Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace",
         "reg": "affars",
@@ -1547,9 +1547,9 @@
         "number": "pgi_5323",
         "index": "No",
         "uuid": "3b859833-01e9-41f7-b4c0-4d90fcbadbee",
-        "html": "AFFARS-PGI_PART-PGI_5323.html"
+        "html": "AFFARS-PGI_PART-pgi_5323.html"
     },
-    "AFFARS-PGI_PART-PGI_5324": {
+    "AFFARS-PGI_PART-pgi_5324": {
         "title": "PGI 5324 - Protection of Privacy and Freedom of Information",
         "toctitle": "Protection of Privacy and Freedom of Information",
         "reg": "affars",
@@ -1557,9 +1557,9 @@
         "number": "pgi_5324",
         "index": "No",
         "uuid": "e503f207-3d7e-40a1-b674-9daf3dc6b7d1",
-        "html": "AFFARS-PGI_PART-PGI_5324.html"
+        "html": "AFFARS-PGI_PART-pgi_5324.html"
     },
-    "AFFARS-PGI_PART-PGI_5325": {
+    "AFFARS-PGI_PART-pgi_5325": {
         "title": "PGI 5325 - Foreign Acquisition",
         "toctitle": "Foreign Acquisition",
         "reg": "affars",
@@ -1567,9 +1567,9 @@
         "number": "pgi_5325",
         "index": "No",
         "uuid": "58b76079-5af2-4c7c-bb17-92a7d85427a6",
-        "html": "AFFARS-PGI_PART-PGI_5325.html"
+        "html": "AFFARS-PGI_PART-pgi_5325.html"
     },
-    "AFFARS-PGI_PART-PGI_5327": {
+    "AFFARS-PGI_PART-pgi_5327": {
         "title": "PGI 5327 - Patents, Data, and Copyrights",
         "toctitle": "Patents, Data, and Copyrights",
         "reg": "affars",
@@ -1577,9 +1577,9 @@
         "number": "pgi_5327",
         "index": "No",
         "uuid": "b1f21b40-2917-4ca3-b556-131b7439b32e",
-        "html": "AFFARS-PGI_PART-PGI_5327.html"
+        "html": "AFFARS-PGI_PART-pgi_5327.html"
     },
-    "AFFARS-PGI_PART-PGI_5331": {
+    "AFFARS-PGI_PART-pgi_5331": {
         "title": "PGI 5331 - Contract Cost Principles and Procedures",
         "toctitle": "Contract Cost Principles and Procedures",
         "reg": "affars",
@@ -1587,9 +1587,9 @@
         "number": "pgi_5331",
         "index": "No",
         "uuid": "d56444c3-3921-4f8b-80e0-cc967150604b",
-        "html": "AFFARS-PGI_PART-PGI_5331.html"
+        "html": "AFFARS-PGI_PART-pgi_5331.html"
     },
-    "AFFARS-PGI_PART-PGI_5332": {
+    "AFFARS-PGI_PART-pgi_5332": {
         "title": "PGI 5332 - Contract Financing",
         "toctitle": "Contract Financing",
         "reg": "affars",
@@ -1597,9 +1597,9 @@
         "number": "pgi_5332",
         "index": "No",
         "uuid": "69d43655-ff0f-425b-aaf3-c2fb64bfc941",
-        "html": "AFFARS-PGI_PART-PGI_5332.html"
+        "html": "AFFARS-PGI_PART-pgi_5332.html"
     },
-    "AFFARS-PGI_PART-PGI_5333": {
+    "AFFARS-PGI_PART-pgi_5333": {
         "title": "PGI 5333 - Protests, Disputes, and Appeals",
         "toctitle": "Protests, Disputes, and Appeals",
         "reg": "affars",
@@ -1607,9 +1607,9 @@
         "number": "pgi_5333",
         "index": "No",
         "uuid": "d1505e4a-6d37-4f8a-8f63-cc477330cfba",
-        "html": "AFFARS-PGI_PART-PGI_5333.html"
+        "html": "AFFARS-PGI_PART-pgi_5333.html"
     },
-    "AFFARS-PGI_PART-PGI_5334": {
+    "AFFARS-PGI_PART-pgi_5334": {
         "title": "PGI 5334 - Major System Acquisition",
         "toctitle": "Major System Acquisition",
         "reg": "affars",
@@ -1617,9 +1617,9 @@
         "number": "pgi_5334",
         "index": "No",
         "uuid": "19a1c007-8801-47ad-b66f-b41c29b5301e",
-        "html": "AFFARS-PGI_PART-PGI_5334.html"
+        "html": "AFFARS-PGI_PART-pgi_5334.html"
     },
-    "AFFARS-PGI_PART-PGI_5335": {
+    "AFFARS-PGI_PART-pgi_5335": {
         "title": "PGI 5335 - Research and Development Contracting",
         "toctitle": "Research and Development Contracting",
         "reg": "affars",
@@ -1627,9 +1627,9 @@
         "number": "pgi_5335",
         "index": "No",
         "uuid": "ecf4c7de-8baa-4d08-8121-f95fe6ca7f97",
-        "html": "AFFARS-PGI_PART-PGI_5335.html"
+        "html": "AFFARS-PGI_PART-pgi_5335.html"
     },
-    "AFFARS-PGI_PART-PGI_5336": {
+    "AFFARS-PGI_PART-pgi_5336": {
         "title": "PGI 5336 - Construction and Architect-Engineer Contracts",
         "toctitle": "Construction and Architect-Engineer Contracts",
         "reg": "affars",
@@ -1637,9 +1637,9 @@
         "number": "pgi_5336",
         "index": "No",
         "uuid": "373babe5-1706-447a-8ad8-52bf7c847825",
-        "html": "AFFARS-PGI_PART-PGI_5336.html"
+        "html": "AFFARS-PGI_PART-pgi_5336.html"
     },
-    "AFFARS-PGI_PART-PGI_5337": {
+    "AFFARS-PGI_PART-pgi_5337": {
         "title": "PGI 5337 - Service Contracting",
         "toctitle": "Service Contracting",
         "reg": "affars",
@@ -1647,9 +1647,9 @@
         "number": "pgi_5337",
         "index": "No",
         "uuid": "41d4b182-acca-4931-9c6b-90953f19535b",
-        "html": "AFFARS-PGI_PART-PGI_5337.html"
+        "html": "AFFARS-PGI_PART-pgi_5337.html"
     },
-    "AFFARS-PGI_PART-PGI_5339": {
+    "AFFARS-PGI_PART-pgi_5339": {
         "title": "PGI 5339 - Acquisition of Information Technology",
         "toctitle": "Acquisition of Information Technology",
         "reg": "affars",
@@ -1657,9 +1657,9 @@
         "number": "pgi_5339",
         "index": "No",
         "uuid": "4ca74043-c98b-41d2-bf39-77d68c0c4ab3",
-        "html": "AFFARS-PGI_PART-PGI_5339.html"
+        "html": "AFFARS-PGI_PART-pgi_5339.html"
     },
-    "AFFARS-PGI_PART-PGI_5341": {
+    "AFFARS-PGI_PART-pgi_5341": {
         "title": "PGI 5341 - Acquisition of Utility Services",
         "toctitle": "Acquisition of Utility Services",
         "reg": "affars",
@@ -1667,9 +1667,9 @@
         "number": "pgi_5341",
         "index": "No",
         "uuid": "247b2d98-1820-4ed5-a7ee-d00503537d58",
-        "html": "AFFARS-PGI_PART-PGI_5341.html"
+        "html": "AFFARS-PGI_PART-pgi_5341.html"
     },
-    "AFFARS-PGI_PART-PGI_5342": {
+    "AFFARS-PGI_PART-pgi_5342": {
         "title": "PGI 5342 - Contract Administration and Audit Services",
         "toctitle": "Contract Administration and Audit Services",
         "reg": "affars",
@@ -1677,9 +1677,9 @@
         "number": "pgi_5342",
         "index": "No",
         "uuid": "49ac10da-52a8-4fb3-949b-e5e69ac69742",
-        "html": "AFFARS-PGI_PART-PGI_5342.html"
+        "html": "AFFARS-PGI_PART-pgi_5342.html"
     },
-    "AFFARS-PGI_PART-PGI_5343": {
+    "AFFARS-PGI_PART-pgi_5343": {
         "title": "PGI 5343 - Contract Modifications",
         "toctitle": "Contract Modifications",
         "reg": "affars",
@@ -1687,9 +1687,9 @@
         "number": "pgi_5343",
         "index": "No",
         "uuid": "d668f62c-21c0-4155-b75f-a47cfca65e4b",
-        "html": "AFFARS-PGI_PART-PGI_5343.html"
+        "html": "AFFARS-PGI_PART-pgi_5343.html"
     },
-    "AFFARS-PGI_PART-PGI_5345": {
+    "AFFARS-PGI_PART-pgi_5345": {
         "title": "PGI 5345 - Government Property",
         "toctitle": "Government Property",
         "reg": "affars",
@@ -1697,9 +1697,9 @@
         "number": "pgi_5345",
         "index": "No",
         "uuid": "4e900406-c647-4b00-b3c3-dfa2f5610045",
-        "html": "AFFARS-PGI_PART-PGI_5345.html"
+        "html": "AFFARS-PGI_PART-pgi_5345.html"
     },
-    "AFFARS-PGI_PART-PGI_5346": {
+    "AFFARS-PGI_PART-pgi_5346": {
         "title": "PGI 5346 - Quality Assurance",
         "toctitle": "Quality Assurance",
         "reg": "affars",
@@ -1707,9 +1707,9 @@
         "number": "pgi_5346",
         "index": "No",
         "uuid": "51da6b60-401b-442e-9346-ae6b6b26a1db",
-        "html": "AFFARS-PGI_PART-PGI_5346.html"
+        "html": "AFFARS-PGI_PART-pgi_5346.html"
     },
-    "AFFARS-PGI_PART-PGI_5347": {
+    "AFFARS-PGI_PART-pgi_5347": {
         "title": "PGI 5347 - Transportation",
         "toctitle": "Transportation",
         "reg": "affars",
@@ -1717,9 +1717,9 @@
         "number": "pgi_5347",
         "index": "No",
         "uuid": "189d9290-98c1-4b80-9068-c56a6808229f",
-        "html": "AFFARS-PGI_PART-PGI_5347.html"
+        "html": "AFFARS-PGI_PART-pgi_5347.html"
     },
-    "AFFARS-PGI_PART-PGI_5349": {
+    "AFFARS-PGI_PART-pgi_5349": {
         "title": "PGI 5349 - Termination of Contracts",
         "toctitle": "Termination of Contracts",
         "reg": "affars",
@@ -1727,7 +1727,7 @@
         "number": "pgi_5349",
         "index": "No",
         "uuid": "a186ff1b-0e50-49a7-8302-3ed7cb9d721b",
-        "html": "AFFARS-PGI_PART-PGI_5349.html"
+        "html": "AFFARS-PGI_PART-pgi_5349.html"
     },
     "AGAR-PART-400": {
         "title": "Part 400 - Reserved",
