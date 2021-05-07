@@ -1,5 +1,0 @@
-Warning: Unrecognised paragraph style: 'List 1' (Style ID: List1)
-Warning: Unrecognised paragraph style: 'List 2' (Style ID: List2)
-Warning: Unrecognised paragraph style: 'List 3' (Style ID: List3)
-Warning: Unrecognised paragraph style: 'Default' (Style ID: Default)
-Warning: Unrecognised run style: 'Heading 3 Char' (Style ID: Heading3Char)

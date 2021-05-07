@@ -1,5 +1,0 @@
-Warning: Unrecognised paragraph style: 'Heading 1_Red' (Style ID: Heading1Red)
-Warning: Unrecognised paragraph style: 'edition' (Style ID: edition)
-Warning: Unrecognised paragraph style: 'font5' (Style ID: font5)
-Warning: Unrecognised paragraph style: 'Normal (Web)' (Style ID: NormalWeb)
-Warning: Unrecognised paragraph style: 'Plain Text' (Style ID: PlainText)
