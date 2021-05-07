@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1535_007_70_T48_601629012">
+      <title class="- topic/title ">
+         <ph props="autonumber">1535.007-70</ph> Contract clauses.</title>
+      <conbody>
+         <p xtrc="P">The following clauses are prescribed for research and development (R&amp;D) contracts. They may also be used in other than R&amp;D contracts when applicable (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1537_110_T48_601631111"
+                  href="Section_1537_110_T48_601631111.dita#Section_1537_110_T48_601631111">1537.110</xref>).</p>
+         <p outputclass="List1">(a) The Contracting Officer shall insert the contract clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_70_T48_6018371161"
+                  href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161">1552.235-70</xref>, Screening Business Information for Claims of Confidentiality, in contracts when the Contracting Officer has determined that during performance of this contract, the Contractor may be required to collect information to perform the work required under this contract. Some of the information may consist of trade secrets or commercial or financial information that would be considered as proprietary or confidential by the business that has the right to the information.
+</p>
+         <p outputclass="List1">(b) The Contracting Officer shall insert the clause at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_71_T48_6018371162"
+                  href="Section_1552_235_71_T48_6018371162.dita#Section_1552_235_71_T48_6018371162">1552.235-71</xref>, Treatment of Confidential Business Information, in solicitations and contracts when the Contracting Officer has determined that in the performance of the contract, EPA may furnish confidential business information to the contractor obtained from third parties under the Clean Air Act (42 U.S.C. 7401 <i>et seq.</i>), the Federal Water Pollution Control Act (33 U.S.C. 1251 <i>et seq.</i>), the Safe Drinking Water Act (42 U.S.C. 300f <i>et seq.</i>), the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 <i>et seq.</i>), the Resource Conservation and Recovery Act (42 U.S.C. 301 <i>et seq.</i>), the Federal Insecticide, Fungicide and Rodenticide Act (7 U.S.C. 136 <i>et seq.</i>), the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601 <i>et seq.</i>), and the provision at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_70_T48_6018371161"
+                  href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161">1552.235-70</xref>, Release of Contractor Confidential Business Information. EPA regulations on confidentiality of business information in 40 CFR part 2, subpart B require that the contractor agree to the clause entitled “Treatment of Confidential Business Information” before any confidential business information may be furnished to the contractor. 
+</p>
+         <p outputclass="List1">(c) The Contracting Officer shall insert the clause at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_76_T48_6018371167"
+                  href="Section_1552_235_76_T48_6018371167.dita#Section_1552_235_76_T48_6018371167">1552.235-76</xref>, Treatment of Confidential Business Information (TSCA), in solicitations and contracts when the Contracting Officer has determined that in the performance of the contract, EPA may furnish the contractor with confidential business information obtained from third parties under the Toxic Substances Control Act (15 U.S.C. 2601 <i>et seq.</i>). EPA regulations on confidentiality of business information in 40 CFR part 2, subpart B require that the contractor agree to the clause entitled “Treatment of Confidential Business Information” before any confidential business information may be furnished to the contractor. 
+</p>
+         <p outputclass="List1">(d) The Contracting Officer shall insert the clause at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_77_T48_6018371168"
+                  href="Section_1552_235_77_T48_6018371168.dita#Section_1552_235_77_T48_6018371168">1552.235-77</xref>, Data Security for Federal Insecticide, Fungicide, and Rodenticide Act, Confidential Business Information, when the contract involves access to confidential business information related to the Federal Insecticide, Fungicide, and Rodenticide Act, and the Treatment of Confidential Business Information clause (48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_71_T48_6018371162"
+                  href="Section_1552_235_71_T48_6018371162.dita#Section_1552_235_71_T48_6018371162">1552.235-71</xref>) and the Screening Business Information for Claims of Confidentiality clause (48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_70_T48_6018371161"
+                  href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161">1552.235-70</xref>) are included. 
+</p>
+         <p outputclass="List1">(e) The Contracting Officer shall insert the clause at 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_78_T48_6018371169"
+                  href="Section_1552_235_78_T48_6018371169.dita#Section_1552_235_78_T48_6018371169">1552.235-78</xref>, Data Security for Toxic Substances Control Act Confidential Business Information, when the contract involves access to confidential business information related to the Toxic Substances Control Act, and the Treatment of Confidential Business Information clause (48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_76_T48_6018371167"
+                  href="Section_1552_235_76_T48_6018371167.dita#Section_1552_235_76_T48_6018371167">1552.235-76</xref>) and Screening Business Information for Claims of Confidentiality clause (48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_70_T48_6018371161"
+                  href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161">1552.235-70</xref>) are included. 
+</p>
+         <p outputclass="List1">(f) Contracting Officers shall insert the clause 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_79_T48_6018371170"
+                  href="Section_1552_235_79_T48_6018371170.dita#Section_1552_235_79_T48_6018371170">1552.235-79</xref>, Release of Contractor Confidential Business Information, in all solicitations and contracts in order to authorize the Agency to release confidential business information under certain circumstances. 
+</p>
+         <p outputclass="List1">(g) Contracting officers shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_80_T48_6018371171"
+                  href="Section_1552_235_80_T48_6018371171.dita#Section_1552_235_80_T48_6018371171">1552.235-80</xref>, Access to Confidential Business Information (CBI), in all types of contracts when it is possible that it will be necessary for the contractor to have access to CBI during the performance of tasks required under the contract.
+</p>
+         <p outputclass="List1">(h) Contracting officers shall insert 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_82_T48_6018371173"
+                  href="Section_1552_235_82_T48_6018371173.dita#Section_1552_235_82_T48_6018371173">1552.235-82</xref> - “Institutional Oversight of Life Sciences Dual Use Research of Concern” into all solicitations containing 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_81_T48_6018371172"
+                  href="Section_1552_235_81_T48_6018371172.dita#Section_1552_235_81_T48_6018371172">1552.235-81</xref> and in existing contracts that are bilaterally modified at the request of an EPA funding/requesting office in accordance with EPA Order 1000.19.
+</p>
+      </conbody>
+   </concept>
+</dita>

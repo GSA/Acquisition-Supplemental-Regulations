@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1828_370_T48_6042023115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1828.370</ph> Fixed-price contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_70_T48_60423441175"
+                  href="Section_1852_228_70_T48_60423441175.dita#Section_1852_228_70_T48_60423441175">1852.228-70</xref>, Aircraft Ground and Flight Risk, in all negotiated fixed-price contracts for the development, production, modification, maintenance, or overhaul of aircraft, or otherwise involving the furnishing of aircraft to the contractor, except as provided in paragraph (b) of this section, unless the aircraft are covered by a separate bailment. See the clause preface for directions for modifying the clause to accommodate various circumstances.
+</p>
+         <p outputclass="List1">(b) The Government need not assume the risk of aircraft damage, loss, or destruction as provided by the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_70_T48_60423441175"
+                  href="Section_1852_228_70_T48_60423441175.dita#Section_1852_228_70_T48_60423441175">1852.228-70</xref> if the best estimate of premium costs that would be included in the contract price for insurance coverage for such damage, loss, or destruction at any plant or facility is less than $500. If it is determined not to assume this risk, the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_70_T48_60423441175"
+                  href="Section_1852_228_70_T48_60423441175.dita#Section_1852_228_70_T48_60423441175">1852.228-70</xref> shall not be made a part of the contract, and the cost of necessary insurance to be obtained by the contractor to cover this risk shall be considered in establishing the contract price. In such cases, however, if performance of the contract is expected to involve the flight of Government-furnished aircraft, the substance of the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_71_T48_60423441176"
+                  href="Section_1852_228_71_T48_60423441176.dita#Section_1852_228_71_T48_60423441176">1852.228-71</xref>, Aircraft Flight Risks, suitably adapted for use in a fixed-price contract, shall be used.
+</p>
+         <p outputclass="List1">(c) When the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_70_T48_60423441175"
+                  href="Section_1852_228_70_T48_60423441175.dita#Section_1852_228_70_T48_60423441175">1852.228-70</xref> is used, the term “Contractor's premises” shall be expressly defined in the contract Schedule and shall be limited to places where aircraft may be located during the performance of the contract. Contractor's premises may include, but are not limited to, those owned or leased by the contractor or those for which the contractor has a permit, license, or other right of use either exclusively or jointly with others, including Government airfields.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e4213">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5243.201 General.</title>
+            <body>
+               <p outputclass="List1">(S-90) (a) Each undefinitized change
+order shall include a not-to-exceed price unless the CCO waives
+this requirement.</p>
+               <p outputclass="List1">(b) The policies and procedures of DFARS
+217.74 shall be applied to change orders (except value engineering
+change proposals (VECPs)) to the maximum extent practicable.</p>
+               <p outputclass="List1">(c) The use of VECPs are encouraged due
+to the potential savings and system improvements that may be realized.</p>
+               <p outputclass="List2">(1) Prompt action shall be taken to implement
+those VECPs deemed to be technically sound.</p>
+               <p outputclass="List2">(2) When considering VECPs, contracting
+officers shall consider the impact on the projected savings that
+the normal negotiation and definitization process would have versus
+use of an unpriced change order. Unpriced contract modifications that
+implement VECPs shall:</p>
+               <p outputclass="List3">(i) Define minimum unit cost savings, and</p>
+               <p outputclass="List3">(ii) Define maximum development/implementation
+costs</p>
+               <p outputclass="Normal"/>
+            </body>
+         </topic>
+</dita>

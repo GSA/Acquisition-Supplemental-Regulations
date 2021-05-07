@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_214_72_T48_60423441114">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.214-72</ph> Full quantities.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1814_201_670_T48_6041813112"
+                  href="Section_1814_201_670_T48_6041813112.dita#Section_1814_201_670_T48_6041813112">1814.201-670</xref>(c), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Full Quantities (DEC 1988)
+</p>
+                                    <p xtrc="P">The Government will not consider an offer for quantities of items less than those specified. If this is an invitation for bids, the Government will reject as nonresponsive a bid that is not made on full quantities.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

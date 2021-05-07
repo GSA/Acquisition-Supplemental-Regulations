@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3001_105_2_T48_70282117">
+      <title class="- topic/title ">
+         <ph props="autonumber">3001.105-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p outputclass="List1">(a) General. The HSAR, which encompasses both Department-wide and Component-unique guidance, conforms to the arrangement and numbering system prescribed by (FAR) 48 CFR 1.105-2. Guidance that is unique to a Component contains the organization's acronym or abbreviation directly following the title. The following acronyms and abbreviations apply:
+</p>
+                                    <p xtrc="FP-1">DHS Management (MGMT), including the Office of Procurement Operations (OPO) and the Office of Selective Acquisitions (OSA);
+</p>
+                                    <p xtrc="FP-1">Federal Emergency Management Agency (FEMA);
+</p>
+                                    <p xtrc="FP-1">Federal Law Enforcement Training Center (FLETC);
+</p>
+                                    <p xtrc="FP-1">Transportation Security Administration (TSA);
+</p>
+                                    <p xtrc="FP-1">U.S. Coast Guard (USCG);
+</p>
+                                    <p xtrc="FP-1">U.S. Customs and Border Protection (CBP);
+</p>
+                                    <p xtrc="FP-1">U.S. Immigration and Customs Enforcement (ICE); and
+</p>
+                                    <p xtrc="FP-1">U.S. Secret Service (USSS).</p>
+                                 </conbody>
+   </concept>
+</dita>

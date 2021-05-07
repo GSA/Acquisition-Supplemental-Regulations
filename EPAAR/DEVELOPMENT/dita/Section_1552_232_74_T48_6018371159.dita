@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_232_74_T48_6018371159">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.232-74</ph> Payments - simplified acquisition procedures financing.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1532_003_T48_601527011"
+                  href="Section_1532_003_T48_601527011.dita#Section_1532_003_T48_601527011">1532.003</xref>, insert the following clause in solicitations and orders that will provide simplified acquisition procedures financing.
+</p>
+                                    <p xtrc="HD1">Payments - Simplified Acquisition Procedures Financing (JUN 2006)
+</p>
+                                    <p xtrc="P">Simplified acquisition procedures financing in the form of ______ [contracting officer insert <i>advance</i> (prior to performance) and/or <i>interim</i> (according to payment schedule] payment(s)) will be provided under this commercial item order in accordance with the payment schedule below. If both advance and interim payments are to be made, the payment schedule shown below will specify the type of payment provided for each line item.
+</p>
+                                    <p xtrc="P">The Government shall pay the contractor as follows upon the submission of invoices or vouchers approved by the Contracting Officer's Representative: ____________ [insert payment schedule].</p>
+                                 </conbody>
+   </concept>
+</dita>

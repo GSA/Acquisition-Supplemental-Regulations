@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1552_T48_601837">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1552</ph> - SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1552_2_T48_6018371.dita#Subpart_1552_2_T48_6018371"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_203_70_T48_601837111.dita#Section_1552_203_70_T48_601837111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_203_71_T48_601837112.dita#Section_1552_203_71_T48_601837112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_203_72_T48_601837113.dita#Section_1552_203_72_T48_601837113"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_204_70_T48_601837114.dita#Section_1552_204_70_T48_601837114"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_208_70_T48_601837115.dita#Section_1552_208_70_T48_601837115"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_70_T48_601837116.dita#Section_1552_209_70_T48_601837116"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_71_T48_601837117.dita#Section_1552_209_71_T48_601837117"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_72_T48_601837118.dita#Section_1552_209_72_T48_601837118"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_73_T48_601837119.dita#Section_1552_209_73_T48_601837119"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_74_T48_6018371110.dita#Section_1552_209_74_T48_6018371110"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_209_75_T48_6018371111.dita#Section_1552_209_75_T48_6018371111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_210_71_T48_6018371112.dita#Section_1552_210_71_T48_6018371112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_210_73_1552_210_74_T48_6018371113.dita#Section_1552_210_73_1552_210_74_T48_6018371113"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_70_T48_6018371114.dita#Section_1552_211_70_T48_6018371114"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_72_T48_6018371115.dita#Section_1552_211_72_T48_6018371115"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_73_T48_6018371116.dita#Section_1552_211_73_T48_6018371116"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_74_T48_6018371117.dita#Section_1552_211_74_T48_6018371117"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_75_T48_6018371118.dita#Section_1552_211_75_T48_6018371118"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_76_T48_6018371119.dita#Section_1552_211_76_T48_6018371119"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_77_T48_6018371120.dita#Section_1552_211_77_T48_6018371120"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_78_T48_6018371121.dita#Section_1552_211_78_T48_6018371121"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_211_79_T48_6018371122.dita#Section_1552_211_79_T48_6018371122"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_213_70_T48_6018371123.dita#Section_1552_213_70_T48_6018371123"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_214_71_T48_6018371124.dita#Section_1552_214_71_T48_6018371124"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_70_1552_215_71_T48_6018371125.dita#Section_1552_215_70_1552_215_71_T48_6018371125"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_72_T48_6018371126.dita#Section_1552_215_72_T48_6018371126"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_73_T48_6018371127.dita#Section_1552_215_73_T48_6018371127"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_74_T48_6018371128.dita#Section_1552_215_74_T48_6018371128"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_75_T48_6018371129.dita#Section_1552_215_75_T48_6018371129"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_215_76_T48_6018371130.dita#Section_1552_215_76_T48_6018371130"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_70_T48_6018371131.dita#Section_1552_216_70_T48_6018371131"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_71_T48_6018371132.dita#Section_1552_216_71_T48_6018371132"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_72_T48_6018371133.dita#Section_1552_216_72_T48_6018371133"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_73_T48_6018371134.dita#Section_1552_216_73_T48_6018371134"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_74_T48_6018371135.dita#Section_1552_216_74_T48_6018371135"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_75_T48_6018371136.dita#Section_1552_216_75_T48_6018371136"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_76_T48_6018371137.dita#Section_1552_216_76_T48_6018371137"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_77_T48_6018371138.dita#Section_1552_216_77_T48_6018371138"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_78_T48_6018371139.dita#Section_1552_216_78_T48_6018371139"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_216_79_T48_6018371140.dita#Section_1552_216_79_T48_6018371140"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_70_T48_6018371141.dita#Section_1552_217_70_T48_6018371141"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_71_T48_6018371142.dita#Section_1552_217_71_T48_6018371142"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_72_T48_6018371143.dita#Section_1552_217_72_T48_6018371143"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_73_T48_6018371144.dita#Section_1552_217_73_T48_6018371144"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_74_T48_6018371145.dita#Section_1552_217_74_T48_6018371145"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_75_T48_6018371146.dita#Section_1552_217_75_T48_6018371146"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_76_T48_6018371147.dita#Section_1552_217_76_T48_6018371147"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_217_77_T48_6018371148.dita#Section_1552_217_77_T48_6018371148"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_219_70_1552_219_74_T48_6018371149.dita#Section_1552_219_70_1552_219_74_T48_6018371149"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_223_70_T48_6018371150.dita#Section_1552_223_70_T48_6018371150"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_223_71_T48_6018371151.dita#Section_1552_223_71_T48_6018371151"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_223_72_T48_6018371152.dita#Section_1552_223_72_T48_6018371152"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_224_70_T48_6018371153.dita#Section_1552_224_70_T48_6018371153"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_227_76_T48_6018371154.dita#Section_1552_227_76_T48_6018371154"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_228_70_T48_6018371155.dita#Section_1552_228_70_T48_6018371155"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_229_70_T48_6018371156.dita#Section_1552_229_70_T48_6018371156"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_232_70_T48_6018371157.dita#Section_1552_232_70_T48_6018371157"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_232_71_1552_232_73_T48_6018371158.dita#Section_1552_232_71_1552_232_73_T48_6018371158"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_232_74_T48_6018371159.dita#Section_1552_232_74_T48_6018371159"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_233_70_T48_6018371160.dita#Section_1552_233_70_T48_6018371160"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_71_T48_6018371162.dita#Section_1552_235_71_T48_6018371162"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_72_T48_6018371163.dita#Section_1552_235_72_T48_6018371163"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_73_T48_6018371164.dita#Section_1552_235_73_T48_6018371164"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_74_T48_6018371165.dita#Section_1552_235_74_T48_6018371165"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_75_T48_6018371166.dita#Section_1552_235_75_T48_6018371166"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_76_T48_6018371167.dita#Section_1552_235_76_T48_6018371167"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_77_T48_6018371168.dita#Section_1552_235_77_T48_6018371168"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_78_T48_6018371169.dita#Section_1552_235_78_T48_6018371169"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_79_T48_6018371170.dita#Section_1552_235_79_T48_6018371170"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_80_T48_6018371171.dita#Section_1552_235_80_T48_6018371171"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_81_T48_6018371172.dita#Section_1552_235_81_T48_6018371172"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_235_82_T48_6018371173.dita#Section_1552_235_82_T48_6018371173"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_236_70_T48_6018371174.dita#Section_1552_236_70_T48_6018371174"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_70_T48_6018371175.dita#Section_1552_237_70_T48_6018371175"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_71_T48_6018371176.dita#Section_1552_237_71_T48_6018371176"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_72_T48_6018371177.dita#Section_1552_237_72_T48_6018371177"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_73_T48_6018371178.dita#Section_1552_237_73_T48_6018371178"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_74_T48_6018371179.dita#Section_1552_237_74_T48_6018371179"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_75_T48_6018371180.dita#Section_1552_237_75_T48_6018371180"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_237_76_T48_6018371181.dita#Section_1552_237_76_T48_6018371181"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section__1552_239_71_T48_6018371182.dita#Section__1552_239_71_T48_6018371182"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_242_70_T48_6018371183.dita#Section_1552_242_70_T48_6018371183"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_242_72_T48_6018371184.dita#Section_1552_242_72_T48_6018371184"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_245_70_T48_6018371185.dita#Section_1552_245_70_T48_6018371185"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1552_245_71_T48_6018371186.dita#Section_1552_245_71_T48_6018371186"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

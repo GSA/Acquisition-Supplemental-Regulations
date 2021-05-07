@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1536_521_T48_601630211">
+      <title class="- topic/title ">
+         <ph props="autonumber">1536.521</ph> Specifications and drawings for construction.</title>
+      <conbody>
+         <p xtrc="P">The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_236_70_T48_6018371174"
+                  href="Section_1552_236_70_T48_6018371174.dita#Section_1552_236_70_T48_6018371174">1552.236-70</xref>, Samples and Certificates, in soliciations and contracts when a fixed price construction contract is expected to exceed the simplified acquisition threshold limitation. The clause may be inserted in solicitations and contracts when the contract is expected to be within the simplified acquisition threshold limitation. 
+</p>
+      </conbody>
+   </concept>
+</dita>

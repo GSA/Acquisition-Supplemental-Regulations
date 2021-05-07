@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_234_1_T48_60423441192">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.234-1</ph> Notice of Earned Value Management System.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1834_203_70_T48_6042128113"
+                  href="Section_1834_203_70_T48_6042128113.dita#Section_1834_203_70_T48_6042128113">1834.203-70</xref>(a), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Notice of Earned Value Management System (NOV 2006)
+</p>
+                                    <p outputclass="List1">(a) The offeror shall provide documentation that its proposed Earned Value Management System (EVMS) complies with the EVMS guidelines in the American National Standards Institute (ANSI)/Electronic Industries Alliance (EIA)-748 Standard, Earned Value Management Systems (current version at time of solicitation).
+</p>
+                                    <p outputclass="List1">(b) If the offeror proposes to use a system that currently does not meet the requirements of paragraph (a) of this provision, the offeror shall submit its comprehensive plan for compliance with the EVMS guidelines to the Government for approval.
+</p>
+                                    <p outputclass="List2">(1) The plan shall - 
+</p>
+                                    <p outputclass="List3">(i) Describe the EVMS the offeror intends to use in performance of the contract;
+</p>
+                                    <p outputclass="List3">(ii) Distinguish between the offeror's existing management system and modifications proposed to meet the EVMS guidelines in ANSI/EIA-748;
+</p>
+                                    <p outputclass="List3">(iii) Provide a matrix that correlates each guideline in ANSI/EIA 748 (current version at time of solicitation) to the corresponding process in the offeror's written management procedures;
+</p>
+                                    <p outputclass="List3">(iv) Describe the proposed procedure for application of the EVMS requirements to subcontractors;
+</p>
+                                    <p outputclass="List3">(v) Describe how the offeror will ensure EVMS compliance for each subcontractor subject to the flowdown requirement in paragraph (c) whose EVMS has not been recognized by the Cognizant Federal Agency as compliant according to paragraph (a);
+</p>
+                                    <p outputclass="List3">(vi) Provide documentation describing the process and results, including Government participation, of any third-party or self-evaluation of the system's compliance with the EVMS guidelines; and
+</p>
+                                    <p outputclass="List3">(vii) If the value of the offeror's proposal, including options, is $50 million or more, provide a schedule of events leading up to formal validation and Government acceptance of the Contractor's EVMS. Guidance can be found in the] Department of Defense Earned Value Management Implementation Guide (<i>https://acc.dau.mil/CommunityBrowser.aspx?id=19557</i>) as well as in the National Defense Industrial Association (NDIA) Earned Value Management Systems Acceptance Guide (<i>http://www.ndia.org/divisions/divisions/procurement/pages/programsystemcommittee.aspx</i>).
+</p>
+                                    <p outputclass="List2">(2) The offeror shall provide information and assistance as required by the Contracting Officer to support review of the plan.
+</p>
+                                    <p outputclass="List2">(3) The Government will review the offeror's EVMS implementation plan prior to contract award.
+</p>
+                                    <p outputclass="List1">(c) The offeror shall identify in its offer the major subcontractors, or major subcontracted effort if major subcontractors have not been selected, planned for application of the EVMS requirement. Prior to contract award, the offeror and NASA shall agree on the subcontractors, or subcontracted effort, subject to the EVMS requirement.
+</p>
+                                    <p outputclass="List1">(d) The offeror shall incorporate its compliance evaluation factors for subcontractors into the plan required by paragraph (b) of this provision.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

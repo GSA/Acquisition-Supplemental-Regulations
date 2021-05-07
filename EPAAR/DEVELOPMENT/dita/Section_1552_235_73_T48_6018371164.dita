@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_235_73_T48_6018371164">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.235-73</ph> Access to Federal Insecticide, Fungicide, and Rodenticide Act Confidential Business Information (APR 1996).</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1535_007_T48_601629011"
+                  href="Section_1535_007_T48_601629011.dita#Section_1535_007_T48_601629011">1535.007</xref>(a), insert the following provision: 
+</p>
+                                    <p xtrc="HD1">Access to Federal Insecticide, Fungicide, and Rodenticide Act Confidential Business Information (APR 1996)
+</p>
+                                    <p xtrc="P">In order to perform duties under the contract, the Contractor will need to be authorized for access to Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) confidential business information (CBI). The Contractor and all of its employees handling CBI while working under the contract will be required to follow the procedures contained in the security manual entitled “FIFRA Information Security Manual.” These procedures include applying for FIFRA CBI access authorization for each individual working under the contract who will have access to FIFRA CBI, execution of confidentiality agreements, and designation by the Contractor of an individual to serve as a Document Control Officer. The Contractor will be required to abide by those clauses contained in EPAAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_70_T48_6018371161"
+                  href="Section_1552_235_70_T48_6018371161.dita#Section_1552_235_70_T48_6018371161">1552.235-70</xref>, 1552.235- 71, and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1552_235_77_T48_6018371168"
+                  href="Section_1552_235_77_T48_6018371168.dita#Section_1552_235_77_T48_6018371168">1552.235-77</xref> that are appropriate to the activities set forth in the contract. 
+</p>
+                                    <p xtrc="P">Until EPA has approved the Contractor's security plan, the Contractor may not be authorized for FIFRA CBI access away from EPA facilities.</p>
+                                 <p xtrc="HD3">(End of provision)
+</p>
+      </conbody>
+   </concept>
+</dita>

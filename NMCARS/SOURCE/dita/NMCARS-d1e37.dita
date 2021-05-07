@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e37">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5201.105-2 Arrangement of regulations.</title>
+               <body>
+                  <p outputclass="List1">(c) References and citations.</p>
+                  <p outputclass="List2">(1) References to this supplement within
+this supplement will be without a name or acronym prefix. References
+to FAR citations in this supplement should be read to include any
+corresponding paragraphs of the DFARS and this supplement and any
+additional authorizations, restrictions, policies and procedures
+they may contain. For example, the words "...when authorized under
+FAR Part 25..." include authorities granted under FAR Part 25, DFARS
+Part 225 and Part 5225 of this supplement.</p>
+               </body>
+            </topic>
+</dita>

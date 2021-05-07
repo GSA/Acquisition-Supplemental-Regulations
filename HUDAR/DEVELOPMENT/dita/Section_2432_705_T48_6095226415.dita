@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2432_705_T48_6095226415">
+      <title class="- topic/title ">
+         <ph props="autonumber">2432.705</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_232_72_T48_60955371132"
+                  href="Section_2452_232_72_T48_60955371132.dita#Section_2452_232_72_T48_60955371132">2452.232-72</xref>, “Limitation of Government's Obligation,” in solicitations and resultant incrementally funded fixed-price contracts as authorized by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2432_703_1_T48_6095226411"
+                  href="Section_2432_703_1_T48_6095226411.dita#Section_2432_703_1_T48_6095226411">2432.703-1</xref>. The Contracting Officer shall insert the information required in the table in paragraph (b) and the notification period in paragraph (c) of the clause.
+</p>
+         <p outputclass="List1">(b) The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_232_74_T48_60955371134"
+                  href="Section_2452_232_74_T48_60955371134.dita#Section_2452_232_74_T48_60955371134">2452.232-74</xref>, “Not To Exceed Limitation” in all solicitations and contracts where the total estimated funds needed for the performance period are not yet obligated.
+</p>
+      </conbody>
+   </concept>
+</dita>

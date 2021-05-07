@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_915_404_4_72_T48_50320153121">
+      <title class="- topic/title ">
+         <ph props="autonumber">915.404-4</ph>-72 Special considerations for cost-plus-award-fee contracts.</title>
+      <conbody>
+         <p outputclass="List1">(a) When a contract is to be awarded on a cost-plus-award-fee basis several special considerations are appropriate. Fee objectives for management and operating contracts or other contracts as determined by the Senior Procurement Executive, including those using the Construction, Construction Management, or Special Equipment Purchases/Subcontract Work schedules from 915.404-4-71-5, shall be developed pursuant to the procedures set forth in 970.15404-4-8. Fee objectives for other cost-plus-award-fee contracts shall be in accordance with 916.405-2 and be developed as follows:
+</p>
+         <p outputclass="List2">(1) The base fee portion of the fee objective of an award fee contract may range from 0% up to the 50% level of the fee amount for a Cost-Plus-Fixed-Fee (CPFF) contract, arrived at by using the weighted guidelines or other techniques (such as those provided in 915.404-4-71 for construction and construction management contracts). However, the base amount should not normally exceed 50% of the otherwise applicable fixed fee. In the event this 50% limit is exceeded, appropriate documentation shall be entered into the contract file. In no event shall the base fee exceed 60% of the fixed fee amount.
+</p>
+         <p outputclass="List2">(2) The base fee plus the amount included in the award fee pool should normally not exceed the fixed fee (as subjectively determined or as developed from the fee schedule) by more than 50%. However, in the event the base fee is to be less than 50% of the fixed fee, the maximum potential award fee may be increased proportionately with the decreases in base fee amounts.
+</p>
+         <p outputclass="List2">(3) The following maximum potential award fees shall apply in award fee contracts: (percent is stated as percent of fee schedule amounts).
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Base fee percent
+</entry>
+                                             <entry colname="2">Award fee percent
+</entry>
+                                             <entry colname="3">Maximum total percentage
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">50</entry>
+                                             <entry colname="2" align="right">100</entry>
+                                             <entry colname="3" align="right">150
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">40</entry>
+                                             <entry colname="2" align="right">120</entry>
+                                             <entry colname="3" align="right">160
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">30</entry>
+                                             <entry colname="2" align="right">140</entry>
+                                             <entry colname="3" align="right">170
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">20</entry>
+                                             <entry colname="2" align="right">160</entry>
+                                             <entry colname="3" align="right">180
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">10</entry>
+                                             <entry colname="2" align="right">180</entry>
+                                             <entry colname="3" align="right">190
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">0</entry>
+                                             <entry colname="2" align="right">200</entry>
+                                             <entry colname="3" align="right">200</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p outputclass="List1">(b) Prior approval of the Senior Procurement Executive, is required for total fee (base plus award fee pool) exceeding the guidelines in 915.404-4-72(a)(3).
+</p>
+      </conbody>
+   </concept>
+</dita>

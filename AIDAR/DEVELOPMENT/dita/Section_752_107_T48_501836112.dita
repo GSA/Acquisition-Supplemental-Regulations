@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_752_107_T48_501836112">
+      <title class="- topic/title ">
+         <ph props="autonumber">752.107</ph> AIDAR provisions and clauses prescribed in this subpart.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer must insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_752_252_1_T48_5018362135"
+                  href="Section_752_252_1_T48_5018362135.dita#Section_752_252_1_T48_5018362135">752.252-1</xref>, Solicitation Provisions Incorporated by Reference, in solicitations in order to incorporate AIDAR provisions by reference.
+</p>
+         <p outputclass="List1">(b) The contracting officer must insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_752_252_2_T48_5018362136"
+                  href="Section_752_252_2_T48_5018362136.dita#Section_752_252_2_T48_5018362136">752.252-2</xref>, AIDAR Clauses Incorporated by Reference, in solicitations and contracts in order incorporate AIDAR clauses by reference.
+</p>
+         <p outputclass="List1">(c) The contracting officer must insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_752_252_70_T48_5018362137"
+                  href="Section_752_252_70_T48_5018362137.dita#Section_752_252_70_T48_5018362137">752.252-70</xref>, Provisions and Clauses to be Completed by the Offeror, in full text in solicitations or contract containing FAR or AIDAR provision(s) or clause(s) that must be completed by offerors or prospective contractors and submitted with the quotation or offer.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

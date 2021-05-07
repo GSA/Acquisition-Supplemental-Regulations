@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_219_75_T48_60423441144">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.219-75</ph> Individual Subcontracting Reports.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1819_708_70_T48_6041917212"
+                  href="Section_1819_708_70_T48_6041917212.dita#Section_1819_708_70_T48_6041917212">1819.708-70</xref>(b), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Individual Subcontracting Reports (APR 2015)
+</p>
+                                    <p xtrc="P">When submitting Individual Subcontracting Reports in eSRS in accordance with FAR 52.219-9(l) (1), the contractor shall enter goals as a percentage of total contract value as well as a percentage of total subcontract dollars.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_404_203_T48_402115111">
+      <title class="- topic/title ">
+         <ph props="autonumber">404.203</ph> Taxpayer identification information.</title>
+      <conbody>
+         <p outputclass="List1">(a) If the contractor furnishes taxpayer identification number (TIN) and type of organization information pursuant to solicitation provision 52.204-3 or 52.212-3, and the USDA Office of the Chief Financial Officer, Controller Operations Division, New Orleans will be the payment office, that information will be entered into the Foundation Financial Information System (FFIS) in accordance with FFIS Vendor Table Maintenance Procedures set forth in FFIS Bulletins issued by the Office of the Chief Financial Officer and AGAR Advisories issued by the Office of Procurement and Property Management.
+</p>
+         <p outputclass="List1">(b) Separate submission of the TIN or type of organization information, in accordance with 52.204-3 or 52.212-3, is not required for contractors registered in the Central Contractor Registration (CCR) database.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3034_T48_7021234">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 3034</ph> - MAJOR SYSTEM ACQUISITION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3034_0_T48_70212341.dita#Subpart_3034_0_T48_70212341"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3034_0_T48_7021234111.dita#Section_3034_0_T48_7021234111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3034_004_T48_7021234112.dita#Section_3034_004_T48_7021234112"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

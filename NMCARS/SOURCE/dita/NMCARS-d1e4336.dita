@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e4336">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5248 VALUE ENGINEERING</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4339.dita#d1e4339">SUBPART 5248.1—POLICIES AND PROCEDURES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4342.dita#d1e4342">5248.103 Processing value engineering change proposals.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

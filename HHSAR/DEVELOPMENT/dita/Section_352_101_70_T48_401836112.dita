@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_352_101_70_T48_401836112">
+      <title class="- topic/title ">
+         <ph props="autonumber">352.101-70</ph> Application of provisions and clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) If a clause is included in the master instrument (e.g., in an indefinite delivery/indefinite quantity contract or a blanket purchase agreement), it is not necessary to also include the clause in a task order or delivery order thereunder.
+</p>
+         <p outputclass="List1">(b) When a dollar amount or dollar threshold is specified (e.g., $25 million or simplified acquisition threshold), the dollar amount of the award (contract or order) includes any options thereunder.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

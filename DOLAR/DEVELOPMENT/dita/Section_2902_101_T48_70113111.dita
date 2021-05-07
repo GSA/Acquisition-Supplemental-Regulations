@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2902_101_T48_70113111">
+      <title class="- topic/title ">
+         <ph props="autonumber">2902.101</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) Commonly used words and terms are defined in FAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_2_1_T48_701131"
+                  href="Subpart_2_1_T48_701131.dita#Subpart_2_1_T48_701131">2.1</xref>. This part 2902 gives DOL-specific meanings for some of these words and terms and defines other words and terms commonly used in the DOL acquisition process.
+</p>
+         <p outputclass="List1">(b) The following words and terms are used as defined in this subpart unless the context in which they are used clearly requires a different meaning, or a different definition is prescribed for a particular part or portion of a part:
+</p>
+         <p xtrc="P">
+                                    <i>Competition Advocate</i> The Competition Advocate for the Department of Labor is appointed by the Assistant Secretary for Administration and Management and is defined in FAR 6.5 and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_2906_5_T48_701272"
+                  href="Subpart_2906_5_T48_701272.dita#Subpart_2906_5_T48_701272">2906.5</xref>. If the appointee is recused from a procurement action, the Assistant Secretary for Administration and Management may designate another official to act in that capacity.
+</p>
+         <p xtrc="P">
+                                    <i>Contracting Activity</i> means an agency or component office within the Department of Labor with specific responsibility for managing contract functions pursuant to one or more warrants signed by the Senior Procurement Executive (or the Office of the Inspector General for its contracting activity).
+</p>
+         <p xtrc="P">
+                                    <i>Contracting Officer's Technical Representative</i> means the individual appointed by the contracting officer to represent the Department of Labor's programmatic interests on a Department of Labor contract, task order, or delivery order. This individual is responsible to the contracting officer for overseeing receipt and acceptance of goods/services by the Government, reporting on the contractor's performance, and approving/disapproving payment to the contractor. Authority is otherwise limited to giving technical direction to the contractor within the framework of the contract (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2901_603_71_T48_701126110"
+                  href="Section_2901_603_71_T48_701126110.dita#Section_2901_603_71_T48_701126110">2901.603-71</xref>). This position may go by other titles, such as: a technical point of contact (TPOC) or Contacting Officer's Representative (COR).
+</p>
+         <p xtrc="P">
+                                    <i>Head of Agency</i> (also called agency head), for the FAR and DOLAR only, means the Secretary of Labor or his/her designee except that the Secretary of Labor is the Head of Agency for acquisition actions, which by the terms of a statute or delegation must be performed specifically by the Secretary of Labor; the Inspector General is the Head of Agency in all cases for the Office of the Inspector General.
+</p>
+         <p xtrc="P">
+                                    <i>Head of Contracting Activity</i> (HCA) means the official who has overall responsibility for managing the contracting activity, when the contracting activity has more than one person with a warrant issued by the Senior Procurement Executive or, in the case of the Office of the Inspector General, issued by the Inspector General or his/her designee. Each Head of Agency may designate HCA(s) as appropriate to be responsible for managing contracting activities within his or her respective Agency.
+</p>
+         <p xtrc="P">
+                                    <i>Senior Procurement Executive</i> means the Deputy Assistant Secretary for Administration and Management or his/her designee.
+</p>
+      </conbody>
+   </concept>
+</dita>

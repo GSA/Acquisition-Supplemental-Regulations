@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="Part_2901_T48_70112"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 2901</ph> - DEPARTMENT OF LABOR
+ACQUISITION REGULATION SYSTEM</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_001_T48_70112111.dita#Section_2901_001_T48_70112111"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_1_T48_701122.dita#Subpart_2901_1_T48_701122"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_101_T48_70112211.dita#Section_2901_101_T48_70112211"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_103_T48_70112212.dita#Section_2901_103_T48_70112212"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_105_2_T48_70112213.dita#Section_2901_105_2_T48_70112213"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_105_3_T48_70112214.dita#Section_2901_105_3_T48_70112214"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_2_T48_701123.dita#Subpart_2901_2_T48_701123"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_201_1_T48_70112311.dita#Section_2901_201_1_T48_70112311"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_3_T48_701124.dita#Subpart_2901_3_T48_701124"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_302_T48_70112411.dita#Section_2901_302_T48_70112411"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_304_T48_70112412.dita#Section_2901_304_T48_70112412"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_4_T48_701125.dita#Subpart_2901_4_T48_701125"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_403_T48_70112511.dita#Section_2901_403_T48_70112511"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_404_T48_70112512.dita#Section_2901_404_T48_70112512"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_405_T48_70112513.dita#Section_2901_405_T48_70112513"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_6_T48_701126.dita#Subpart_2901_6_T48_701126"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_601_T48_70112611.dita#Section_2901_601_T48_70112611"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_602_T48_70112612.dita#Section_2901_602_T48_70112612"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_602_1_T48_70112613.dita#Section_2901_602_1_T48_70112613"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_602_3_T48_70112614.dita#Section_2901_602_3_T48_70112614"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_T48_70112615.dita#Section_2901_603_T48_70112615"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_1_T48_70112616.dita#Section_2901_603_1_T48_70112616"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_3_T48_70112617.dita#Section_2901_603_3_T48_70112617"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_4_T48_70112618.dita#Section_2901_603_4_T48_70112618"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_70_T48_70112619.dita#Section_2901_603_70_T48_70112619"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_71_T48_701126110.dita#Section_2901_603_71_T48_701126110"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_603_72_T48_701126111.dita#Section_2901_603_72_T48_701126111"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_2901_7_T48_701127.dita#Subpart_2901_7_T48_701127"
+                        outputclass="fm:TOC"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="Section_2901_707_T48_70112711.dita#Section_2901_707_T48_70112711"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

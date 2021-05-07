@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e3313">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5228 BONDS AND INSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3316.dita#d1e3316">SUBPART 5228.3—INSURANCE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3319.dita#d1e3319">5228.301 Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3342.dita#d1e3342">5228.301-90 Authority to act.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3354.dita#d1e3354">5228.301-91 Payment of claims to third parties.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3374.dita#d1e3374">5228.305 Overseas workers' compensation and war-hazard insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3384.dita#d1e3384">5228.307 Insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3387.dita#d1e3387">5228.307-1 Group insurance plans.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3395.dita#d1e3395">5228.307-90 Liability of subcontractors to third parties.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3404.dita#d1e3404">SUBPART 5228.90—INSURANCE UNDER LEASES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3407.dita#d1e3407">5228.9000 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3414.dita#d1e3414">5228.9001 Waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3421.dita#d1e3421">5228.9002 Lease provisions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3434.dita#d1e3434">5228.9003 Insurance policies.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

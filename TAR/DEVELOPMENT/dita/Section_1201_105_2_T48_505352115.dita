@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1201_105_2_T48_505352115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1201.105-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>General.</i> The (TAR) 48 CFR chapter 12, which encompasses both Department and Operating Administration (OA)/Office of the Assistant Secretary for Research and Technology (OST-R)-specific guidance (see (TAR) 48 CFR 1201.3), conforms with the arrangement and numbering system prescribed by (FAR) 48 CFR 1.104. Guidance that is OA/OST-R-specific contains the OA/OST-R's acronym directly after the heading. The following acronyms apply:
+</p>
+         <p xtrc="FP-1">FHWA - Federal Highway Administration
+</p>
+         <p xtrc="FP-1">FMCSA - Federal Motor Carrier Safety Administration
+</p>
+         <p xtrc="FP-1">FRA - Federal Railroad Administration
+</p>
+         <p xtrc="FP-1">FTA - Federal Transit Administration
+</p>
+         <p xtrc="FP-1">MARAD - Maritime Administration
+</p>
+         <p xtrc="FP-1">NHTSA - National Highway Traffic Safety Administration
+</p>
+         <p xtrc="FP-1">OST - Office of the Secretary OST-R - Office of the Assistant Secretary for Research and Technology
+</p>
+         <p xtrc="FP-1">PHMSA - Pipeline and Hazardous Material Safety Administration
+</p>
+         <p xtrc="FP-1">SLSDC - Saint Lawrence Seaway Development Corporation
+</p>
+         <p props="Runin" outputclass="List1">(b) <i>Numbering</i> - 
+				</p><p outputclass="List2">(1) 
+			<i>Departmentwide guidance.</i> (i) The numbering illustrations at (FAR) 48 CFR 1.105-2 apply to (TAR) 48 CFR chapter 12.
+</p>
+         <p outputclass="List3">(ii) Coverage within (TAR) 48 CFR chapter 12 is identified by the prefix “12” followed by the complete (FAR) 48 CFR chapter 1 cite. For example, (TAR) 48 CFR 1201.201-1(b)).
+</p>
+         <p outputclass="List3">(iii) Coverage in (TAR) 48 CFR chapter 12 that supplements (FAR) 48 CFR chapter 1 will use part, subpart, section and subsection numbers ending in “70” through “89” (e.g., (TAR) 48 CFR 1201.301-70). A series of numbers beginning with “70” is used for provisions and clauses.
+</p>
+         <p outputclass="List3">(iv) Coverage in (TAR) 48 CFR chapter 12, other than that identified with a “70” or higher number, that implements the (FAR) 48 CFR chapter 1 uses the identical number sequence and caption of the (FAR) 48 CFR chapter 1 segment being implemented, which may be to the paragraph level. Paragraph numbers and letters are not always shown sequentially, but may be shown by the specific FAR paragraph implemented. For example, (TAR) 48 CFR 1201.201-1 contains only paragraph (b) because only this paragraph, correlated with FAR, implements (TAR) 48 CFR chapter 12.
+</p>
+         <p outputclass="List2">(2) <i>Operating Administration-unique guidance.</i> Supplementary material for which there is no counterpart in (FAR) 48 CFR chapter 1 or (TAR) 48 CFR chapter 12 shall be identified using chapter, part, subpart, section, or subsection numbers of “90” and higher.
+</p>
+         <p outputclass="List1">(c) <i>References and citations.</i> (TAR) 48 CFR chapter 12 may be referred to as the Department of Transportation Acquisition Regulation or the TAR. Cross reference to the FAR in (TAR) 48 CFR chapter 12 will be cited by “FAR” followed by the FAR numbered cite, and cross reference to the TAM in (TAR) 48 CFR chapter 12 will be cited by “TAM” followed by the TAM numbered cite. References to specific cites within (TAR) 48 CFR chapter 12 will be referenced by the numbered cite only.
+</p>
+      </conbody>
+   </concept>
+</dita>

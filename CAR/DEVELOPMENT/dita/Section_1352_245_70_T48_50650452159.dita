@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_245_70_T48_50650452159">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.245-70</ph> Government furnished property.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1345.107-70, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Government Furnished Property (APR 2010)
+</p>
+                                    <p xtrc="P">The Government will provide the following item(s) of Government property to the contractor . The contractor shall be accountable for, and have stewardship of, the property in the performance of this contract. This property shall be used and maintained by the contractor in accordance with provisions of the “Government Property” clause included in this contract.
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="5" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <colspec colnum="4" colname="4" colsep="0"/>
+                  <colspec colnum="5" colname="5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">Item No.
+</entry>
+                                                <entry colname="2">Description
+</entry>
+                                                <entry colname="3">Quantity
+</entry>
+                                                <entry colname="4">Delivery date
+</entry>
+                                                <entry colname="5">Property/Tag No.
+(if applicable)
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left"/>
+                                                <entry colname="2" align="left"/>
+                                                <entry colname="3" align="left"/>
+                                                <entry colname="4" align="left"/>
+                                                <entry colname="5" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

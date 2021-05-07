@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2416_406_T48_6095015211">
+      <title class="- topic/title ">
+         <ph props="autonumber">2416.406</ph> Contract clauses.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(e)
+				</p>
+         <p outputclass="List2">(1) 
+			The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_70_T48_60955371110"
+                  href="Section_2452_216_70_T48_60955371110.dita#Section_2452_216_70_T48_60955371110">2452.216-70</xref>, Estimated Cost, Base Fee and Award Fee, in all cost-plus-award-fee solicitations and contracts.
+</p>
+         <p outputclass="List2">(2) The Contracting Officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_71_T48_60955371111"
+                  href="Section_2452_216_71_T48_60955371111.dita#Section_2452_216_71_T48_60955371111">2452.216-71</xref>, Award Fee, in all fixed-price-award-fee solicitations and contracts.
+</p>
+         <p outputclass="List2">(3) The Contracting Officer shall insert the clauses at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_72_T48_60955371112"
+                  href="Section_2452_216_72_T48_60955371112.dita#Section_2452_216_72_T48_60955371112">2452.216-72</xref>, Determination of Award Fee Earned, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_73_T48_60955371113"
+                  href="Section_2452_216_73_T48_60955371113.dita#Section_2452_216_73_T48_60955371113">2452.216-73</xref>, Performance Evaluation Plan, and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_74_T48_60955371114"
+                  href="Section_2452_216_74_T48_60955371114.dita#Section_2452_216_74_T48_60955371114">2452.216-74</xref>, Distribution of Award Fee, in all award-fee solicitations and contracts. The Contracting Officer may modify the clauses to meet individual situations, and any clause or specific requirement therein may be deleted when it is not applicable to a given contract. When including the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_74_T48_60955371114"
+                  href="Section_2452_216_74_T48_60955371114.dita#Section_2452_216_74_T48_60955371114">2452.216-74</xref>, Distribution of Award Fee, in cost-plus-award-fee contracts, the Contracting Officer shall use the clause with its Alternate I.
+</p>
+         <p outputclass="List2">(4) When including the clauses at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_70_T48_60955371110"
+                  href="Section_2452_216_70_T48_60955371110.dita#Section_2452_216_70_T48_60955371110">2452.216-70</xref>, Estimated Cost, Base Fee and Award Fee, and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_216_71_T48_60955371111"
+                  href="Section_2452_216_71_T48_60955371111.dita#Section_2452_216_71_T48_60955371111">2452.216-71</xref> Award Fee, in indefinite-delivery solicitations and contracts under which all supplies or services will be obtained by issuance of task or delivery orders, the Contracting Officer shall substitute the word “order” for the word “contract.”
+</p>
+      </conbody>
+   </concept>
+</dita>

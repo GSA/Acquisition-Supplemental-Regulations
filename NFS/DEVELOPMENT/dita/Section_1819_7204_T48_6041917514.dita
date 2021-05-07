@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1819_7204_T48_6041917514">
+      <title class="- topic/title ">
+         <ph props="autonumber">1819.7204</ph> Agreement submission and approval process.</title>
+      <conbody>
+         <p outputclass="List1">(a) To participate in the Program, entities approved as mentors in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1819_7203_T48_6041917513"
+                  href="Section_1819_7203_T48_6041917513.dita#Section_1819_7203_T48_6041917513">1819.7203</xref>, will submit a complete agreement package to the Contracting Officer who will forward the completed agreement package to the cognizant Small Business Specialist at the NASA Center. The submission package must include the following - 
+</p>
+         <p outputclass="List2">(1) A signed mentor-protégé agreement;
+</p>
+         <p outputclass="List2">(2) A signed protégé application;
+</p>
+         <p outputclass="List2">(3) The estimated cost of the technical assistance to be provided, broken out per year and per task, in a separate cost volume; and
+</p>
+         <p outputclass="List2">(4) Additional information as may be requested by the NASA OSBP; and
+</p>
+         <p outputclass="List2">(5) A signed letter of endorsement of the agreement by the contracting officer and the contracting officer representative.
+</p>
+         <p outputclass="List1">(b) The mentor-protégé agreement must be approved by the Assistant Administrator, NASA OSBP, prior to the mentor incurring eligible costs for developmental assistance provided to the protégé.
+</p>
+         <p outputclass="List1">(c) The cognizant NASA center will issue a contract modification, if justified, prior to the mentor incurring costs for developmental assistance to the protégé.
+</p>
+      </conbody>
+   </concept>
+</dita>

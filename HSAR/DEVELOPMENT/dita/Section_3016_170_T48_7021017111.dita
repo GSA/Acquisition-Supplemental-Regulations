@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3016_170_T48_7021017111">
+      <title class="- topic/title ">
+         <ph props="autonumber">3016.170</ph> Contracts with Lead System Integrators.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer should negotiate the most appropriate contract type and fee structure based on risks inherent in the work to be performed, in accordance with (FAR) 48 CFR 16.103(a). Contract type and fee structure should be commensurate with the work to be performed and the risks assumed. Worthwhile existing guidance on contract type selection, pricing, and fee structures, such as exists in Vol. I, Ch. 4 of the Contract Reference Pricing Guides [<i>http://www.acq.osd.mil/dpap/cpf/docs/contract_pricing_finance_guide/vol4_ch1.pdf</i>] can be consulted to determine the appropriate contract type and fee structure for use in varied contracts with lead system integrators in the production, fielding and sustainment of complex systems.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

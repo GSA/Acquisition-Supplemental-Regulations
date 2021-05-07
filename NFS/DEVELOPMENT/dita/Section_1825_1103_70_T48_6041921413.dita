@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1825_1103_70_T48_6041921413">
+      <title class="- topic/title ">
+         <ph props="autonumber">1825.1103-70</ph> Export control.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a) <i>Background.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			NASA contractors and subcontractors are subject to U.S. export control laws and regulations, including the International Traffic in Arms Regulations (ITAR), 22 CFR parts 120 through 130, and the Export Administration Regulations (EAR), 15 CFR parts 730 through 799. The contractor is responsible for obtaining the appropriate licenses or other approvals from the Department of State or the Department of Commerce when it exports hardware, technical data, or software, or provides technical assistance to a foreign destination or “foreign person”, as defined in 22 CFR 120.16, and there are no applicable or available exemptions/exceptions to the ITAR/EAR, respectively. A person who is lawfully admitted for permanent residence in the United States is not a “foreign person”. (See 22 CFR 120.16 and 15 CFR 734.2(b)(2)(ii))
+</p>
+         <p outputclass="List2">(2) The exemption at 22 CFR 125.4(b)(3) of the ITAR provides that a contractor may export technical data without a license if the contract between the agency and the exporter provides for the export of the data. The clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_225_70_T48_60423441162"
+                  href="Section_1852_225_70_T48_60423441162.dita#Section_1852_225_70_T48_60423441162">1852.225-70</xref>, Alternate I, provides contractual authority for the exemption, but the exemption is available only after the contracting officer, or designated representative, provides written authorization or direction enabling its use. It is NASA policy that the exemption at 22 CFR 125.4(b)(3) may only be used when technical data (including software) is exchanged with a NASA foreign partner pursuant to the terms of an international agreement in furtherance of an international collaborative effort. The contracting officer must obtain the approval of the Center Export Administrator before granting the contractor the authority to use this exemption. 
+</p>
+         <p outputclass="List1">(b) <i>Contract clause.</i> Insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_225_70_T48_60423441162"
+                  href="Section_1852_225_70_T48_60423441162.dita#Section_1852_225_70_T48_60423441162">1852.225-70</xref>, Export Licenses, in all solicitations and contracts, except in contracts with foreign entities. Insert the clause with its Alternate I when the NASA project office indicates that technical data (including software) is to be exchanged by the contractor with a NASA foreign partner pursuant to an international agreement. 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

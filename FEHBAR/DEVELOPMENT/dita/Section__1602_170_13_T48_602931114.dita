@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section__1602_170_13_T48_602931114">
+      <title class="- topic/title ">§ 1602.170-13   Similarly sized subscriber groups.</title>
+      <conbody>
+         <p outputclass="List1">(a) A <i>Similarly sized subscriber group</i> (SSSG) is a non-FEHB employer group that:
+</p>
+         <p outputclass="List2">(1) As of the date specified by OPM in the rate instructions, has a subscriber enrollment closest to the FEHBP subscriber enrollment;
+</p>
+         <p outputclass="List2">(2) Uses traditional community rating; and,
+</p>
+         <p outputclass="List2">(3) Meets the criteria specified in the rate instructions issued by OPM.
+</p>
+         <p outputclass="List1">(b) Any group with which an entity enters into an agreement to provide health care services is a potential SSSG (including groups that are traditional community rated and covered by separate lines of business, government entities, groups that have multi-year contracts, and groups having point-of-service products) except as specified in paragraph (c) of this section.
+</p>
+         <p outputclass="List2">(1) An entity's subscriber groups may be included as an SSSG if the entity is any of the following:
+</p>
+         <p outputclass="List3">(i) The carrier;
+</p>
+         <p outputclass="List3">(ii) A division or subsidiary of the carrier;
+</p>
+         <p outputclass="List3">(iii) A separate line of business or qualified separate line of business of the carrier; or
+</p>
+         <p outputclass="List3">(iv) An entity that maintains a contractual arrangement with the carrier to provide healthcare benefits.
+</p>
+         <p outputclass="List2">(2) A subscriber group covered by an entity meeting any of the criteria under paragraph (b)(1) of this section may be included for comparison as a SSSG if the entity meets any of the following criteria:
+</p>
+         <p outputclass="List3">(i) It reports financial statements on a consolidated basis with the carrier; or
+</p>
+         <p outputclass="List3">(ii) Shares, delegates, or otherwise contracts with the carrier, any portion of its workforce that involves the management, design, pricing, or marketing of the healthcare product.
+</p>
+         <p outputclass="List1">(c) The following groups must be excluded from SSSG consideration:
+</p>
+         <p outputclass="List2">(1) Groups the carrier rates by the method of retrospective experience rating;
+</p>
+         <p outputclass="List2">(2) Groups consisting of the carrier's own employees;
+</p>
+         <p outputclass="List2">(3) Medicaid groups, Medicare-only groups, and groups that receive only excepted benefits as defined at 26 U.S.C. 9832(c);
+</p>
+         <p outputclass="List2">(4) A purchasing alliance whose rate-setting is mandated by the State or local government;
+</p>
+         <p outputclass="List2">(5) Administrative Service Organizations (ASOs);
+</p>
+         <p outputclass="List2">(6) Any other group excluded from consideration as specified in the rate instructions issued by OPM.
+</p>
+         <p outputclass="List1">(d) OPM shall determine the FEHBP rate by selecting the lowest rate derived by using rating methods consistent with those used to derive the SSSG rate.
+</p>
+         <p outputclass="List1">(e) In the event that a State-mandated TCR carrier has no SSSG, then it will be subject to the FEHB specific MLR requirement.
+</p>
+      </conbody>
+   </concept>
+</dita>

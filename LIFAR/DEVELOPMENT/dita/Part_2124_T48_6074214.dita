@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2124_T48_6074214">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2124</ph> - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2124_70_T48_60742141.dita#Subpart_2124_70_T48_60742141"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2124_102_T48_6074214111.dita#Section_2124_102_T48_6074214111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2124_102_70_T48_6074214112.dita#Section_2124_102_70_T48_6074214112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2124_104_T48_6074214113.dita#Section_2124_104_T48_6074214113"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2124_104_70_T48_6074214114.dita#Section_2124_104_70_T48_6074214114"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

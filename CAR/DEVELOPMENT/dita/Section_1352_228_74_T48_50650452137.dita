@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1352_228_74_T48_50650452137">
+      <title class="- topic/title ">
+         <ph props="autonumber">1352.228-74</ph> Fair market value of aircraft.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 48 CFR 1328.310-70(e) and 48 CFR 1328.310-70(g) insert the following in all applicable contracts for leased aircraft:
+</p>
+                                    <p xtrc="HD1">Fair Market Value of Aircraft (APR 2010)
+</p>
+                                    <p xtrc="P">For purposes of the clause entitled “Loss of or Damage to Leased Aircraft,” it is agreed that the fair market value of the aircraft to be used in the performance of this contract shall be the lesser of the two values set out in paragraphs (a) and (b) of this clause:
+</p>
+                                    <p outputclass="List1">(a) $____; or
+</p>
+                                    <p outputclass="List1">(b) If the contractor has insured the same aircraft against loss or destruction in connection with other operations, the amount of such insurance coverage on the date of the loss or damage is the maximum amount for which the Government may be responsible under this contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

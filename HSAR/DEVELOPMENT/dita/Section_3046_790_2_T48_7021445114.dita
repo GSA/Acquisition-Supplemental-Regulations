@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3046_790_2_T48_7021445114">
+      <title class="- topic/title ">
+         <ph props="autonumber">3046.790-2</ph> Definitions (USCG).</title>
+      <conbody>
+         <p xtrc="P">As used in this part:
+</p>
+         <p xtrc="P">
+                                    <i>At no additional cost to the Government</i> means without an increase in price for firm-fixed-price contracts, without an increase in target or ceiling price for fixed price incentive contracts (see (FAR) 48 CFR 46.707).
+</p>
+         <p xtrc="P">
+                                    <i>Defect</i> means any condition or characteristic in any supplies or services furnished by the contractor under the contract that is not in compliance with the requirements of the contract.
+</p>
+         <p xtrc="P">
+                                    <i>Design and manufacturing requirement</i> means structural and engineering plans and manufacturing particulars, including precise measurements, tolerances, materials and finished product tests for the major system being produced.
+</p>
+         <p xtrc="P">
+                                    <i>Performance requirements</i> means the operating capabilities, maintenance, and reliability characteristics of a system that are determined to be necessary for it to fulfill the requirement for which the system is designed.
+</p>
+      </conbody>
+   </concept>
+</dita>

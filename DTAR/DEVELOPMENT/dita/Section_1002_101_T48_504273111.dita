@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1002_101_T48_504273111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1002.101</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">
+                                    <i>Bureau</i> means any one of the following Treasury organizations:
+</p>
+         <p outputclass="List1">
+				</p><p outputclass="List2">(1) 
+			Alcohol and Tobacco Tax and Trade Bureau (TTB);
+</p>
+         <p outputclass="List1">(2) Bureau of Engraving &amp; Printing (BEP);
+</p>
+         <p outputclass="List1">(3) Bureau of the Fiscal Service (formerly Bureau of Public Debt and Financial Management Service);
+</p>
+         <p outputclass="List1">(4) Departmental Offices (DO);
+</p>
+         <p outputclass="List1">(5) Financial Crimes Enforcement Network (FinCEN);
+</p>
+         <p outputclass="List1">(6) Office of the Inspector General (OIG);
+</p>
+         <p outputclass="List1">(7) Internal Revenue Service (IRS);
+</p>
+         <p outputclass="List1">(8) Office of the Comptroller of the Currency (OCC);
+</p>
+         <p outputclass="List1">(9) Special Inspector General for the Troubled Asset Relief Program (SIGTARP);
+</p>
+         <p outputclass="List1">(10) Treasury Inspector General for Tax Administration (TIGTA); or
+</p>
+         <p outputclass="List1">(11) United States Mint.
+</p>
+      </conbody>
+   </concept>
+</dita>

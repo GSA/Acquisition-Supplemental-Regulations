@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3052_228_70_T48_70215512139">
+      <title class="- topic/title ">
+         <ph props="autonumber">3052.228-70</ph> Insurance.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3028_310_70_T48_7021128216"
+                  href="Section_3028_310_70_T48_7021128216.dita#Section_3028_310_70_T48_7021128216">3028.310-70</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3028_311_1_T48_7021128218"
+                  href="Section_3028_311_1_T48_7021128218.dita#Section_3028_311_1_T48_7021128218">3028.311-1</xref>, insert a clause substantially the same as follows. The contracting officer may specify additional kinds (e.g., aircraft public and passenger liability, vessel liability) or increased amounts of insurance.
+</p>
+                                    <p xtrc="HD1">Insurance (DEC 2003)
+</p>
+                                    <p xtrc="P">In accordance with the clause entitled “Insurance - Work on a Government Installation” [<i>or Insurance - Liability to Third Persons</i>] in Section I, insurance of the following kinds and minimum amounts shall be provided and maintained during the period of performance of this contract:
+</p>
+                                    <p outputclass="List1">(a) Worker's compensation and employer's liability. The contractor shall, as a minimum, meet the requirements specified at (FAR) 48 CFR 28.307-2(a).
+</p>
+                                    <p outputclass="List1">(b) General liability. The contractor shall, as a minimum, meet the requirements specified at (FAR) 48 CFR 28.307-2(b).
+</p>
+                                    <p outputclass="List1">(c) Automobile liability. The contractor shall, as a minimum, meet the requirements specified at (FAR) 48 CFR 28.307-2(c).</p>
+                                 <p xtrc="HD3">(End of clause) 
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

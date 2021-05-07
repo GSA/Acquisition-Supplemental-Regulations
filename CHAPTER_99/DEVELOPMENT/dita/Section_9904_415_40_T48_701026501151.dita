@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9904_415_40_T48_701026501151">
+      <title class="- topic/title ">
+         <ph props="autonumber">9904.415-40</ph> Fundamental requirement.</title>
+      <conbody>
+         <p outputclass="List1">(a) The cost of deferred compensation shall be assigned to the cost accounting period in which the contractor incurs an obligation to compensate the employee. In the event no obligation is incurred prior to payment, the cost of deferred compensation shall be the amount paid and shall be assigned to the cost accounting period in which the payment is made.
+</p>
+         <p outputclass="List1">(b) Measurement of deferred compensation costs.
+</p>
+         <p outputclass="List2">(1) For deferred compensation other than ESOPs, the deferred compensation cost shall be the present value of the future benefits to be paid by the contractor.
+</p>
+         <p outputclass="List2">(2) For an ESOP, the deferred compensation cost shall be the amount contributed to the ESOP by the contractor.
+</p>
+         <p outputclass="List1">(c) The cost of each award of deferred compensation shall be considered separately for purposes of measurement and assignment of such costs to cost accounting periods. However, if the cost of deferred compensation for the employees covered by a deferred compensation plan can be measured and assigned with reasonable accuracy on a group basis, separate computations for each employee are not required.
+</p>
+      </conbody>
+   </concept>
+</dita>

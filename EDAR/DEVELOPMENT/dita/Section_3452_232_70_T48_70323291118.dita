@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_232_70_T48_70323291118">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.232-70</ph> Limitation of cost or funds.</title>
+      <conbody>
+         <p xtrc="P">The following clause shall be inserted in all contracts that include a Limitation of cost or Limitation of funds clause in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3432_705_2_T48_7032021212"
+                  href="Section_3432_705_2_T48_7032021212.dita#Section_3432_705_2_T48_7032021212">3432.705-2</xref>:</p>
+                                    <p xtrc="HD1">Limitation of Cost or Funds (MAR 2011)
+</p>
+                                    <p outputclass="List1">(a) Under the circumstances in FAR 32.704(a)(1), the contractor shall submit the following information in writing to the contracting officer:
+</p>
+                                    <p outputclass="List2">(1) Name and address of the contractor.
+</p>
+                                    <p outputclass="List2">(2) Contract number and expiration date.
+</p>
+                                    <p outputclass="List2">(3) Contract items and amounts that will exceed the estimated cost of the contract or the limit of the funds allotted.
+</p>
+                                    <p outputclass="List2">(4) The elements of cost that changed from the original estimate (for example: labor, material, travel, overhead), furnished in the following order:
+</p>
+                                    <p outputclass="List3">(i) Original estimate.
+</p>
+                                    <p outputclass="List3">(ii) Costs incurred to date.
+</p>
+                                    <p outputclass="List3">(iii) Estimated cost to completion.
+</p>
+                                    <p outputclass="List3">(iv) Revised estimate.
+</p>
+                                    <p outputclass="List3">(v) Amount of adjustment.
+</p>
+                                    <p outputclass="List2">(5) The factors responsible for the increase.
+</p>
+                                    <p outputclass="List2">(6) The latest date by which funds must be available to the contractor to avoid delays in performance, work stoppage, or other impairments.
+</p>
+                                    <p outputclass="List1">(b) A fixed fee provided in a contract may not be changed if a cost overrun is funded. Changes in a fixed fee may be made only to reflect changes in the scope of work that justify an increase or decrease in the fee.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

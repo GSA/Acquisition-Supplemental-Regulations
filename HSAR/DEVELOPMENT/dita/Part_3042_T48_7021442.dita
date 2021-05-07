@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3042_T48_7021442">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 3042</ph> - CONTRACT ADMINISTRATION AND AUDIT SERVICES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3042_15_T48_70214421.dita#Subpart_3042_15_T48_70214421"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3042_1502_T48_7021442111.dita#Section_3042_1502_T48_7021442111"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3042_70_T48_70214422.dita#Subpart_3042_70_T48_70214422"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3042_7000_T48_7021442211.dita#Section_3042_7000_T48_7021442211"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

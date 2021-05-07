@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1845_7101_4_T48_6042238615">
+      <title class="- topic/title ">
+         <ph props="autonumber">1845.7101-4</ph> Types of deletions from contractor property records.</title>
+      <conbody>
+         <p xtrc="P">Contractors shall report the types of deletions from contract property records as described in this section.
+</p>
+         <p outputclass="List1">(a) <i>Lost, damaged or destroyed.</i> Deletion amounts that result from relief from responsibility under FAR 45.503 granted during the reporting period.
+</p>
+         <p outputclass="List1">(b) <i>Transferred in Place.</i> Deletion amounts that result from transfer of property to a follow-on prime contract or other prime contract with the same contractor.
+</p>
+         <p outputclass="List1">(c) <i>Transferred to NASA Center accountability.</i> Deletion amounts that result from transfer of accountability to the NASA Center responsible for the contract, whether or not items are physically moved.
+</p>
+         <p outputclass="List1">(d) <i>Transferred to another NASA Center.</i> Deletion amounts that result from transfer of accountability to a NASA Center other than the one responsible for the contract, whether or not items are physically moved. 
+</p>
+         <p outputclass="List1">(e) <i>Transferred to another Government agency.</i> Deletion amounts that result from transfer of property to another Government agency. 
+</p>
+         <p outputclass="List1">(f) <i>Purchased at cost/returned for credit.</i> Deletion amounts that result from contractor purchase or retention of contractor acquired property as provided in FAR 45.605-1, or from contractor returns to suppliers under FAR 45.605-2. 
+</p>
+         <p outputclass="List1">(g) <i>Disposed of through plant clearance process.</i> Deletions other than transfers within the Federal Government, e.g., donations to eligible recipients, sold at less than cost, or abandoned/directed destruction, or trade-ins. 
+</p>
+         <p outputclass="List1">(h) <i>Other.</i> Types of deletion other than those reported in paragraph (a) through (g) of this section such as those resulting from reclassifications (e.g. from equipment to agency-peculiar property).
+</p>
+      </conbody>
+   </concept>
+</dita>

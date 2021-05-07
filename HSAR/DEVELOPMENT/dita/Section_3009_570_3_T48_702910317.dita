@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3009_570_3_T48_702910317">
+      <title class="- topic/title ">
+         <ph props="autonumber">3009.570-3</ph> Procedures.</title>
+      <conbody>
+         <p xtrc="P">In making a responsibility determination before awarding a contract for the acquisition of a major system, the contracting officer shall - 
+</p>
+         <p outputclass="List1">(a) Determine whether the prospective contractor meets the definition of “lead system integrator”;
+</p>
+         <p outputclass="List1">(b) Consider all information regarding the prospective contractor's direct financial interests in view of the prohibition at (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_2_T48_702910316"
+                  href="Section_3009_570_2_T48_702910316.dita#Section_3009_570_2_T48_702910316">3009.570-2</xref>(a); and
+</p>
+         <p outputclass="List1">(c) Apply the following procedures:
+</p>
+         <p outputclass="List2">(1) After assessing the offeror's direct financial interests in the development or construction of any individual system or element of any system of systems, if the offeror - 
+</p>
+         <p outputclass="List3">(i) Has no direct financial interest in such systems, the contracting officer shall document the contract file to that effect and may then further consider the offeror for award of the contract;
+</p>
+         <p outputclass="List3">(ii) Has a direct financial interest in such systems, but the exception in (HSAR) <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_2_T48_702910316"
+                  href="Section_3009_570_2_T48_702910316.dita#Section_3009_570_2_T48_702910316">3009.570-2</xref>(b)(2) applies, the contracting officer shall document the contract file to that effect and may then further consider the offeror for award of the contract;
+</p>
+         <p outputclass="List3">(iii) Has a direct financial interest in such systems and the exception in (HSAR) <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_2_T48_702910316"
+                  href="Section_3009_570_2_T48_702910316.dita#Section_3009_570_2_T48_702910316">3009.570-2</xref>(b)(2) does not apply, but the conditions in (HSAR) <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_2_T48_702910316"
+                  href="Section_3009_570_2_T48_702910316.dita#Section_3009_570_2_T48_702910316">3009.570-2</xref>(b)(1)(i) and (ii) do apply, the contracting officer - 
+</p>
+         <p outputclass="List4">(A) Shall document the contract file to that effect;
+</p>
+         <p outputclass="List4">(B) May, in coordination with program officials, request an exception for the offeror from the Secretary of Homeland Security, in accordance with Homeland Security Acquisition Manual section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_T48_702910314"
+                  href="Section_3009_570_T48_702910314.dita#Section_3009_570_T48_702910314">3009.570</xref>; and
+</p>
+         <p outputclass="List4">(C) Shall not award to the offeror unless the Secretary of Homeland Security grants the exception and provides the required certification to Congress; or
+</p>
+         <p outputclass="List3">(iv) Has a direct financial interest in such systems and the exceptions in (HSAR) <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3009_570_2_T48_702910316"
+                  href="Section_3009_570_2_T48_702910316.dita#Section_3009_570_2_T48_702910316">3009.570-2</xref>(b)(1) and (2) do not apply, the contracting officer shall not award to the offeror.
+</p>
+      </conbody>
+   </concept>
+</dita>

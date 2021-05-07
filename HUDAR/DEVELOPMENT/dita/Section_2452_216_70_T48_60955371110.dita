@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2452_216_70_T48_60955371110">
+      <title class="- topic/title ">
+         <ph props="autonumber">2452.216-70</ph> Estimated cost, base fee and award fee.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2416_406_T48_6095015211"
+                  href="Section_2416_406_T48_6095015211.dita#Section_2416_406_T48_6095015211">2416.406</xref>(e)(1), insert the following clause in all cost-plus-award-fee contracts: 
+</p>
+                                    <p xtrc="HD1">Estimated Cost, Base Fee and Award Fee (FEB 2006)
+</p>
+                                    <p outputclass="List1">(a) The estimated cost of this contract is $[<i>insert amount</i>].
+</p>
+                                    <p outputclass="List1">(b) A base fee is payable in the amount of $[<i>insert amount</i>]. The government will make payment of the base fee in [<i>insert number</i>] increments on the schedule set forth in the Performance Evaluation Plan established by the government. The amount payable shall be based on the progress toward completion of contract tasks as determined by the Contracting Officer. Payment of the base fee is subject to any withholdings as provided for elsewhere in this contract.
+</p>
+                                    <p outputclass="List1">(c) A maximum award fee available for payment is $[<i>insert amount</i>]. The government shall make payments of the award fee in accordance with the schedule established in the Performance Evaluation Plan and the Evaluation Period(s) set forth in the Distribution of Award Fee clause.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2452_3_T48_6095537211">
+      <title class="- topic/title ">
+         <ph props="autonumber">2452.3</ph> Provision and clause matrix.</title>
+      <conbody>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.007.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.008.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.009.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.010.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.011.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.008.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.009.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.010.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.011.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.009.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.010.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.011.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.010.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.011.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.011.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+         <fig frame="all">
+            <image href="Graphics/er15ap19.012.gif" placement="inline"/>
+         </fig>
+      </conbody>
+   </concept>
+</dita>

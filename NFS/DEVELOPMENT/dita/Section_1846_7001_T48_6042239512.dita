@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_7001_T48_6042239512">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.7001</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">“Authentic part” means a new and unmodified part produced by the original component manufacturer, or a source with the express written authority of the original manufacturer or current design activity, including an authorized aftermarket manufacturer.
+</p>
+         <p xtrc="P">“Authentication” means a process to verify that a part is not counterfeit or suspect counterfeit.
+</p>
+         <p xtrc="P">“Authorized aftermarket manufacturer” means an organization that fabricates an electronic part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer's designs, formulas, and/or specifications.
+</p>
+         <p xtrc="P">“Authorized supplier” means a supplier, distributor, or an aftermarket manufacturer with a contractual arrangement with, or the express written authority of, the original manufacturer or current design activity to buy, stock, repackage, sell, or distribute the part.
+</p>
+         <p xtrc="P">“Contract manufacturer” means a company that produces goods under contract for another company under the label or brand name of that company.
+</p>
+         <p xtrc="P">“Contractor-approved supplier” means a supplier that does not have a contractual agreement with the original component manufacturer, but has been qualified as trustworthy by a contractor or subcontractor as having met prescribed counterfeit electronic part detection and avoidance system criteria using established counterfeit prevention industry standards and processes.
+</p>
+         <p xtrc="P">“Covered contractor” means a contractor that supplies an electronic part, or a product that contains an electronic part, to NASA.
+</p>
+         <p xtrc="P">“Counterfeit electronic part” means an unlawful or unauthorized reproduction, substitution, or alteration that has been knowingly mismarked, misidentified, or otherwise misrepresented to be an authentic, unmodified electronic part from the original manufacturer, or a source with the express written authority of the original manufacturer or current design activity, including an authorized aftermarket manufacturer. Unlawful or unauthorized substitution includes used electronic parts represented as new, or the false identification of grade, serial number, lot number, date code, or performance characteristics.
+</p>
+         <p xtrc="P">“Electronic part” means a discrete electronic component, including a microcircuit, transistor, capacitor, resistor, or diode, that is intended for use in a safety or mission critical application.
+</p>
+         <p xtrc="P">“Original component manufacturer” means an organization that designs and/or engineers a part and is entitled to any intellectual property rights to that part.
+</p>
+         <p xtrc="P">“Original equipment manufacturer” means a company that manufactures products that it has designed from purchased components and sells those products under the company's brand name.
+</p>
+         <p xtrc="P">“Original manufacturer” means the original component manufacturer, the original equipment manufacturer, or the contract manufacturer.
+</p>
+         <p xtrc="P">“Suspect counterfeit electronic part” means an electronic part for which credible evidence (including, but not limited to, visual inspection or testing) provides reasonable doubt that the electronic part is authentic.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

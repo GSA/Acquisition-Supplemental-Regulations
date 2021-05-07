@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_239_72_T48_70323291124">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.239-72</ph> Department security requirements.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3439_702_T48_7032124112"
+                  href="Section_3439_702_T48_7032124112.dita#Section_3439_702_T48_7032124112">3439.702</xref>, include the following clause in contracts when the contractor's employees will have access to Department-controlled facilities or space, or when the work (wherever located) would involve the design, operation, repair, or maintenance of information systems and access to sensitive but unclassified information:
+</p>
+                                    <p xtrc="HD1">Department Security Requirements (MAR 2011)
+</p>
+                                    <p outputclass="List1">(a) The contractor and its subcontractors shall comply with Department security policy requirements as set forth in the “Bidder's Security Package: Security Requirements for Contractors Doing Business with the Department of Education” at <i>http://www.ed.gov/fund/contract/about/bsp.html.</i>
+                                    </p>
+                                    <p outputclass="List1">(b) The following are the contractor employee positions required under this contract and their designated risk levels:
+</p>
+                                    <p xtrc="P">High Risk (HR): [Specify HR positions.]
+</p>
+                                    <p xtrc="P">Moderate Risk (MR): [Specify MR positions.]
+</p>
+                                    <p xtrc="P">Low Risk (LR): [Specify LR positions.]
+</p>
+                                    <p outputclass="List1">(c) All contractor employees must undergo personnel security screening if they will be employed for 30 days or more, in accordance with Departmental Directive OM:5-101, “Contractor Employee Personnel Security Screenings.” The type of screening and the timing of the screening will depend upon the nature of the contractor position, the type of data to be accessed, and the type of information technology (IT) system access required. Personnel security screenings will be commensurate with the risk and magnitude of harm the individual could cause.
+</p>
+                                    <p outputclass="List1">(d) The contractor shall - 
+</p>
+                                    <p outputclass="List2">(1) Ensure that all non-U.S. citizen contractor employees are lawful permanent residents of the United States or have appropriate work authorization documents as required by the Department of Homeland Security, Bureau of Immigration and Appeals, to work in the United States.
+</p>
+                                    <p outputclass="List2">(2) Ensure that no employees are assigned to high risk designated positions prior to a completed preliminary screening.
+</p>
+                                    <p outputclass="List2">(3) Submit all required personnel security forms to the contracting officer's representative (COR) within 24 hours of an assignment to a Department contract and ensure that the forms are complete.
+</p>
+                                    <p outputclass="List2">(4) Ensure that no contractor employee is placed in a higher risk position than that for which he or she was previously approved, without the approval of the contracting officer or the COR, the Department personnel security officer, and the Department computer security officer.
+</p>
+                                    <p outputclass="List2">(5) Ensure that all contractor employees occupying high-risk designated positions submit forms for reinvestigation every five years for the duration of the contract or if there is a break in service to a Department contract of 365 days or more.
+</p>
+                                    <p outputclass="List2">(6) Report to the COR all instances of individuals seeking to obtain unauthorized access to any departmental IT system, or sensitive but unclassified and/or Privacy Act protected information.
+</p>
+                                    <p outputclass="List2">(7) Report to the COR any information that raises an issue as to whether a contractor employee's eligibility for continued employment or access to Department IT systems, or sensitive but unclassified and/or Privacy Act protected information, promotes the efficiency of the service or violates the public trust.
+</p>
+                                    <p outputclass="List2">(8) Withdraw from consideration under the contract any employee receiving an unfavorable adjudication determination.
+</p>
+                                    <p outputclass="List2">(9) Officially notify each contractor employee if he or she will no longer work on a Department contract.
+</p>
+                                    <p outputclass="List2">(10) Abide by the requirements in Departmental Directive OM:5-101, “Contractor Employee Personnel Security Screenings.”
+</p>
+                                    <p outputclass="List1">(e) Further information including definitions of terms used in this clause and a list of required investigative forms for each risk designation are contained in Departmental Directive OM:5-101, “Contractor Employee Personnel Security Screenings” available at the Web site listed in the first paragraph of this clause.
+</p>
+                                    <p outputclass="List1">(f) Failure to comply with the contractor personnel security requirements may result in a termination of the contract for default.</p>
+                                 <p xtrc="HD3">(End of clause)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

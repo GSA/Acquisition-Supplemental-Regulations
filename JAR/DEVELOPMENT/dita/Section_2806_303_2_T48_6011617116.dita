@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2806_303_2_T48_6011617116">
+      <title class="- topic/title ">
+         <ph props="autonumber">2806.303-2</ph> Content.</title>
+      <conbody>
+         <p xtrc="P">In addition to the information required by FAR 6.303-2, justifications requiring the approval of the PE shall contain the following documents:
+</p>
+         <p outputclass="List1">(a) A written Acquisition Plan as required by FAR 7.102 and part 2807 of this chapter. If a plan was not prepared, explain why planning was not feasible or accomplished.
+</p>
+         <p outputclass="List1">(b) A copy of the CBD announcement or proposed announcement in accordance with the requirements of FAR 5.203.
+</p>
+         <p outputclass="List1">(c) As part of the description of the supplies or services required in FAR 6.303-2, the justification shall include the statement of need as submitted by the requiring activity and any subsequent changes or revisions to the specifications.
+</p>
+         <p outputclass="List1">(d) Any additional documentation that may be unique to the proposed procurement and is relevant to the justification.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1828_311_270_T48_6042023114">
+      <title class="- topic/title ">
+         <ph props="autonumber">1828.311-270</ph> NASA solicitation provisions and contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer must insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_71_T48_60423441176"
+                  href="Section_1852_228_71_T48_60423441176.dita#Section_1852_228_71_T48_60423441176">1852.228-71</xref>, Aircraft Flight Risks, in all cost-reimbursement contracts for the development, production, modification, maintenance, or overhaul of aircraft, or otherwise involving the furnishing of aircraft to the contractor, except when the aircraft are covered by a separate bailment.
+</p>
+         <p outputclass="List1">(b) The contracting officer must insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_80_T48_60423441180"
+                  href="Section_1852_228_80_T48_60423441180.dita#Section_1852_228_80_T48_60423441180">1852.228-80</xref>, Insurance - Immunity from Tort Liability, in solicitations for research and development when a cost-reimbursement contract is contemplated.
+</p>
+         <p outputclass="List1">(c) The contracting officer must insert FAR clause 52.228-7 and the associated clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_81_T48_60423441181"
+                  href="Section_1852_228_81_T48_60423441181.dita#Section_1852_228_81_T48_60423441181">1852.228-81</xref>, Insurance - Partial Immunity From Tort Liability, when the successful offeror represents in its offer that the offeror is partially immune from tort liability as a State agency or as a charitable institution.
+</p>
+         <p outputclass="List1">(d) The contracting officer must insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_228_82_T48_60423441182"
+                  href="Section_1852_228_82_T48_60423441182.dita#Section_1852_228_82_T48_60423441182">1852.228-82</xref>, Insurance - Total Immunity From Tort Liability, when the successful offeror represents in its offer that the offeror is totally immune from tort liability as a State agency or as a charitable institution.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3016_406_T48_7021017311">
+      <title class="- topic/title ">
+         <ph props="autonumber">3016.406</ph> Contract clauses.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(e)(1)(i) The contracting officer shall insert a clause substantially the same as (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3052_216_71_T48_70215512116"
+                  href="Section_3052_216_71_T48_70215512116.dita#Section_3052_216_71_T48_70215512116">3052.216-71</xref>, Determination of Award Fee, in solicitations and contracts that include an award fee.
+</p>
+         <p outputclass="List3">(ii) The contracting officer shall insert a clause substantially the same as (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3052_216_72_T48_70215512117"
+                  href="Section_3052_216_72_T48_70215512117.dita#Section_3052_216_72_T48_70215512117">3052.216-72</xref>, Performance Evaluation Plan, in all solicitations and contracts that include an award fee.
+</p>
+         <p outputclass="List3">(iii) The contracting officer shall insert a clause substantially the same as (HSAR) 48 CFR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_3052_216_73_T48_70215512118"
+                  href="Section_3052_216_73_T48_70215512118.dita#Section_3052_216_73_T48_70215512118">3052.216-73</xref>, Distribution of Award Fee, in all solicitations and contracts that include an award fee.
+</p>
+      </conbody>
+   </concept>
+</dita>

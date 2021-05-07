@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2419_708_T48_6095117311">
+      <title class="- topic/title ">
+         <ph props="autonumber">2419.708</ph> Solicitation provisions and contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(b) The contracting officer shall insert clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_219_73_T48_60955371126"
+                  href="Section_2452_219_73_T48_60955371126.dita#Section_2452_219_73_T48_60955371126">2452.219-73</xref>, “Incorporation of Subcontracting Plan,” in solicitations and contracts when a subcontracting plan is required. The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_219_74_T48_60955371127"
+                  href="Section_2452_219_74_T48_60955371127.dita#Section_2452_219_74_T48_60955371127">2452.219-74</xref>, “Small Business Subcontracting Goals,” in solicitations for contracts that are required to include the FAR clauses at 52.219-8, “Utilization of Small Business Concerns,” and 52.219-9, “Small Business Subcontracting Plan.”
+</p>
+         <p outputclass="List1">(d) The contracting officer shall insert the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2452_219_70_T48_60955371123"
+                  href="Section_2452_219_70_T48_60955371123.dita#Section_2452_219_70_T48_60955371123">2452.219-70</xref>, Small Business Subcontracting Plan Compliance, in solicitations for contracts that are expected to exceed the dollar thresholds set forth at FAR 19.702 and are required to include the clause at FAR 52.219-9, Small Business Subcontracting Plan.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1835_070_T48_6042129013">
+      <title class="- topic/title ">
+         <ph props="autonumber">1835.070</ph> NASA contract clauses and solicitation provision.</title>
+      <conbody>
+         <p outputclass="List1">(a) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_235_70_T48_60423441194"
+                  href="Section_1852_235_70_T48_60423441194.dita#Section_1852_235_70_T48_60423441194">1852.235-70</xref>, Center for AeroSpace Information, in all research and development contracts, and interagency agreements and cost-reimbursement supply contracts involving research and development work. 
+</p>
+         <p outputclass="List1">(b) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_235_71_T48_60423441195"
+                  href="Section_1852_235_71_T48_60423441195.dita#Section_1852_235_71_T48_60423441195">1852.235-71</xref>, Key Personnel and Facilities, in contracts when source selection has been substantially predicated upon the possession by a given offeror of special capabilities, as represented by key personnel or facilities. 
+</p>
+         <p outputclass="List1">(c) The contracting officer shall ensure that the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_235_72_T48_60423441196"
+                  href="Section_1852_235_72_T48_60423441196.dita#Section_1852_235_72_T48_60423441196">1852.235-72</xref>, Instructions for Responding to NASA Research Announcements, is inserted in all NRAs. The instructions may be supplemented, but only to the minimum extent necessary. 
+</p>
+         <p outputclass="List1">(d) The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_235_73_T48_60423441197"
+                  href="Section_1852_235_73_T48_60423441197.dita#Section_1852_235_73_T48_60423441197">1852.235-73</xref>, Final Scientific and Technical Reports, in all research and development contracts, and in interagency agreements and cost-reimbursement supply contracts involving research and development work. 
+</p>
+         <p outputclass="List2">(1) The contracting officer, after consultation with and concurrence of the program or project manager and the center Export Control Administrator, shall insert the clause with its Alternate I when the contract includes “fundamental research” as defined at 22 CFR 120.11(8) and no prior review of data, including the final report, produced during the performance of the contract is required for export control or national security purposes before the contractor may publish, release, or otherwise disseminate the data. 
+</p>
+         <p outputclass="List2">(2) The contracting officer, after consultation with and concurrence by the program or project manager and where necessary the center Export Control Administrator, shall insert the clause with its Alternate II, when prior review of all data produced during the performance of the contract is required before the contractor may publish, release, or otherwise disseminate the data. For example, when data produced during performance of the contract may be subject to export control, national security restrictions, or other restrictions designated by NASA; or, to the extent the contractor receives or is given access to data that includes restrictive markings, may include proprietary information of others. 
+</p>
+         <p outputclass="List2">(3) Except when Alternate II applies in accordance with paragraph (d)(2) of this section, the contracting officer shall insert the clause with its Alternate III in all SBIR and STTR contracts.
+</p>
+         <p outputclass="List1">(e) The contracting officer shall insert a clause substantially the same as the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_235_74_T48_60423441198"
+                  href="Section_1852_235_74_T48_60423441198.dita#Section_1852_235_74_T48_60423441198">1852.235-74</xref>, Additional Reports of Work - Research and Development, in all research and development contracts, and in interagency agreements and cost-reimbursement supply contracts involving research and development work, when periodic reports, such as monthly or quarterly reports, or reports on the completion of significant units or phases of work are required for monitoring contract performance. The clause should be modified to reflect the reporting requirements of the contract and to indicate the timeframe for submission of the final report.
+</p>
+      </conbody>
+   </concept>
+</dita>

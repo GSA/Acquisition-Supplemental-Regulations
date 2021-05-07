@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e3222">
+               <title outputclass="Heading4">
+         <ph props="autonumber"/> 5225.7012-2 (DFARS 225.7012-2) Waiver.</title>
+               <body>
+                  <p outputclass="Normal">Submit the proposed waiver via DASN(P)
+by email at <ph outputclass="Hyperlink">RDAJ&amp;As.fct@navy.mil</ph> with
+the subject “[Activity Name] DFARS 225.7012-2 - Supercomputer Restriction
+Waiver”. The waiver shall be in the form of a written D&amp;F containing
+a certification that:</p>
+                  <p outputclass="List2">(1) Adequate U.S. supplies are not available
+to meet requirements on a timely basis; and</p>
+                  <p outputclass="List2">(2) The acquisition shall be made in order
+to acquire capability for national security purposes.</p>
+                  <p outputclass="Normal"/>
+               </body>
+            </topic>
+</dita>

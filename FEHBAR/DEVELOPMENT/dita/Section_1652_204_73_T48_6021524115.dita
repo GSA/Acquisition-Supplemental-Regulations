@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1652_204_73_T48_6021524115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1652.204-73</ph> Taxpayer Identification Number.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1604_970_T48_60295211"
+                  href="Section_1604_970_T48_60295211.dita#Section_1604_970_T48_60295211">1604.970</xref>, insert the following clause. 
+</p>
+                                    <p xtrc="HD1">Taxpayer Identification Number (JAN 2000) 
+</p>
+                                    <p outputclass="List1">(a) <i>Definitions.</i> 
+                                       <i>Common parent,</i> as used in this provision, means that corporate entity that owns or controls an affiliated group of corporations that files its Federal income tax returns on a consolidated basis, and of which the Carrier is a member. 
+</p>
+                                    <p xtrc="P">
+                                       <i>Taxpayer Identification Number (TIN),</i> as used in this provision, means the number required by the Internal Revenue Service (IRS) to be used by the Carrier in reporting income tax and other returns. 
+</p>
+                                    <p outputclass="List1">(b) The Carrier must submit the information required in paragraphs (d) through (f) of this clause to comply with debt collection requirements of 31 U.S.C. 7701(c) and 3325(d), reporting requirements of 26 U.S.C. 6041, 6041A, and 6050M, and implementing regulations issued by the IRS. The Carrier is subject to the payment reporting requirements described in Federal Acquisition Regulation (FAR) 4.904. The Carrier's failure or refusal to furnish the information will result in payment being withheld until the TIN number is provided. 
+</p>
+                                    <p outputclass="List1">(c) The Government may use the TIN to collect and report on any delinquent amounts arising out of the Carrier's relationship with the Government (31 U.S.C. 7701(c)(3)). The TIN provided hereunder may be matched with IRS records to verify its accuracy. 
+</p>
+                                    <p outputclass="List1">(d) Taxpayer Identification Number (TIN).
+</p>
+                                    <p xtrc="FP-2">TIN:____________
+</p>
+                                    <p outputclass="List1">(e) Type of organization.
+</p>
+                                    <p xtrc="FP-2">□ Sole proprietorship;
+</p>
+                                    <p xtrc="FP-2">□ Partnership;
+</p>
+                                    <p xtrc="FP-2">□ Corporate entity (not tax-exempt);
+</p>
+                                    <p xtrc="FP-2">□ Corporate entity (tax-exempt);
+</p>
+                                    <p xtrc="FP-2">□ Other ____________.
+</p>
+                                    <p outputclass="List1">(f) Common parent.
+</p>
+                                    <p xtrc="FP-2">□ Carrier is not owned or controlled by a common parent as defined in paragraph (a) of this clause.
+</p>
+                                    <p xtrc="FP-2">□ Name and TIN of common parent:
+</p>
+                                    <p xtrc="FP-2">Name ____________
+</p>
+                                    <p xtrc="FP-2">TIN ____________</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

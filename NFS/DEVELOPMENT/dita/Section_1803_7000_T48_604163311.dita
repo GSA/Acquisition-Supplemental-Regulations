@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1803_7000_T48_604163311">
+      <title class="- topic/title ">
+         <ph props="autonumber">1803.7000</ph> Policy.</title>
+      <conbody>
+         <p xtrc="P">NASA requires contractors to display NASA hotline posters prepared by the NASA Office of Inspector General on those contracts specified in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1803_7001_T48_604163312"
+                  href="Section_1803_7001_T48_604163312.dita#Section_1803_7001_T48_604163312">1803.7001</xref>, so that employees of the contractor having knowledge of waste, fraud, or abuse, can readily identify a means to contact NASA's IG. 
+</p>
+      </conbody>
+   </concept>
+</dita>

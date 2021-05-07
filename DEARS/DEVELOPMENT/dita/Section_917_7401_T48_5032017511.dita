@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_917_7401_T48_5032017511">
+      <title class="- topic/title ">
+         <ph props="autonumber">917.7401</ph> General.</title>
+      <conbody>
+         <p xtrc="P">The acquisition of real estate requires the involvement of a DOE Certified Realty Specialist, as specified at 917.7402. Special circumstances and situations may arise under cost-type contracts when, in the performance of the contract or subcontract, the performer shall be required, or otherwise find it necessary, to acquire real estate or interests therein by:
+</p>
+         <p outputclass="List1">(a) Purchase, on DOE's behalf or in its own name, with title eventually vesting in the Government.
+</p>
+         <p outputclass="List1">(b) Lease for which DOE will reimburse the contractor for the pre-approved costs incurred under the lease.
+</p>
+         <p outputclass="List1">(c) Acquisition of temporary interest through easement, license or permit, and DOE funds the cost of the temporary interest.
+</p>
+      </conbody>
+   </concept>
+</dita>

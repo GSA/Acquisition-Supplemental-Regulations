@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e9908">
+         <title outputclass="Heading3">
+         <ph props="autonumber"/> Section 3: Program Risks.</title>
+         <body>
+            <p outputclass="Normal"/>
+            <p outputclass="Normal">Risks. Discuss technical, cost, and schedule
+risks and describe what efforts are planned or underway to reduce
+risk and the consequences of failure to achieve goals. If concurrency
+of development and production is planned, discuss its effects on
+cost and schedule risks.</p>
+            <p outputclass="Normal"/>
+         </body>
+      </topic>
+</dita>

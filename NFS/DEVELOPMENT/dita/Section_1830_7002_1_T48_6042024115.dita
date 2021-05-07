@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1830_7002_1_T48_6042024115">
+      <title class="- topic/title ">
+         <ph props="autonumber">1830.7002-1</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>Cost of money rate</i> is either - 
+</p>
+         <p outputclass="List2">(1) The interest rate determined by the Secretary of the Treasury under Public Law 92-41 (85 Stat. 97); or
+</p>
+         <p outputclass="List2">(2) The time-weighted average of such rates for each cost accounting period during which the capital asset is being constructed, fabricated, or developed.
+</p>
+         <p outputclass="List1">(b) <i>Representative investment</i> is the calculated amount considered invested by the contractor during the cost accounting period to construct, fabricate, or develop the capital asset.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2401_602_3_T48_609482414">
+      <title class="- topic/title ">
+         <ph props="autonumber">2401.602-3</ph> Ratification of unauthorized commitments.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(b)
+				</p>
+         <p outputclass="List2">(1) 
+			Requests for ratification of unauthorized commitments shall be submitted in writing through the contracting officer to the ratification approval officials identified in paragraph (b)(3) of this section. The Assistant Secretary or equivalent official for the office that created the unauthorized commitment shall sign the request for ratification.
+</p>
+         <p outputclass="List2">(3) In accordance with FAR 1.602-3(b)(3), the Senior Procurement Executive may delegate the authority to approve ratifications of individual unauthorized commitments down to, but not below, the level of an Assistant Chief Procurement Officer.
+</p>
+         <p props="Runin" outputclass="List1">(c)(5) Concurrence by legal counsel in the Contracting Officer's recommendation for payment of an unauthorized commitment (see FAR 1.602-3(c)(5)) shall not be required when the value of the payment is equal to, or less than, the simplified acquisition threshold.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e4349">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5249 TERMINATION OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4352.dita#d1e4352">SUBPART 5249.4—TERMINATION FOR DEFAULT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4355.dita#d1e4355">5249.402 Termination of fixed-price contracts for default.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4358.dita#d1e4358">5249.402-8 Reporting Information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4368.dita#d1e4368">5249.403 Termination of cost-reimbursement contracts for default.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e4378.dita#d1e4378">SUBPART 5249.70—SPECIAL TERMINATION REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e4381.dita#d1e4381">5249.7001Congressional notification on significant contract terminations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2917_501_T48_701318212">
+      <title class="- topic/title ">
+         <ph props="autonumber">2917.501</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">
+                                    <i>Interagency Acquisition</i> means a procedure by which a DOL agency obtains needed supplies or services from, or through, another DOL agency or Federal agency, and appropriated funds are obligated.
+</p>
+         <p xtrc="P">
+                                    <i>Interagency Agreement</i> means the legal instrument used for an interagency acquisition to exchange funds or property between two DOL organizations or between a DOL agency and another Federal agency. This instrument is used when the DOL organization meets the definition of either the Requesting Agency or the Servicing Agency. “Interagency Agreement” and “Interagency Acquisition” does not include:
+</p>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			Agreements involving supplies and services acquired from or through mandatory sources, as described in FAR part 8;
+</p>
+         <p outputclass="List1">(2) Contracts with the Small Business Administration based upon Section 8(a) of the Small Business Act or a HUBZone small business under the Historically Underutilized Business Zone (HUBZone) Act of 1997;
+</p>
+         <p outputclass="List1">(3) Cooperative agreements and grants; or
+</p>
+         <p outputclass="List1">(4) Any agreement or acquisition where a statute authorizes exception.
+</p>
+         <p xtrc="P">
+                                    <i>Military Interdepartmental Procurement Request (MIPR)</i> means a type of interagency agreement used to place orders for supplies and non-personal services with a military department.
+</p>
+         <p xtrc="P">
+                                    <i>Requesting Agency</i> means the Federal agency that needs the supplies or services, and is obligating the funds to provide for the costs of performance.
+</p>
+         <p xtrc="P">
+                                    <i>Servicing Agenc</i>y means the Federal agency which is providing the supplies or performing the services, directly or indirectly, and will be receiving the funds to provide for the costs of performance.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

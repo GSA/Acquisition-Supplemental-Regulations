@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_904_7100_T48_503185611">
+      <title class="- topic/title ">
+         <ph props="autonumber">904.7100</ph> Scope of subpart.</title>
+      <conbody>
+         <p xtrc="P">This subpart implements section 836 of the Fiscal Year 1993 Defense Authorization Act (Pub. L. 102-484) which prohibits the award of a Department of Energy contract under the national security program to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
+</p>
+      </conbody>
+   </concept>
+</dita>

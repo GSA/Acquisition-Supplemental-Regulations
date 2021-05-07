@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2131_205_32_T48_6074317218">
+      <title class="- topic/title ">
+         <ph props="autonumber">2131.205-32</ph> Precontract costs.</title>
+      <conbody>
+         <p xtrc="P">Precontract costs will be allowable in accordance with FAR part 31, but precontract costs that exceed $100,000 will not be allowable except to the extent allowable under an advance agreement negotiated in accordance with section <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2131_109_T48_6074317112"
+                  href="Section_2131_109_T48_6074317112.dita#Section_2131_109_T48_6074317112">2131.109</xref> of this chapter.
+</p>
+      </conbody>
+   </concept>
+</dita>

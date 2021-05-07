@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3001_301_71_T48_70282213">
+      <title class="- topic/title ">
+         <ph props="autonumber">3001.301-71</ph> Effective date.</title>
+      <conbody>
+         <p xtrc="P">Unless otherwise stated:
+</p>
+         <p outputclass="List1">(a) HSAR changes apply to solicitations issued on or after the effective date of the change;
+</p>
+         <p outputclass="List1">(b) Contracting officers may, at their discretion, amend solicitations issued before the effective date to include HSAR changes, provided award of the resulting contract(s) will occur on or after the effective date of the change; and
+</p>
+         <p outputclass="List1">(c) When required by law, contracting officers must modify existing contracts to include HSAR changes. Otherwise, and where feasible, contracting officers should consider using the Changes clause or other suitable authority, to modify existing contracts to include HSAR changes.
+</p>
+      </conbody>
+   </concept>
+</dita>

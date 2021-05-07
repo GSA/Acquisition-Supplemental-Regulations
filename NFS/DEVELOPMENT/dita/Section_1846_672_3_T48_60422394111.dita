@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1846_672_3_T48_60422394111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1846.672-3</ph> Multiple consignee instructions.</title>
+      <conbody>
+         <p xtrc="P">The contractor may prepare one MIRR when the identical item(s) of a contract is to be shipped to more than one consignee, with the same or varying quantities, and the shipment requires origin acceptance. Prepare the MIRR using the procedures in this subpart with the following changes:
+</p>
+         <p outputclass="List1">(a) Blocks 2, 4, 13, and, if applicable, 14 - Enter “See Attached Distribution List.”
+</p>
+         <p outputclass="List1">(b) Block 15 - The contractor may group item numbers for identical stock/part number and description.
+</p>
+         <p outputclass="List1">(c) Block 17 - Enter the “total” quantity shipped by item or, if applicable, grouped identical items.
+</p>
+         <p outputclass="List1">(d) Use the DD Form 250c to list each individual “Shipped To” and “Marked For” with - 
+</p>
+         <p outputclass="List2">(1) Code(s) and complete shipping address and a sequential shipment number for each;
+</p>
+         <p outputclass="List2">(2) Item number(s);
+</p>
+         <p outputclass="List2">(3) Quantity;
+</p>
+         <p outputclass="List2">(4) The FEDSTRIP requisition number and quantity for each when provided in the contract or shipping instructions; and
+</p>
+         <p outputclass="List2">(5) If applicable, bill of lading number and mode of shipment code.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

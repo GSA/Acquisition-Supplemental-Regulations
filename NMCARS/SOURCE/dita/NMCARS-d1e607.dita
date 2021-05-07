@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e607">
+            <title outputclass="Heading3">
+         <ph props="autonumber"/> 5202.101 Definitions.</title>
+            <body>
+               <p outputclass="Normal">“Acquisition Category” or ACAT is
+a defense acquisition program designation. For the purposes of NMCARS,
+this designation also includes “Business System Category” (BCAT)
+as defined in DoD Instruction 5000.75.</p>
+               <p outputclass="Normal">“ASN RDA Website” is defined as <ph outputclass="Hyperlink">http://www.secnav.navy.mil/rda/Pages/default.aspx</ph> and
+all accompanying pages within the site. DON contracting and acquisition
+policy is posted under the “Policy and Guidance” section of the
+website.</p>
+               <p outputclass="Normal">“Clause” is defined as language which
+imposes a duty on the Government or contractor and is not directly
+related to the production or performance of a contract deliverable
+as depicted in Figure 1, Contract Language Criteria.</p>
+               <fig frame="all">
+                  <image href="1.png"
+                   height="147.119pt"
+                   width="163.439pt"
+                   placement="inline"/>
+               </fig>
+               <p outputclass="Normal">"CCO" is the “Chief of the Contracting
+Office". The CCO is the official who has overall responsibility
+for managing the day-to-day contracting office operations and includes
+the principal deputy to such official.</p>
+               <p outputclass="Normal">“DASN(P)” is the Deputy Assistant Secretary
+of the Navy for Procurement, Office of the Assistant Secretary of
+the Navy (Research, Development, and Acquisition). It also includes
+the Executive Director, DASN(P), and the Navy Senior Services Manager
+(SSM).</p>
+               <p outputclass="Normal">"Deputy/Assistant Commander for Contracts"
+is the Deputy or Assistant Commander for Contracts or the equivalent
+at a Systems Command, the Headquarters, NAVFACENGCOM; Deputy Commandant
+for HQMC, I&amp;L; ONR; MSC; and SSP. It also includes the principal
+deputy for these officials.</p>
+               <p outputclass="Normal">"NAE" is the Navy Acquisition Executive.
+ASN(RDA) is the NAE.</p>
+               <p outputclass="Normal">"Navy" or "DON" is the Department of Navy
+including the Marine Corps, unless otherwise specified.</p>
+               <p outputclass="Normal">"NSPE" is Navy Senior Procurement Executive.
+ASN(RDA) is the NSPE.</p>
+               <p outputclass="Normal">“Provision” is defined as language necessary
+for a potential offeror to produce a conforming proposal in response
+to a solicitation.</p>
+               <p outputclass="Normal"/>
+            </body>
+         </topic>
+</dita>

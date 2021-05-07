@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1246_101_70_T48_5054131112">
+      <title class="- topic/title ">
+         <ph props="autonumber">1246.101-70</ph> Additional definitions.</title>
+      <conbody>
+         <p xtrc="P">
+                                    <i>At no additional cost to the Government</i> means at no increase in price for firm-fixed-price contracts, at no increase in target or ceiling price for fixed price incentive contracts (see (FAR) 48 CFR 46.707), or at no increase in estimated cost or fee for cost-reimbursement contracts.
+</p>
+         <p xtrc="P">
+                                    <i>Defect</i> means any condition or characteristic in any supplies or services furnished by the contractor under the contract that is not in compliance with the requirements of the contract.
+</p>
+         <p xtrc="P">
+                                    <i>Major acquisition</i> means an acquisition or project as defined by TAM Chapter 1234, Major System Acquisition.
+</p>
+         <p xtrc="P">
+                                    <i>Performance requirements</i> means the operating capabilities, maintenance, and reliability characteristics of a system that are determined to be necessary for it to fulfill the requirement for which the system is designed.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

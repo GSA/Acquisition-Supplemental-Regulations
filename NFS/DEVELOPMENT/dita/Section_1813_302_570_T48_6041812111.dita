@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1813_302_570_T48_6041812111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1813.302-570</ph> NASA solicitation provisions.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(a)
+				</p>
+         <p outputclass="List2">(1) 
+			The contracting officer may use the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_213_70_T48_60423441110"
+                  href="Section_1852_213_70_T48_60423441110.dita#Section_1852_213_70_T48_60423441110">1852.213-70</xref>, Offeror Representations and Certifications - Other Than Commercial Items, in simplified acquisitions exceeding the mircro-purchase threshold that are for other than commercial items. This provision shall not be used for acquisition of commercial items as defined in FAR 2.101. 
+</p>
+         <p outputclass="List2">(2) This provision provides a single, consolidated list of certifications and representations for the acquisition of other than commercial items using simplified acquisition procedures and is attached to the solicitation for offerors to complete and return with their offer. 
+</p>
+         <p outputclass="List3">(i) Use the provision with its Alternate I in solicitations for acquisitions that are for, or specify the use of recovered materials (see FAR 23.4). 
+</p>
+         <p outputclass="List3">(ii) Use the provision with its Alternate II in solicitations for the acquisition of research, studies, supplies, or services of the type normally acquired from higher education institutions (see FAR 26.3). 
+</p>
+         <p outputclass="List3">(iii) Use the provision with its Alternate III in solicitation which include the clause at FAR 52.227-14, Rights in Data - General (see FAR 27.404(d)(2) and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1827_404_T48_6042022211"
+                  href="Section_1827_404_T48_6042022211.dita#Section_1827_404_T48_6042022211">1827.404</xref>(d)). 
+</p>
+         <p outputclass="List1">(b) The contracting officer may insert a provision substantially the same as the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1852_213_71_T48_60423441111"
+                  href="Section_1852_213_71_T48_60423441111.dita#Section_1852_213_71_T48_60423441111">1852.213-71</xref>, Evaluation - Other than Commercial Items, in solicitations using simplified acquisition procedures for other than commercial items when a trade-off source selection process will be used, that is, factors in addition to technical acceptability and price will be considered. (<i>See</i> FAR 13.106.)
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="d1e3499">
+      <title outputclass="Heading1" class="- topic/title ">
+         <ph props="autonumber"/> PART 5231 CONTRACT COST PRINCIPLES
+AND PROCEDURES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3502.dita#d1e3502">SUBPART 5231.1—APPLICABILITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3505.dita#d1e3505">5231.109 Advance agreements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="NMCARS-d1e3517.dita#d1e3517">SUBPART 5231.2—CONTRACTS WITH COMMERCIAL ORGANIZATIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="NMCARS-d1e3520.dita#d1e3520">5231.205 Selected costs.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3523.dita#d1e3523">5231.205-90 Shipbuilding capability preservation agreements.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="NMCARS-d1e3565.dita#d1e3565">5231.205-91 Compensation for services.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

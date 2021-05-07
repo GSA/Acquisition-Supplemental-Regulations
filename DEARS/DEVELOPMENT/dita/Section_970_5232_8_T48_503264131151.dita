@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_5232_8_T48_503264131151">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.5232-8</ph> Integrated accounting.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 970.3270(b)(2), insert the following clause: 
+</p>
+                                    <p xtrc="HD1">Integrated Accounting (DEC 2000) 
+</p>
+                                    <p xtrc="P">Integrated accounting procedures are required for use under this contract. The Contractor's financial management system shall include an integrated accounting system that is linked to DOE's accounts through the use of reciprocal accounts and that has electronic capability to transmit monthly and year-end self-balancing trial balances to the Department's Primary Accounting System for reporting financial activity under this contract in accordance with requirements imposed by the Contracting Officer pursuant to the Laws, regulations, and DOE directives clause of this contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2009_570_5_T48_606327317">
+      <title class="- topic/title ">
+         <ph props="autonumber">2009.570-5</ph> Contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>General contract clause.</i> All contracts and simplified acquisitions of the types set forth in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2009_570_4_T48_606327316"
+                  href="Section_2009_570_4_T48_606327316.dita#Section_2009_570_4_T48_606327316">2009.570-4</xref>(b) must include the clause entitled, “Contractor Organizational Conflicts of Interest,” set forth in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2052_209_72_T48_6063825116"
+                  href="Section_2052_209_72_T48_6063825116.dita#Section_2052_209_72_T48_6063825116">2052.209-72</xref>.</p>
+         <p outputclass="List1">(b) <i>Other special contract clauses.</i> If it is determined from the nature of the proposed contract that an organizational conflict of interest exists, the contracting officer may determine that the conflict can be avoided, or, after obtaining a waiver in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2009_570_9_T48_6063273111"
+                  href="Section_2009_570_9_T48_6063273111.dita#Section_2009_570_9_T48_6063273111">2009.570-9</xref>, neutralized through the use of an appropriate special contract clause. If appropriate, the offeror may negotiate the terms and conditions of these clauses, including the extent and time period of any restriction. These clauses include but are not limited to:
+</p>
+         <p outputclass="List2">(1) Hardware exclusion clauses which prohibit the acceptance of production contracts following a related non-production contract previously performed by the contractor;
+</p>
+         <p outputclass="List2">(2) Software exclusion clauses;
+</p>
+         <p outputclass="List2">(3) Clauses which require the contractor (and certain of its key personnel) to avoid certain organizational conflicts of interest; and
+</p>
+         <p outputclass="List2">(4) Clauses which provide for protection of confidential data and guard against its unauthorized use.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

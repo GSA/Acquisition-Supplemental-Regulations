@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1552_211_77_T48_6018371120">
+      <title class="- topic/title ">
+         <ph props="autonumber">1552.211-77</ph> Final reports.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1511_011_77_T48_6012100110"
+                  href="Section_1511_011_77_T48_6012100110.dita#Section_1511_011_77_T48_6012100110">1511.011-77</xref>, insert this contract clause when a contract requires both a draft and a final report.
+</p>
+                                    <p xtrc="HD1">Final Reports (SEP 2013)
+</p>
+                                    <p outputclass="List1">(a) “Draft Report” The Contractor shall submit a copy of the draft final report on or before (date) to the Contracting Officer's Representative and Contracting Officer in electronic format, unless specified otherwise by the Government. The draft shall be double-spaced or space-and-a-half and shall include all pertinent material required in the final report. The Government will review for approval or disapproval the draft and provide a response to the Contractor within __ calendar days after receipt. If the Government does not provide a response within the allotted review time, the Contractor immediately shall notify the Contracting Officer in writing.
+</p>
+                                    <p outputclass="List1">(b) “Final Report” - The Contractor shall deliver a final report on or before the last day of the period of performance specified in the contract. Distribution is as follows:
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                                <entry colname="1">No. of copies
+</entry>
+                                                <entry colname="2">Addressee
+</entry>
+                                                <entry colname="3">Address (email and/or shipping)
+</entry>
+                                             </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">1</entry>
+                                                <entry colname="2" align="left">EPA Library
+</entry>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">1</entry>
+                                                <entry colname="2" align="left">Contracting Officer
+</entry>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">1</entry>
+                                                <entry colname="2" align="left">Contracting Officer's Representative</entry>
+                                                <entry colname="3" align="left"/>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(c) The electronic format of the draft and final report shall be in accordance with the current EPA policy and procedures.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

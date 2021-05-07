@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1801_106_T48_604162116">
+      <title class="- topic/title ">
+         <ph props="autonumber">1801.106</ph> OMB approval under the Paperwork Reduction Act.</title>
+      <conbody>
+         <p xtrc="P">The following OMB control numbers apply:
+</p>
+         <p xtrc="DIV">
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">NFS Segment
+</entry>
+                                             <entry colname="2">OMB
+control
+No.
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">1823</entry>
+                                             <entry colname="2" align="right">2700-0089
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">1827</entry>
+                                             <entry colname="2" align="right">2700-0052
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">
+                           <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_1852_223_70_T48_60423441154"
+                                 href="Section_1852_223_70_T48_60423441154.dita#Section_1852_223_70_T48_60423441154">1852.223-70</xref>
+                        </entry>
+                                             <entry colname="2" align="right">2700-0160
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">NF 533</entry>
+                                             <entry colname="2" align="right">2700-0003
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">NF 1018</entry>
+                                             <entry colname="2" align="right">2700-0017</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+      </conbody>
+   </concept>
+</dita>

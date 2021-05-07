@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_9903_201_1_T48_7010264212">
+      <title class="- topic/title ">
+         <ph props="autonumber">9903.201-1</ph> CAS applicability.</title>
+      <conbody>
+         <p outputclass="List1">(a) This subsection describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. (See 9904 or 9905, as applicable.) Negotiated contracts not exempt in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_201_1_T48_7010264212"
+                  href="Section_9903_201_1_T48_7010264212.dita#Section_9903_201_1_T48_7010264212">9903.201-1</xref>(b) shall be subject to CAS. A CAS-covered contract may be subject to full, modified or other types of CAS coverage. The rules for determining the applicable type of CAS coverage are in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9903_201_2_T48_7010264213"
+                  href="Section_9903_201_2_T48_7010264213.dita#Section_9903_201_2_T48_7010264213">9903.201-2</xref>.</p>
+         <p outputclass="List1">(b) The following categories of contracts and subcontracts are exempt from all CAS requirements:
+</p>
+         <p outputclass="List2">(1) Sealed bid contracts.
+</p>
+         <p outputclass="List2">(2) Negotiated contracts and subcontracts not in excess of the Truth in Negotiations Act (TINA) threshold, as adjusted for inflation (41 U.S.C. 1908 and 41 U.S.C. 1502(b)(1)(B)). For purposes of this paragraph (b)(2), an order issued by one segment to another segment shall be treated as a subcontract.
+</p>
+         <p outputclass="List2">(3) Contracts and subcontracts with small businesses.
+</p>
+         <p outputclass="List2">(4) Contracts and subcontracts with foreign governments or their agents or instrumentalities or, insofar as the requirements of CAS other than <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_401_T48_7010265012"
+                  href="Section_9904_401_T48_7010265012.dita#Section_9904_401_T48_7010265012">9904.401</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_9904_402_T48_70102650112"
+                  href="Section_9904_402_T48_70102650112.dita#Section_9904_402_T48_70102650112">9904.402</xref> are concerned, any contract or subcontract awarded to a foreign concern.
+</p>
+         <p outputclass="List2">(5) Contracts and subcontracts in which the price is set by law or regulation.
+</p>
+         <p outputclass="List2">(6) Contracts and subcontracts authorized in 48 CFR 12.207 for the acquisition of commercial items.
+</p>
+         <p outputclass="List2">(7) Contracts or subcontracts of less than $7.5 million, provided that, at the time of award, the business unit of the contractor or subcontractor is not currently performing any CAS-covered contracts or subcontracts valued at $7.5 million or greater.
+</p>
+         <p props="Runin" outputclass="List2">(8)-(12) [Reserved]
+</p>
+         <p outputclass="List2">(13) Subcontractors under the NATO PHM Ship program to be performed outside the United States by a foreign concern. 
+</p>
+         <p outputclass="List2">(14) [Reserved] 
+</p>
+         <p outputclass="List2">(15) Firm-fixed-price contracts or subcontracts awarded on the basis of adequate price competition without submission of certified cost or pricing data.
+</p>
+      </conbody>
+   </concept>
+</dita>

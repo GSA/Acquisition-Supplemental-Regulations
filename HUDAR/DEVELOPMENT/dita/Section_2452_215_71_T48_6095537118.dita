@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_2452_215_71_T48_6095537118">
+      <title class="- topic/title ">
+         <ph props="autonumber">2452.215-71</ph> Relative importance of technical evaluation factors to cost or price.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_2415_209_T48_6095014113"
+                  href="Section_2415_209_T48_6095014113.dita#Section_2415_209_T48_6095014113">2415.209</xref>(a)(2), insert the following provision:
+</p>
+                                    <p xtrc="HD1">Relative Importance Of Technical Evaluation Factors To Cost Or Price (DEC 2012)
+</p>
+                                    <p xtrc="P">For the purposes of evaluating offers and the selection of the contractor or contractors under this solicitation, the relative merit of the offeror's technical proposal as evaluated in accordance with the technical evaluation factors listed herein shall be considered [<i>Contracting Officer insert one of the following:</i> “significantly more important than,” “approximately equal to,” or “significantly less important than”] cost or price. While the proposed cost or price will not be assigned a specific weight, it shall be considered a significant criterion in the overall evaluation of proposals.</p>
+                                 </conbody>
+   </concept>
+</dita>

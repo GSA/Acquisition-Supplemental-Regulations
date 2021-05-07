@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1815_207_70_T48_6041814113">
+      <title class="- topic/title ">
+         <ph props="autonumber">1815.207-70</ph> Release of proposal information.</title>
+      <conbody>
+         <p outputclass="List1">(a) NASA personnel participating in any way in the evaluation may not reveal any information concerning the evaluation to anyone not also participating, and then only to the extent that the information is required in connection with the evaluation. When non-NASA personnel participate, they shall be instructed to observe these restrictions.
+</p>
+         <p props="Runin" outputclass="List1">(b)
+				</p>
+         <p outputclass="List2">(1) 
+			Except as provided in paragraph (b)(2) of this section, the procurement officer is the approval authority to disclose proposal information outside the Government. If outside evaluators are involved, this authorization may be granted only after compliance with FAR 37.2 and 1837.204, except that the determination of unavailability of Government personnel required by FAR 37.2 is not required for disclosure of proposal information to JPL employees.
+</p>
+         <p outputclass="List2">(2) Proposal information in the following classes of proposals may be disclosed with the prior written approval of a NASA official one level above the NASA program official responsible for the overall conduct of the evaluation. If outside evaluators are involved, the determination of unavailability of Government personnel required by FAR 37.2 is not required for disclosure in these instances.
+</p>
+         <p outputclass="List3">(i) Proposals submitted in response to broad agency announcements such as Announcements of Opportunity and NASA Research Announcements;
+</p>
+         <p outputclass="List3">(ii) Unsolicited proposals; and
+</p>
+         <p outputclass="List3">(iii) SBIR and STTR proposals.
+</p>
+         <p outputclass="List2">(3) If JPL personnel, in evaluating proposal information released to them by NASA, require assistance from non-JPL, non-Government evaluators, JPL must obtain written approval to release the information in accordance with paragraphs (b)(1) and (b)(2) of this section.
+</p>
+      </conbody>
+   </concept>
+</dita>

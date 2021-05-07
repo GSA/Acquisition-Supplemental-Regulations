@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1527_404_T48_601522111">
+      <title class="- topic/title ">
+         <ph props="autonumber">1527.404</ph> Basic rights in data clause.</title>
+      <conbody>
+         <p xtrc="P">The Contracting Officer shall insert in the <i>Limited Rights Notice</i> when using Alternate II of FAR 52.227-14 the following purposes for disclosure of limited data outside the Government.
+</p>
+         <p outputclass="List1">(a) Use (except for manufacture) by support service contractors;
+</p>
+         <p outputclass="List1">(b) Evaluation by nongovernment evaluators;
+</p>
+         <p outputclass="List1">(c) Use (except for manufacture) by other contractors participating in the Government's program of which the specific contract is a part, for information and use in connection with the work performed under each contract;
+</p>
+         <p outputclass="List1">(d) Emergency repairs or overhaul work;
+</p>
+         <p outputclass="List1">(e) Release to a foreign government, or instrumentality thereof, as the interests of the United States Government may require, for information or evaluation, or for emergency repair or overhaul work by such government.
+</p>
+      </conbody>
+   </concept>
+</dita>
