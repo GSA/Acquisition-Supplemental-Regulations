@@ -5057,7 +5057,17 @@
         "number": "1",
         "index": "No",
         "uuid": "41ffc235-3f56-44d0-b41b-00e9ecb7e95a",
-        "html": "DLAD-PGI-Part-1.html"
+        "html": "DLAD-PGI-PART-1.html"
+    },
+    "DLAD-PGI-PART-13": {
+        "title": "PGI PART 13 - Simplified Acquisition Procedures",
+        "toctitle": "Simplified Acquisition Procedures",
+        "reg": "dlad",
+        "type": "PGI Part",
+        "number": "13",
+        "index": "No",
+        "uuid": "109af8ff-93a5-4ee2-b73c-1fcb634f687b",
+        "html": "DLAD-PGI-PART-13.html"
     },
     "DLAD-PGI-PART-15": {
         "title": "PGI PART 15 - Contracting By Negotiation",
@@ -5067,7 +5077,7 @@
         "number": "15",
         "index": "No",
         "uuid": "93a46b91-c88e-4e98-86f1-a57e27c0c423",
-        "html": "DLAD-PGI-Part-15.html"
+        "html": "DLAD-PGI-PART-15.html"
     },
     "DLAD-PGI-PART-25": {
         "title": "PGI PART 25 - Foreign Acquisition",
@@ -5077,7 +5087,7 @@
         "number": "25",
         "index": "No",
         "uuid": "f40484c0-4a93-4535-95f7-4bc989927222",
-        "html": "DLAD-PGI-Part-25.html"
+        "html": "DLAD-PGI-PART-25.html"
     },
     "DLAD-PGI-PART-3": {
         "title": "PGI PART 3 - Improper Business Practices and Personal Conflicts of Interest",
@@ -5087,7 +5097,7 @@
         "number": "3",
         "index": "No",
         "uuid": "6e69d5e0-be9c-4954-afe7-5d4ef9582c66",
-        "html": "DLAD-PGI-Part-3.html"
+        "html": "DLAD-PGI-PART-3.html"
     },
     "DOLAR-PART-2900": {
         "title": "Part 2900 - Reserved",
