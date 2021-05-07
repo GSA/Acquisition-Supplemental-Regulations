@@ -5049,7 +5049,7 @@
         "uuid": "38fd4220-5a4e-4ee5-aab3-af8a05a37588",
         "html": "DLAD-PART-9.html"
     },
-    "DLAD-PGI-Part-1": {
+    "DLAD-PGI-PART-1": {
         "title": "PGI PART 1 - Federal Acquisition Regulations System",
         "toctitle": "Federal Acquisition Regulations System",
         "reg": "dlad",
@@ -5059,7 +5059,7 @@
         "uuid": "41ffc235-3f56-44d0-b41b-00e9ecb7e95a",
         "html": "DLAD-PGI-Part-1.html"
     },
-    "DLAD-PGI-Part-15": {
+    "DLAD-PGI-PART-15": {
         "title": "PGI PART 15 - Contracting By Negotiation",
         "toctitle": "Contracting By Negotiation",
         "reg": "dlad",
@@ -5069,7 +5069,7 @@
         "uuid": "93a46b91-c88e-4e98-86f1-a57e27c0c423",
         "html": "DLAD-PGI-Part-15.html"
     },
-    "DLAD-PGI-Part-25": {
+    "DLAD-PGI-PART-25": {
         "title": "PGI PART 25 - Foreign Acquisition",
         "toctitle": "Foreign Acquisition",
         "reg": "dlad",
@@ -5079,7 +5079,7 @@
         "uuid": "f40484c0-4a93-4535-95f7-4bc989927222",
         "html": "DLAD-PGI-Part-25.html"
     },
-    "DLAD-PGI-Part-3": {
+    "DLAD-PGI-PART-3": {
         "title": "PGI PART 3 - Improper Business Practices and Personal Conflicts of Interest",
         "toctitle": "Improper Business Practices and Personal Conflicts of Interest",
         "reg": "dlad",
