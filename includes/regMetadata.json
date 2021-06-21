@@ -759,6 +759,16 @@
         "uuid": "2e9f4531-763f-4113-8391-11a42d0abb6e",
         "html": "AFFARS-MP_PART-mp_5319.html"
     },
+    "AFFARS-MP_PART-mp_5325": {
+        "title": "MP5325 - Foreign Acquisitions",
+        "toctitle": "Foreign Acquisitions",
+        "reg": "affars",
+        "type": "MP Part",
+        "number": "5325",
+        "index": "No",
+        "uuid": "3b819436-a884-4cbc-8fc2-1bc25072ff95",
+        "html": "AFFARS-MP_PART-mp_5325.html"
+    },
     "AFFARS-MP_PART-mp_5325.7002-2": {
         "title": "MP5325.7002-2 - Exceptions",
         "toctitle": "Exceptions",
