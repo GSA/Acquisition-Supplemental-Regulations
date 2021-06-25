@@ -4680,8 +4680,8 @@
         "html": "DIAR-PART-1481.html"
     },
     "DLAD-PART-1": {
-        "title": "Part 1 - Federal Acquisition Regulations System",
-        "toctitle": "Federal Acquisition Regulations System",
+        "title": "rt 1 - Federal Acquisition Regulations System",
+        "toctitle": "Federal AcquisiPation Regulations System",
         "reg": "dlad",
         "type": "Part",
         "number": "1",
@@ -9850,8 +9850,8 @@
         "html": "NMCARS-ANNEX-3.html"
     },
     "NMCARS-ANNEX-4": {
-        "title": "Annex 4 - Reserved",
-        "toctitle": "Reserved",
+        "title": "Annex 4 - Summary Of Implementation Of Fiscal Year 2017 National Defense Authorization Act Section 233 Pilot Program For The Enhancement Of The Research, Development, Test, And Evaluation Centers",
+        "toctitle": "Summary Of Implementation Of Fiscal Year 2017 National Defense Authorization Act Section 233 Pilot Program For The Enhancement Of The Research, Development, Test, And Evaluation Centers",
         "reg": "nmcars",
         "type": "Annex",
         "number": "4",
