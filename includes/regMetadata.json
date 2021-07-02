@@ -11398,5 +11398,385 @@
         "index": "No",
         "uuid": "d6bd5777-e67a-49ed-a18b-277868101a5b",
         "html": "VAAR-PART-873.html"
+    },
+    "SOFARS-PART-5601": {
+        "title": "Part 5601 - Federal Acquisition Regulations System",
+        "toctitle": "Federal Acquisition Regulations System",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5601",
+        "index": "No",
+        "uuid": "fe9c74cd-a434-437b-9e78-e5633c88bd87",
+        "html": "SOFARS-PART-5601.html"
+    },
+    "SOFARS-PART-5602": {
+        "title": "Part 5602 - Definitions Of Words And Terms",
+        "toctitle": "Definitions Of Words And Terms",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5602",
+        "index": "No",
+        "uuid": "d30ed44b-79a1-43e8-b067-cd8108181838",
+        "html": "SOFARS-PART-5602.html"
+    },
+    "SOFARS-PART-5603": {
+        "title": "Part 5603 - Improper Business Practices And Personal Conflicts Of Interest",
+        "toctitle": "Improper Business Practices And Personal Conflicts Of Interest",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5603",
+        "index": "No",
+        "uuid": "75a477c8-1c60-425a-9d7d-db8302111250",
+        "html": "SOFARS-PART-5603.html"
+    },
+    "SOFARS-PART-5604": {
+        "title": "Part 5604 - Administrative Matters",
+        "toctitle": "Administrative Matters",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5604",
+        "index": "No",
+        "uuid": "6f50291a-6f53-45fe-a7d9-56300d54c4b5",
+        "html": "SOFARS-PART-5604.html"
+    },
+    "SOFARS-PART-5605": {
+        "title": "Part 5605 - Publicizing Contract Actions",
+        "toctitle": "Publicizing Contract Actions",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5605",
+        "index": "No",
+        "uuid": "857c7060-c109-4efd-bed1-5f098376dd47",
+        "html": "SOFARS-PART-5605.html"
+    },
+    "SOFARS-PART-5606": {
+        "title": "Part 5606 - Competition Requirements",
+        "toctitle": "Competition Requirements",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5606",
+        "index": "No",
+        "uuid": "0e3e130d-b99f-4126-bdb2-6c91a834c9b8",
+        "html": "SOFARS-PART-5606.html"
+    },
+    "SOFARS-PART-5607": {
+        "title": "Part 5607 - Acquisition Planning",
+        "toctitle": "Acquisition Planning",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5607",
+        "index": "No",
+        "uuid": "6e32fdef-cd5f-4728-a0c6-5b1f00f57f90",
+        "html": "SOFARS-PART-5607.html"
+    },
+    "SOFARS-PART-5608": {
+        "title": "Part 5608 - Required Sources Of Supplies And Services ",
+        "toctitle": "Required Sources Of Supplies And Services ",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5608",
+        "index": "No",
+        "uuid": "79f83d03-e179-41e1-867d-5e8b0d80317d",
+        "html": "SOFARS-PART-5608.html"
+    },
+    "SOFARS-PART-5609": {
+        "title": "Part 5609 - Contractor Qualifications",
+        "toctitle": "Contractor Qualifications",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5609",
+        "index": "No",
+        "uuid": "4d1bcffa-2b02-41d9-a173-87566aa4569d",
+        "html": "SOFARS-PART-5609.html"
+    },
+    "SOFARS-PART-5610": {
+        "title": "Part 5610 - Market Research",
+        "toctitle": "Market Research",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5610",
+        "index": "No",
+        "uuid": "9c5a7c75-ada4-440d-815b-66542d21f8d9",
+        "html": "SOFARS-PART-5610.html"
+    },
+    "SOFARS-PART-5611": {
+        "title": "Part 5611 - Describing Agency Needs",
+        "toctitle": "Describing Agency Needs",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5611",
+        "index": "No",
+        "uuid": "f2ef6431-4ffc-4ceb-8521-3bfead2b2b55",
+        "html": "SOFARS-PART-5611.html"
+    },
+    "SOFARS-PART-5612": {
+        "title": "Part 5612 - Acquisition Of Commercial Items",
+        "toctitle": "Acquisition Of Commercial Items",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5612",
+        "index": "No",
+        "uuid": "1d2624cd-7d27-496c-a3e2-42de9db56292",
+        "html": "SOFARS-PART-5612.html"
+    },
+    "SOFARS-PART-5613": {
+        "title": "Part 5613 - Simplified Acquisition Procedures",
+        "toctitle": "Simplified Acquisition Procedures",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5613",
+        "index": "No",
+        "uuid": "2cc895cd-49bc-4093-95e3-f2cd7cf12808",
+        "html": "SOFARS-PART-5613.html"
+    },
+    "SOFARS-PART-5614": {
+        "title": "Part 5614 - Sealed Bidding",
+        "toctitle": "Sealed Bidding",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5614",
+        "index": "No",
+        "uuid": "c525411f-e8ad-42a7-85fe-122fd307c9b7",
+        "html": "SOFARS-PART-5614.html"
+    },
+    "SOFARS-PART-5615": {
+        "title": "Part 5615 - Contracting By Negotiation",
+        "toctitle": "Contracting By Negotiation",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5615",
+        "index": "No",
+        "uuid": "6f7090ac-062d-4074-9bcc-acd9ad0d3460",
+        "html": "SOFARS-PART-5615.html"
+    },
+    "SOFARS-PART-5616": {
+        "title": "Part 5616 - Types Of Contracts",
+        "toctitle": "Types Of Contracts",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5616",
+        "index": "No",
+        "uuid": "61f8f29f-5a52-4a1b-be05-c4b58e2f7b31",
+        "html": "SOFARS-PART-5616.html"
+    },
+    "SOFARS-PART-5617": {
+        "title": "Part 5617 - Special Contracting Methods",
+        "toctitle": "Special Contracting Methods",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5617",
+        "index": "No",
+        "uuid": "386c27a2-ae77-48ad-9e43-3da760dbce39",
+        "html": "SOFARS-PART-5617.html"
+    },
+    "SOFARS-PART-5619": {
+        "title": "Part 5619 - Small Business And Small Disadvantaged Business Concerns",
+        "toctitle": "Small Business And Small Disadvantaged Business Concerns",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5619",
+        "index": "No",
+        "uuid": "036c2b51-8e34-4f34-884f-e5333ca0ae9b",
+        "html": "SOFARS-PART-5619.html"
+    },
+    "SOFARS-PART-5622": {
+        "title": "Part 5622 - Application Of Labor Laws To Government Acquisitions",
+        "toctitle": "Application Of Labor Laws To Government Acquisitions",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5622",
+        "index": "No",
+        "uuid": "adb80436-2d1d-480e-a3d5-3427a38df790",
+        "html": "SOFARS-PART-5622.html"
+    },
+    "SOFARS-PART-5623": {
+        "title": "Part 5623 - Environment, Conservation, Occupational Safety, And Drug-free Workplace",
+        "toctitle": "Environment, Conservation, Occupational Safety, And Drug-free Workplace",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5623",
+        "index": "No",
+        "uuid": "d5308bb7-8602-41fe-a7f0-c7b63ae046a3",
+        "html": "SOFARS-PART-5623.html"
+    },
+    "SOFARS-PART-5624": {
+        "title": "Part 5624 - Protection Of Privacy And Freedom Of Information",
+        "toctitle": "Protection Of Privacy And Freedom Of Information",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5624",
+        "index": "No",
+        "uuid": "6eaf3129-28eb-4079-a4db-7b03fe745b00",
+        "html": "SOFARS-PART-5624.html"
+    },
+    "SOFARS-PART-5625": {
+        "title": "Part 5625 - Foreign Acquisition",
+        "toctitle": "Foreign Acquisition",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5625",
+        "index": "No",
+        "uuid": "59ae0b35-38e2-405f-942e-854738903465",
+        "html": "SOFARS-PART-5625.html"
+    },
+    "SOFARS-PART-5627": {
+        "title": "Part 5627 - Patents, Data And Copyrights",
+        "toctitle": "Patents, Data And Copyrights",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5627",
+        "index": "No",
+        "uuid": "2d1092aa-9b89-4557-be73-340e244dcbf5",
+        "html": "SOFARS-PART-5627.html"
+    },
+    "SOFARS-PART-5628": {
+        "title": "Part 5628 - Bonds And Insurance",
+        "toctitle": "Bonds And Insurance",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5628",
+        "index": "No",
+        "uuid": "5a7bfe3d-3beb-40a5-a2d7-3585afdd965b",
+        "html": "SOFARS-PART-5628.html"
+    },
+    "SOFARS-PART-5629": {
+        "title": "Part 5629 - Taxes",
+        "toctitle": "Taxes",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5629",
+        "index": "No",
+        "uuid": "7f9b65cf-f1b9-4831-95bc-da67d0730c91",
+        "html": "SOFARS-PART-5629.html"
+    },
+    "SOFARS-PART-5631": {
+        "title": "Part 5631 - Contract Cost Principles And Procedures",
+        "toctitle": "Contract Cost Principles And Procedures",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5631",
+        "index": "No",
+        "uuid": "08fb1ccb-3888-4b14-88b8-3f116ecb3894",
+        "html": "SOFARS-PART-5631.html"
+    },
+    "SOFARS-PART-5632": {
+        "title": "Part 5632 - Contract Financing",
+        "toctitle": "Contract Cost Principles And Procedures",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5632",
+        "index": "No",
+        "uuid": "514d7b9f-217f-4d48-bb7e-fe76b4e7374f",
+        "html": "SOFARS-PART-5632.html"
+    },
+    "SOFARS-PART-5633": {
+        "title": "Part 5633 - Protests, Disputes And Appeals",
+        "toctitle": "Protests, Disputes And Appeals",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5633",
+        "index": "No",
+        "uuid": "35091840-8163-48de-9b33-bfd7b2adc0b8",
+        "html": "SOFARS-PART-5633.html"
+    },
+    "SOFARS-PART-5637": {
+        "title": "Part 5637 - Service Contracting",
+        "toctitle": "Service Contracting",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5637",
+        "index": "No",
+        "uuid": "11d43305-f380-481b-8d1a-c02d27bd3f2b",
+        "html": "SOFARS-PART-5637.html"
+    },
+    "SOFARS-PART-5639": {
+        "title": "Part 5639 - Acquisition Of Information Technology",
+        "toctitle": "Acquisition Of Information Technology",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5639",
+        "index": "No",
+        "uuid": "0112110d-746e-4c5a-9e8a-085438d66389",
+        "html": "SOFARS-PART-5639.html"
+    },
+    "SOFARS-PART-5642": {
+        "title": "Part 5642 - Contract Administration And Audit Services",
+        "toctitle": "Contract Administration And Audit Services",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5642",
+        "index": "No",
+        "uuid": "e77b8a6e-2c4b-4429-8c7e-23336b03cd32",
+        "html": "SOFARS-PART-5642.html"
+    },
+    "SOFARS-PART-5643": {
+        "title": "Part 5643 - Contract Modifications",
+        "toctitle": "Contract Modifications",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5643",
+        "index": "No",
+        "uuid": "5774e2d2-bf98-461e-84bc-aaa316e07519",
+        "html": "SOFARS-PART-5643.html"
+    },
+    "SOFARS-PART-5646": {
+        "title": "Part 5646 - Quality Assurance",
+        "toctitle": "Quality Assurance",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5646",
+        "index": "No",
+        "uuid": "57d49483-0d13-4861-a951-84eca6fe1733",
+        "html": "SOFARS-PART-5646.html"
+    },
+    "SOFARS-PART-5647": {
+        "title": "Part 5647 - Transportation",
+        "toctitle": "Transportation",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5647",
+        "index": "No",
+        "uuid": "4baaf710-0de5-4047-b7a2-b040342e086b",
+        "html": "SOFARS-PART-5647.html"
+    },
+    "SOFARS-PART-5649": {
+        "title": "Part 5649 - Termination Of Contracts",
+        "toctitle": "Termination Of Contracts",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5649",
+        "index": "No",
+        "uuid": "3b4abad8-7ef1-4c43-b38b-4b3ab8a7d4e4",
+        "html": "SOFARS-PART-5649.html"
+    },
+    "SOFARS-PART-5652": {
+        "title": "Part 5652 - Solicitation Provisions And Contract Clauses",
+        "toctitle": "Solicitation Provisions And Contract Clauses",
+        "reg": "sofars",
+        "type": "Part",
+        "number": "5652",
+        "index": "No",
+        "uuid": "54d5f23c-4cd2-47d1-8420-c84fe0f7392e",
+        "html": "SOFARS-PART-5652.html"
+    },
+    "SOFARS-ATTACHMENT-5601-1": {
+        "title": "Attachment 5601-1 Review and Approval Levels",
+        "toctitle": "Attachment 5601-1 Review and Approval Levels",
+        "reg": "sofars",
+        "type": "Attachment",
+        "number": "5601-1",
+        "index": "No",
+        "uuid": "63f98ad6-d84c-42cc-b181-2aba07330524",
+        "html": "SOFARS-ATTACHMENT-5601-1.html"
+    },
+    "SOFARS-ATTACHMENT-5601-2_OTA": {
+        "title": "Attachment 5601-2 Review and Approval Levels",
+        "toctitle": "Attachment 5601-2 Review and Approval Levels",
+        "reg": "sofars",
+        "type": "Attachment",
+        "number": "5601-2",
+        "index": "No",
+        "uuid": "5bcd07a4-57b9-4e8e-a09c-d0694c3c4c83",
+        "html": "SOFARS-ATTACHMENT-5601-2_OTA.html"
     }
 }
