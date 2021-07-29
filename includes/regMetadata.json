@@ -1039,7 +1039,7 @@
         "uuid": "facef382-5be9-4357-97b6-58148127e7ff",
         "html": "AFFARS-PART-5319.html"
     },
-    "AFFARS-PART-5320--Reserved": {
+    "AFFARS-PART-5320": {
         "title": "Part 5320 - Reserved",
         "toctitle": "Reserved",
         "reg": "affars",
@@ -1049,7 +1049,7 @@
         "uuid": "a98ced90-3b2a-4405-90d2-8273ddc0de65",
         "html": "AFFARS-PART-5320--Reserved.html"
     },
-    "AFFARS-PART-5321--Reserved": {
+    "AFFARS-PART-5321": {
         "title": "Part 5321 - Reserved",
         "toctitle": "Reserved",
         "reg": "affars",
@@ -1139,7 +1139,7 @@
         "uuid": "10994581-506d-4ed0-a82c-b9eac0bf7798",
         "html": "AFFARS-PART-5328.html"
     },
-    "AFFARS-PART-5329--Reserved": {
+    "AFFARS-PART-5329": {
         "title": "Part 5329 - Taxes",
         "toctitle": "Taxes",
         "reg": "affars",
@@ -1229,7 +1229,7 @@
         "uuid": "23a7e1c7-d903-41fe-8639-7554f92864c6",
         "html": "AFFARS-PART-5337.html"
     },
-    "AFFARS-PART-5338--Reserved": {
+    "AFFARS-PART-5338": {
         "title": "Part 5338 - Federal Supply Schedule Contracting (Reserved)",
         "toctitle": "Federal Supply Schedule Contracting (Reserved)",
         "reg": "affars",
@@ -1249,7 +1249,7 @@
         "uuid": "77b427a9-c104-4591-8842-5c212c801b8a",
         "html": "AFFARS-PART-5339.html"
     },
-    "AFFARS-PART-5340--Reserved": {
+    "AFFARS-PART-5340": {
         "title": "Part 5340 - Reserved",
         "toctitle": "Reserved",
         "reg": "affars",
@@ -1379,7 +1379,7 @@
         "uuid": "c98d1d42-aec8-4398-b5f7-b69464225375",
         "html": "AFFARS-PART-5352.html"
     },
-    "AFFARS-PART-5353--Reserved": {
+    "AFFARS-PART-5353": {
         "title": "Part 5353 - Forms (Reserved)",
         "toctitle": "Forms (Reserved)",
         "reg": "affars",
