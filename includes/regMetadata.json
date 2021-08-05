@@ -629,16 +629,6 @@
         "uuid": "defc0b21-6f75-4af4-b2d0-96d6d9a2a84d",
         "html": "AFFARS-MP_PART-mp_5301.601-90.html"
     },
-    "AFFARS-MP_PART-mp_5301.601-91": {
-        "title": "MP5301.601-91 - Air Force Contracting Self-Inspection Program",
-        "toctitle": "Air Force Contracting Self-Inspection Program",
-        "reg": "affars",
-        "type": "MP Part",
-        "number": "5301.601-91",
-        "index": "No",
-        "uuid": "ab24a398-4857-4d39-a4f2-b0513b85f563",
-        "html": "AFFARS-MP_PART-mp_5301.601-91.html"
-    },
     "AFFARS-MP_PART-mp_5301.602-2(d)": {
         "title": "MP5301.602-2(d) - Designation, Assignment, and Responsibilities of a Contracting Officer\u2019s Representative (COR)",
         "toctitle": "Designation, Assignment, and Responsibilities of a Contracting Officer\u2019s Representative (COR)",
@@ -649,15 +639,15 @@
         "uuid": "6da91d7e-6fb1-477f-8a58-f077d5869b7b",
         "html": "AFFARS-MP_PART-mp_5301.602-2(d).html"
     },
-    "AFFARS-MP_PART-mp_5301.603": {
-        "title": "MP5301.603 - Selection, Appointment, and Termination of Appointment of Contracting Officers",
+    "AFFARS-MP_PART-mp_5301.603-90": {
+        "title": "MP5301.603-90 Selection, Appointment, and Termination of Appointment of Contracting Officers",
         "toctitle": "Selection, Appointment, and Termination of Appointment of Contracting Officers",
         "reg": "affars",
         "type": "MP Part",
-        "number": "5301.603",
+        "number": "5301.603-90",
         "index": "No",
-        "uuid": "c520aa2f-67ea-465e-abbd-da746b102bc7",
-        "html": "AFFARS-MP_PART-mp_5301.603.html"
+        "uuid": "",
+        "html": "AFFARS-MP_PART-mp_5301.603-90.html"
     },
     "AFFARS-MP_PART-mp_5301.9001(i)(1)(i)": {
         "title": "MP5301.9001(i)(1)(i) - Business Clearance Approval by the DAS(C)\/ADAS(C)",
@@ -668,16 +658,6 @@
         "index": "No",
         "uuid": "fb427f1c-0866-4721-88cf-d294207d9af6",
         "html": "AFFARS-MP_PART-mp_5301.9001(i)(1)(i).html"
-    },
-    "AFFARS-MP_PART-mp_5303": {
-        "title": "MP5303 - Improper Business Practices and Personal Conflicts of Interest",
-        "toctitle": "Improper Business Practices and Personal Conflicts of Interest",
-        "reg": "affars",
-        "type": "MP Part",
-        "number": "5303",
-        "index": "No",
-        "uuid": "7012387c-a972-4406-951c-f634573c3c80",
-        "html": "AFFARS-MP_PART-mp_5303.html"
     },
     "AFFARS-MP_PART-mp_5305.303": {
         "title": "MP5305.303 - Announcement of Contract Awards",
@@ -748,16 +728,6 @@
         "index": "No",
         "uuid": "5742b8a4-ebe4-44f2-a6d4-31f7ba3ad705",
         "html": "AFFARS-MP_PART-mp_5315.606-90.html"
-    },
-    "AFFARS-MP_PART-mp_5319": {
-        "title": "MP5319 - Small Business Programs",
-        "toctitle": "Small Business Programs",
-        "reg": "affars",
-        "type": "MP Part",
-        "number": "5319",
-        "index": "No",
-        "uuid": "2e9f4531-763f-4113-8391-11a42d0abb6e",
-        "html": "AFFARS-MP_PART-mp_5319.html"
     },
     "AFFARS-MP_PART-mp_5325": {
         "title": "MP5325 - Foreign Acquisitions",
@@ -1047,7 +1017,7 @@
         "number": "5320",
         "index": "No",
         "uuid": "a98ced90-3b2a-4405-90d2-8273ddc0de65",
-        "html": "AFFARS-PART-5320--Reserved.html"
+        "html": "AFFARS-PART-5320.html"
     },
     "AFFARS-PART-5321": {
         "title": "Part 5321 - Reserved",
@@ -1057,7 +1027,7 @@
         "number": "5321",
         "index": "No",
         "uuid": "09ef4251-02e9-4120-9f46-28c1f0b6bc8f",
-        "html": "AFFARS-PART-5321--Reserved.html"
+        "html": "AFFARS-PART-5321.html"
     },
     "AFFARS-PART-5322": {
         "title": "Part 5322 - Application of Labor Laws to Government Acquisitions",
@@ -1109,7 +1079,7 @@
         "uuid": "912cb49d-36af-4036-8cac-ac241780b8c9",
         "html": "AFFARS-PART-5326.html"
     },
-    "AFFARS-PART-5326--Reserved": {
+    "AFFARS-PART-5326": {
         "title": "Part 5326 - Other Socioeconomic Programs (Reserved)",
         "toctitle": "Other Socioeconomic Programs (Reserved)",
         "reg": "affars",
@@ -1117,7 +1087,7 @@
         "number": "5326",
         "index": "No",
         "uuid": "25f8a194-51c7-4095-8289-84ee21fd0fd2",
-        "html": "AFFARS-PART-5326--Reserved.html"
+        "html": "AFFARS-PART-5326.html"
     },
     "AFFARS-PART-5327": {
         "title": "Part 5327 - Patents, Data, and Copyrights",
@@ -1147,7 +1117,7 @@
         "number": "5329",
         "index": "No",
         "uuid": "aa9aed20-e3e9-454a-b7a5-12a8d18e11e0",
-        "html": "AFFARS-PART-5329--Reserved.html"
+        "html": "AFFARS-PART-5329.html"
     },
     "AFFARS-PART-5330": {
         "title": "Part 5330 - Cost Accounting Standards Administration",
@@ -1237,7 +1207,7 @@
         "number": "5338",
         "index": "No",
         "uuid": "eee452c4-ed94-43e0-89a8-505d8ed0f182",
-        "html": "AFFARS-PART-5338--Reserved.html"
+        "html": "AFFARS-PART-5338.html"
     },
     "AFFARS-PART-5339": {
         "title": "Part 5339 - Acquisition of Information Technology",
@@ -1257,7 +1227,7 @@
         "number": "5340",
         "index": "No",
         "uuid": "893a446d-6e5a-4153-aa1a-3d155de5a672",
-        "html": "AFFARS-PART-5340--Reserved.html"
+        "html": "AFFARS-PART-5340.html"
     },
     "AFFARS-PART-5341": {
         "title": "Part 5341 - Acquisition of Utility Services",
@@ -1359,7 +1329,7 @@
         "uuid": "e35d79cc-4517-4e22-88f8-bfee61781cdf",
         "html": "AFFARS-PART-5350.html"
     },
-    "AFFARS-PART-5351--Reserved": {
+    "AFFARS-PART-5351": {
         "title": "Part 5351 - Use of Government Sources by Contractors",
         "toctitle": "Use of Government Sources by Contractors",
         "reg": "affars",
@@ -1367,7 +1337,7 @@
         "number": "5351",
         "index": "No",
         "uuid": "163e2e76-f483-4dc5-b83e-606391bc33c3",
-        "html": "AFFARS-PART-5351--Reserved.html"
+        "html": "AFFARS-PART-5351.html"
     },
     "AFFARS-PART-5352": {
         "title": "Part 5352 - Solicitation Provisions and Contract Clauses",
@@ -1387,7 +1357,7 @@
         "number": "5353",
         "index": "No",
         "uuid": "28e966ae-40a7-4961-bf09-1ffec35dcfdf",
-        "html": "AFFARS-PART-5353--Reserved.html"
+        "html": "AFFARS-PART-5353.html"
     },
     "AFFARS-PGI_PART-pgi_5301": {
         "title": "PGI 5301 - Federal Acquisition Regulations System",
