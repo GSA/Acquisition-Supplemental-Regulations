@@ -10899,6 +10899,16 @@
         "uuid": "7f34599e-005d-4960-aaaa-3ea028f08b3b",
         "html": "TAR-PART-1254.html"
     },
+    "VAAR-PART-800": {
+        "title": "Part 800 - Reserved",
+        "toctitle": "Reserved",
+        "reg": "vaar",
+        "type": "Part",
+        "number": "800",
+        "index": "No",
+        "uuid": "ea72e47f-4540-4849-ace5-4d0a5e3482d0",
+        "html": "VAAR-PART-800.html"
+    },
     "VAAR-PART-801": {
         "title": "Part 801 - Department of Veterans Affairs Acquisition Regulation System",
         "toctitle": "Department of Veterans Affairs Acquisition Regulation System",
@@ -11368,6 +11378,16 @@
         "index": "No",
         "uuid": "d6bd5777-e67a-49ed-a18b-277868101a5b",
         "html": "VAAR-PART-873.html"
+    },
+    "VAAR-PART-874": {
+        "title": "Parts 874-899 - Reserved",
+        "toctitle": "Reserved",
+        "reg": "vaar",
+        "type": "Part",
+        "number": "874",
+        "index": "No",
+        "uuid": "735c3f97-a6c2-47da-bc38-02b8188b272d",
+        "html": "VAAR-PART-874.html"
     },
     "SOFARS-PART-5601": {
         "title": "Part 5601 - Federal Acquisition Regulations System",
