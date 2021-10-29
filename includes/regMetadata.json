@@ -11748,5 +11748,35 @@
         "index": "No",
         "uuid": "5bcd07a4-57b9-4e8e-a09c-d0694c3c4c83",
         "html": "SOFARS-ATTACHMENT-5601-2_OTA.html"
+    },
+    "TRANSFARS-PART-5501": {
+        "title": "Part 5501 - The Federal Acquisition Regulation System",
+        "toctitle": "The Federal Acquisition Regulation System",
+        "reg": "transfars",
+        "type": "Part",
+        "number": "5501",
+        "index": "No",
+        "uuid": "c4296770-ba29-437b-b907-ae8b61e60286",
+        "html": "TRANSFARS-PART-5501.html"
+    },
+    "TRANSFARS-PART-5547": {
+        "title": "Part 5547 - Transportation",
+        "toctitle": "Transportation",
+        "reg": "transfars",
+        "type": "Part",
+        "number": "5547",
+        "index": "No",
+        "uuid": "4ac92d4d-a6ef-4284-bc91-b1d095d9c0eb",
+        "html": "TRANSFARS-PART-5547.html"
+    },
+    "TRANSFARS-PART-5552": {
+        "title": "Part 5552 - Solicitation Provisions And Contract Clauses",
+        "toctitle": "Solicitation Provisions And Contract Clauses",
+        "reg": "transfars",
+        "type": "Part",
+        "number": "5552",
+        "index": "No",
+        "uuid": "bd23e675-2c8a-486a-81d1-b930c8151c84",
+        "html": "TRANSFARS-PART-5552.html"
     }
 }
