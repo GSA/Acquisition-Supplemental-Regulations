@@ -4659,6 +4659,86 @@
         "uuid": "d9decf67-ffb9-4570-becd-c0fa4288aa40",
         "html": "DLAD-Part-1.html"
     },
+    "DLAD-Part-2": {
+        "title": "Part 2 - Definitions of Words and Terms",
+        "toctitle": "Definitions of Words and Terms",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "2",
+        "index": "No",
+        "uuid": "d08daa03-5609-4826-94ad-1b9088da2feb",
+        "html": "DLAD-Part-2.html"
+    },
+    "DLAD-Part-3": {
+        "title": "Part 3 - Improper Business Practices And Personal Conflicts Of Interest",
+        "toctitle": "Improper Business Practices And Personal Conflicts Of Interest",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "3",
+        "index": "No",
+        "uuid": "87570b91-5568-4a83-9117-9aabd45d7685",
+        "html": "DLAD-Part-3.html"
+    },
+    "DLAD-Part-4": {
+        "title": "Part 4 - Administrative Matters",
+        "toctitle": "Administrative Matters",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "4",
+        "index": "No",
+        "uuid": "c9a60bf7-377d-464a-be4e-0350ecc685b0",
+        "html": "DLAD-Part-4.html"
+    },
+    "DLAD-Part-5": {
+        "title": "Part 5 - Publicizing Contract Actions",
+        "toctitle": "Publicizing Contract Actions",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "5",
+        "index": "No",
+        "uuid": "07e4f936-7036-4f5a-b148-d6104d3addc4",
+        "html": "DLAD-Part-5.html"
+    },
+    "DLAD-Part-6": {
+        "title": "Part 6 - Competition Requirements",
+        "toctitle": "Competition Requirements",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "6",
+        "index": "No",
+        "uuid": "acf90d2c-46fb-457e-933e-38e77974bd1f",
+        "html": "DLAD-Part-6.html"
+    },
+    "DLAD-Part-7": {
+        "title": "Part 7 - Acquisition Planning",
+        "toctitle": "Acquisition Planning",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "7",
+        "index": "No",
+        "uuid": "dc814959-81a5-4ec0-9d7d-29306eb2c6dd",
+        "html": "DLAD-Part-7.html"
+    },
+    "DLAD-Part-8": {
+        "title": "Part 8 - Required Sources of Supplies and Services",
+        "toctitle": "Required Sources of Supplies and Services",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "8",
+        "index": "No",
+        "uuid": "a9c7f1ef-801d-455a-81cd-218fd5b89c0a",
+        "html": "DLAD-Part-8.html"
+    },
+    "DLAD-Part-9": {
+        "title": "Part 9 - Contractor Qualifications",
+        "toctitle": "Contractor Qualifications",
+        "reg": "dlad",
+        "type": "Part",
+        "number": "9",
+        "index": "No",
+        "uuid": "38fd4220-5a4e-4ee5-aab3-af8a05a37588",
+        "html": "DLAD-Part-9.html"
+    },
     "DLAD-Part-11": {
         "title": "Part 11 - Describing Agency Needs",
         "toctitle": "Describing Agency Needs",
@@ -4739,16 +4819,6 @@
         "uuid": "280226e0-0cc6-4c1c-bb28-324ceca8b613",
         "html": "DLAD-Part-19.html"
     },
-    "DLAD-Part-2": {
-        "title": "Part 2 - Definitions of Words and Terms",
-        "toctitle": "Definitions of Words and Terms",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "2",
-        "index": "No",
-        "uuid": "d08daa03-5609-4826-94ad-1b9088da2feb",
-        "html": "DLAD-Part-2.html"
-    },
     "DLAD-Part-22": {
         "title": "Part 22 - Application of Labor Laws to Government Acquisitions",
         "toctitle": "Application of Labor Laws to Government Acquisitions",
@@ -4798,16 +4868,6 @@
         "index": "No",
         "uuid": "019d5dc9-2e58-4419-a84c-e4d98b1a878a",
         "html": "DLAD-Part-28.html"
-    },
-    "DLAD-Part-3": {
-        "title": "Part 3 - Improper Business Practices And Personal Conflicts Of Interest",
-        "toctitle": "Improper Business Practices And Personal Conflicts Of Interest",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "3",
-        "index": "No",
-        "uuid": "87570b91-5568-4a83-9117-9aabd45d7685",
-        "html": "DLAD-Part-3.html"
     },
     "DLAD-Part-30": {
         "title": "Part 30 - Cost Accounting Standards Administration",
@@ -4879,16 +4939,6 @@
         "uuid": "92f2e8f9-a2e7-46c8-bdf0-067d2fb06de0",
         "html": "DLAD-Part-39.html"
     },
-    "DLAD-Part-4": {
-        "title": "Part 4 - Administrative Matters",
-        "toctitle": "Administrative Matters",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "4",
-        "index": "No",
-        "uuid": "c9a60bf7-377d-464a-be4e-0350ecc685b0",
-        "html": "DLAD-Part-4.html"
-    },
     "DLAD-Part-42": {
         "title": "Part 42 - Contract Administration",
         "toctitle": "Contract Administration",
@@ -4939,16 +4989,6 @@
         "uuid": "c3b5caa2-64ab-400d-95a5-53fb9e5c4287",
         "html": "DLAD-Part-47.html"
     },
-    "DLAD-Part-5": {
-        "title": "Part 5 - Publicizing Contract Actions",
-        "toctitle": "Publicizing Contract Actions",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "5",
-        "index": "No",
-        "uuid": "07e4f936-7036-4f5a-b148-d6104d3addc4",
-        "html": "DLAD-Part-5.html"
-    },
     "DLAD-Part-50": {
         "title": "Part 50 - Extraordinary Contractual Actions and the Safety Act",
         "toctitle": "Extraordinary Contractual Actions and the Safety Act",
@@ -4989,46 +5029,6 @@
         "uuid": "533ae8e3-f46a-4ed6-9589-e67036fc16b2",
         "html": "DLAD-Part-53.html"
     },
-    "DLAD-Part-6": {
-        "title": "Part 6 - Competition Requirements",
-        "toctitle": "Competition Requirements",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "6",
-        "index": "No",
-        "uuid": "acf90d2c-46fb-457e-933e-38e77974bd1f",
-        "html": "DLAD-Part-6.html"
-    },
-    "DLAD-Part-7": {
-        "title": "Part 7 - Acquisition Planning",
-        "toctitle": "Acquisition Planning",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "7",
-        "index": "No",
-        "uuid": "dc814959-81a5-4ec0-9d7d-29306eb2c6dd",
-        "html": "DLAD-Part-7.html"
-    },
-    "DLAD-Part-8": {
-        "title": "Part 8 - Required Sources of Supplies and Services",
-        "toctitle": "Required Sources of Supplies and Services",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "8",
-        "index": "No",
-        "uuid": "a9c7f1ef-801d-455a-81cd-218fd5b89c0a",
-        "html": "DLAD-Part-8.html"
-    },
-    "DLAD-Part-9": {
-        "title": "Part 9 - Contractor Qualifications",
-        "toctitle": "Contractor Qualifications",
-        "reg": "dlad",
-        "type": "Part",
-        "number": "9",
-        "index": "No",
-        "uuid": "38fd4220-5a4e-4ee5-aab3-af8a05a37588",
-        "html": "DLAD-Part-9.html"
-    },
     "DLAD-PGI-Part-1": {
         "title": "PGI PART 1 - Federal Acquisition Regulations System",
         "toctitle": "Federal Acquisition Regulations System",
@@ -5038,6 +5038,16 @@
         "index": "No",
         "uuid": "41ffc235-3f56-44d0-b41b-00e9ecb7e95a",
         "html": "DLAD-PGI-Part-1.html"
+    },
+    "DLAD-PGI-Part-3": {
+        "title": "PGI PART 3 - Improper Business Practices and Personal Conflicts of Interest",
+        "toctitle": "Improper Business Practices and Personal Conflicts of Interest",
+        "reg": "dlad",
+        "type": "PGI Part",
+        "number": "3",
+        "index": "No",
+        "uuid": "6e69d5e0-be9c-4954-afe7-5d4ef9582c66",
+        "html": "DLAD-PGI-Part-3.html"
     },
     "DLAD-PGI-Part-13": {
         "title": "PGI PART 13 - Simplified Acquisition Procedures",
@@ -5068,16 +5078,6 @@
         "index": "No",
         "uuid": "f40484c0-4a93-4535-95f7-4bc989927222",
         "html": "DLAD-PGI-Part-25.html"
-    },
-    "DLAD-PGI-Part-3": {
-        "title": "PGI PART 3 - Improper Business Practices and Personal Conflicts of Interest",
-        "toctitle": "Improper Business Practices and Personal Conflicts of Interest",
-        "reg": "dlad",
-        "type": "PGI Part",
-        "number": "3",
-        "index": "No",
-        "uuid": "6e69d5e0-be9c-4954-afe7-5d4ef9582c66",
-        "html": "DLAD-PGI-Part-3.html"
     },
     "DOLAR-PART-2900": {
         "title": "Part 2900 - Reserved",
