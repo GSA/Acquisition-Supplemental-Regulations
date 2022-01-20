@@ -45,6 +45,9 @@
                                                 <entry colname="1" align="center">
                                                    GENERAL INSTRUCTIONS
                                                 </entry>
+                        <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">1. FAR 15.408, Table 15-2, Section I Paragraph A</entry>
@@ -192,10 +195,15 @@
                                                 <entry colname="1" align="center">
                                                    COST ELEMENTS
                                                 </entry>
+                        <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">MATERIALS AND SERVICES
-</entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">14. FAR 15.408, Table 15-2, Section II Paragraph A</entry>
@@ -206,7 +214,9 @@
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    SUBCONTRACTS (Purchased materials or services)
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">15. FAR 15.404-3(c)
@@ -231,7 +241,9 @@ FAR 52.244-2</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    EXCEPTIONS TO CERTIFIED COST OR PRICING DATA
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">17. FAR 52.215-20
@@ -284,7 +296,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    INTERORGANIZATIONAL TRANSFERS
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">19. FAR 15.408, Table 15-2, Section II Paragraph A.(2)</entry>
@@ -301,7 +315,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    DIRECT LABOR
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">21. FAR 15.408, Table 15-2, Section II Paragraph B</entry>
@@ -324,7 +340,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    INDIRECT COSTS
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">24. FAR 15.408, Table 15-2, Section II Paragraph C</entry>
@@ -335,7 +353,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    OTHER COSTS
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">25. FAR 15.408, Table 15-2, Section II Paragraph D</entry>
@@ -358,7 +378,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    FORMATS FOR SUBMISSION OF LINE ITEM SUMMARIES
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">28. FAR 15.408, Table 15-2, Section III</entry>
@@ -381,7 +403,9 @@ FAR 2.101, “commercial item”</entry>
                      <row rowsep="1">
                                                 <entry colname="1" align="center">
                                                    OTHER
-                                                </entry>
+                                                </entry> <entry colname="2" align="left"/>
+                        <entry colname="3" align="left"/>
+                        <entry colname="4" align="left"/>
                                              </row>
                      <row rowsep="1">
                                                 <entry colname="1" align="left">31. FAR 16.4</entry>

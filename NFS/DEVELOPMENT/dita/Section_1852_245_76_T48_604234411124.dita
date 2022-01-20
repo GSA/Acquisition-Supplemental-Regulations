@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_245_76_T48_604234411124">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.245-76</ph> List of Government property furnished pursuant to FAR 52.245-1.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1845_107_70_T48_6042238112"
+                  href="Section_1845_107_70_T48_6042238112.dita#Section_1845_107_70_T48_6042238112">1845.107-70</xref>(g), insert the following clause:
+</p>
+                                    <p xtrc="HD1">List of Government Property Furnished Pursuant to FAR 52.245-1 (JAN 2011)
+</p>
+                                    <p xtrc="P">For performance of work under this contract, the Government will make available Government property identified below or in Attachment [Insert attachment number or “not applicable”] of this contract on a no charge-for-use basis pursuant to the clause at FAR 52.245-1, Government Property, as incorporated in this contract. The Contractor shall use this property in the performance of this contract at [Insert applicable site(s) where property will be used] and at other location(s) as may be approved by the Contracting Officer. Under FAR 52.245-1, the Contractor is accountable for the identified property.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
