@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_1852_245_79_T48_604234411127">
+      <title class="- topic/title ">
+         <ph props="autonumber">1852.245-79</ph> Records and disposition reports for Government property with potential historic or significant real value.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_1845_107_70_T48_6042238112"
+                  href="Section_1845_107_70_T48_6042238112.dita#Section_1845_107_70_T48_6042238112">1845.107-70</xref>(j), insert the following clause.
+</p>
+                                    <p xtrc="HD1">Records and Disposition Reports for Government Property With Potential Historic or Significant Real Value (JAN 2011)
+</p>
+                                    <p outputclass="List1">(a) In addition to the property record data required by the clause at FAR 52.245-1, Government Property as incorporated in this contract, Contractor records of all Government property under this contract shall - 
+</p>
+                                    <p outputclass="List2">(1) Identify the projects or missions that used the items;
+</p>
+                                    <p outputclass="List2">(2) Specifically identify items of flown property;
+</p>
+                                    <p outputclass="List2">(3) When known, associate individual items of property used in space flight operations with the using astronaut(s); and
+</p>
+                                    <p outputclass="List2">(4) Identify property used in test activity and, when known, the individuals who 0conducted the test.
+</p>
+                                    <p outputclass="List1">(b) The Contractor shall include this information within item descriptions - 
+</p>
+                                    <p outputclass="List2">(1) On any Standard Form 1428, Inventory Schedule;
+</p>
+                                    <p outputclass="List2">(2) In automated disposition systems;
+</p>
+                                    <p outputclass="List2">(3) In any other disposition related reports; and
+</p>
+                                    <p outputclass="List2">(4) In other requests for disposition instructions.
+</p>
+                                    <p outputclass="List1">(c) The Contractor shall not remove NASA identification or markings from Government property prior to or during disposition without the advanced written approval of the Plant Clearance Officer.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
