@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_815_370_5_T48_5021116118">
+      <title class="- topic/title ">
+         <ph props="autonumber">815.370-5</ph> Solicitation provision.</title>
+      <conbody>
+         <p xtrc="P">Use the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_215_72_T48_50216422119"
+                  href="Section_852_215_72_T48_50216422119.dita#Section_852_215_72_T48_50216422119">852.215-72</xref>, Notice of Intent to Re-solicit, in competitive solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items that will be solicited for fewer than 30 days, unless an exception at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_370_4_T48_5021116117"
+                  href="Section_815_370_4_T48_5021116117.dita#Section_815_370_4_T48_5021116117">815.370-4</xref> applies.
+</p>
+      </conbody>
+   </concept>
+</dita>

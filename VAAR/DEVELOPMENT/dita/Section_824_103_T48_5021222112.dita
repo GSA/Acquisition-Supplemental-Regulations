@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_824_103_T48_5021222112">
+      <title class="- topic/title ">
+         <ph props="autonumber">824.103</ph> Procedures.</title>
+      <conbody>
+         <p outputclass="List1">(c) The contracting officer shall reference the following documents in solicitations and contracts that require the design, development, or operation of a system of records - 
+</p>
+         <p outputclass="List2">(1) VA Handbook 6500.6, Contract Security;
+</p>
+         <p outputclass="List2">(2) VA Handbook 6508.1, Procedures for Privacy Threshold Analysis and Privacy Impact Assessment;
+</p>
+         <p outputclass="List2">(3) VA Handbook 6510, VA Identity and Access Management - 
+</p>
+         <p outputclass="List3">(i) The contracting officer will ensure that statements of work or performance work statements that require the design, development, or operation of a system of records include procedures to follow in the event of a Personally Identifiable Information (PII) breach; and
+</p>
+         <p outputclass="List3">(ii) The contracting officer shall ensure that Government surveillance plans for contracts that require the design, development, or operation of a system of records include monitoring of the contractor's adherence to Privacy Act/PII regulations. The assessing official should document contractor-caused breaches or other incidents related to PII in past performance reports. Such incidents include instances in which the contractor did not adhere to Privacy Act/PII contractual requirements.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_819_7111_T48_50212198111">
+      <title class="- topic/title ">
+         <ph props="autonumber">819.7111</ph> Obligations under the Mentor-Protégé Program.</title>
+      <conbody>
+         <p outputclass="List1">(a) A mentor or protégé may voluntarily withdraw from the Program. However, in no event shall such withdrawal impact the contractual requirements under any prime contract with VA.
+</p>
+         <p outputclass="List1">(b) Mentors and protégés shall submit reports to VA OSDBU in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_819_7113_T48_50212198113"
+                  href="Section_819_7113_T48_50212198113.dita#Section_819_7113_T48_50212198113">819.7113</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

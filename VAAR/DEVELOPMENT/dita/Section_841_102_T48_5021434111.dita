@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_841_102_T48_5021434111">
+      <title class="- topic/title ">
+         <ph props="autonumber">841.102</ph> Applicability.</title>
+      <conbody>
+         <p outputclass="List1">(a) This part applies to purchases of utility services from nonregulated and regulated utility suppliers when a delegation of authority from GSA for those services is requested and obtained.
+</p>
+         <p props="Runin" outputclass="List1">(b)(4) The acquisition of energy, such as electricity, and natural or manufactured gas, when purchased as a commodity is considered to be acquisitions of supplies rather than utility services as described in FAR part 41.
+</p>
+      </conbody>
+   </concept>
+</dita>

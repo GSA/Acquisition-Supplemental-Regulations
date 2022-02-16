@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_819_7004_T48_5021219714">
+      <title class="- topic/title ">
+         <ph props="autonumber">819.7004</ph> Contracting Order of Priority.</title>
+      <conbody>
+         <p xtrc="P">In determining the acquisition strategy applicable to an acquisition, the contracting officer shall consider, in the following order of priority, contracting preferences that ensure contracts will be awarded:
+</p>
+         <p outputclass="List1">(a) To SDVOSBs;
+</p>
+         <p outputclass="List1">(b) To VOSB, including but not limited to SDVOSBs;
+</p>
+         <p outputclass="List1">(c) Pursuant to - 
+</p>
+         <p outputclass="List2">(1) Section 8(a) of the Small Business Act (15 U.S.C. 637(a)); or
+</p>
+         <p outputclass="List2">(2) The Historically-Underutilized Business Zone (HUBZone) Program (15 U.S.C. 657a); and
+</p>
+         <p outputclass="List1">(d) Pursuant to any other small business contracting preference.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

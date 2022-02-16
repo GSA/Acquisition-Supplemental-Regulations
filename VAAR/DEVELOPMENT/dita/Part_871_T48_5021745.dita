@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_871_T48_5021745">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 871</ph> - VOCATIONAL REHABILITATION AND EMPLOYMENT PROGRAMS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_871_1_T48_50217451.dita#Subpart_871_1_T48_50217451"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_871_2_T48_50217452.dita#Subpart_871_2_T48_50217452"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_200_T48_5021745211.dita#Section_871_200_T48_5021745211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_201_T48_5021745212.dita#Section_871_201_T48_5021745212"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_201_1_T48_5021745213.dita#Section_871_201_1_T48_5021745213"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_205_T48_5021745214.dita#Section_871_205_T48_5021745214"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_206_T48_5021745215.dita#Section_871_206_T48_5021745215"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_207_T48_5021745216.dita#Section_871_207_T48_5021745216"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_208_T48_5021745217.dita#Section_871_208_T48_5021745217"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_209_T48_5021745218.dita#Section_871_209_T48_5021745218"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_871_210_T48_5021745219.dita#Section_871_210_T48_5021745219"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

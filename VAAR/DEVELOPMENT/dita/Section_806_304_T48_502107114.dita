@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_806_304_T48_502107114">
+      <title class="- topic/title ">
+         <ph props="autonumber">806.304</ph> Approval of the justification.</title>
+      <conbody>
+         <p outputclass="List1">(a) For a justification other than a class justification specified in FAR 6.304(c), Table 806.304-1 provides the authorities who may approve a justification:
+</p>
+         <p xtrc="DIV">
+                                    
+                                    
+                                       <table frame="all" colsep="1" rowsep="1">
+               <title>
+                                       Table 806.304.1 
+
+                                    </title>
+               <tgroup cols="3" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <colspec colnum="3" colname="3" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                                             <entry colname="1">Proposed contract amount
+</entry>
+                                             <entry colname="2">Approving authority
+</entry>
+                                             <entry colname="3">Alternate approving authority
+</entry>
+                                          </row>
+                  </thead>
+                  <tbody>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(1) Not exceeding $500,000</entry>
+                                             <entry colname="2" align="left">The contracting officer, as provided in FAR 6.304(a)(1)</entry>
+                                             <entry colname="3" align="left">Not applicable.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(2) Over $500,000 but not exceeding $10 million</entry>
+                                             <entry colname="2" align="left">Contracting Activity Competition Advocate (see <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_806_501_T48_502107211"
+                                 href="Section_806_501_T48_502107211.dita#Section_806_501_T48_502107211">806.501</xref>(b) and (c)) unless that Advocate is the contracting officer</entry>
+                                             <entry colname="3" align="left">The Agency Competition Advocate (see <xref outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref "
+                                 base="Section_806_501_T48_502107211"
+                                 href="Section_806_501_T48_502107211.dita#Section_806_501_T48_502107211">806.501</xref>(a)).</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(3) Over $10 million but not exceeding $50 million</entry>
+                                             <entry colname="2" align="left">Agency Competition Advocate</entry>
+                                             <entry colname="3" align="left">Not applicable.
+</entry>
+                                          </row>
+                     <row rowsep="1">
+                                             <entry colname="1" align="left">(4) Over $50 million</entry>
+                                             <entry colname="2" align="left">Senior Procurement Executive (see 802.100)</entry>
+                                             <entry colname="3" align="left">Not applicable.</entry>
+                                          </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                    
+                                 </p>
+         <p outputclass="List1">(b) For class justifications specified in FAR 6.304(c), the contracting officer must obtain the approval of the Agency Competition Advocate for all proposed justifications with an estimated value of up to $50 million. The contracting officer must obtain the approval of the SPE for all proposed justifications with an estimated value of more than $50 million.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

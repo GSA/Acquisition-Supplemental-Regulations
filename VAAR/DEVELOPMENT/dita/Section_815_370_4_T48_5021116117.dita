@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_815_370_4_T48_5021116117">
+      <title class="- topic/title ">
+         <ph props="autonumber">815.370-4</ph> Exceptions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The requirements at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_370_2_T48_5021116115"
+                  href="Section_815_370_2_T48_5021116115.dita#Section_815_370_2_T48_5021116115">815.370-2</xref> do not apply to - 
+</p>
+         <p outputclass="List2">(1) Acquisitions at or below the simplified acquisition threshold;
+</p>
+         <p outputclass="List2">(2) Acquisitions in support of emergency, humanitarian or peacekeeping operations, or to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; or to support response to an emergency or major disaster;
+</p>
+         <p outputclass="List2">(3) Small business set-asides under FAR subpart 19.5, set-asides offered and accepted into the 8(a) Program under FAR subpart 19.8, or set-asides under the HUBZone Program (see FAR 19.1305(c)), the VA Small Business Program (see VAAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_819_70_T48_50212197"
+                  href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref>), or the Women-Owned Small Business Program (see FAR 19.1505(d));
+</p>
+         <p outputclass="List2">(4) Acquisitions of basic or applied research or development, as specified in FAR 35.016(a), that use a broad agency announcement; or
+</p>
+         <p outputclass="List2">(5) Acquisitions of architect-engineer services (see FAR 36.601-2).
+</p>
+         <p outputclass="List1">(b) The applicability of an exception in paragraph (a) of this section does not eliminate the need for the contracting officer to ensure adequate time for competition is allotted or that the price is fair and reasonable.
+</p>
+      </conbody>
+   </concept>
+</dita>

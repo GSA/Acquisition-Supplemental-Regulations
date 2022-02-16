@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_803_T48_50294">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 803</ph> - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_1_T48_502941.dita#Subpart_803_1_T48_502941"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_2_T48_502942.dita#Subpart_803_2_T48_502942"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_203_T48_50294211.dita#Section_803_203_T48_50294211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_204_T48_50294212.dita#Section_803_204_T48_50294212"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_3_T48_502943.dita#Subpart_803_3_T48_502943"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_5_T48_502944.dita#Subpart_803_5_T48_502944"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_570_T48_50294411.dita#Section_803_570_T48_50294411"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_570_1_T48_50294412.dita#Section_803_570_1_T48_50294412"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_570_2_T48_50294413.dita#Section_803_570_2_T48_50294413"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_6_T48_502945.dita#Subpart_803_6_T48_502945"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_11_T48_502946.dita#Subpart_803_11_T48_502946"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_1103_T48_50294611.dita#Section_803_1103_T48_50294611"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_70_T48_502947.dita#Subpart_803_70_T48_502947"/>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

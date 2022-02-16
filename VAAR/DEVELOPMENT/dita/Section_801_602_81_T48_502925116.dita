@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_801_602_81_T48_502925116">
+      <title class="- topic/title ">
+         <ph props="autonumber">801.602-81</ph> Documents required for business clearance reviews.</title>
+      <conbody>
+         <p xtrc="P">When a bid or offer, proposed contract modification, or proposed lease requires a business clearance review under <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_602_76_T48_502925111"
+                  href="Section_801_602_76_T48_502925111.dita#Section_801_602_76_T48_502925111">801.602-76</xref>, the contracting officer must forward the required documents (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_602_84_T48_502925119"
+                  href="Section_801_602_84_T48_502925119.dita#Section_801_602_84_T48_502925119">801.602-84</xref>) and the following information to the appropriate Acquisition Resources Service central or regional office. Office of Construction and Facilities Management and National Cemetery Administration (Construction Support Division) contracting officers shall forward the documents to OGC (025):
+</p>
+         <p outputclass="List1">(a) The date on which award is anticipated.
+</p>
+         <p outputclass="List1">(b) Results or efforts made to determine whether the contractor is responsible under FAR Subpart 9.4.
+</p>
+         <p outputclass="List1">(c) A determination of price reasonableness.
+</p>
+         <p outputclass="List1">(d) An explanation (e.g., the source selection decision as specified in FAR 15.308) if the contracting officer proposes an award to a contractor other than the low responsible bidder or offeror.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

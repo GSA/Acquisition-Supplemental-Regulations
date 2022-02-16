@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_801_105_2_T48_50292116">
+      <title class="- topic/title ">
+         <ph props="autonumber">801.105-2</ph> Arrangement of regulations.</title>
+      <conbody>
+         <p outputclass="List1">(a) <i>General.</i> The VAAR is divided into subchapters, parts (each of which covers a separate aspect of acquisition), subparts, sections, and subsections.
+</p>
+         <p props="Runin" outputclass="List1">(b) <i>Numbering.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			The numbering system permits the discrete identification of every VAAR paragraph. The digits to the left of the decimal point represent the part number. The numbers to the right of the decimal point and to the left of the dash represent, in order, the subpart (one or two digits), and the section (two digits). The number to the right of the dash represents the subsection. Subdivisions may be used at the section and subsection level to identify individual paragraphs.
+</p>
+         <p outputclass="List2">(2) Subdivisions below the section or subsection level consist of parenthetical alphanumerics using the following sequence: (a)(1)(i)(A)(<i>1</i>)(<i>i</i>).
+</p>
+         <p props="Runin" outputclass="List1">(c) <i>References and citations.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			Unless otherwise stated, cross-references indicate parts, subparts, sections, subsections, paragraphs, subparagraphs, or subdivisions of this Chapter.
+</p>
+         <p outputclass="List2">(2) This chapter may be referred to as the “Department of Veterans Affairs Acquisition Regulation” or the “VAAR”.
+</p>
+         <p outputclass="List2">(3) Using the VAAR coverage at 809.106-4(c) as a typical illustration, reference to the - 
+</p>
+         <p outputclass="List3">(i) Part would be “VAAR Part 809” outside the VAAR and “Part 809” within the VAAR.
+</p>
+         <p outputclass="List3">(ii) Subpart would be “VAAR Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_809_1_T48_50210101"
+                  href="Subpart_809_1_T48_50210101.dita#Subpart_809_1_T48_50210101">809.1</xref>” outside the VAAR and “Subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_809_1_T48_50210101"
+                  href="Subpart_809_1_T48_50210101.dita#Subpart_809_1_T48_50210101">809.1</xref>” within the VAAR.
+</p>
+         <p outputclass="List3">(iii) Section would be “VAAR <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_809_106_T48_5021010111"
+                  href="Section_809_106_T48_5021010111.dita#Section_809_106_T48_5021010111">809.106</xref>” outside the VAAR and “809.106” within the VAAR.
+</p>
+         <p outputclass="List3">(iv) Subsection would be “VAAR 809.106-4” outside the VAAR and “809.106-4” within the VAAR.
+</p>
+         <p outputclass="List3">(v) Paragraph would be “VAAR 809.106-4(c)” outside the VAAR and “809.106-4(c)” within the VAAR.
+</p>
+         <p outputclass="List2">(4) Citations of authority (e.g., statutes or Executive orders) in the VAAR shall follow the Federal Register form guides.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

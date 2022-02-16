@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_815_T48_5021116">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 815</ph> - CONTRACTING BY NEGOTIATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_815_3_T48_50211161.dita#Subpart_815_3_T48_50211161"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_304_70_T48_5021116111.dita#Section_815_304_70_T48_5021116111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_304_71_T48_5021116112.dita#Section_815_304_71_T48_5021116112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_T48_5021116113.dita#Section_815_370_T48_5021116113"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_1_T48_5021116114.dita#Section_815_370_1_T48_5021116114"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_2_T48_5021116115.dita#Section_815_370_2_T48_5021116115"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_3_T48_5021116116.dita#Section_815_370_3_T48_5021116116"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_4_T48_5021116117.dita#Section_815_370_4_T48_5021116117"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_815_370_5_T48_5021116118.dita#Section_815_370_5_T48_5021116118"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_815_4_T48_50211162.dita#Subpart_815_4_T48_50211162"/>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

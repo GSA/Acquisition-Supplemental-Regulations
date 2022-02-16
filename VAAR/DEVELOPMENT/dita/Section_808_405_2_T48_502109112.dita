@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_808_405_2_T48_502109112">
+      <title class="- topic/title ">
+         <ph props="autonumber">808.405-2</ph> Ordering procedure for services requiring a statement of work.</title>
+      <conbody>
+         <p xtrc="P">When placing an order or establishing a BPA for supplies or services requiring a statement of work, the ordering activity, when developing the statement of work and any evaluation criteria in addition to price, shall adhere to and apply the evaluation factor commitments at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_304_70_T48_5021116111"
+                  href="Section_815_304_70_T48_5021116111.dita#Section_815_304_70_T48_5021116111">815.304-70</xref>.</p>
+      </conbody>
+   </concept>
+</dita>
