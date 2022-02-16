@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_801_690_2_T48_502925133">
+      <title class="- topic/title ">
+         <ph props="autonumber">801.690-2</ph> General.</title>
+      <conbody>
+         <p outputclass="List1">(a) The VA COCP applies to all VA programs except for the appointment of contracting officers under the Inspector General Act (Pub. L. 95-452) and for contracting officers designated in sections <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_670_T48_502925125"
+                  href="Section_801_670_T48_502925125.dita#Section_801_670_T48_502925125">801.670</xref> through <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_670_5_T48_502925129"
+                  href="Section_801_670_5_T48_502925129.dita#Section_801_670_5_T48_502925129">801.670-5</xref>. The COCP also applies to VA officials granted authority to enter into sales agreements (see separate guidance under VA's Directives Management System).
+</p>
+         <p outputclass="List1">(b) A Certificate of Appointment is not required for a contracting officer designated in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_670_T48_502925125"
+                  href="Section_801_670_T48_502925125.dita#Section_801_670_T48_502925125">801.670</xref> who exercises special and limited delegations of authority.
+</p>
+         <p outputclass="List1">(c) Warrant levels are synonymous with the Federal Acquisition Certification in Contracting Program certification levels specified in the OFPP Memorandum dated January 20, 2006, titled “The Federal Acquisition Certification in Contracting Program.” The COCP is based on the following levels and types of authority:
+</p>
+         <p outputclass="List2">(1) <i>Level I warrant.</i> Authority for expenditures at or below the simplified acquisition threshold (see FAR 2.101) for open market contracts, blanket purchase agreements, basic ordering agreements, and delivery/task orders against established contracts (except Federal Supply Schedule (FSS) contracts), within the specified geographical limits of the contracting officer's warrant. For FSS contracts, Level I warrant authority includes authority for expenditures up to the maximum order threshold of the FSS contract, within the specified geographical limits of the contracting officer's warrant. This level was formally titled “Basic” and any current Basic Level warrant need not be reissued solely to change the title.
+</p>
+         <p outputclass="List2">(2) <i>Level II warrant.</i> Authority for expenditures at or below $5,000,000 or as stated on Standard Form 1402 for open market contracts, blanket purchase agreements, basic ordering agreements, and delivery/task orders against established contracts, within the specified geographic limits of the contracting officer's warrant. This level was formally titled “Intermediate” and any current Intermediate Level warrant need not be reissued solely to change the title.
+</p>
+         <p outputclass="List2">(3) <i>Level III (Senior Limited) warrant.</i> Authority for expenditures at or below the dollar threshold and within the geographical limits specified on the contracting officer's warrant, Standard Form 1402. This level was formally titled “Senior Limited” and any current Senior Limited Level warrant need not be reissued solely to change the title.
+</p>
+         <p outputclass="List2">(4) <i>Level III (Senior Unlimited) warrant.</i> Authority granted to VA's contracting officers in contracting activities (e.g., the VA National Acquisition Center, Hines, IL, and Acquisition Operations Service, VA Central Office, Washington, DC) that are charged with meeting Department-wide acquisition needs of VA and its customers. The authority is for expenditures at any dollar level without geographical restriction. This level was formally titled “Senior Unlimited” and any current Senior Unlimited Level warrant need not be reissued solely to change the title.
+</p>
+         <p outputclass="List2">(5) <i>Multi-VISN.</i> Authority at the Level II warrant and Level III (Senior Limited) warrant levels, granted by the DSPE, that permits procurement consolidations among Veterans Health Administration VISNs, Veterans Benefits Administration Area Offices, and other Government agencies that exist outside the contracting officer's normally assigned geographical area of appointed authority. Multi-VISN authority is generally granted to contracting officers for procurement-specific requirements or to contracting officers who are members of groups or consortiums established for regional contracting initiatives.
+</p>
+         <p outputclass="List1">(d) <i>Micro-purchase Level.</i> Micro-purchase Level authority, not to exceed the micro-purchase threshold (currently $3,000) ($2,500 for acquisition of services subject to the Service Contract Act, and $2,000 for acquisition of construction subject to the Davis Bacon Act) (see FAR 2.101), is separately addressed under VA's purchase card program. Under that program, the HCA may delegate authority to a VA employee as a purchase card holder through the issuance of VA Form 0242.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

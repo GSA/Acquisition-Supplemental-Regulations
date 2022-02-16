@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_801_602_84_T48_502925119">
+      <title class="- topic/title ">
+         <ph props="autonumber">801.602-84</ph> Documents to submit for business clearance reviews.</title>
+      <conbody>
+         <p xtrc="P">A contracting officer must submit to Acquisition Resources Service (Office of Construction and Facilities Management and National Cemetery Administration contracting officers shall forward the documents to OGC (025)) for review copies of the following documents when a business clearance review is required in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_801_602_76_T48_502925111"
+                  href="Section_801_602_76_T48_502925111.dita#Section_801_602_76_T48_502925111">801.602-76</xref>:</p>
+         <p outputclass="List1">(a) The request for contract action, including a justification of need (i.e., the using service purchase request).
+</p>
+         <p outputclass="List1">(b) The solicitation.
+</p>
+         <p outputclass="List1">(c) The abstract of the subject bid or offer.
+</p>
+         <p outputclass="List1">(d) Any applicable Price Negotiation Memorandum.
+</p>
+         <p outputclass="List1">(e) A statement of the contracting officer's rationale for award.
+</p>
+         <p outputclass="List1">(f) Any applicable justification and approval under FAR 6.303 and 6.304.
+</p>
+         <p outputclass="List1">(g) Documents relevant to determining whether the contractor is responsible, including:
+</p>
+         <p outputclass="List2">(1) Verification that the vendor is not suspended, debarred, or on the Department of Health and Human Services Exclusionary List;
+</p>
+         <p outputclass="List2">(2) Verification that the vendor has filed any required VETS 100 report (not required if the acquisition is for a commercial item); and
+</p>
+         <p outputclass="List2">(3) For acquisitions exceeding $10 million, the Equal Employment Opportunity Clearance.
+</p>
+         <p outputclass="List1">(h) Any applicable approved subcontracting plan.
+</p>
+         <p outputclass="List1">(i) Documents relevant to price reasonableness (i.e., all documents used to support the contracting officer's determination of price reasonableness).
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

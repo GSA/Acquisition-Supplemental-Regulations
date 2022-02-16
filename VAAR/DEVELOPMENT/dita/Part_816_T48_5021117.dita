@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_816_T48_5021117">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 816</ph> - TYPES OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_816_1_T48_50211171.dita#Subpart_816_1_T48_50211171"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_816_2_T48_50211172.dita#Subpart_816_2_T48_50211172"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_816_203_T48_5021117211.dita#Section_816_203_T48_5021117211"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_816_203_4_T48_5021117212.dita#Section_816_203_4_T48_5021117212"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_816_5_T48_50211173.dita#Subpart_816_5_T48_50211173"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_816_505_T48_5021117311.dita#Section_816_505_T48_5021117311"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_816_506_70_T48_5021117312.dita#Section_816_506_70_T48_5021117312"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_816_7_T48_50211174.dita#Subpart_816_7_T48_50211174"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_816_770_T48_5021117411.dita#Section_816_770_T48_5021117411"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_816_70_T48_50211175.dita#Subpart_816_70_T48_50211175"/>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

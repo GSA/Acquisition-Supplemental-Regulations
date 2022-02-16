@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_811_204_70_T48_5021012311">
+      <title class="- topic/title ">
+         <ph props="autonumber">811.204-70</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer shall insert the clause at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_211_72_T48_5021642218"
+                  href="Section_852_211_72_T48_5021642218.dita#Section_852_211_72_T48_5021642218">852.211-72</xref>, Technical Industry Standards, in solicitations and contracts requiring conformance to technical industry standards, federal specifications, standards and commercial item descriptions unless comparable coverage is included in the item specification.
+</p>
+      </conbody>
+   </concept>
+</dita>

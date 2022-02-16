@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section__808_603_T48_502109211">
+      <title class="- topic/title ">§ 808.603   Purchasing priorities.</title>
+      <conbody>
+         <p xtrc="P">A waiver from FPI is not needed when comparable supplies and services are procured in accordance with subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_819_70_T48_50212197"
+                  href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref>.</p>
+         <note>
+                                    <p>
+               <b>Effective Date Note:</b>
+            </p>
+                                    <p>At 84 FR 29391, June 24, 2019, § 808.603 was revised, effective June 24, 2019 through July 1, 2021.</p>
+                                 </note>
+      </conbody>
+   </concept>
+</dita>

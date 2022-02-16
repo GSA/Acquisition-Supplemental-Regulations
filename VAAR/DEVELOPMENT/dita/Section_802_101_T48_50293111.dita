@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_802_101_T48_50293111">
+      <title class="- topic/title ">
+         <ph props="autonumber">802.101</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">
+                                    <i>A/E</i> means architect/engineer.
+</p>
+         <p xtrc="P">
+                                    <i>Chief Acquisition Officer</i> (CAO) means the Principal Executive Director, Office of Acquisition, Logistics, and Construction.
+</p>
+         <p xtrc="P">
+                                    <i>COR</i> means Contracting Officer's Representative.
+</p>
+         <p xtrc="P">
+                                    <i>FAR</i> means the Federal Acquisition Regulation.
+</p>
+         <p xtrc="P">
+                                    <i>GAO</i> means the Government Accountability Office.
+</p>
+         <p xtrc="P">
+                                    <i>HCA</i> means the Head of the Contracting Activity, an individual appointed in writing by the SPE.
+</p>
+         <p xtrc="P">
+                                    <i>OGC</i> means the Office of the General Counsel.
+</p>
+         <p xtrc="P">
+                                    <i>Service-disabled veteran-owned small business concern (SDVOSB)</i> has the same meaning as defined in the Federal Acquisition Regulation (FAR) 2.101, except for acquisitions authorized by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_813_106_T48_5021114112"
+                  href="Section_813_106_T48_5021114112.dita#Section_813_106_T48_5021114112">813.106</xref> and subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_819_70_T48_50212197"
+                  href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref>. These businesses must then be listed as verified on the Vendor Information Pages (VIP) database at <i>http://www.vetbiz.gov.</i> In addition, some businesses may be owned and controlled by a surviving spouse.
+</p>
+         <p xtrc="P">
+                                    <i>Small business concern</i> has the same meaning as defined in FAR 2.101.
+</p>
+         <p xtrc="P">
+                                    <i>SPE</i> means the Senior Procurement Executive who is also the Executive Director, Office of Acquisition and Logistics. The SPE is responsible for the management direction of the VA acquisition system.
+</p>
+         <p xtrc="P">
+                                    <i>Surviving spouse</i> means an individual who has been listed in the Department of Veterans Affairs' (VA) Veterans Benefits Administration (VBA) database of veterans and family members. To be eligible for inclusion in the VetBiz.gov VIP database, the following conditions must apply:
+</p>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			If the death of the veteran causes the small business concern to be less than 51 percent owned by one or more service-disabled veterans, the surviving spouse of such veteran who acquires ownership rights in such small business shall, for the period described below, be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a service-disabled veteran-owned small business.
+</p>
+         <p outputclass="List1">(2) The period referred to above is the period beginning on the date on which the veteran dies and ending on the earliest of the following dates:
+</p>
+         <p outputclass="List2">
+				</p>
+         <p outputclass="List3">(i) 
+			The date on which the surviving spouse remarries;
+</p>
+         <p outputclass="List2">(ii) The date on which the surviving spouse relinquishes an ownership interest in the small business concern;
+</p>
+         <p outputclass="List2">(iii) The date that is 10 years after the date of the veteran's death; or
+</p>
+         <p outputclass="List2">(iv) The date on which the business concern is no longer small under federal small business size standards.
+</p>
+         <p outputclass="List1">(3) The veteran must have had a 100 percent service-connected disability rating or the veteran died as a direct result of a service-connected disability.
+</p>
+         <p xtrc="P">
+                                    <i>VA</i> means the Department of Veterans Affairs.
+</p>
+         <p xtrc="P">
+                                    <i>VAAR</i> means the Department of Veterans Affairs Acquisition Regulation.
+</p>
+         <p xtrc="P">
+                                    <i>Vendor Information Pages (VIP)</i> means the <i>VetBiz.va.gov</i> VIP database at <i>https://www.vetbiz.va.gov/vip/.</i>
+                                 </p>
+         <p xtrc="P">
+                                    <i>Veteran-owned small business concern (VOSB)</i> has the same meaning as defined in FAR 2.101, except for acquisitions authorized by <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_813_106_T48_5021114112"
+                  href="Section_813_106_T48_5021114112.dita#Section_813_106_T48_5021114112">813.106</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_819_70_T48_50212197"
+                  href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref>. These businesses must then be listed as verified in the VetBiz.gov VIP database.
+</p>
+         <p xtrc="P">
+                                    <i>VISN</i> means Veterans Integrated Service Network, an integrated network of VA facilities that are focused on pooling and aligning resources to best meet local needs in the most cost-effective manner and provide greater access to care.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_819_502_3_T48_5021219313">
+      <title class="- topic/title ">
+         <ph props="autonumber">819.502-3</ph> Partial set-asides.</title>
+      <conbody>
+         <p xtrc="P">When, in accordance with the provisions of FAR 19.502-3, the contracting officer determines that a particular procurement will be partially set aside for small business participation, the solicitation for bids shall include the appropriate product or service classification and appropriate size standard, and the following statement shall be placed on the face page:
+</p>
+                                    <p xtrc="P">Notice of partial set-aside, page __, applies to item __ through item __ in this solicitation.</p>
+                                 </conbody>
+   </concept>
+</dita>

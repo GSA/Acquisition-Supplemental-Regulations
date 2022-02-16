@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_814_201_6_T48_5021115213">
+      <title class="- topic/title ">
+         <ph props="autonumber">814.201-6</ph> Solicitation provisions.</title>
+      <conbody>
+         <p outputclass="List1">(a) In an invitation for bid for supplies, equipment, or services (other than construction), the contracting officer shall define the extent to which VA will authorize and consider alternate bids.
+</p>
+         <p outputclass="List2">(1) The contracting officer shall include the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_214_71_T48_50216422113"
+                  href="Section_852_214_71_T48_50216422113.dita#Section_852_214_71_T48_50216422113">852.214-71</xref>, Restrictions on Alternate Item(s), in the invitation when VA will consider an alternate item only where acceptable bids on a desired item are not received or the bids do not satisfy the total requirement. (For construction projects, VA will consider for acceptance an alternate specified only as a part of the basic item.)
+</p>
+         <p outputclass="List2">(2) The contracting officer shall include the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_214_72_T48_50216422114"
+                  href="Section_852_214_72_T48_50216422114.dita#Section_852_214_72_T48_50216422114">852.214-72</xref>, Alternate Item(s), in the invitation, when VA will consider an alternate item on an equal basis with the item specified. (For construction projects, VA will consider for acceptance an alternate specified only as a part of the basic item.)
+</p>
+         <p outputclass="List2">(3) In addition to either of the provisions referenced in paragraphs (a)(1) or (2) of this section, the contracting officer shall include the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_214_73_T48_50216422115"
+                  href="Section_852_214_73_T48_50216422115.dita#Section_852_214_73_T48_50216422115">852.214-73</xref>, Alternate Packaging and Packing, in the invitation when bids will be allowed based on different packaging, unit designation, etc.
+</p>
+         <p outputclass="List1">(b) The contracting officer shall include the provision at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_214_74_T48_50216422116"
+                  href="Section_852_214_74_T48_50216422116.dita#Section_852_214_74_T48_50216422116">852.214-74</xref>, Marking of Bid Samples, in the invitation, along with the provision at FAR 52.214-20, Bid Samples, when the contracting officer determines that samples are necessary to the proper awarding of a contract.
+</p>
+      </conbody>
+   </concept>
+</dita>

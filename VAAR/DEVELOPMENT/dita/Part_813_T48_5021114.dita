@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_813_T48_5021114">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 813</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_813_003_70_T48_5021114011.dita#Section_813_003_70_T48_5021114011"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_813_1_T48_50211141.dita#Subpart_813_1_T48_50211141"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_813_102_T48_5021114111.dita#Section_813_102_T48_5021114111"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_813_106_T48_5021114112.dita#Section_813_106_T48_5021114112"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_813_106_70_T48_5021114113.dita#Section_813_106_70_T48_5021114113"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_813_2_T48_50211142.dita#Subpart_813_2_T48_50211142"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_813_3_T48_50211143.dita#Subpart_813_3_T48_50211143"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_813_305_70_T48_5021114311.dita#Section_813_305_70_T48_5021114311"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
