@@ -10,45 +10,27 @@
             <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_849_1_T48_50215411.dita#Subpart_849_1_T48_50215411"/>
+                     href="Subpart_849_1_T48_50215411.dita#Subpart_849_1_T48_50215411"/>
                </p>
             </li>
             <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_849_5_T48_50215412.dita#Subpart_849_5_T48_50215412"/>
+                     href="Subpart_849_5_T48_50215412.dita#Subpart_849_5_T48_50215412"/>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_849_504_T48_5021541211.dita#Section_849_504_T48_5021541211"/>
+                           href="Section_849_504_T48_5021541211.dita#Section_849_504_T48_5021541211"
+                        />
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_849_504_70_T48_5021541212.dita#Section_849_504_70_T48_5021541212"/>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_849_5_T48_50215413.dita#Subpart_849_5_T48_50215413"/>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_849_504_T48_5021541311.dita#Section_849_504_T48_5021541311"/>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_849_504_70_T48_5021541312.dita#Section_849_504_70_T48_5021541312"/>
+                           href="Section_849_504_70_T48_5021541212.dita#Section_849_504_70_T48_5021541212"
+                        />
                      </p>
                   </li>
                </ul>
