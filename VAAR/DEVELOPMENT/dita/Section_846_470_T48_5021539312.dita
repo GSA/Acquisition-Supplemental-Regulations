@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_846_470_T48_5021539312">
+      <title class="- topic/title ">
+         <ph props="autonumber">846.470</ph> Use of commercial organizations for inspections and grading services.</title>
+      <conbody>
+         <p xtrc="P">The contracting officer may use a commercial organization for inspection and grading services when the contracting officer determines that all of the following exist:
+</p>
+         <p outputclass="List1">(a) The results of a technical inspection or grading are dependent upon the application of scientific principles or specialized techniques.
+</p>
+         <p outputclass="List1">(b) VA is unable to employ the personnel qualified to properly perform the services and is unable to locate another Federal agency capable of providing the service.
+</p>
+         <p outputclass="List1">(c) The inspection or grading results issued by a private organization are essential to verify the acceptance or rejection of a special commodity.
+</p>
+         <p outputclass="List1">(d) The services may be performed without direct Government supervision.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

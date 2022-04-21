@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_823_303_70_T48_5021221212">
+      <title class="- topic/title ">
+         <ph props="autonumber">823.303-70</ph> Contract clause.</title>
+      <conbody>
+         <p xtrc="P">Contracting officers shall insert clause <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_223_71_T48_50216422135"
+                  href="Section_852_223_71_T48_50216422135.dita#Section_852_223_71_T48_50216422135">852.223-71</xref>, Safety and Health, in solicitations and contracts that involve hazardous materials for the following types of requirements:
+</p>
+         <p outputclass="List1">(a) Research, development, or test projects.
+</p>
+         <p outputclass="List1">(b) Transportation of hazardous materials.
+</p>
+         <p outputclass="List1">(c) Construction.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

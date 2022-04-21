@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_803_204_T48_50294212">
+      <title class="- topic/title ">
+         <ph props="autonumber">803.204</ph> Treatment of violations.</title>
+      <conbody>
+         <p xtrc="P">In providing the notice and hearing required by FAR 3.204, the following applies - 
+</p>
+         <p outputclass="List1">(a) The SDO shall determine whether or not a violation of the Gratuities clause, 52.203-3 has occurred and what action will be taken under FAR 3.204(c).
+</p>
+         <p outputclass="List1">(c) When the SDO determines that a violation has occurred and that debarment is being considered, he or she shall follow procedures at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_809_406_3_T48_50210102111"
+                  href="Section_809_406_3_T48_50210102111.dita#Section_809_406_3_T48_50210102111">809.406-3</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

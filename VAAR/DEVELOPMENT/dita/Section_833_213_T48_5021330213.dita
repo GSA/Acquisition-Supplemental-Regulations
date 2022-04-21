@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_833_213_T48_5021330213">
+      <title class="- topic/title ">
+         <ph props="autonumber">833.213</ph> Obligation to continue performance.</title>
+      <conbody>
+         <p outputclass="List1">(a) As provided in FAR 33.213, contracting officers shall use FAR clause 52.233-1, Disputes, or with its Alternate I. FAR clause 52.233-1 requires the contractor to continue performance in accordance with the contracting officer's decision in the event of a claim arising <i>under</i> a contract. Alternate I expands this authority, adding a requirement for the contractor to continue performance in the event of a claim <i>relating</i> to the contract.
+</p>
+         <p outputclass="List1">(b) In the event of a dispute not arising under, but relating to, the contract, as permitted by FAR 33.213(b), if the contracting officer directs continued performance and considers providing financing for such continued performance, the contracting officer shall contact OGC for advice prior to requesting higher level approval for or authorizing such financing. The contracting officer shall document in the contract file any required approvals and how the Government's interest was properly secured with respect to such financing (see FAR 32.202-4 and VAAR subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_832_2_T48_50213292"
+                  href="Subpart_832_2_T48_50213292.dita#Subpart_832_2_T48_50213292">832.2</xref>).</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_812_301_T48_5021013211">
+      <title class="- topic/title ">
+         <ph props="autonumber">812.301</ph> Solicitation provisions and contract clauses for the acquisition of commercial items.</title>
+      <conbody>
+         <p props="Runin" outputclass="List1">(f)
+				</p>
+         <p outputclass="List2">(1) 
+			Contracting officers shall insert the clause <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_212_70_T48_50216422110"
+                  href="Section_852_212_70_T48_50216422110.dita#Section_852_212_70_T48_50216422110">852.212-70</xref>, Provisions and Clauses Applicable to VA Acquisition of Commercial Items, in all solicitations and contracts for commercial acquisitions and check only those provisions and clauses that apply to the individual acquisition.
+</p>
+         <p outputclass="List2">(2) Contracting officers shall insert the clause <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_852_212_71_T48_50216422111"
+                  href="Section_852_212_71_T48_50216422111.dita#Section_852_212_71_T48_50216422111">852.212-71</xref>, Gray Market Items, in solicitations and contracts for new medical equipment for VA Medical Centers and that include FAR provisions 52.212-1, Instruction to Offerors - Commercial Items, and 52.212-2, Evaluation - Commercial Items.
+</p>
+      </conbody>
+   </concept>
+</dita>

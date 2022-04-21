@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_828_7001_T48_5021325412">
+      <title class="- topic/title ">
+         <ph props="autonumber">828.7001</ph> Extent of indemnification.</title>
+      <conbody>
+         <p outputclass="List1">(a) A contract for medical research or development authorized by 38 U.S.C. 7303, may provide that the Government will indemnify the contractor against losses or liability specified in paragraphs (b) and (c) of this section if all of the following apply:
+</p>
+         <p outputclass="List2">(1) The contract work involves a risk of an unusually hazardous nature.
+</p>
+         <p outputclass="List2">(2) The losses or liability arise out of the direct performance of the contract.
+</p>
+         <p outputclass="List2">(3) The losses or liability are not covered by the financial protection required under <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_828_7002_T48_5021325413"
+                  href="Section_828_7002_T48_5021325413.dita#Section_828_7002_T48_5021325413">828.7002</xref>.</p>
+         <p outputclass="List1">(b) The Government may indemnify a contractor for liability (including reasonable expenses of litigation or settlement) to third persons for death, bodily injury, or loss of or damage to property from a risk that the contract defines as unusually hazardous. The indemnification will not cover liability under State or Federal worker's injury compensation laws to employees of the contractor who are both:
+</p>
+         <p outputclass="List2">(1) Employed at the site of the contract work; and
+</p>
+         <p outputclass="List2">(2) Working on the contract for which indemnification is granted.
+</p>
+         <p outputclass="List1">(c) The Government may indemnify the contractor for loss of or damage to property of the contractor from a risk that the contract defines as unusually hazardous.
+</p>
+         <p outputclass="List1">(d) A contract that provides for indemnification in accordance with this subpart must also require that:
+</p>
+         <p outputclass="List2">(1) The contractor must notify the contracting officer of any claim or suit against the contractor for death, bodily injury, or loss of or damage to property; and
+</p>
+         <p outputclass="List2">(2) The Government may choose to control or assist in the defense of any suit or claim for which indemnification is provided in the contract. (38 U.S.C. 7317)
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

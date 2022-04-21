@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_817_7002_T48_5021118313">
+      <title class="- topic/title ">
+         <ph props="autonumber">817.7002</ph> Exceptions.</title>
+      <conbody>
+         <p outputclass="List1">(a) The following undefinitized contract actions (UCAs) are not subject to this subpart:
+</p>
+         <p outputclass="List2">(1) Purchases at or below the simplified acquisition threshold.
+</p>
+         <p outputclass="List2">(2) Congressionally mandated long-lead procurement contracts.
+</p>
+         <p outputclass="List1">(b) However, the contracting officer shall apply the policy and procedures to the contract actions in paragraph (a) to the maximum extent practicable.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

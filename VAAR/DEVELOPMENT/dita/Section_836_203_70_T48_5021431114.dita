@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_836_203_70_T48_5021431114">
+      <title class="- topic/title ">
+         <ph props="autonumber">836.203-70</ph> Protection of the independent government estimate - sealed bid.</title>
+      <conbody>
+         <p xtrc="P">For sealed bid acquisitions the contracting officer or bid custodian is not authorized to release the basis for calculating the estimate at any time. The person preparing the independent government estimate (IGE) shall - 
+</p>
+         <p outputclass="List1">(a) Designate the IGE as “For Official Use Only (FOUO)”;
+</p>
+         <p outputclass="List1">(b) The contracting officer or bid custodian shall file a sealed copy of the IGE with the bids. (In the case of two-step acquisitions, the contracting officer or bid custodian accomplishes this during the second step);
+</p>
+         <p outputclass="List1">(c) After the bids are read and recorded during a Public Bid Opening, remove the “For Official Use Only (FOUO)” designation then read and record the estimate as if it were a bid, in the same detail as the bids; and
+</p>
+         <p outputclass="List1">(d) In instances where only one bid has been received, the government estimate shall not be read by the contracting officer as it may be needed to conduct negotiations with the offeror.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_852_216_75_T48_50216422125">
+      <title class="- topic/title ">
+         <ph props="autonumber">852.216-75</ph> Economic Price Adjustment - Fuel Surcharge.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 816.203-4(e)(5), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Economic Price Adjustment - Fuel Surcharge (NOV 2021)
+</p>
+                                    <p outputclass="List1">(a) To the extent that contract fuel cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for any option periods do not include any amount to protect against such contingent fuel cost increases.
+</p>
+                                    <p outputclass="List1">(b) The fuel cost index, for the purpose of price adjustment under this clause, shall be the “Weekly Retail On-Highway Diesel Prices Index.”
+</p>
+                                    <p xtrc="P">The Base Fuel Cost, for the purpose of price adjustments under this clause, shall be the most recent Index Weekly Average Diesel Fuel Price per gallon published prior to the closing date for receipt of offers, or the due date for receipt of final proposal revisions if discussions are held.
+</p>
+                                    <p outputclass="List1">(c) For purposes of this clause, it will be conclusively presumed that x% increase or decrease of the Base Fuel Cost represents a reasonable fluctuation of diesel fuel prices. The Base Fuel Cost (±) x% price range will be determined for the base contract year and will remain constant throughout the life of the contract, including option years. Base Fuel Cost price range is documented at time of contract award.
+</p>
+                                    <p outputclass="List1">(d) Increases (or decreases) in the diesel fuel costs (Base Fuel Cost x%) as listed on the Index two weeks prior to the end of each calendar quarter can trigger a request from the Contractor to the Government (or from the Government to the Contractor) for cost adjustments. Notice must be in writing to the Subsistence Prime Vendor (SPV) Contracting Officer (or Contracting Officer's Representative) no less than ten days prior to the beginning of the next quarter.
+</p>
+                                    <p outputclass="List1">(e) Since fuel cost is only a part of the SPV Contracted distribution cost, the adjustment will be made as a penny per delivered case for every ten cent fuel price per gallon increase or decrease to the Base Fuel Cost x%. The difference is rounded down to the nearest whole cent and will be added to last line of each invoice noted as “Fuel Adjustment”.
+</p>
+                                    <p xtrc="DIV">
+                                       
+                                          <table frame="all" colsep="1" rowsep="1">
+               <tgroup cols="2" outputclass="FormatA">
+                  <colspec colnum="1" colname="1" colsep="0"/>
+                  <colspec colnum="2" colname="2" colsep="0"/>
+                  <tbody>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">Example calculation of fuel price change:</entry>
+                                                <entry colname="2" align="left">Price $2.50 Base (+ or −) 15% Average National Diesel Fuel $2.88−$2.13.
+</entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">3rd QTR (3rd week June) first year. Fuel Price $3.05 Calculation:</entry>
+                                                <entry colname="2" align="left">$3.05−2.88 = $.17 (rounded down to 10 cents) Add one cent per delivered case to each invoice, starting first Monday of July.
+</entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">3rd QTR Diesel Fuel Price decrease</entry>
+                                                <entry colname="2" align="left">$2.13−1.80 = $ .33 (rounded down to $.30 cents) Credit each invoice.
+</entry>
+                                             </row>
+                     <row rowsep="1">
+                                                <entry colname="1" align="left">$1.80 Calculation:</entry>
+                                                <entry colname="2" align="left">$.03 cents per delivered case.</entry>
+                                             </row>
+                  </tbody>
+               </tgroup>
+            </table>
+                                       
+                                    </p>
+                                    <p outputclass="List1">(f) Once approved, the date for contract fuel price adjustment will be the first Monday of the first month of each quarter unless otherwise designated at time of contract award.
+</p>
+                                    <p outputclass="List1">(g) The Contracting Officer shall retain a copy of the Base Fuel Index establishing the Base Fuel Cost and the calculation of the price range incorporating the (±) x% adjustment in the contract file. All subsequent changes will be documented within the contract file and communicated to the Contractor and VA SPV customers via email one week prior to the fuel price adjustment implementation.
+</p>
+                                    <p outputclass="List1">(h) Any adjustments for fuel price changes will only be implemented if requested in writing, reviewed by both parties, and provided within the designated time frames. No retroactive cost adjustments will be made. A contract modification will be issued at inception of first increase or decrease detailing Base Fuel Cost, price range, and calculation of first fuel adjustment charge. Adjustment will remain in effect with quarterly calculation changes as needed until price falls within Base Fuel Cost price range. A contract modification will be issued to terminate the adjustment when price returns to Base Fuel Cost (±) x% price range.
+</p>
+                                    <p outputclass="List1">(i) In the event that “the Energy Information Administration, Department of Energy” discontinues, or substantially alters its method of calculating the national average diesel fuel prices cited herein, the parties shall mutually agree upon an appropriate substitute for determining the price adjustment described herein. If the Contracting Officer determines the Index consistently and substantially fails to reflect market conditions, the Contracting Officer may modify the contract to specify use of an appropriate substitute Index, effective on the date the Index specified herein begins to consistently and substantially fail to reflect market conditions.
+</p>
+                                    <p outputclass="List1">(j) Any dispute arising under this clause shall be determined in accordance with and subject to the “Disputes” clause of the contract.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

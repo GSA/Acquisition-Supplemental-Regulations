@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_808_002_T48_502109011">
+      <title class="- topic/title ">
+         <ph props="autonumber">808.002</ph> Priorities for use of mandatory Government sources.</title>
+      <conbody>
+         <p outputclass="List1">(a) - (b) [Reserved]
+</p>
+         <p props="Runin" outputclass="List1">(c) <i>Eligible Beneficiaries.</i> 
+				     </p>
+         <p outputclass="List2">(1) 
+			A contracting officer may authorize an acquisition from the Veterans Canteen Service or a commercial source when a VA healthcare official (e.g., social worker, physician) determines that personal selection of shoes, clothing, and incidentals will result in a therapeutic benefit to an eligible beneficiary.
+</p>
+         <p outputclass="List2">(2) The contracting officer must cite Federal Prison Industries, Inc., clearance No. 1206 in the purchase document for any purchase from a commercial source of dress shoes similar to Federal Prison Industries, Inc., Style No. 86-A.
+</p>
+         <p xtrc="EDNOTE">
+                                 Editorial Note:
+                                 At 84 FR 29390, June 24, 2019, <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_808_002_T48_502109011"
+                  href="Section_808_002_T48_502109011.dita#Section_808_002_T48_502109011">808.002</xref> was amended, expiring July 1, 2021; however, the amendment expiration could not be completed because a section heading is required.
+                              </p>
+      </conbody>
+   </concept>
+</dita>

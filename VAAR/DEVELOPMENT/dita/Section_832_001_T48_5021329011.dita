@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_832_001_T48_5021329011">
+      <title class="- topic/title ">
+         <ph props="autonumber">832.001</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">As used in this part:
+</p>
+         <p outputclass="List1">(a) <i>Designated agency office</i> means the office designated by the purchase order, agreement, or contract to first receive and review invoices. This office can be contractually designated as the receiving entity. This office may be different from the office issuing the payment.
+</p>
+         <p outputclass="List1">(b) <i>Electronic form</i> means an automated system transmitting information electronically according to the accepted electronic data transmission methods identified in 832.7002-1. Facsimile, email, and scanned documents are not acceptable electronic forms for submission of payment requests.
+</p>
+         <p outputclass="List1">(c) <i>Payment request</i> means any request for contract financing payment or invoice payment submitted by a contractor under a contract.
+</p>
+      </conbody>
+   </concept>
+</dita>

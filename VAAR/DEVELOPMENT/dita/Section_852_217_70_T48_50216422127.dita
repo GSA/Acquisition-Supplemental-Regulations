@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_852_217_70_T48_50216422127">
+      <title class="- topic/title ">
+         <ph props="autonumber">852.217-70</ph> Contract Action Definitization.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 817.7005(a), insert the following clause:
+</p>
+                                    <p xtrc="HD1">Contract Action Definitization (JUL 2019)
+</p>
+                                    <p outputclass="List1">(a) A [<i>Insert specific type of contract action</i>] is contemplated. The Contractor agrees to begin promptly negotiating with the Contracting Officer the terms of a definitive contract action that will include all clauses required by the Federal Acquisition Regulation (FAR) on the date of execution of the undefinitized contract action, all clauses required by law on the date of execution of the definitive contract action, and any other mutually agreeable clauses, terms, and conditions. The Contractor agrees to submit a ___ [<i>Insert type of proposal, e.g.</i>
+                                       <i>, fixed-price, or cost-and-fee</i>] proposal with cost or pricing data, as appropriate, supporting it.
+</p>
+                                    <p outputclass="List1">(b) The schedule for definitizing this contract action is as follows [<i>Insert target date for definitization of the contract action and dates for submission of proposal, beginning of negotiations, and, if appropriate, submission of the make-or-buy plans, subcontracting plans, and cost or pricing data</i>].
+</p>
+                                    <p xtrc="FP-DASH"/>
+                                    <p xtrc="FP-DASH"/>
+                                    <p xtrc="FP-DASH"/>
+                                    <p outputclass="List1">(c) If agreement on a definitive contract action to supersede this undefinitized contract action is not reached by the target date in paragraph (b) of this clause, or within any extension of it granted by the Contracting Officer, the Contracting Officer may, with the approval of a Contracting Officer one level above, determine a reasonable price or fee in accordance with FAR subpart 15.4 and FAR part 31, subject to Contractor appeal as provided in the Disputes clause. In any event, the Contractor shall proceed with completion of the contract, subject only to FAR 52.216-24, Limitation of Government Liability.
+</p>
+                                    <p outputclass="List2">(1) After the Contracting Officer's determination of price or fee, the contract shall be governed by - 
+</p>
+                                    <p outputclass="List3">(i) All clauses required by the FAR on the date of execution of this undefinitized contract action for either fixed-price or cost-reimbursement contracts, as determined by the Contracting Officer under this paragraph (c);
+</p>
+                                    <p outputclass="List3">(ii) All clauses required by law as of the date of the Contracting Officer's determination; and
+</p>
+                                    <p outputclass="List3">(iii) Any other clauses, terms, and conditions mutually agreed upon.
+</p>
+                                    <p outputclass="List2">(2) To the extent consistent with paragraph (c)(1) of this clause, all clauses, terms, and conditions included in this undefinitized contract action shall continue in effect, except those that by their nature apply only to an undefinitized contract action.
+</p>
+                                    <p outputclass="List1">(d) The definitive contract action resulting from this undefinitized contract action will include a negotiated ____ [<i>Insert “cost/price ceiling” or “firm-fixed-price”</i>] in no event to exceed ____ [<i>Insert the not-to-exceed amount</i>].)</p>
+                                 <p xtrc="HD3">(End of clauspe
+</p>
+      </conbody>
+   </concept>
+</dita>

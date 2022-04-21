@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_819_7102_T48_5021219812">
+      <title class="- topic/title ">
+         <ph props="autonumber">819.7102</ph> Definitions.</title>
+      <conbody>
+         <p outputclass="List1">(a) A <i>Mentor</i> is a contractor that elects to promote and develop SDVOSBs and/or VOSBs by providing developmental assistance designed to enhance the business success of the protégé. A mentor may be a large or small business concern.
+</p>
+         <p outputclass="List1">(b) <i>OSDBU</i> is the Office of Small and Disadvantaged Business Utilization. This is the VA office responsible for administering, implementing and coordinating the Department's small business programs, including the Mentor-Protégé Program.
+</p>
+         <p outputclass="List1">(c) <i>Program</i> refers to the VA Mentor-Protégé Program as described in this Subpart.
+</p>
+         <p outputclass="List1">(d) <i>Protégé</i> means a SDVOSB or VOSB, as defined in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_802_101_T48_50293111"
+                  href="Section_802_101_T48_50293111.dita#Section_802_101_T48_50293111">802.101</xref>, which meets federal small business size standards in its primary NAICS code and which is the recipient of developmental assistance pursuant to a Mentor-Protégé agreement.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

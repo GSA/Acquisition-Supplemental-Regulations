@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_815_370_3_T48_5021116116">
+      <title class="- topic/title ">
+         <ph props="autonumber">815.370-3</ph> Fair and reasonable price.</title>
+      <conbody>
+         <p outputclass="List1">(a) If there was “reasonable expectation that two or more offerors, competing independently, would submit priced offers” but only one offer is received, this circumstance does not constitute adequate price competition unless an official at a level above the contracting officer approves the determination that the price is reasonable (see FAR 15.403-1(c)(1)(ii)).
+</p>
+         <p outputclass="List1">(b) Except as provided in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_370_4_T48_5021116117"
+                  href="Section_815_370_4_T48_5021116117.dita#Section_815_370_4_T48_5021116117">815.370-4</xref>(a), if only one offer is received when competitive procedures were used and the solicitation allowed at least 30 days for receipt of proposals (unless the 30-day requirement is not applicable in accordance with <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_370_4_T48_5021116117"
+                  href="Section_815_370_4_T48_5021116117.dita#Section_815_370_4_T48_5021116117">815.370-4</xref>(a)(3)), the contracting officer shall - 
+</p>
+         <p outputclass="List2">(1) Determine through cost or price analysis that the offered price is fair and reasonable and that adequate price competition exists (with approval of the determination at a level above the contracting officer) or another exception to the requirement for certified cost or pricing data applies (see FAR 15.403-1(c) and 15.403-4). In these circumstances, no further cost or pricing data is required; or
+</p>
+         <p props="Runin" outputclass="List2">(2)
+				</p>
+         <p outputclass="List3">(i) 
+			Obtain from the offeror cost or pricing data necessary to determine a fair and reasonable price and comply with the requirement for certified cost or pricing data at FAR 15.403-4. For acquisitions that exceed the cost or pricing data threshold, if no exception at FAR 15.403-1(b) applies, the cost or pricing data shall be certified; and
+</p>
+         <p outputclass="List3">(ii) Enter into negotiations with the offeror as necessary to establish a fair and reasonable price. The negotiated price should not exceed the offered price.
+</p>
+      </conbody>
+   </concept>
+</dita>

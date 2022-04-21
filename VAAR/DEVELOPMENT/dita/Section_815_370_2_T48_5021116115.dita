@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_815_370_2_T48_5021116115">
+      <title class="- topic/title ">
+         <ph props="autonumber">815.370-2</ph> Promote competition.</title>
+      <conbody>
+         <p xtrc="P">Except as provided in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Section_815_370_4_T48_5021116117"
+                  href="Section_815_370_4_T48_5021116117.dita#Section_815_370_4_T48_5021116117">815.370-4</xref>, if only one offer is received when competitive procedures were used and the solicitation allowed fewer than 30 days for receipt of proposals, the contracting officer should - 
+</p>
+         <p outputclass="List1">(a) Consult with the requiring activity as to whether the requirements document should be revised in order to promote more competition (see FAR 6.502(b) and 11.002); and
+</p>
+         <p outputclass="List1">(b) Consider re-soliciting, allowing an additional period of at least 30 days for receipt of proposals.
+</p>
+      </conbody>
+   </concept>
+</dita>

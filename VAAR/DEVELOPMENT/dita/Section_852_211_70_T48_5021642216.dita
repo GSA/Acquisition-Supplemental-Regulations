@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_852_211_70_T48_5021642216">
+      <title class="- topic/title ">
+         <ph props="autonumber">852.211-70</ph> Equipment Operation and Maintenance Manuals.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 811.107-70, insert the following clause:
+</p>
+                                    <p xtrc="HD1">Equipment Operation and Maintenance Manuals (NOV 2018)
+</p>
+                                    <p xtrc="P">The Contractor shall follow standard commercial practices to furnish manual(s), handbook(s) or brochure(s) containing operation, installation, and maintenance instructions, including pictures or illustrations, schematics, and complete repair/test guides, as necessary, for technical medical equipment and devices, and/or other technical and mechanical equipment provided per CLIN(s) #___ [<i>Contracting Officer insert CLIN information</i>]. The manuals, handbooks or brochures shall be provided in hard copy, soft copy or with electronic access instructions, consistent with standard industry practices for the equipment or device. Where applicable, the manuals, handbooks or brochures will include electrical data and connection diagrams for all utilities. The documentation shall also contain a complete list of all replaceable parts showing part number, name, and quantity required.</p>
+                                 <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
