@@ -679,16 +679,6 @@
         "uuid": "34528e6e-3e51-422c-a88e-79ea00c207f1",
         "html": "AFFARS-MP_PART-mp_5306.502.html"
     },
-    // "AFFARS-MP_PART-mp_5309.190": {
-    //     "title": "MP5309.190 - Air Force Space Contractor Responsibility Watch List (CRWL)",
-    //     "toctitle": "Air Force Space Contractor Responsibility Watch List (CRWL)",
-    //     "reg": "affars",
-    //     "type": "MP Part",
-    //     "number": "5309.190",
-    //     "index": "No",
-    //     "uuid": "8a484e46-048c-43ad-b802-caa2f58f55b6",
-    //     "html": "AFFARS-MP_PART-mp_5309.190.html"
-    // },
     "AFFARS-MP_PART-mp_5315.3": {
         "title": "MP5315.3 - Source Selection",
         "toctitle": "Source Selection",
