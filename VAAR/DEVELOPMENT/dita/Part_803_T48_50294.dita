@@ -6,89 +6,101 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 803</ph> - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1121(c)(3); 41 U.S.C.1702; and 48 CFR 1.301-1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_803_1_T48_502941.dita#Subpart_803_1_T48_502941"/>
+                        href="Subpart_803_1_T48_502941.dita#Subpart_803_1_T48_502941">Subpart 803.1 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_803_2_T48_502942.dita#Subpart_803_2_T48_502942"/>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_803_203_T48_50294211.dita#Section_803_203_T48_50294211"/>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_803_204_T48_50294212.dita#Section_803_204_T48_50294212"/>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_803_3_T48_502943.dita#Subpart_803_3_T48_502943"/>
-               </p>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_803_5_T48_502944.dita#Subpart_803_5_T48_502944"/>
+                        href="Subpart_803_2_T48_502942.dita#Subpart_803_2_T48_502942">Subpart 803.2 - Contractor Gratuities to Government Personnel</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_803_570_T48_50294411.dita#Section_803_570_T48_50294411"/>
+                              href="Section_803_203_T48_50294211.dita#Section_803_203_T48_50294211">803.203 Reporting suspected violations of the Gratuities clause.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_803_570_1_T48_50294412.dita#Section_803_570_1_T48_50294412"/>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_803_570_2_T48_50294413.dita#Section_803_570_2_T48_50294413"/>
+                              href="Section_803_204_T48_50294212.dita#Section_803_204_T48_50294212">803.204 Treatment of violations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_803_6_T48_502945.dita#Subpart_803_6_T48_502945"/>
+                        href="Subpart_803_3_T48_502943.dita#Subpart_803_3_T48_502943">Subparts 803.3 - 803.4 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_803_11_T48_502946.dita#Subpart_803_11_T48_502946"/>
+                        href="Subpart_803_5_T48_502944.dita#Subpart_803_5_T48_502944">Subpart 803.5 - Other Improper Business Practices</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_803_1103_T48_50294611.dita#Section_803_1103_T48_50294611"/>
+                              href="Section_803_570_T48_50294411.dita#Section_803_570_T48_50294411">803.570 Commercial advertising.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_570_1_T48_50294412.dita#Section_803_570_1_T48_50294412">803.570-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_570_2_T48_50294413.dita#Section_803_570_2_T48_50294413">803.570-2 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_803_70_T48_502947.dita#Subpart_803_70_T48_502947"/>
+                        href="Subpart_803_6_T48_502945.dita#Subpart_803_6_T48_502945">Subparts 803.6 - 803.8 [Reserved]</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_11_T48_502946.dita#Subpart_803_11_T48_502946">Subpart 803.11 - Preventing Personal Conflicts of Interest for Contractor Employees Performing Acquisition Functions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_803_1103_T48_50294611.dita#Section_803_1103_T48_50294611">803.1103 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_803_70_T48_502947.dita#Subpart_803_70_T48_502947">Subpart 803.70 [Reserved]</xref>
                </p>
             </li>
          </ul>

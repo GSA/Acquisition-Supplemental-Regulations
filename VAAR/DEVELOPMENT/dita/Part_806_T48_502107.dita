@@ -6,89 +6,103 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 806</ph> - COMPETITION REQUIREMENTS</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1121(c)(3); 41 U.S.C. 1303; 41 U.S.C. 1702; 41 U.S.C. 3304; and 48 CFR 1.301 through 1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           86 FR 54115, Sept. 29, 2021, unless otherwise noted. 
+
+
+
+                        </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_806_004_70_T48_502107011.dita#Section_806_004_70_T48_502107011"/>
+                        href="Section_806_004_70_T48_502107011.dita#Section_806_004_70_T48_502107011">806.004-70 Definition.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_806_1_T48_5021071.dita#Subpart_806_1_T48_5021071"/>
+                        href="Subpart_806_1_T48_5021071.dita#Subpart_806_1_T48_5021071">Subpart 806.1 - Full and Open Competition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_102_T48_502107111.dita#Section_806_102_T48_502107111"/>
+                              href="Section_806_102_T48_502107111.dita#Section_806_102_T48_502107111">806.102 Use of competitive procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_806_2_T48_5021072.dita#Subpart_806_2_T48_5021072"/>
+                        href="Subpart_806_2_T48_5021072.dita#Subpart_806_2_T48_5021072">Subpart 806.2 - Full and Open Competition After Exclusion of Sources</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_203_T48_502107211.dita#Section_806_203_T48_502107211"/>
+                              href="Section_806_203_T48_502107211.dita#Section_806_203_T48_502107211">806.203 Set-asides for small business concerns.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_270_T48_502107212.dita#Section_806_270_T48_502107212"/>
+                              href="Section_806_270_T48_502107212.dita#Section_806_270_T48_502107212">806.270 Set-asides for verified Veteran-owned small businesses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_806_3_T48_5021073.dita#Subpart_806_3_T48_5021073"/>
+                        href="Subpart_806_3_T48_5021073.dita#Subpart_806_3_T48_5021073">Subpart 806.3 - Other Than Full and Open Competition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_302_T48_502107311.dita#Section_806_302_T48_502107311"/>
+                              href="Section_806_302_T48_502107311.dita#Section_806_302_T48_502107311">806.302 Circumstances permitting other than full and open competition.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_302_5_T48_502107312.dita#Section_806_302_5_T48_502107312"/>
+                              href="Section_806_302_5_T48_502107312.dita#Section_806_302_5_T48_502107312">806.302-5 Authorized or required by statute.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_302_570_T48_502107313.dita#Section_806_302_570_T48_502107313"/>
+                              href="Section_806_302_570_T48_502107313.dita#Section_806_302_570_T48_502107313">806.302-570 Noncompetitive procedures for verified Veteran-owned small businesses.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_302_571_T48_502107314.dita#Section_806_302_571_T48_502107314"/>
+                              href="Section_806_302_571_T48_502107314.dita#Section_806_302_571_T48_502107314">806.302-571 Authorized or required by statute - VA unique authorities.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_806_5_T48_5021074.dita#Subpart_806_5_T48_5021074"/>
+                        href="Subpart_806_5_T48_5021074.dita#Subpart_806_5_T48_5021074">Subpart 806.5 - Advocates for Competition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_806_501_T48_502107411.dita#Section_806_501_T48_502107411"/>
+                              href="Section_806_501_T48_502107411.dita#Section_806_501_T48_502107411">806.501 Requirement.</xref>
                      </p>
                   </li>
                </ul>

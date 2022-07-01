@@ -6,147 +6,159 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 809</ph> - CONTRACTOR QUALIFICATIONS</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           38 U.S.C. 8127 and 8128; 40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301-1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_809_1_T48_50210101.dita#Subpart_809_1_T48_50210101"/>
+                        href="Subpart_809_1_T48_50210101.dita#Subpart_809_1_T48_50210101">Subpart 809.1 - Responsible Prospective Contractors</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_106_T48_5021010111.dita#Section_809_106_T48_5021010111"/>
+                              href="Section_809_106_T48_5021010111.dita#Section_809_106_T48_5021010111">809.106 Pre-award surveys.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_106_1_T48_5021010112.dita#Section_809_106_1_T48_5021010112"/>
+                              href="Section_809_106_1_T48_5021010112.dita#Section_809_106_1_T48_5021010112">809.106-1 Conditions for pre-award surveys.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_809_4_T48_50210102.dita#Subpart_809_4_T48_50210102"/>
+                        href="Subpart_809_4_T48_50210102.dita#Subpart_809_4_T48_50210102">Subpart 809.4 - Debarment, Suspension, and Ineligibility</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_400_T48_5021010211.dita#Section_809_400_T48_5021010211"/>
+                              href="Section_809_400_T48_5021010211.dita#Section_809_400_T48_5021010211">809.400 Scope of subpart.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_402_T48_5021010212.dita#Section_809_402_T48_5021010212"/>
+                              href="Section_809_402_T48_5021010212.dita#Section_809_402_T48_5021010212">809.402 Policy.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_403_T48_5021010213.dita#Section_809_403_T48_5021010213"/>
+                              href="Section_809_403_T48_5021010213.dita#Section_809_403_T48_5021010213">809.403 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_405_T48_5021010214.dita#Section_809_405_T48_5021010214"/>
+                              href="Section_809_405_T48_5021010214.dita#Section_809_405_T48_5021010214">809.405 Effect of listing.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_405_1_T48_5021010215.dita#Section_809_405_1_T48_5021010215"/>
+                              href="Section_809_405_1_T48_5021010215.dita#Section_809_405_1_T48_5021010215">809.405-1 Continuation of current contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_405_2_T48_5021010216.dita#Section_809_405_2_T48_5021010216"/>
+                              href="Section_809_405_2_T48_5021010216.dita#Section_809_405_2_T48_5021010216">809.405-2 Restrictions on subcontracting.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_T48_5021010217.dita#Section_809_406_T48_5021010217"/>
+                              href="Section_809_406_T48_5021010217.dita#Section_809_406_T48_5021010217">809.406 Debarment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_1_T48_5021010218.dita#Section_809_406_1_T48_5021010218"/>
+                              href="Section_809_406_1_T48_5021010218.dita#Section_809_406_1_T48_5021010218">809.406-1 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_2_T48_5021010219.dita#Section_809_406_2_T48_5021010219"/>
+                              href="Section_809_406_2_T48_5021010219.dita#Section_809_406_2_T48_5021010219">809.406-2 Causes for debarment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_270_T48_50210102110.dita#Section_809_406_270_T48_50210102110"/>
+                              href="Section_809_406_270_T48_50210102110.dita#Section_809_406_270_T48_50210102110">809.406-270 Additional causes for debarment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_3_T48_50210102111.dita#Section_809_406_3_T48_50210102111"/>
+                              href="Section_809_406_3_T48_50210102111.dita#Section_809_406_3_T48_50210102111">809.406-3 Procedures.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_406_4_T48_50210102112.dita#Section_809_406_4_T48_50210102112"/>
+                              href="Section_809_406_4_T48_50210102112.dita#Section_809_406_4_T48_50210102112">809.406-4 Period of debarment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_407_T48_50210102113.dita#Section_809_407_T48_50210102113"/>
+                              href="Section_809_407_T48_50210102113.dita#Section_809_407_T48_50210102113">809.407 Suspension.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_407_1_T48_50210102114.dita#Section_809_407_1_T48_50210102114"/>
+                              href="Section_809_407_1_T48_50210102114.dita#Section_809_407_1_T48_50210102114">809.407-1 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_407_3_T48_50210102115.dita#Section_809_407_3_T48_50210102115"/>
+                              href="Section_809_407_3_T48_50210102115.dita#Section_809_407_3_T48_50210102115">809.407-3 Procedures.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_470_T48_50210102116.dita#Section_809_470_T48_50210102116"/>
+                              href="Section_809_470_T48_50210102116.dita#Section_809_470_T48_50210102116">809.470 Fact-finding procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_809_5_T48_50210103.dita#Subpart_809_5_T48_50210103"/>
+                        href="Subpart_809_5_T48_50210103.dita#Subpart_809_5_T48_50210103">Subpart 809.5 - Organizational and Consultant Conflicts of Interest</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_507_T48_5021010311.dita#Section_809_507_T48_5021010311"/>
+                              href="Section_809_507_T48_5021010311.dita#Section_809_507_T48_5021010311">809.507 Solicitation provisions and contract clause.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_809_507_1_T48_5021010312.dita#Section_809_507_1_T48_5021010312"/>
+                              href="Section_809_507_1_T48_5021010312.dita#Section_809_507_1_T48_5021010312">809.507-1 Solicitation provisions.</xref>
                      </p>
                   </li>
                </ul>

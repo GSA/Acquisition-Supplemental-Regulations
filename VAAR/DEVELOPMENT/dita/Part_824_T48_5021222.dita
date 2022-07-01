@@ -6,37 +6,51 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 824</ph> - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 552a; 40 U.S.C. 121(c); 41 U.S.C. 1121(c); 41 U.S.C. 1702; 38 CFR 1.550-1.562 and 1.575-1.584; and 48 CFR 1.301-1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_824_1_T48_50212221.dita#Subpart_824_1_T48_50212221"/>
+                        href="Subpart_824_1_T48_50212221.dita#Subpart_824_1_T48_50212221">Subpart 824.1 - Protection of Individual Privacy</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_824_102_T48_5021222111.dita#Section_824_102_T48_5021222111"/>
+                              href="Section_824_102_T48_5021222111.dita#Section_824_102_T48_5021222111">824.102 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_824_103_T48_5021222112.dita#Section_824_103_T48_5021222112"/>
+                              href="Section_824_103_T48_5021222112.dita#Section_824_103_T48_5021222112">824.103 Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_824_2_T48_50212222.dita#Subpart_824_2_T48_50212222"/>
+                        href="Subpart_824_2_T48_50212222.dita#Subpart_824_2_T48_50212222">Subpart 824.2 - Freedom of Information Act</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_824_203_T48_5021222211.dita#Section_824_203_T48_5021222211"/>
+                              href="Section_824_203_T48_5021222211.dita#Section_824_203_T48_5021222211">824.203 Policy.</xref>
                      </p>
                   </li>
                </ul>

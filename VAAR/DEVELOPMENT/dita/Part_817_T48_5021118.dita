@@ -6,91 +6,105 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 817</ph> - SPECIAL CONTRACTING METHODS</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           38 U.S.C. 8127-8128; 41 U.S.C. 1303; 41 U.S.C. 1702; and 48 CFR 1.301-1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_817_1_T48_50211181.dita#Subpart_817_1_T48_50211181"/>
+                        href="Subpart_817_1_T48_50211181.dita#Subpart_817_1_T48_50211181">Subparts 817.1 - 817.4 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_817_5_T48_50211182.dita#Subpart_817_5_T48_50211182"/>
+                        href="Subpart_817_5_T48_50211182.dita#Subpart_817_5_T48_50211182">Subpart 817.5 - Interagency Acquisitions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_501_T48_5021118211.dita#Section_817_501_T48_5021118211"/>
+                              href="Section_817_501_T48_5021118211.dita#Section_817_501_T48_5021118211">817.501 General.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_817_70_T48_50211183.dita#Subpart_817_70_T48_50211183"/>
+                        href="Subpart_817_70_T48_50211183.dita#Subpart_817_70_T48_50211183">Subpart 817.70 - Undefinitized Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7000_T48_5021118311.dita#Section_817_7000_T48_5021118311"/>
+                              href="Section_817_7000_T48_5021118311.dita#Section_817_7000_T48_5021118311">817.7000 Scope.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7001_T48_5021118312.dita#Section_817_7001_T48_5021118312"/>
+                              href="Section_817_7001_T48_5021118312.dita#Section_817_7001_T48_5021118312">817.7001 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7002_T48_5021118313.dita#Section_817_7002_T48_5021118313"/>
+                              href="Section_817_7002_T48_5021118313.dita#Section_817_7002_T48_5021118313">817.7002 Exceptions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7003_T48_5021118314.dita#Section_817_7003_T48_5021118314"/>
+                              href="Section_817_7003_T48_5021118314.dita#Section_817_7003_T48_5021118314">817.7003 Policy.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7004_T48_5021118315.dita#Section_817_7004_T48_5021118315"/>
+                              href="Section_817_7004_T48_5021118315.dita#Section_817_7004_T48_5021118315">817.7004 Limitations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7004_1_T48_5021118316.dita#Section_817_7004_1_T48_5021118316"/>
+                              href="Section_817_7004_1_T48_5021118316.dita#Section_817_7004_1_T48_5021118316">817.7004-1 Authorization.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7004_2_T48_5021118317.dita#Section_817_7004_2_T48_5021118317"/>
+                              href="Section_817_7004_2_T48_5021118317.dita#Section_817_7004_2_T48_5021118317">817.7004-2 Price ceiling.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7004_3_T48_5021118318.dita#Section_817_7004_3_T48_5021118318"/>
+                              href="Section_817_7004_3_T48_5021118318.dita#Section_817_7004_3_T48_5021118318">817.7004-3 Definitization schedule.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7004_4_T48_5021118319.dita#Section_817_7004_4_T48_5021118319"/>
+                              href="Section_817_7004_4_T48_5021118319.dita#Section_817_7004_4_T48_5021118319">817.7004-4 Final price negotiation - profit.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_817_7005_T48_50211183110.dita#Section_817_7005_T48_50211183110"/>
+                              href="Section_817_7005_T48_50211183110.dita#Section_817_7005_T48_50211183110">817.7005 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

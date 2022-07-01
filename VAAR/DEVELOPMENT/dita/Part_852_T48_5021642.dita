@@ -6,601 +6,613 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 852</ph> - SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           38 U.S.C. 8127-8128, and 8151-8153; 40 U.S.C. 121(c); 41 U.S.C. 1121(c)(3), 41 U.S.C. 1303; 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_852_1_T48_50216421.dita#Subpart_852_1_T48_50216421"/>
+                        href="Subpart_852_1_T48_50216421.dita#Subpart_852_1_T48_50216421">Subpart 852.1 - Instructions for Using Provisions and Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_101_70_T48_5021642111.dita#Section_852_101_70_T48_5021642111"/>
+                              href="Section_852_101_70_T48_5021642111.dita#Section_852_101_70_T48_5021642111">852.101-70 Using part 852.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_102_T48_5021642112.dita#Section_852_102_T48_5021642112"/>
+                              href="Section_852_102_T48_5021642112.dita#Section_852_102_T48_5021642112">852.102 Incorporating provisions and clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_852_2_T48_50216422.dita#Subpart_852_2_T48_50216422"/>
+                        href="Subpart_852_2_T48_50216422.dita#Subpart_852_2_T48_50216422">Subpart 852.2 - Text of Provisions and Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_203_70_T48_5021642211.dita#Section_852_203_70_T48_5021642211"/>
+                              href="Section_852_203_70_T48_5021642211.dita#Section_852_203_70_T48_5021642211">852.203-70 Commercial Advertising.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_203_71_T48_5021642212.dita#Section_852_203_71_T48_5021642212"/>
+                              href="Section_852_203_71_T48_5021642212.dita#Section_852_203_71_T48_5021642212">852.203-71 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_204_70_T48_5021642213.dita#Section_852_204_70_T48_5021642213"/>
+                              href="Section_852_204_70_T48_5021642213.dita#Section_852_204_70_T48_5021642213">852.204-70 Personal Identity Verification of Contractor personnel.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_207_70_T48_5021642214.dita#Section_852_207_70_T48_5021642214"/>
+                              href="Section_852_207_70_T48_5021642214.dita#Section_852_207_70_T48_5021642214">852.207-70 Report of Employment under Commercial Activities.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_209_70_T48_5021642215.dita#Section_852_209_70_T48_5021642215"/>
+                              href="Section_852_209_70_T48_5021642215.dita#Section_852_209_70_T48_5021642215">852.209-70 Organizational Conflicts of Interest.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_211_70_T48_5021642216.dita#Section_852_211_70_T48_5021642216"/>
+                              href="Section_852_211_70_T48_5021642216.dita#Section_852_211_70_T48_5021642216">852.211-70 Equipment Operation and Maintenance Manuals.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_211_71_T48_5021642217.dita#Section_852_211_71_T48_5021642217"/>
+                              href="Section_852_211_71_T48_5021642217.dita#Section_852_211_71_T48_5021642217">852.211-71 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_211_72_T48_5021642218.dita#Section_852_211_72_T48_5021642218"/>
+                              href="Section_852_211_72_T48_5021642218.dita#Section_852_211_72_T48_5021642218">852.211-72 Technical Industry Standards.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_211_73_852_211_75_T48_5021642219.dita#Section_852_211_73_852_211_75_T48_5021642219"/>
+                              href="Section_852_211_73_852_211_75_T48_5021642219.dita#Section_852_211_73_852_211_75_T48_5021642219">852.211-73--852.211-75 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_212_70_T48_50216422110.dita#Section_852_212_70_T48_50216422110"/>
+                              href="Section_852_212_70_T48_50216422110.dita#Section_852_212_70_T48_50216422110">852.212-70 Provisions and Clauses Applicable to VA Acquisition of Commercial Items.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_212_71_T48_50216422111.dita#Section_852_212_71_T48_50216422111"/>
+                              href="Section_852_212_71_T48_50216422111.dita#Section_852_212_71_T48_50216422111">852.212-71 Gray Market Items.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_214_70_T48_50216422112.dita#Section_852_214_70_T48_50216422112"/>
+                              href="Section_852_214_70_T48_50216422112.dita#Section_852_214_70_T48_50216422112">852.214-70 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_214_71_T48_50216422113.dita#Section_852_214_71_T48_50216422113"/>
+                              href="Section_852_214_71_T48_50216422113.dita#Section_852_214_71_T48_50216422113">852.214-71 Restrictions on Alternate Item(s).</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_214_72_T48_50216422114.dita#Section_852_214_72_T48_50216422114"/>
+                              href="Section_852_214_72_T48_50216422114.dita#Section_852_214_72_T48_50216422114">852.214-72 Alternate Item(s).</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_214_73_T48_50216422115.dita#Section_852_214_73_T48_50216422115"/>
+                              href="Section_852_214_73_T48_50216422115.dita#Section_852_214_73_T48_50216422115">852.214-73 Alternate Packaging and Packing.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_214_74_T48_50216422116.dita#Section_852_214_74_T48_50216422116"/>
+                              href="Section_852_214_74_T48_50216422116.dita#Section_852_214_74_T48_50216422116">852.214-74 Marking of Bid Samples.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_215_70_T48_50216422117.dita#Section_852_215_70_T48_50216422117"/>
+                              href="Section_852_215_70_T48_50216422117.dita#Section_852_215_70_T48_50216422117">852.215-70 Service-Disabled Veteran-Owned and Veteran-Owned Small Business Evaluation Factors.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_215_71_T48_50216422118.dita#Section_852_215_71_T48_50216422118"/>
+                              href="Section_852_215_71_T48_50216422118.dita#Section_852_215_71_T48_50216422118">852.215-71 Evaluation Factor Commitments.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_215_72_T48_50216422119.dita#Section_852_215_72_T48_50216422119"/>
+                              href="Section_852_215_72_T48_50216422119.dita#Section_852_215_72_T48_50216422119">852.215-72 Notice of Intent to Re-Solicit.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_70_T48_50216422120.dita#Section_852_216_70_T48_50216422120"/>
+                              href="Section_852_216_70_T48_50216422120.dita#Section_852_216_70_T48_50216422120">852.216-70 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_71_T48_50216422121.dita#Section_852_216_71_T48_50216422121"/>
+                              href="Section_852_216_71_T48_50216422121.dita#Section_852_216_71_T48_50216422121">852.216-71 Economic Price Adjustment of Contract Price(s) Based on a Price Index.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_72_T48_50216422122.dita#Section_852_216_72_T48_50216422122"/>
+                              href="Section_852_216_72_T48_50216422122.dita#Section_852_216_72_T48_50216422122">852.216-72 Proportional Economic Price Adjustment of Contract Price(s) Based on a Price Index.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_73_T48_50216422123.dita#Section_852_216_73_T48_50216422123"/>
+                              href="Section_852_216_73_T48_50216422123.dita#Section_852_216_73_T48_50216422123">852.216-73 Economic Price Adjustment - State Nursing Home Care for Veterans.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_74_T48_50216422124.dita#Section_852_216_74_T48_50216422124"/>
+                              href="Section_852_216_74_T48_50216422124.dita#Section_852_216_74_T48_50216422124">852.216-74 Economic Rice Adjustment - Medicaid Labor Rates.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_75_T48_50216422125.dita#Section_852_216_75_T48_50216422125"/>
+                              href="Section_852_216_75_T48_50216422125.dita#Section_852_216_75_T48_50216422125">852.216-75 Economic Price Adjustment - Fuel Surcharge.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_216_76_T48_50216422126.dita#Section_852_216_76_T48_50216422126"/>
+                              href="Section_852_216_76_T48_50216422126.dita#Section_852_216_76_T48_50216422126">852.216-76 Requirements - Supplement for Mortuary Services.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_217_70_T48_50216422127.dita#Section_852_217_70_T48_50216422127"/>
+                              href="Section_852_217_70_T48_50216422127.dita#Section_852_217_70_T48_50216422127">852.217-70 Contract Action Definitization.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_219_9_T48_50216422128.dita#Section_852_219_9_T48_50216422128"/>
+                              href="Section_852_219_9_T48_50216422128.dita#Section_852_219_9_T48_50216422128">852.219-9 VA Small Business Subcontracting Plan Minimum Requirements.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_219_10_T48_50216422129.dita#Section_852_219_10_T48_50216422129"/>
+                              href="Section_852_219_10_T48_50216422129.dita#Section_852_219_10_T48_50216422129">852.219-10 VA Notice of Total Service-Disabled Veteran-Owned Small Business Set-Aside.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_219_11_T48_50216422130.dita#Section_852_219_11_T48_50216422130"/>
+                              href="Section_852_219_11_T48_50216422130.dita#Section_852_219_11_T48_50216422130">852.219-11 VA Notice of Total Veteran-Owned Small Business Set-Aside.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_219_71_T48_50216422131.dita#Section_852_219_71_T48_50216422131"/>
+                              href="Section_852_219_71_T48_50216422131.dita#Section_852_219_71_T48_50216422131">852.219-71 VA mentor-protégé program.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_219_72_T48_50216422132.dita#Section_852_219_72_T48_50216422132"/>
+                              href="Section_852_219_72_T48_50216422132.dita#Section_852_219_72_T48_50216422132">852.219-72 Evaluation factor for participation in the VA mentor-protégé program.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_222_70_T48_50216422133.dita#Section_852_222_70_T48_50216422133"/>
+                              href="Section_852_222_70_T48_50216422133.dita#Section_852_222_70_T48_50216422133">852.222-70 Contract Work-Hours and Safety Standards - Nursing Home Care for Veterans.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_223_70_T48_50216422134.dita#Section_852_223_70_T48_50216422134"/>
+                              href="Section_852_223_70_T48_50216422134.dita#Section_852_223_70_T48_50216422134">852.223-70 Instructions to Offerors - Sustainable Acquisition Plan.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_223_71_T48_50216422135.dita#Section_852_223_71_T48_50216422135"/>
+                              href="Section_852_223_71_T48_50216422135.dita#Section_852_223_71_T48_50216422135">852.223-71 Safety and Health.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_228_70_T48_50216422136.dita#Section_852_228_70_T48_50216422136"/>
+                              href="Section_852_228_70_T48_50216422136.dita#Section_852_228_70_T48_50216422136">852.228-70 Bond Premium Adjustment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_228_71_T48_50216422137.dita#Section_852_228_71_T48_50216422137"/>
+                              href="Section_852_228_71_T48_50216422137.dita#Section_852_228_71_T48_50216422137">852.228-71 Indemnification and Insurance.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_228_72_T48_50216422138.dita#Section_852_228_72_T48_50216422138"/>
+                              href="Section_852_228_72_T48_50216422138.dita#Section_852_228_72_T48_50216422138">852.228-72 Assisting Service-Disabled Veteran-Owned and Veteran-Owned Small businesses in Obtaining Bonds.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_228_73_T48_50216422139.dita#Section_852_228_73_T48_50216422139"/>
+                              href="Section_852_228_73_T48_50216422139.dita#Section_852_228_73_T48_50216422139">852.228-73 Indemnification of Contractor - Hazardous Research Projects.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_229_70_852_229_71_T48_50216422140.dita#Section_852_229_70_852_229_71_T48_50216422140"/>
+                              href="Section_852_229_70_852_229_71_T48_50216422140.dita#Section_852_229_70_852_229_71_T48_50216422140">852.229-70--852.229-71 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_232_70_T48_50216422141.dita#Section_852_232_70_T48_50216422141"/>
+                              href="Section_852_232_70_T48_50216422141.dita#Section_852_232_70_T48_50216422141">852.232-70 Payments Under Fixed-Price Construction Contracts (Without NAS-CPM).</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_232_71_T48_50216422142.dita#Section_852_232_71_T48_50216422142"/>
+                              href="Section_852_232_71_T48_50216422142.dita#Section_852_232_71_T48_50216422142">852.232-71 Payments Under Fixed-Price Construction Contracts (Including NAS-CPM).</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_232_72_T48_50216422143.dita#Section_852_232_72_T48_50216422143"/>
+                              href="Section_852_232_72_T48_50216422143.dita#Section_852_232_72_T48_50216422143">852.232-72 Electronic Submission of Payment Requests.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_233_70_T48_50216422144.dita#Section_852_233_70_T48_50216422144"/>
+                              href="Section_852_233_70_T48_50216422144.dita#Section_852_233_70_T48_50216422144">852.233-70 Protest Content/Alternative Dispute Resolution.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_233_71_T48_50216422145.dita#Section_852_233_71_T48_50216422145"/>
+                              href="Section_852_233_71_T48_50216422145.dita#Section_852_233_71_T48_50216422145">852.233-71 Alternate Protest Procedure.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_70_T48_50216422146.dita#Section_852_236_70_T48_50216422146"/>
+                              href="Section_852_236_70_T48_50216422146.dita#Section_852_236_70_T48_50216422146">852.236-70 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_71_T48_50216422147.dita#Section_852_236_71_T48_50216422147"/>
+                              href="Section_852_236_71_T48_50216422147.dita#Section_852_236_71_T48_50216422147">852.236-71 Specifications and Drawings for Construction.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_72_T48_50216422148.dita#Section_852_236_72_T48_50216422148"/>
+                              href="Section_852_236_72_T48_50216422148.dita#Section_852_236_72_T48_50216422148">852.236-72 Performance of Work by the Contractor.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_73_852_236_78_T48_50216422149.dita#Section_852_236_73_852_236_78_T48_50216422149"/>
+                              href="Section_852_236_73_852_236_78_T48_50216422149.dita#Section_852_236_73_852_236_78_T48_50216422149">852.236-73--852.236-78 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_79_T48_50216422150.dita#Section_852_236_79_T48_50216422150"/>
+                              href="Section_852_236_79_T48_50216422150.dita#Section_852_236_79_T48_50216422150">852.236-79 Contractor Production Report.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_80_T48_50216422151.dita#Section_852_236_80_T48_50216422151"/>
+                              href="Section_852_236_80_T48_50216422151.dita#Section_852_236_80_T48_50216422151">852.236-80 Subcontracts and Work Coordination.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_81_852_236_89_T48_50216422152.dita#Section_852_236_81_852_236_89_T48_50216422152"/>
+                              href="Section_852_236_81_852_236_89_T48_50216422152.dita#Section_852_236_81_852_236_89_T48_50216422152">852.236-81--852.236-89 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_90_T48_50216422153.dita#Section_852_236_90_T48_50216422153"/>
+                              href="Section_852_236_90_T48_50216422153.dita#Section_852_236_90_T48_50216422153">852.236-90 Restriction on Submission and Use of Equal Products.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_236_92_T48_50216422154.dita#Section_852_236_92_T48_50216422154"/>
+                              href="Section_852_236_92_T48_50216422154.dita#Section_852_236_92_T48_50216422154">852.236-92 Notice to Bidders - Additive or Deductive Bid Line Items.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_70_T48_50216422155.dita#Section_852_237_70_T48_50216422155"/>
+                              href="Section_852_237_70_T48_50216422155.dita#Section_852_237_70_T48_50216422155">852.237-70 Indemnification and Medical Liability Insurance.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_71_T48_50216422156.dita#Section_852_237_71_T48_50216422156"/>
+                              href="Section_852_237_71_T48_50216422156.dita#Section_852_237_71_T48_50216422156">852.237-71 Nonsmoking Policy for Children's Services.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_72_T48_50216422157.dita#Section_852_237_72_T48_50216422157"/>
+                              href="Section_852_237_72_T48_50216422157.dita#Section_852_237_72_T48_50216422157">852.237-72 Crime Control Act - Reporting of Child Abuse.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_73_T48_50216422158.dita#Section_852_237_73_T48_50216422158"/>
+                              href="Section_852_237_73_T48_50216422158.dita#Section_852_237_73_T48_50216422158">852.237-73 Crime Control Act - Requirement for Background Checks.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_74_T48_50216422159.dita#Section_852_237_74_T48_50216422159"/>
+                              href="Section_852_237_74_T48_50216422159.dita#Section_852_237_74_T48_50216422159">852.237-74 Non-discrimination in Service Delivery.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_75_T48_50216422160.dita#Section_852_237_75_T48_50216422160"/>
+                              href="Section_852_237_75_T48_50216422160.dita#Section_852_237_75_T48_50216422160">852.237-75 Key Personnel.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_76_T48_50216422161.dita#Section_852_237_76_T48_50216422161"/>
+                              href="Section_852_237_76_T48_50216422161.dita#Section_852_237_76_T48_50216422161">852.237-76 Award to Single Offeror.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_77_T48_50216422162.dita#Section_852_237_77_T48_50216422162"/>
+                              href="Section_852_237_77_T48_50216422162.dita#Section_852_237_77_T48_50216422162">852.237-77 Area of Performance.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_78_T48_50216422163.dita#Section_852_237_78_T48_50216422163"/>
+                              href="Section_852_237_78_T48_50216422163.dita#Section_852_237_78_T48_50216422163">852.237-78 Performance and Delivery.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_79_T48_50216422164.dita#Section_852_237_79_T48_50216422164"/>
+                              href="Section_852_237_79_T48_50216422164.dita#Section_852_237_79_T48_50216422164">852.237-79 Subcontracting.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_237_80_T48_50216422165.dita#Section_852_237_80_T48_50216422165"/>
+                              href="Section_852_237_80_T48_50216422165.dita#Section_852_237_80_T48_50216422165">852.237-80 Health Department and Transport Permits.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_241_70_T48_50216422166.dita#Section_852_241_70_T48_50216422166"/>
+                              href="Section_852_241_70_T48_50216422166.dita#Section_852_241_70_T48_50216422166">852.241-70 Disputes - Utility Contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_242_70_T48_50216422167.dita#Section_852_242_70_T48_50216422167"/>
+                              href="Section_852_242_70_T48_50216422167.dita#Section_852_242_70_T48_50216422167">852.242-70 Government Construction Contract Administration.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_242_71_T48_50216422168.dita#Section_852_242_71_T48_50216422168"/>
+                              href="Section_852_242_71_T48_50216422168.dita#Section_852_242_71_T48_50216422168">852.242-71 Administrative Contracting Officer.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_243_70_T48_50216422169.dita#Section_852_243_70_T48_50216422169"/>
+                              href="Section_852_243_70_T48_50216422169.dita#Section_852_243_70_T48_50216422169">852.243-70 Construction Contract Changes - Supplement.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_70_T48_50216422170.dita#Section_852_246_70_T48_50216422170"/>
+                              href="Section_852_246_70_T48_50216422170.dita#Section_852_246_70_T48_50216422170">852.246-70 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_71_T48_50216422171.dita#Section_852_246_71_T48_50216422171"/>
+                              href="Section_852_246_71_T48_50216422171.dita#Section_852_246_71_T48_50216422171">852.246-71 Rejected Goods.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_72_T48_50216422172.dita#Section_852_246_72_T48_50216422172"/>
+                              href="Section_852_246_72_T48_50216422172.dita#Section_852_246_72_T48_50216422172">852.246-72 Frozen Processed Foods.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_73_T48_50216422173.dita#Section_852_246_73_T48_50216422173"/>
+                              href="Section_852_246_73_T48_50216422173.dita#Section_852_246_73_T48_50216422173">852.246-73 Noncompliance with Packaging, Packing, and/or Marking Requirements.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_74_T48_50216422174.dita#Section_852_246_74_T48_50216422174"/>
+                              href="Section_852_246_74_T48_50216422174.dita#Section_852_246_74_T48_50216422174">852.246-74 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_75_T48_50216422175.dita#Section_852_246_75_T48_50216422175"/>
+                              href="Section_852_246_75_T48_50216422175.dita#Section_852_246_75_T48_50216422175">852.246-75 Warranty of Construction - Guarantee Period Services.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_246_76_T48_50216422176.dita#Section_852_246_76_T48_50216422176"/>
+                              href="Section_852_246_76_T48_50216422176.dita#Section_852_246_76_T48_50216422176">852.246-76 Purchase of Shellfish.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_70_T48_50216422177.dita#Section_852_247_70_T48_50216422177"/>
+                              href="Section_852_247_70_T48_50216422177.dita#Section_852_247_70_T48_50216422177">852.247-70 Determining Transportation Costs for Evaluation of Offers.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_71_T48_50216422178.dita#Section_852_247_71_T48_50216422178"/>
+                              href="Section_852_247_71_T48_50216422178.dita#Section_852_247_71_T48_50216422178">852.247-71 Delivery Location.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_72_T48_50216422179.dita#Section_852_247_72_T48_50216422179"/>
+                              href="Section_852_247_72_T48_50216422179.dita#Section_852_247_72_T48_50216422179">852.247-72 Marking Deliverables.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_73_T48_50216422180.dita#Section_852_247_73_T48_50216422180"/>
+                              href="Section_852_247_73_T48_50216422180.dita#Section_852_247_73_T48_50216422180">852.247-73 Packing for Domestic Shipment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_74_T48_50216422181.dita#Section_852_247_74_T48_50216422181"/>
+                              href="Section_852_247_74_T48_50216422181.dita#Section_852_247_74_T48_50216422181">852.247-74 Advance Notice of Shipment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_247_75_T48_50216422182.dita#Section_852_247_75_T48_50216422182"/>
+                              href="Section_852_247_75_T48_50216422182.dita#Section_852_247_75_T48_50216422182">852.247-75 Bills of Lading.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_249_70_T48_50216422183.dita#Section_852_249_70_T48_50216422183"/>
+                              href="Section_852_249_70_T48_50216422183.dita#Section_852_249_70_T48_50216422183">852.249-70 Termination for Default - Supplement for Mortuary Services.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_252_70_T48_50216422184.dita#Section_852_252_70_T48_50216422184"/>
+                              href="Section_852_252_70_T48_50216422184.dita#Section_852_252_70_T48_50216422184">852.252-70 Solicitation Provisions or Clauses Incorporated by Reference.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_270_1_T48_50216422185.dita#Section_852_270_1_T48_50216422185"/>
+                              href="Section_852_270_1_T48_50216422185.dita#Section_852_270_1_T48_50216422185">852.270-1 Representatives of Contracting Officers.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_271_70_852_271_71_T48_50216422186.dita#Section_852_271_70_852_271_71_T48_50216422186"/>
+                              href="Section_852_271_70_852_271_71_T48_50216422186.dita#Section_852_271_70_852_271_71_T48_50216422186">852.271-70--852.271-71 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_271_72_T48_50216422187.dita#Section_852_271_72_T48_50216422187"/>
+                              href="Section_852_271_72_T48_50216422187.dita#Section_852_271_72_T48_50216422187">852.271-72 Time Spent by Counselee in Counseling Process.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_271_73_T48_50216422188.dita#Section_852_271_73_T48_50216422188"/>
+                              href="Section_852_271_73_T48_50216422188.dita#Section_852_271_73_T48_50216422188">852.271-73 Use and Publication of Counseling Results.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_271_74_T48_50216422189.dita#Section_852_271_74_T48_50216422189"/>
+                              href="Section_852_271_74_T48_50216422189.dita#Section_852_271_74_T48_50216422189">852.271-74 Inspection of Instruction, Counseling or Testing Operations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_271_75_T48_50216422190.dita#Section_852_271_75_T48_50216422190"/>
+                              href="Section_852_271_75_T48_50216422190.dita#Section_852_271_75_T48_50216422190">852.271-75 [Reserved]</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_273_70_T48_50216422191.dita#Section_852_273_70_T48_50216422191"/>
+                              href="Section_852_273_70_T48_50216422191.dita#Section_852_273_70_T48_50216422191">852.273-70 Late offers.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_273_71_T48_50216422192.dita#Section_852_273_71_T48_50216422192"/>
+                              href="Section_852_273_71_T48_50216422192.dita#Section_852_273_71_T48_50216422192">852.273-71 Alternative negotiation techniques.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_273_72_T48_50216422193.dita#Section_852_273_72_T48_50216422193"/>
+                              href="Section_852_273_72_T48_50216422193.dita#Section_852_273_72_T48_50216422193">852.273-72 Alternative evaluation.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_273_73_T48_50216422194.dita#Section_852_273_73_T48_50216422194"/>
+                              href="Section_852_273_73_T48_50216422194.dita#Section_852_273_73_T48_50216422194">852.273-73 Evaluation - Health-Care Resources.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_852_273_74_T48_50216422195.dita#Section_852_273_74_T48_50216422195"/>
+                              href="Section_852_273_74_T48_50216422195.dita#Section_852_273_74_T48_50216422195">852.273-74 Award without exchanges.</xref>
                      </p>
                   </li>
                </ul>

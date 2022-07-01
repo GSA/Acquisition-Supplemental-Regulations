@@ -6,385 +6,399 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 801</ph> - DEPARTMENT OF VETERANS AFFAIRS ACQUISITION REGULATION SYSTEM</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1121; 41 U.S.C. 1303; 41 U.S.C. 1702; and 48 CFR 1.301-1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_801_000_T48_50292011.dita#Section_801_000_T48_50292011"/>
+                        href="Section_801_000_T48_50292011.dita#Section_801_000_T48_50292011">801.000 Scope of part.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_801_1_T48_502921.dita#Subpart_801_1_T48_502921"/>
+                        href="Subpart_801_1_T48_502921.dita#Subpart_801_1_T48_502921">Subpart 801.1 - Purpose, Authority, Issuance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_101_T48_50292111.dita#Section_801_101_T48_50292111"/>
+                              href="Section_801_101_T48_50292111.dita#Section_801_101_T48_50292111">801.101 Purpose.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_103_T48_50292112.dita#Section_801_103_T48_50292112"/>
+                              href="Section_801_103_T48_50292112.dita#Section_801_103_T48_50292112">801.103 Authority.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_104_T48_50292113.dita#Section_801_104_T48_50292113"/>
+                              href="Section_801_104_T48_50292113.dita#Section_801_104_T48_50292113">801.104 Applicability.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_104_70_T48_50292114.dita#Section_801_104_70_T48_50292114"/>
+                              href="Section_801_104_70_T48_50292114.dita#Section_801_104_70_T48_50292114">801.104-70 Exclusions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_105_T48_50292115.dita#Section_801_105_T48_50292115"/>
+                              href="Section_801_105_T48_50292115.dita#Section_801_105_T48_50292115">801.105 Issuance.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_105_2_T48_50292116.dita#Section_801_105_2_T48_50292116"/>
+                              href="Section_801_105_2_T48_50292116.dita#Section_801_105_2_T48_50292116">801.105-2 Arrangement of regulations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_106_T48_50292117.dita#Section_801_106_T48_50292117"/>
+                              href="Section_801_106_T48_50292117.dita#Section_801_106_T48_50292117">801.106 OMB approval under the Paperwork Reduction Act.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_801_2_T48_502922.dita#Subpart_801_2_T48_502922"/>
+                        href="Subpart_801_2_T48_502922.dita#Subpart_801_2_T48_502922">Subpart 801.2 - Administration</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_201_T48_50292211.dita#Section_801_201_T48_50292211"/>
+                              href="Section_801_201_T48_50292211.dita#Section_801_201_T48_50292211">801.201 Maintenance of the FAR.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_201_1_T48_50292212.dita#Section_801_201_1_T48_50292212"/>
+                              href="Section_801_201_1_T48_50292212.dita#Section_801_201_1_T48_50292212">801.201-1 The two councils.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_801_3_T48_502923.dita#Subpart_801_3_T48_502923"/>
+                        href="Subpart_801_3_T48_502923.dita#Subpart_801_3_T48_502923">Subpart 801.3 - Department Acquisition Regulations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_304_T48_50292311.dita#Section_801_304_T48_50292311"/>
+                              href="Section_801_304_T48_50292311.dita#Section_801_304_T48_50292311">801.304 Department control and compliance procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_801_4_T48_502924.dita#Subpart_801_4_T48_502924"/>
+                        href="Subpart_801_4_T48_502924.dita#Subpart_801_4_T48_502924">Subpart 801.4 - Deviations from the FAR or VAAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_403_T48_50292411.dita#Section_801_403_T48_50292411"/>
+                              href="Section_801_403_T48_50292411.dita#Section_801_403_T48_50292411">801.403 Individual deviations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_404_T48_50292412.dita#Section_801_404_T48_50292412"/>
+                              href="Section_801_404_T48_50292412.dita#Section_801_404_T48_50292412">801.404 Class deviations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_801_6_T48_502925.dita#Subpart_801_6_T48_502925"/>
+                        href="Subpart_801_6_T48_502925.dita#Subpart_801_6_T48_502925">Subpart 801.6 - Career Development, Contracting Authority, and Responsibilities</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_601_T48_50292511.dita#Section_801_601_T48_50292511"/>
+                              href="Section_801_601_T48_50292511.dita#Section_801_601_T48_50292511">801.601 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_T48_50292512.dita#Section_801_602_T48_50292512"/>
+                              href="Section_801_602_T48_50292512.dita#Section_801_602_T48_50292512">801.602 Contracting officers.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_2_T48_50292513.dita#Section_801_602_2_T48_50292513"/>
+                              href="Section_801_602_2_T48_50292513.dita#Section_801_602_2_T48_50292513">801.602-2 Responsibilities.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_3_T48_50292514.dita#Section_801_602_3_T48_50292514"/>
+                              href="Section_801_602_3_T48_50292514.dita#Section_801_602_3_T48_50292514">801.602-3 Ratification of unauthorized commitments.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_70_T48_50292515.dita#Section_801_602_70_T48_50292515"/>
+                              href="Section_801_602_70_T48_50292515.dita#Section_801_602_70_T48_50292515">801.602-70 General review requirements.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_71_T48_50292516.dita#Section_801_602_71_T48_50292516"/>
+                              href="Section_801_602_71_T48_50292516.dita#Section_801_602_71_T48_50292516">801.602-71 Basic review requirements.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_72_T48_50292517.dita#Section_801_602_72_T48_50292517"/>
+                              href="Section_801_602_72_T48_50292517.dita#Section_801_602_72_T48_50292517">801.602-72 Exceptions and additional review requirements.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_73_T48_50292518.dita#Section_801_602_73_T48_50292518"/>
+                              href="Section_801_602_73_T48_50292518.dita#Section_801_602_73_T48_50292518">801.602-73 Review requirements for scarce medical specialist contracts and contracts for health-care resources.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_74_T48_50292519.dita#Section_801_602_74_T48_50292519"/>
+                              href="Section_801_602_74_T48_50292519.dita#Section_801_602_74_T48_50292519">801.602-74 Review requirements for an interagency agreement.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_75_T48_502925110.dita#Section_801_602_75_T48_502925110"/>
+                              href="Section_801_602_75_T48_502925110.dita#Section_801_602_75_T48_502925110">801.602-75 Review requirements - OGC.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_76_T48_502925111.dita#Section_801_602_76_T48_502925111"/>
+                              href="Section_801_602_76_T48_502925111.dita#Section_801_602_76_T48_502925111">801.602-76 Business clearance review.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_77_T48_502925112.dita#Section_801_602_77_T48_502925112"/>
+                              href="Section_801_602_77_T48_502925112.dita#Section_801_602_77_T48_502925112">801.602-77 Processing solicitations and contract documents for legal or technical review - general.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_78_T48_502925113.dita#Section_801_602_78_T48_502925113"/>
+                              href="Section_801_602_78_T48_502925113.dita#Section_801_602_78_T48_502925113">801.602-78 Processing solicitations and contract documents for legal or technical review - Veterans Health Administration field facilities, Central Office (except Office of Construction and Facilities Management), the National Acquisition Center, and the Denver Acquisition and Logistics Center.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_79_T48_502925114.dita#Section_801_602_79_T48_502925114"/>
+                              href="Section_801_602_79_T48_502925114.dita#Section_801_602_79_T48_502925114">801.602-79 Processing solicitations and contract documents for legal or technical review - Veterans Benefits Administration.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_80_T48_502925115.dita#Section_801_602_80_T48_502925115"/>
+                              href="Section_801_602_80_T48_502925115.dita#Section_801_602_80_T48_502925115">801.602-80 Legal and technical review-Office of Construction and Facilities Management and National Cemetery Administration.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_81_T48_502925116.dita#Section_801_602_81_T48_502925116"/>
+                              href="Section_801_602_81_T48_502925116.dita#Section_801_602_81_T48_502925116">801.602-81 Documents required for business clearance reviews.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_82_T48_502925117.dita#Section_801_602_82_T48_502925117"/>
+                              href="Section_801_602_82_T48_502925117.dita#Section_801_602_82_T48_502925117">801.602-82 Documents to submit for legal or technical review - general.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_83_T48_502925118.dita#Section_801_602_83_T48_502925118"/>
+                              href="Section_801_602_83_T48_502925118.dita#Section_801_602_83_T48_502925118">801.602-83 Documents to submit for legal or technical review - contract modifications.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_84_T48_502925119.dita#Section_801_602_84_T48_502925119"/>
+                              href="Section_801_602_84_T48_502925119.dita#Section_801_602_84_T48_502925119">801.602-84 Documents to submit for business clearance reviews.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_602_85_T48_502925120.dita#Section_801_602_85_T48_502925120"/>
+                              href="Section_801_602_85_T48_502925120.dita#Section_801_602_85_T48_502925120">801.602-85 Results of review.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_603_T48_502925121.dita#Section_801_603_T48_502925121"/>
+                              href="Section_801_603_T48_502925121.dita#Section_801_603_T48_502925121">801.603 Selection, appointment, and termination of appointment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_603_1_T48_502925122.dita#Section_801_603_1_T48_502925122"/>
+                              href="Section_801_603_1_T48_502925122.dita#Section_801_603_1_T48_502925122">801.603-1 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_603_70_T48_502925123.dita#Section_801_603_70_T48_502925123"/>
+                              href="Section_801_603_70_T48_502925123.dita#Section_801_603_70_T48_502925123">801.603-70 Representatives of contracting officers.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_603_71_T48_502925124.dita#Section_801_603_71_T48_502925124"/>
+                              href="Section_801_603_71_T48_502925124.dita#Section_801_603_71_T48_502925124">801.603-71 Representatives of contracting officers; receipt of equipment, supplies, and nonpersonal services.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_670_T48_502925125.dita#Section_801_670_T48_502925125"/>
+                              href="Section_801_670_T48_502925125.dita#Section_801_670_T48_502925125">801.670 Special and limited delegation.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_670_1_T48_502925126.dita#Section_801_670_1_T48_502925126"/>
+                              href="Section_801_670_1_T48_502925126.dita#Section_801_670_1_T48_502925126">801.670-1 Issuing bills of lading.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_670_3_T48_502925127.dita#Section_801_670_3_T48_502925127"/>
+                              href="Section_801_670_3_T48_502925127.dita#Section_801_670_3_T48_502925127">801.670-3 Medical, dental, and ancillary service.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_670_4_T48_502925128.dita#Section_801_670_4_T48_502925128"/>
+                              href="Section_801_670_4_T48_502925128.dita#Section_801_670_4_T48_502925128">801.670-4 National Cemetery Administration.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_670_5_T48_502925129.dita#Section_801_670_5_T48_502925129"/>
+                              href="Section_801_670_5_T48_502925129.dita#Section_801_670_5_T48_502925129">801.670-5 Letters of agreement.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_680_T48_502925130.dita#Section_801_680_T48_502925130"/>
+                              href="Section_801_680_T48_502925130.dita#Section_801_680_T48_502925130">801.680 Contracting authority of the Inspector General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_T48_502925131.dita#Section_801_690_T48_502925131"/>
+                              href="Section_801_690_T48_502925131.dita#Section_801_690_T48_502925131">801.690 VA's COCP.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_1_T48_502925132.dita#Section_801_690_1_T48_502925132"/>
+                              href="Section_801_690_1_T48_502925132.dita#Section_801_690_1_T48_502925132">801.690-1 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_2_T48_502925133.dita#Section_801_690_2_T48_502925133"/>
+                              href="Section_801_690_2_T48_502925133.dita#Section_801_690_2_T48_502925133">801.690-2 General.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_3_T48_502925134.dita#Section_801_690_3_T48_502925134"/>
+                              href="Section_801_690_3_T48_502925134.dita#Section_801_690_3_T48_502925134">801.690-3 Responsibilities under the COCP.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_4_T48_502925135.dita#Section_801_690_4_T48_502925135"/>
+                              href="Section_801_690_4_T48_502925135.dita#Section_801_690_4_T48_502925135">801.690-4 Selection.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_5_T48_502925136.dita#Section_801_690_5_T48_502925136"/>
+                              href="Section_801_690_5_T48_502925136.dita#Section_801_690_5_T48_502925136">801.690-5 Requirements for contracting authority.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_6_T48_502925137.dita#Section_801_690_6_T48_502925137"/>
+                              href="Section_801_690_6_T48_502925137.dita#Section_801_690_6_T48_502925137">801.690-6 Appointment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_7_T48_502925138.dita#Section_801_690_7_T48_502925138"/>
+                              href="Section_801_690_7_T48_502925138.dita#Section_801_690_7_T48_502925138">801.690-7 Termination.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_8_T48_502925139.dita#Section_801_690_8_T48_502925139"/>
+                              href="Section_801_690_8_T48_502925139.dita#Section_801_690_8_T48_502925139">801.690-8 Interim appointment provisions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_690_9_T48_502925140.dita#Section_801_690_9_T48_502925140"/>
+                              href="Section_801_690_9_T48_502925140.dita#Section_801_690_9_T48_502925140">801.690-9 Distribution of Certificates of Appointment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_695_T48_502925141.dita#Section_801_695_T48_502925141"/>
+                              href="Section_801_695_T48_502925141.dita#Section_801_695_T48_502925141">801.695 VA's Appointment of HCAs Program.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_695_1_T48_502925142.dita#Section_801_695_1_T48_502925142"/>
+                              href="Section_801_695_1_T48_502925142.dita#Section_801_695_1_T48_502925142">801.695-1 Policy.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_695_2_T48_502925143.dita#Section_801_695_2_T48_502925143"/>
+                              href="Section_801_695_2_T48_502925143.dita#Section_801_695_2_T48_502925143">801.695-2 Procedures for appointment of HCAs.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_801_695_3_T48_502925144.dita#Section_801_695_3_T48_502925144"/>
+                              href="Section_801_695_3_T48_502925144.dita#Section_801_695_3_T48_502925144">801.695-3 Authority of the HCA.</xref>
                      </p>
                   </li>
                </ul>

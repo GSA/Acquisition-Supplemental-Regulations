@@ -6,50 +6,47 @@
       <title class="- topic/title ">
          <ph props="autonumber">801.602-82</ph> Documents to submit for legal or technical review - general.</title>
       <conbody>
-         <p xtrc="P">Table <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="Section_801_602_82_T48_502925117"
-                  href="Section_801_602_82_T48_502925117.dita#Section_801_602_82_T48_502925117">801.602-82</xref> specifies the documents that must be submitted when a legal or technical review is required.
+         <p xtrc="P">Table 801.602-82 specifies the documents that must be submitted when a legal or technical review is required.
 </p>
          <p xtrc="DIV">
-                                    
-                                    
-                                       <table frame="all" colsep="1" rowsep="1">
+                                 
+                                 
+                                    <table frame="all" colsep="1" rowsep="1">
                <title>
-                                       Table 801.602-82 
+                                    Table 801.602-82 
 
-                                    </title>
+                                 </title>
                <tgroup cols="2" outputclass="FormatA">
                   <colspec colnum="1" colname="1" colsep="0"/>
                   <colspec colnum="2" colname="2" colsep="0"/>
                   <thead>
                      <row rowsep="1">
-                                             <entry colname="1">Action or document subject to review 
+                                          <entry colname="1">Action or document subject to review 
 </entry>
-                                             <entry colname="2">Documents to submit 
+                                          <entry colname="2">Documents to submit 
 </entry>
-                                          </row>
+                                       </row>
                   </thead>
                   <tbody>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">(a) Proposed construction contract</entry>
-                                             <entry colname="2" align="left">One copy of each solicitation document, excluding drawings. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.
+                                          <entry colname="1" align="left">(a) Proposed construction contract</entry>
+                                          <entry colname="2" align="left">One copy of each solicitation document, excluding drawings. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">(b) Proposed solicitation or contract for scarce medical specialist services or health-care resources</entry>
-                                             <entry colname="2" align="left">One copy of the solicitation or proposed contract and documents required under VA Manual M-1, Part 1, Chapter 34.
+                                          <entry colname="1" align="left">(b) Proposed solicitation or contract for scarce medical specialist services or health-care resources</entry>
+                                          <entry colname="2" align="left">One copy of the solicitation or proposed contract and documents required under VA Manual M-1, Part 1, Chapter 34.
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">(c) All other proposed solicitations, contracts, and agreements</entry>
-                                             <entry colname="2" align="left">One copy of each document to be used in the contract solicitation or award, and any other document that supports the proposed procurement action. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.</entry>
-                                          </row>
+                                          <entry colname="1" align="left">(c) All other proposed solicitations, contracts, and agreements</entry>
+                                          <entry colname="2" align="left">One copy of each document to be used in the contract solicitation or award, and any other document that supports the proposed procurement action. Submit not later than the date on which the contracting officer furnishes the documents to prospective bidders.</entry>
+                                       </row>
                   </tbody>
                </tgroup>
             </table>
-                                    
-                                 </p>
+                                 
+                              </p>
       </conbody>
    </concept>
 </dita>

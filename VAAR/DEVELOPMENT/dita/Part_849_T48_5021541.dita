@@ -6,31 +6,61 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 849</ph> - TERMINATION OF CONTRACTS</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                     href="Subpart_849_1_T48_50215411.dita#Subpart_849_1_T48_50215411"/>
+                        href="Subpart_849_1_T48_50215411.dita#Subpart_849_1_T48_50215411">Subpart 849.1 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                     href="Subpart_849_5_T48_50215412.dita#Subpart_849_5_T48_50215412"/>
+                        href="Subpart_849_5_T48_50215412.dita#Subpart_849_5_T48_50215412">Subpart 849.5 - Contract Termination Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                           href="Section_849_504_T48_5021541211.dita#Section_849_504_T48_5021541211"
-                        />
+                              href="Section_849_504_T48_5021541211.dita#Section_849_504_T48_5021541211">849.504 Termination of fixed-price contracts for default.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                           href="Section_849_504_70_T48_5021541212.dita#Section_849_504_70_T48_5021541212"
-                        />
+                              href="Section_849_504_70_T48_5021541212.dita#Section_849_504_70_T48_5021541212">849.504-70 Termination of mortuary services.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_849_5_T48_50215413.dita#Subpart_849_5_T48_50215413">Subpart 849.5 - Contract Termination Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_849_504_T48_5021541311.dita#Section_849_504_T48_5021541311">849.504 Termination of fixed-price contracts for default.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_849_504_70_T48_5021541312.dita#Section_849_504_70_T48_5021541312">849.504-70 Termination of mortuary services.</xref>
                      </p>
                   </li>
                </ul>

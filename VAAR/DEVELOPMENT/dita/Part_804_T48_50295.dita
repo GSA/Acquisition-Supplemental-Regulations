@@ -6,23 +6,37 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 804</ph> - ADMINISTRATIVE AND INFORMATION MATTERS</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_804_1_T48_502951.dita#Subpart_804_1_T48_502951"/>
+                        href="Subpart_804_1_T48_502951.dita#Subpart_804_1_T48_502951">Subpart 804.1 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_804_13_T48_502952.dita#Subpart_804_13_T48_502952"/>
+                        href="Subpart_804_13_T48_502952.dita#Subpart_804_13_T48_502952">Subpart 804.13 - Personal Identity Verification</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_804_1303_T48_50295211.dita#Section_804_1303_T48_50295211"/>
+                              href="Section_804_1303_T48_50295211.dita#Section_804_1303_T48_50295211">804.1303 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

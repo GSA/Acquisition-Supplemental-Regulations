@@ -6,7 +6,10 @@
       <title class="- topic/title ">
          <ph props="autonumber">844.303</ph> Extent of review.</title>
       <conbody>
-         <p outputclass="List1">(f) Policies and procedures pertaining to the use of VA-verified Service-Disabled Veteran-Owned Small Businesses (SDVOSBs) and Veteran-Owned Small Businesses (VOSBs) and utilization in accordance with subpart 819.70 and the Veterans First Contracting Program;
+         <p outputclass="List1">(f) Policies and procedures pertaining to the use of VA-verified Service-Disabled Veteran-Owned Small Businesses (SDVOSBs) and Veteran-Owned Small Businesses (VOSBs) and utilization in accordance with subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_819_70_T48_50212197"
+                  href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref> and the Veterans First Contracting Program;
 </p>
          <p outputclass="List1">(l) Documentation of commercial item determinations to ensure compliance with the definition of “commercial item” in FAR 2.101; and
 </p>

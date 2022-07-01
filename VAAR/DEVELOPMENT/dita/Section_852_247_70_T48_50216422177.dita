@@ -8,68 +8,68 @@
       <conbody>
          <p xtrc="P">As prescribed in 847.305-70, insert the following provision:
 </p>
-                                    <p xtrc="HD1">Determining Transportation Costs for Evaluation of Offers (OCT 2018)
+                                 <p xtrc="HD1">Determining Transportation Costs for Evaluation of Offers (OCT 2018)
 </p>
-                                    <p xtrc="P">For the purpose of evaluating bids and for no other purpose, the delivered price per unit will be determined by adding the nationwide average transportation charge to the f.o.b. origin bid prices. The nationwide average transportation charge will be determined by applying the following formula: Multiply the guaranteed shipping weight by the freight, parcel post, or express rate, whichever is proper, to each destination shown below and then multiply the resulting transportation charges by the anticipated demand factor shown for each destination. Total the resulting weighted transportation charges for all destinations and divide the total by 20 to give the nationwide average transportation charge.</p>
-                                 <p xtrc="DIV">
-                                    
-                                    
-                                       <table frame="all" colsep="1" rowsep="1">
+                                 <p xtrc="P">For the purpose of evaluating bids and for no other purpose, the delivered price per unit will be determined by adding the nationwide average transportation charge to the f.o.b. origin bid prices. The nationwide average transportation charge will be determined by applying the following formula: Multiply the guaranteed shipping weight by the freight, parcel post, or express rate, whichever is proper, to each destination shown below and then multiply the resulting transportation charges by the anticipated demand factor shown for each destination. Total the resulting weighted transportation charges for all destinations and divide the total by 20 to give the nationwide average transportation charge.</p>
+                              <p xtrc="DIV">
+                                 
+                                 
+                                    <table frame="all" colsep="1" rowsep="1">
                <title>
-                                       Anticipated Demand
+                                    Anticipated Demand
 
-                                    </title>
+                                 </title>
                <tgroup cols="2" outputclass="FormatA">
                   <colspec colnum="1" colname="1" colsep="0"/>
                   <colspec colnum="2" colname="2" colsep="0"/>
                   <thead>
                      <row rowsep="1">
-                                             <entry colname="1">Area destination
+                                          <entry colname="1">Area destination
 </entry>
-                                             <entry colname="2">Factor
+                                          <entry colname="2">Factor
 </entry>
-                                          </row>
+                                       </row>
                   </thead>
                   <tbody>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Oakland, California</entry>
-                                             <entry colname="2" align="right">3
+                                          <entry colname="1" align="left">Oakland, California</entry>
+                                          <entry colname="2" align="right">3
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Dallas, Texas</entry>
-                                             <entry colname="2" align="right">2
+                                          <entry colname="1" align="left">Dallas, Texas</entry>
+                                          <entry colname="2" align="right">2
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Omaha, Nebraska</entry>
-                                             <entry colname="2" align="right">3
+                                          <entry colname="1" align="left">Omaha, Nebraska</entry>
+                                          <entry colname="2" align="right">3
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Fort Wayne, Indiana</entry>
-                                             <entry colname="2" align="right">4
+                                          <entry colname="1" align="left">Fort Wayne, Indiana</entry>
+                                          <entry colname="2" align="right">4
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Atlanta, Georgia</entry>
-                                             <entry colname="2" align="right">3
+                                          <entry colname="1" align="left">Atlanta, Georgia</entry>
+                                          <entry colname="2" align="right">3
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">New York, New York</entry>
-                                             <entry colname="2" align="right">5
+                                          <entry colname="1" align="left">New York, New York</entry>
+                                          <entry colname="2" align="right">5
 </entry>
-                                          </row>
+                                       </row>
                      <row rowsep="1">
-                                             <entry colname="1" align="left">Total of factors</entry>
-                                             <entry colname="2" align="right">20</entry>
-                                          </row>
+                                          <entry colname="1" align="left">Total of factors</entry>
+                                          <entry colname="2" align="right">20</entry>
+                                       </row>
                   </tbody>
                </tgroup>
             </table>
-                                    
-                                 </p>
+                                 
+                              </p>
          <p xtrc="HD3">(End of Provision) 
 </p>
       </conbody>

@@ -6,87 +6,99 @@
       <title class="- topic/title ">
          <ph props="autonumber">PART 828</ph> - BONDS AND INSURANCE</title>
       <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           38 8127-8128 and 8151-8153; 40 U.S.C. 121(c); 41 U.S.C 1121; 41 U.S.C. 1702; and 48 CFR 1.301-1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_828_1_T48_50213251.dita#Subpart_828_1_T48_50213251"/>
+                        href="Subpart_828_1_T48_50213251.dita#Subpart_828_1_T48_50213251">Subpart 828.1 - Bonds and Other Financial Protections</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_106_T48_5021325111.dita#Section_828_106_T48_5021325111"/>
+                              href="Section_828_106_T48_5021325111.dita#Section_828_106_T48_5021325111">828.106 Administration.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_106_70_T48_5021325112.dita#Section_828_106_70_T48_5021325112"/>
+                              href="Section_828_106_70_T48_5021325112.dita#Section_828_106_70_T48_5021325112">828.106-70 Bond premium adjustment.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_106_71_T48_5021325113.dita#Section_828_106_71_T48_5021325113"/>
+                              href="Section_828_106_71_T48_5021325113.dita#Section_828_106_71_T48_5021325113">828.106-71 Assisting service-disabled veteran-owned and veteran-owned small businesses in obtaining bonding.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_106_72_T48_5021325114.dita#Section_828_106_72_T48_5021325114"/>
+                              href="Section_828_106_72_T48_5021325114.dita#Section_828_106_72_T48_5021325114">828.106-72 Contract provision.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_828_2_T48_50213252.dita#Subpart_828_2_T48_50213252"/>
+                        href="Subpart_828_2_T48_50213252.dita#Subpart_828_2_T48_50213252">Subpart 828.2 [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_828_3_T48_50213253.dita#Subpart_828_3_T48_50213253"/>
+                        href="Subpart_828_3_T48_50213253.dita#Subpart_828_3_T48_50213253">Subpart 828.3 - Insurance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_306_T48_5021325311.dita#Section_828_306_T48_5021325311"/>
+                              href="Section_828_306_T48_5021325311.dita#Section_828_306_T48_5021325311">828.306 Insurance under fixed-price contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_828_70_T48_50213254.dita#Subpart_828_70_T48_50213254"/>
+                        href="Subpart_828_70_T48_50213254.dita#Subpart_828_70_T48_50213254">Subpart 828.70 - Indemnification of Contractors for Medical Research or Development Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_7000_T48_5021325411.dita#Section_828_7000_T48_5021325411"/>
+                              href="Section_828_7000_T48_5021325411.dita#Section_828_7000_T48_5021325411">828.7000 Scope of subpart.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_7001_T48_5021325412.dita#Section_828_7001_T48_5021325412"/>
+                              href="Section_828_7001_T48_5021325412.dita#Section_828_7001_T48_5021325412">828.7001 Extent of indemnification.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_7002_T48_5021325413.dita#Section_828_7002_T48_5021325413"/>
+                              href="Section_828_7002_T48_5021325413.dita#Section_828_7002_T48_5021325413">828.7002 Financial protection.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_828_7003_T48_5021325414.dita#Section_828_7003_T48_5021325414"/>
+                              href="Section_828_7003_T48_5021325414.dita#Section_828_7003_T48_5021325414">828.7003 Indemnification clause.</xref>
                      </p>
                   </li>
                </ul>
