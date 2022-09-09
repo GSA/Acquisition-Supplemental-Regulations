@@ -8589,16 +8589,6 @@
         "uuid": "bdf80302-8de1-41a9-90bf-fc1c74c3d2ef",
         "html": "IAAR-PART-1954.html"
     },
-    "JAR-PART-2800": {
-        "title": "Part 2800 - Reserved",
-        "toctitle": "Reserved",
-        "reg": "jar",
-        "type": "Part",
-        "number": "2800",
-        "index": "No",
-        "uuid": "92620fac-7cb1-4bb8-98ba-aad99f042b42",
-        "html": "JAR-PART-2800.html"
-    },
     "JAR-PART-2801": {
         "title": "Part 2801 - Department of Justice Acquisition Regulations System",
         "toctitle": "Department of Justice Acquisition Regulations System",
@@ -8688,6 +8678,16 @@
         "index": "No",
         "uuid": "b57efa8b-9f56-4865-8317-6fda2e46c9c2",
         "html": "JAR-PART-2809.html"
+    },
+    "JAR-PART-2810": {
+        "title": "Part 2810 - Market Research",
+        "toctitle": "Market Research",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2810",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2810.html"
     },
     "JAR-PART-2811": {
         "title": "Part 2811 - Describing Agency Needs",
@@ -8789,16 +8789,6 @@
         "uuid": "7f8eab8f-c550-4ea3-83eb-b56e9216a43b",
         "html": "JAR-PART-2823.html"
     },
-    "JAR-PART-2824": {
-        "title": "Part 2824 - Protection of Privacy and Freedom of Information",
-        "toctitle": "Protection of Privacy and Freedom of Information",
-        "reg": "jar",
-        "type": "Part",
-        "number": "2824",
-        "index": "No",
-        "uuid": "9a51fba2-239d-4ce8-bcb7-ef62ebe7ab6b",
-        "html": "JAR-PART-2824.html"
-    },
     "JAR-PART-2825": {
         "title": "Part 2825 - Foreign Acquisition",
         "toctitle": "Foreign Acquisition",
@@ -8808,6 +8798,16 @@
         "index": "No",
         "uuid": "f4f242d4-1609-45ee-8d4f-af90b29d4c60",
         "html": "JAR-PART-2825.html"
+    },
+    "JAR-PART-2827": {
+        "title": "Part 2827 - Patents, Data, and Copyrights",
+        "toctitle": "Patents, Data, and Copyrights",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2827",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2827.html"
     },
     "JAR-PART-2828": {
         "title": "Part 2828 - Bonds and Insurance",
@@ -8879,6 +8879,46 @@
         "uuid": "f0b45936-8225-4119-9e23-ec2a3302f248",
         "html": "JAR-PART-2834.html"
     },
+    "JAR-PART-2836": {
+        "title": "Part 2836 - Construction and Architect-engineer Contracts",
+        "toctitle": "Construction and Architect-engineer Contracts",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2836",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2836.html"
+    },
+    "JAR-PART-2837": {
+        "title": "Part 2837 - Service Contracting",
+        "toctitle": "Service Contracting",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2837",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2837.html"
+    },
+    "JAR-PART-2839": {
+        "title": "Part 2839 - Acquisition of Information Technology",
+        "toctitle": "Acquisition of Information Technology",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2839",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2839.html"
+    },
+    "JAR-PART-2841": {
+        "title": "Part 2841 - Acquisition of Utility Services",
+        "toctitle": "Acquisition of Utility Services",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2841",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2841.html"
+    },
     "JAR-PART-2842": {
         "title": "Part 2842 - Contract Administration",
         "toctitle": "Contract Administration",
@@ -8908,6 +8948,36 @@
         "index": "No",
         "uuid": "5eda1d5a-bf06-4b6e-affa-4f960d6faf0e",
         "html": "JAR-PART-2846.html"
+    },
+    "JAR-PART-2848": {
+        "title": "Part 2848 - Value Engineering",
+        "toctitle": "Value Engineering",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2848",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2848.html"
+    },
+    "JAR-PART-2849": {
+        "title": "Part 2849 - Termination of Contracts",
+        "toctitle": "Termination of Contracts",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2849",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2849.html"
+    },
+    "JAR-PART-2850": {
+        "title": "Part 2850 - Extraordinary Contractual Actions and the Safety Act",
+        "toctitle": "Extraordinary Contractual Actions and the Safety Act",
+        "reg": "jar",
+        "type": "Part",
+        "number": "2850",
+        "index": "No",
+        "uuid": "",
+        "html": "JAR-PART-2850.html"
     },
     "JAR-PART-2852": {
         "title": "Part 2852 - Solicitation Provisions and Contract Clauses",
